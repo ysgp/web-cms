@@ -2,6 +2,8 @@ module Nesta
   class App
     set :slim, { :format => :html5 }
 
+    Encoding.default_external = 'utf-8'
+
     get '*' do
       set_common_variables
       parts = params[:splat].map { |p| p.sub(/\/$/, '') }
