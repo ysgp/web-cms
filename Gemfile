@@ -5,6 +5,6 @@ gem "nesta-plugin-foldable"
 gem "nesta-plugin-yaml-metadata"
 
 gem 'slim'
-
+gem 'puma'
 
 # gem (RUBY_VERSION =~ /^1.9/) ? 'ruby-debug19': 'ruby-debug'
