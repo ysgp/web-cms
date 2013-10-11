@@ -1,3 +1,5 @@
+require "nesta/app"
+
 module Nesta
   class App
     set :slim, { :format => :html5 }
