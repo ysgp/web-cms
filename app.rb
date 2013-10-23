@@ -6,6 +6,15 @@ module Nesta
 
     Encoding.default_external = 'utf-8'
 
+    set :protection, :except => [:json_csrf]
+    Pony.options = { from: 'takip@test.com', to: 'ysgp@test.com', via: :smtp, via_options: { host: 'localhost', port:1025 } }
+    post '/iletisim/:subject' do |subject|
+      Pony.mail(
+        subject: "#{subject}, #{params[:name]} #{params[:lastname]}",
+        html_body: slim(:"forms/email", layout: false, locals: { params: params })
+      )
+    end
+
     get '*' do
       set_common_variables
       parts = params[:splat].map { |p| p.sub(/\/$/, '') }
