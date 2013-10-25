@@ -4,6 +4,7 @@ gem 'nesta', '0.9.13'
 gem "nesta-plugin-foldable"
 gem "nesta-plugin-yaml-metadata"
 
+gem 'rake'
 gem 'slim'
 gem 'puma'
 gem 'pony'
