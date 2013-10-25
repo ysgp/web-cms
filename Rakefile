@@ -8,12 +8,7 @@ namespace :test do
     t.libs << "spec"
     t.pattern = 'spec/**/*_spec.rb'
     t.verbose = true
-  end
-
-  Rake::TestTask.new(:controllers) do |t|
-    t.libs << "spec"
-    t.pattern = 'spec/controllers/**/*_spec.rb'
-    t.verbose = true
+    t.options = "-v"
   end
 end
 
