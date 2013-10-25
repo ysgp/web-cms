@@ -1,4 +1,5 @@
 require "nesta/app"
+require "pony"
 
 module Nesta
   class App
