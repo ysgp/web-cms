@@ -2,6 +2,12 @@ require "acceptance_helper"
 
 describe "iletişim" do
 
+  it "index" do
+    visit "/iletisim/"
+    current_path.must_equal "/iletisim"
+    page.must_have_content('İletişim')
+  end
+
   it "bize ulaşın" do
     visit "/iletisim/bize-ulasin"
     current_path.must_equal "/iletisim/bize-ulasin"
