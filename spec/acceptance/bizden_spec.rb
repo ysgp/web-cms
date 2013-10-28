@@ -5,7 +5,7 @@ describe "bizden" do
   it "index" do
     visit "/bizden"
     current_path.must_equal "/bizden"
-    page.must_have_content('Bizden')
+    page.must_have_content( :h1, 'Bizden')
   end
 
   it "eş sözcüler" do
