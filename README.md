@@ -3,10 +3,11 @@ YSGP için özelleştirilmiş Nesta CMS
 
 ## Gereksinimler
 
-* rbenv
 * ruby 2.0
 * rubygems
 * bundler
+
+rbenv / rvm kullanılması önerilir
 
 ## Kurulum
 
@@ -20,4 +21,9 @@ YSGP için özelleştirilmiş Nesta CMS
 
     $ rackup -p 4567
 
-[http://localhost:4567](http://localhost:4567)
+[http://localhost:4567](http://localhost:4567) adresinden yerel sunucuya
+ulaşabilirsiniz.
+
+## Teslerin çalıştırılması
+
+    $ rake test
