@@ -1,0 +1,72 @@
+body {
+  position: relative; /* For scrollyspy */
+  padding-top: 55px; /* Account for fixed navbar */
+}
+
+body > .navbar,
+body > header .navbar {
+border-bottom: 5px solid #FFC82F;
+}
+
+.navbar .dropdown-menu {
+  opacity: 0.8;
+  border-top: 5px solid #ffc82e;
+}
+
+#sidebar {
+  background-color: #66327A;
+}
+
+#sidebar a.logo img {
+  width:100%;
+  margin-bottom:20px;
+}
+
+#sidebar .btn-group{
+  margin-bottom: 20px;
+}
+
+section#content {
+  padding-top:15px;
+}
+
+#subnav{
+  padding-top: 10px;
+  position: fixed;
+  right: 0px;
+  z-index:1031;
+}
+
+#content p {
+  text-align: justify;
+}
+
+.ratio{
+  position:relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 50% ; /* % of width, defines aspect ratio*/
+
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+footer {
+  background-color: #01AE42;
+  border-top: 5px solid #FFC82F;
+  color: #fff;
+}
+
+#social-media a {
+  color: #fff;
+}
+
+.carousel .item img {
+  width: 100%
+}
+
+input[type="radio"], input[type="checkbox"] {
+  margin: 0px 0px 0px;
+  line-height: normal;
+}

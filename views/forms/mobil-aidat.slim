@@ -1,0 +1,15 @@
+== slim :'forms/field', locals: { id: "Isim",         label: "İsim",            type: :text }
+== slim :'forms/field', locals: { id: "Soyisim",      label: "Soyisim",         type: :text }
+== slim :'forms/field', locals: { id: "KimlikNo",     label: "T.C. Kimlik No",  type: :text }
+== slim :'forms/field', locals: { id: "e-posta",      label: "e-posta",         type: :email }
+== slim :'forms/field', locals: { id: "telefon",      label: "Telefon No ",     type: :tel }
+== slim :'forms/field', locals: { id: "Sehir",        label: "İl ",             type: :text }
+== slim :'forms/field', locals: { id: "Ilce",         label: "İlçe ",           type: :text }
+
+.form-group
+  .col-lg-3.col-md-3
+  .col-lg-9.col-md-9
+    - [5,10,20,30].each do |amount|
+      .radio-inline
+        input type="radio" name="TL#{amount}" id="TL#{amount}" value="#{amount}"
+        label.control-label  for="amount" = "#{amount} TL"

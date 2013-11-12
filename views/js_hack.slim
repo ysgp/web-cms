@@ -1,0 +1,47 @@
+javascript:
+  $('table').addClass("table table-bordered table-striped");
+
+  $('#content > h1').addClass("page-header");
+  $('#content > h2').addClass("page-header");
+
+  $('a[title="İndir"]').addClass("download");
+  $('a.download').addClass("btn btn-lg btn-success icon-download-alt");
+
+  $('header .navbar').addClass("container");
+  $('#wrap').addClass('clearfix container');
+  $('footer').addClass('container');
+
+  $('#sidebar').addClass("col-lg-3 col-md-3 clearfix");
+  $('section#content').addClass('col-lg-9 col-md-9 clearfix');
+
+  $('#subnav' ).addClass("hidden-xs hidden-sm sidebar-offcanvas hidden-print");
+  $('#sidebar').addClass("hidden-xs hidden-sm sidebar-offcanvas hidden-print");
+
+
+  $('.list').addClass("clearfix");
+  $('.box-4 article').addClass("col-lg-3");
+  $('.box-3 article').addClass("col-lg-4");
+  $('.box-2 article').addClass("col-lg-6");
+  $('.wide article').addClass("clearfix");
+  $('.wide article header img').addClass("col-lg-3");
+
+  $('.box-4').each(function(){
+      var divs = $('article', this);
+      for(var i = 0; i < divs.length; i+=4) {
+          divs.slice(i, i+4).wrapAll('<div class="row"></div>');
+      }
+  });
+
+  $('.box-3').each(function(){
+      var divs = $('article', this);
+      for(var i = 0; i < divs.length; i+=3) {
+          divs.slice(i, i+3).wrapAll('<div class="row"></div>');
+      }
+  });
+
+  $('.box-2').each(function(){
+      var divs = $('article', this);
+      for(var i = 0; i < divs.length; i+=2) {
+          divs.slice(i, i+2).wrapAll('<div class="row"></div>');
+      }
+  });

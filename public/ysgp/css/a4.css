@@ -1,0 +1,75 @@
+/* 4a kapmanyası*/
+.a4 a .panel-title {
+  color: #FFF;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top:25px;
+}
+
+.a4 a{
+	color: #6d6d6d;
+  font-weight:bold;
+}
+
+.panel-ekmek {
+  border-color: #F57722;
+}
+.panel-ekmek  .panel-heading {
+  background-color: #F57722;
+	
+}
+.panel-ekmek a:focus{
+	color: #F57722;
+  text-decoration:underline;
+}
+.panel-ekmek a:hover {
+	color: #F57722;
+  text-decoration:underline;
+}
+
+.panel-kimlik {
+  border-color: #ED1846;
+}
+.panel-kimlik  .panel-heading {
+  background-color: #ED1846;
+}
+.panel-kimlik a:focus{
+	color: #ED1846;
+  text-decoration:underline;
+}
+.panel-kimlik a:hover {
+	color: #ED1846;
+  text-decoration:underline;
+}
+
+.panel-soz {
+  border-color: #40AF49;
+}
+.panel-soz .panel-heading {
+  background-color: #40AF49;
+}
+.panel-soz a:focus{
+	color: #40AF49;
+  text-decoration:underline;
+}
+.panel-soz a:hover {
+	color: #40AF49;
+  text-decoration:underline;
+}
+
+
+.panel-su {
+  border-color: #00ADEF;
+}
+.panel-su .panel-heading {
+  background-color: #00ADEF;
+}
+.panel-su a:focus{
+	color: #00ADEF;
+	text-decoration:underline;
+}
+.panel-su a:hover {
+	color: #00ADEF;
+  text-decoration:underline;
+}

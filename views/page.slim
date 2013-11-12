@@ -1,0 +1,46 @@
+header
+  ol.breadcrumb
+
+    - if @page.parent
+      - if @page.parent.parent
+
+        - if @page.parent.parent.parent
+          li: a href=@page.parent.parent.parent.abspath =@page.parent.parent.parent.heading
+
+        li: a href=@page.parent.parent.abspath =@page.parent.parent.heading
+      li: a href=@page.parent.abspath =@page.parent.heading
+    li = @page.heading
+
+- if @page.pages.empty? && @page.articles.empty?
+  .addthis_toolbox.addthis_default_style.addthis_32x32_style
+    a.addthis_button_facebook
+    a.addthis_button_twitter
+    a.addthis_button_google_plusone_share
+    a.addthis_button_email
+    a.addthis_button_print
+    a.addthis_button_compact
+    a.addthis_counter.addthis_bubble_style
+  <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52572c9268b59981"></script>
+
+- if @page.metadata("Carousel")
+  == slim :'partials/carousel', layout: false,
+    locals: { slides: @page.metadata("Carousel") }
+
+== @page.to_html(self)
+
+- unless @page.pages.empty?
+  #pages.box-3
+    == slim :'partials/list', :locals => { collection: @page.pages }
+
+- unless @page.articles.empty?
+  #articles.box-4
+    == slim :'partials/list', :locals => { collection: @page.articles }
+
+- if @page.metadata("Sections")
+  #subnav.affix-top data-spy="affix" data-offset-top="200"
+    ul#sections.nav.nav-stacked
+      li
+        a href="#wrap" = @page.heading
+      - @page.metadata("Sections").each do |link|
+        li: a href="##{link.split("-").first.gsub(/ /,'')}" = link
