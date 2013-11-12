@@ -23,6 +23,6 @@ rbenv / rvm kullanılması önerilir
 [http://localhost:4567](http://localhost:4567) adresinden yerel sunucuya
 ulaşabilirsiniz.
 
-## Teslerin çalıştırılması
+## Testlerin çalıştırılması
 
     $ rake test
