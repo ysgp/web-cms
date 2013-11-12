@@ -1,0 +1,10 @@
+- collection.each.with_index do |article, i|
+  article
+    h5
+      a href=article.abspath
+        - if article.metadata("Thumbnail")
+          img.thumbnail.ratio style="background-image:url('#{article.metadata('Thumbnail')}')"
+        - else
+          img.thumbnail data-src="holder.js/180x142/social"
+
+        = article.heading.to_s
