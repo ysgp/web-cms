@@ -11,7 +11,7 @@ describe "bizden" do
   it "eş sözcüler" do
     visit "/bizden/es-sozculer"
     current_path.must_equal "/bizden/es-sozculer"
-    page.must_have_content('Genel Eşsözcülerimiz')
+    page.must_have_content('Genel Eş Sözcülerimiz')
   end
 
   it "kuruluş bildirgesi" do
