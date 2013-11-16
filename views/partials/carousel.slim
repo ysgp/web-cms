@@ -2,11 +2,12 @@
   .carousel-inner
     - slides.each.with_index do |slide, i|
       .item class="#{"active" if i == 0 }"
-        img src=slide["img"] alt=slide["title"]
-        .carousel-caption
-          h1: a href=slide["link"] = slide["title"]
-          p  = slide["desc"]
-					
+        img src=slide["img"] alt=slide['title']
+        - if slide["title"]
+          .carousel-caption
+            h1: a href=slide["link"] = slide["title"]
+            p  = slide["desc"]
+
   a.carousel-control.left  data-slide="prev" href="#myCarousel"
     span.glyphicon.glyphicon-chevron-left
   a.carousel-control.right data-slide="next" href="#myCarousel"
