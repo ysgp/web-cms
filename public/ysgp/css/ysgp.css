@@ -63,7 +63,37 @@ footer {
 }
 
 .carousel .item img {
-  width: 100%
+  width: 100%;
+	margin-bottom: 0px;
+}
+
+#content .carousel p{
+	text-align:center;
+	width: 100%;
+	margin:0;
+	padding-bottom:15px;
+}
+
+#content .carousel h1 a{
+	color: #ffffff;
+}
+
+#content .carousel .carousel-caption {
+	margin: 0;
+	width:100%;
+  background: rgba(0, 0, 0, 0.6);
+  difference:(#ff6600, #000000);
+	left:0; !important;
+	right:0; !important;
+	bottom:0; !important;
+	padding:0;
+	
+	
+}
+
+#content .carousel-control {
+	z-index:150;
+	
 }
 
 input[type="radio"], input[type="checkbox"] {

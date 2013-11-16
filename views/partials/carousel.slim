@@ -1,19 +1,12 @@
 #myCarousel.carousel.slide
-  ol.carousel-indicators
-    - slides.count.times.with_index do |count|
-      li data-target="#myCarousel" data-slide-to=count class="#{"active" if count==0 }"
-
   .carousel-inner
     - slides.each.with_index do |slide, i|
       .item class="#{"active" if i == 0 }"
         img src=slide["img"] alt=slide["title"]
-        .container
-          .carousel-caption
-            h1 = slide["title"]
-            p  = slide["desc"]
-            - if slide["link"]
-              p: a.btn.btn-large.btn-primary href=slide["link"] Devamını oku...
-
+        .carousel-caption
+          h1: a href=slide["link"] = slide["title"]
+          p  = slide["desc"]
+					
   a.carousel-control.left  data-slide="prev" href="#myCarousel"
     span.glyphicon.glyphicon-chevron-left
   a.carousel-control.right data-slide="next" href="#myCarousel"
