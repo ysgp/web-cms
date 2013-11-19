@@ -1,0 +1,10 @@
+Title: İletişim
+Link text: İletişim
+
+# İletişim
+
+Yeşiller ve Sol Gelecek partisinin size en yakın temas noktasını
+haritadan bulabilirsiniz.
+
+
+<iframe src="https://mapsengine.google.com/map/embed?mid=z4ji4lIa3BbM.kxACAj7H1ETQ" width="800" height="600"></iframe>

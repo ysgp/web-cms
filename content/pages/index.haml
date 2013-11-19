@@ -1,0 +1,29 @@
+Title: Yeşiller ve Sol Gelecek Partisi
+Link text: Anasayfa
+Template: welcome
+Carousel: [
+  {img: "https://lh3.googleusercontent.com/-P14xqYKCyGc/UooJdhGmF1I/AAAAAAAAA0Q/D37aoJKa3Ok/w584-h369-no/buyuk-konferans.jpg", title: "Yeşiller ve Sol Gelecek Partisi 1 Yaşında!", desc: "Büyük Konferansımız 30 Kasım'da, Saat:10:00'da, Kocatepe Kültür Merkezi'nde!", link: "/diyoruz-ki/duyurular/buyuk-konferans"},
+  {img: "https://lh3.googleusercontent.com/-ZKyOguUxc88/UnwzPAGy5xI/AAAAAAAAArQ/7LNlw_HhojA/w584-h367-no/yuzunu-gunese-don.jpg", title: "Sen de gel, yüzünü güneşe dön!", desc: "Keyifli, özgür ve yaşanılır bir yarın için biz, Yeşiller ve Sol Gelecek Partisi'nde bir araya geldik. Seni de bekleriz.", link: "/diyoruz-ki/kampanyalar/yuzunu-gunese-don"},
+  {img: "https://lh3.googleusercontent.com/-b4SRO5Mhq8o/UmXsVhOxkRI/AAAAAAAAAmQ/ONdjJVuUZeU/w584-h369-no/4athumb.jpg", link: "/diyoruz-ki/kampanyalar/4adalet-kampanyasi", title: "İnsanca ve adil bir yaşam 4 Adalet ile mümkün", desc: "İktisadi adalet, tanınma adaleti, çevre ve iklim adaleti, katılım adaleti sağlanırsa, toplumsal adalet de gerçekleşir,adil bir yaşam da." },
+  {img: "https://lh3.googleusercontent.com/-_M3qPl30rag/Unw2bpwyjhI/AAAAAAAAAsE/Rmb-FwtaaTQ/w584-h369-no/sayg%25C4%25B1yacagri.jpg", link : "/diyoruz-ki/kampanyalar/adalet-ve-saygiya-cagri", title: "Adalet ve saygı için davetimizdir!", desc: "Gezi'nin temsil ettiği demokrasi zemininde buluşmaya çağırıyoruz." },
+  {img: "https://lh6.googleusercontent.com/-g5vVgZvYl9o/UmXsSuzii4I/AAAAAAAAArY/DD5ABea7NBo/w584-h369-no/tbck.jpg", link: "/diyoruz-ki/kampanyalar/tbck-yasasi", title: "Tabiatı bozuk yasa istemiyoruz!", desc: "Tabiatı ve biyoçeşitlişiği koruma adı altında sürekli yıkım yasalaştırılıyor. Bu gidişe son demek için eylemdeyiz." },
+  {img: "https://lh3.googleusercontent.com/-i7NZ3PNWGlY/UoJ9MjCOYtI/AAAAAAAAAsc/BcJTJ4vP_LU/w584-h369-no/nukleer.jpg", link: "/diyoruz-ki/basin-aciklamalari/2013-10-31", title: "Nükleer atık istemiyoruz! ", desc: "Sağlıklı yaşam koşulları sağlanana kadar davamızın arkasındayız." },
+  {img: "https://lh4.googleusercontent.com/-3p14Nl8dMos/UoJ9NTRAjVI/AAAAAAAAAsk/tZAFKF5zRCE/w584-h369-no/basortusu.jpg", link: "/diyoruz-ki/basin-aciklamalari/2013-10-31-1", title: "Başörtüsü temel insan hakkı ve özgürlüklerin bir parçasıdır.", desc: "Erkek zihniyetin siyaset malzemesi yapılamaz." },
+  {img: "https://lh6.googleusercontent.com/-aiClU_GeQlc/UoJ9OVwKr5I/AAAAAAAAAss/7Fbm9WXCI1Y/w584-h369-no/12eylul.jpg", link: "/diyoruz-ki/basin-aciklamalari/2013-10-24", title: "Adalet nöbetimize devam ediyoruz!", desc: "12 Eylül Darbe Davasının 17. Celsesinde de mahkemedeyiz, davamızın arkasındayız." }
+  ]
+
+
+%section.clearfix.hidden-xs.hidden-sm
+  %h1.hidden Anasayfa
+
+  - if @page.metadata("Carousel")
+    = slim :'partials/carousel', layout: false, locals: { slides: @page.metadata("Carousel") }
+
+%hr
+
+= slim :kampanya_4a, layout: false
+
+%section.clearfix.box-4
+  %heading
+    %h2.hidden Basın Açıklamaları
+  = slim :'partials/list', locals: { collection: latest_articles(8) }
