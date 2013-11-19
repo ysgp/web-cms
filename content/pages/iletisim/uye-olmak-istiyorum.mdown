@@ -1,0 +1,11 @@
+Layout: :modal-form
+Template: 'forms/uye-olmak-istiyorum'
+Title: Üyelik Formu
+
+** Yeşiller ve Sol Gelecek partisine üye olmak isterseniz, lütfen aşağıdaki formu eksiksiz olarak doldurun.**
+
+** En yakınınızdaki parti üyelerinin sizinle temasa geçip resmi üyelik işlemlerini başlatmasını sağlayacağız.**
+
+* Bu form ile sadece sizlere ulaşmamızı sağlayacak iletişim bilgilerini toplamayı amaçlamaktayız.
+* Bu form aracılığıyla topladığımız verileri kimseyle paylaşmayacağımıza ve hiç bir ticari amaçla kullanmayacağımıza söz veririz.
+* Eğer bu formu doldurmak istemiyorsanız size en yakındaki temsilcimize iletişim sayfamızdaki haritadan ulaşabilirsiniz.

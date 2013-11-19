@@ -1,0 +1,78 @@
+Categories: basin-odasi, basin-kiti
+Sections:
+  - Basın Kiti
+  - Eş Sözcülerimiz
+  - İndirilebilir Basın Paketleri
+  - Dijital Basın Paketi
+  - Basılı Yayın İçin Basın Paketi
+
+<br id="BasınKiti">
+# Basın Kiti
+
+Yeşiller ve Sol Gelecek Partisi'ni, 25 Kasım 2012 tarihinde Ankara'da gerçekleştirdiğimiz kongremizde kurduk. Uzun zamandır, ülkede üretilen politikalar ve politik yapılar, iktidar ve muhalefet arasında sıkışmış, tamamen iktidara göre şekillenir hale gelmişti. Bizler, yepyeni bir politik yol çizerek, siyaseti özgürlükler ve yaşamak istediğimiz dünya üzerinden tanımlayarak, bugünden özgür ve yaşanabilir bir dünya kurmak için yola çıktık.
+
+<div class="carousel slide" id="first_carousel" >
+  <div class="carousel-inner">
+    <div class="item active"><img src="https://lh5.googleusercontent.com/-IdvuxRHKOxQ/Um4AvgTFBzI/AAAAAAAAAmw/P4kFZN0V5Wk/w958-h639-no/kongre-salon.jpg"></div>
+    <div class="item"><img src="https://lh4.googleusercontent.com/-A41yUzKMxtA/UlRHdcHDLpI/AAAAAAAAASY/S78eVG12R5o/w958-h639-no/kongre-divan.jpg"></div>
+    <div class="item"><img src="https://lh4.googleusercontent.com/-Vt-NnD-eawo/UlRHd5-ZZSI/AAAAAAAAASY/1a0v0xYHmv4/w958-h639-no/kongre-gencler.jpg"></div>
+  </div>
+  <a class="carousel-control left" data-slide="prev" href="#first_carousel">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="carousel-control right" data-slide="next" href="#first_carousel">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+
+<br id="EşSözcülerimiz">
+## Eş Sözcülerimiz
+
+<div class="carousel slide" id="second_carousel" >
+  <div class="carousel-inner">
+    <div class="item active"><img src="https://lh6.googleusercontent.com/-QDsiw6HPOhc/UlRHY1igWUI/AAAAAAAAASY/X4waHVAx57M/w958-h641-no/essozculer2.JPG"></div>
+    <div class="item"><img src="https://lh6.googleusercontent.com/-mgC6-rOu4Pk/UlRHbq1JFCI/AAAAAAAAASY/DKKSv8A9B_k/w958-h641-no/essozculer1.JPG"></div>
+    <div class="item"><img src="https://lh3.googleusercontent.com/-3hGLXfJcZN4/UlRHelEP3QI/AAAAAAAAASY/zDp_esZ-YhQ/w958-h642-no/sevil+ve+Arif.jpg"></div>
+  </div>
+  <a class="carousel-control left" data-slide="prev" href="#second_carousel">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="carousel-control right" data-slide="next" href="#second_carousel">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+
+<br id="İndirilebilirBasınPaketleri">
+# İndirilebilir Basın Paketleri
+
+Basılı ve dijital yayın araçlarında kullanılmak üzere hazırlanmış basın paketlerimizi indirebilirsiniz.
+
+![Parti Logosu](https://lh6.googleusercontent.com/-llcGWEzqlgY/UlRLLV4kTcI/AAAAAAAAAU0/MWwoB23zZsM/w228-h272-no/kurumsal-kimlik-go%25CC%2588rseller-23.png)
+
+<br id="DijitalBasınPaketi">
+### Dijital Basın Paketi
+
+**İçerik:**
+Bu set içindeki görseller dijital kullanım için RGB renk modunda olup, 75 dpi çözünürlüktedir. Baskı alınacak malzemeler için lütfen basılı yayın için basın paketini indiriniz.
+
+- Parti logosu
+- Yatay renkli ve siyah-beyaz zeminde kullanılmak üzere parti logosu
+- Dikey renkli ve siyah-beyaz zeminde kullanılmak üzere parti logosu
+- Eş Sözcüler' imizin fotoğrafları
+- Kuruluş Kongresi'nden fotoğraf kareleri
+
+[   Paketi İndir](https://docs.google.com/uc?export=download&id=0B88KkSwAkgG1V3BRSWpYWU1PSlE "İndir")
+
+<br id="BasılıYayınİçinBasınPaketi">
+### Basılı Yayın İçin Basın Paketi
+
+**İçerik:**
+Bu set içindeki görseller basılabilir malzemelerde kullanım için CMYK renk modunda olup, 150 dpi çözünürlüktedir. Dijital medya için dijital basın paketini indiriniz.
+
+- Parti logosu
+- Yatay renkli ve siyah-beyaz zeminde kullanılmak üzere parti logosu
+- Dikey renkli ve siyah-beyaz zeminde kullanılmak üzere parti logosu
+- Eş Sözcüler' imizin fotoğrafları
+- Kuruluş Kongresi'nden fotoğraf kareleri
+
+[   Paketi İndir](https://docs.google.com/uc?export=download&id=0B88KkSwAkgG1M1o2TmdxNVp4MTQ "İndir")

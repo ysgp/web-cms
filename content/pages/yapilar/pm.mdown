@@ -1,0 +1,145 @@
+Categories: yapilar
+
+# PM
+
+[Parti Eşsözcüleri](/bizden/es-sozculer) PM’nin doğal üyeleridir.
+
+[MYK üyeleri](/yapilar/myk) PM üyeleri arasından seçilmişlerdir ve PM’nin doğal üyeleridir.
+
+
+ İsim                     | Grv | Kent       | eposta adresi               |
+:-------------------------|:--- |:---------- |:----------------------------|
+AHMET DİNDAR              | PM  | İSTANBUL   | ahmetdindar@superonline.com
+AHMET GÜRCAN ŞİŞMANOĞLU   | PM  | TRABZON    | ag.sismanoglu@hotmail.com
+AKİF PAMUK                | PM  | İSTANBUL   | akifpamuk@hotmail.com
+ALİ ŞENALP                | PM  | İSTANBUL   | alisenalp@gmail.com
+ALİ KERİM MUTLU           | PM  | MUĞLA      | alikerimm@yahoo.com
+ALİ OSMAN KARABABA        | PM  | İZMİR      | ali.osman.karababa@ege.edu.tr
+ALİ SERDAR GÜLTEKİN       | PM  | ANKARA     | aliserdargultekin@yahoo.com
+ALPER TOLGA AKKUŞ         | PM  | İÇEL       | anavarrza@gmail.com
+ARİF HİKMET BALKAN        | PM  | BURSA      | aribalkan@gmail.com
+ARİF SIRRI ÖZÇELİK        | PM  | İSTANBUL   | arifsozcelik@gmail.com
+ATİLLA AYTEMUR            | PM  | İSTANBUL   | andaytemur@ttmail.com
+AYDIN ENGİN               | PM  | İSTANBUL   | aydengin@gmail.com
+AYLA ŞEŞAN                | PM  | İSTANBUL   | aylasesan@gmail.com
+AYLA TOKMAK               | PM  | İSTANBUL   | ayla.tokmak@hotmail.com
+AYŞE AKDENİZ              | PM  | BALIKESİR  | aysheakdeniz@gmail.com
+AYŞE ERDEM                | PM  | İSTANBUL   | aysea99@gmail.com
+AYTAÇ TOLGA TİMUR         | PM  | İSTANBUL   | aytactimur@yahoo.com
+BAHAR TOPÇU               | PM  | KOCAELİ    | topcu.bahar@gmail.com
+BERCAN AKTAŞ              | PM  | İSTANBUL   | bercanaktas@gmail.com
+BERNA ATAŞ                | PM  | İSTANBUL   | bernaatas@gmail.com
+BETÜL	YARAR	              | PM  | ANKARA     | betyarar@gmail.com
+BİLGEHAN CANIGÜR          | PM  | ANKARA     | bilgehancanigur@yahoo.com.tr
+BÜLENT BİLMEZ             | PM  | İSTANBUL   | bulentbilmez@yahoo.com
+CELAL DENİZ               | PM  | GAZİANTEP  | celaldeniz@yahoo.com.tr
+CEYDA CAN                 | PM  | İSTANBUL   | ceydcan@gmail.com
+CİHAN ERDAL               | PM  | İSTANBUL   | cihanerdall@gmail.com
+ÇAĞDAŞ KÜPELİ             | PM  | ANKARA     | cagdaskupeli@gmail.com
+DENİZ ÖZKOR               | PM  | ANKARA     | denizzozkor@gmail.com
+DERYA ŞİMŞEK AKSAKAL      | PM  | BURSA      | derya810@hotmail.com
+DEVİN BAHÇECİ             | PM  | İSTANBUL   | devin.bahceci@gmail.com
+DEVRİM TARIM              | PM  | İSTANBUL   | devrimsurekli@gmail.com
+DURUKAN DUDU              | PM  | İSTANBUL   | durukand@gmail.com
+EMİNE İNCİ İŞBULUR        | PM  | İSTANBUL   | inciisbulur@yahoo.com.tr
+ERCÜMENT GÜRÇAY           | PM  | İSTANBUL   | ercumentgr@gmail.com
+ERDAL DEMİRDAĞ            | PM  | İSTANBUL   | partog@gmail.com
+ERDAL KARAYAZGAN          | PM  | İSTANBUL   | erdalkarayazgan@yahoo.com
+ERDEM TEMEL               | PM  | İSTANBUL   | jesterthedoommaker@gmail.com
+ERHAN BAĞCI               | PM  | ANKARA     | erhanbagci@yandex.com
+EROL KATIRCIOĞLU          | PM  | İSTANBUL   | erolkatircioglu@gmail.com
+EYLEM TUNCAELLİ           | PM  | İSTANBUL   | eylem.tuncaelli@gmail.com
+EZGİ ÖZCAN                | PM  | İSTANBUL   | aytavsani@gmail.com
+FATİH KIYAK               | PM  | İSTANBUL   | fatih.kyak@gmail.com
+FATMA NUR ÇIRNAZ          | PM  | İSTANBUL   | fati_cat72@hotmail.com
+FEHİM CACULİ              | PM  | İSTANBUL   | fehimcaculi@yahoo.com
+FİLİZ KÜÇÜKGÖDE           | PM  | İZMİR      | fi.liz@hotmail.com
+FİLOR ULUK                | PM  | İSTANBUL   | filorita.maria@gmail.com
+FİRDES KORKMAZ AKOVA      | PM  | ERZURUM    | f_akova@yahoo.com
+FÜSUN ÖZCAN               | PM  | YALOVA     | ozcan_fusun@hotmail.com
+GÖKCEN ÖZDEMİR            | PM  | ANKARA     | gokcenoz@gmail.com
+GÖKHAN TÜRKÜLER ERGÜN     | PM  | DENİZLİ    | gtergun@hotmail.com
+GÜLNUR ÖZTAŞ              | PM  | ANKARA     | gulnuroztas@gmail.com
+GÜNEŞİN OYA AYDEMİR       | PM  | ÇANAKKALE  | gunesin@bugday.org
+GÜNSEL DENİZ              | PM  | ANKARA     | gunsel_27@hotmail.com
+GÜRSEL GÖNÜL              | PM  | MANİSA     | gursel_gonul@hotmail.com
+HAKAN OZAN ERZİNCANLI     | PM  | ANTALYA    | hakanozanerzincanli@gmail.com
+HALİL ÖZBENT              | PM  | ÇORUM      | halozbent@hotmail.com
+HANDE URBARLI             | PM  | ANKARA     | handeturhan@windowslive.com
+HASAN HÜSEYİN KÜÇÜKAYDIN  | PM  | İSTANBUL   | hkucukaydin@sabanciuniv.edu
+HATİCE OYA AYMAN ÖZESMİ   | PM  | İSTANBUL   | oya.ayman@gmail.com
+HAYDAR TEMÜR              | PM  | ANKARA     | haydartemur@gmail.com
+HÜNER BUĞDAYCIOĞLU        | PM  | ANKARA     | hunerb@hotmail.com
+İBRAHİM AKIN              | PM  | İZMİR      | ibrahimakin35@yahoo.com
+İBRAHİM BÜLENT ATAMER     | PM  | ANKARA     | bulent.atamer@gmail.com
+İBRAHİM OKAN AKKIN        | PM  | ANKARA     | okanakkin@gmail.com
+IŞIL UYAR                 | PM  | İSTANBUL   | isiluyar@yahoo.com
+İSMAİL BAŞARAN            | PM  | ADANA      | avbasaran@hotmail.com
+İZZETTİN DENİZ SÖZERİ     | PM  | İSTANBUL   | sozeri.deniz@gmail.com
+KAHRAMAN ŞAHİN            | PM  | TEKİRDAĞ   | kahramansahin@gmail.com
+KEMAL ÇOLAK               | PM  | İSTANBUL   | colak75@hotmail.com
+KORAY DOĞAN URBARLI       | PM  | ANKARA     | koraydur@gmail.com
+LEVENT KURNAZ             | PM  | İSTANBUL   | levent.kurnaz@boun.edu.tr
+MAHİR ILGAZ               | PM  | İSTANBUL   | mahirilgaz@gmail.com
+MAKBULE EFE               | PM  | SAMSUN     | makbulemedya@gmail.com
+MEHMET AKIN ATAUZ         | PM  | ANKARA     | aatauz@yahoo.com
+MEHMET ALİ ÖNAL           | PM  | İÇEL       | mehmetaonal@hotmail.com
+MEHMET CENGİZ             | PM  | YURTDIŞI   | mehmetcengiz@web.de
+MEHMET EMİN KIRŞANLIOĞLU  | PM  | İSTANBUL   | mek7934@gmail.com
+MELTEM ŞENYÜKSEL          | PM  | İSTANBUL   | melork21@hotmail.com
+MESUT YEĞEN               | PM  | İSTANBUL   | mesutyegen@sehir.edu.tr
+MUAMMER MEHMET DOĞAN      | PM  | ANKARA     | muadogan@gmail.com
+MUHAMMET TEKİN ÜSTÜN      | PM  | ANTALYA    | tekin.ustun@me.com
+MURAT BELGE               | PM  | İSTANBUL   | belge@bilgi.edu.tr
+MURAT ONUK                | PM  | İSTANBUL   | muratonuk1@gmail.com
+MURAT ÖZBANK	            | PM  | İSTANBUL   | mozbank@gmail.com
+MUSTAFA TUNCAELLİ         | PM  | MUĞLA      | mtuncaelli@hotmail.com
+MUSTAFA TURGUT            | PM  | MUĞLA      | mus-turgut@hotmail.com
+NACİ SÖNMEZ               | PM  | İSTANBUL   | sonmez_naci@hotmail.com
+NECLA TÜREMEN             | PM  | BURSA      | nturemens@gmail.com
+NESRİN YUMAK              | PM  | ANKARA     | nesrin_yumak@hotmail.com
+NEŞAT KELEŞ               | PM  | BALIKESİR  | nesatkeles@gmail.com
+NEVİN AYTEKİN             | PM  | İZMİR      | nevin_aytekin@hotmail.com
+NİL MUTLUER               | PM  | İSTANBUL   | nilmutluer@gmail.com
+NURAN GÜNGÖR              | PM  | İSTANBUL   | nurangungor@hotmail.com
+NURİYE ÖZTÜRK             | PM  | ANKARA     | nry_ozturk@yahoo.com
+NURSEL DEMİR              | PM  | BURSA      | nurselmodan@gmail.com
+ORAL KAYA                 | PM  | ÇANAKKALE  | oralkaya@gmail.com
+ORHAN AYGÜN               | PM  | AYDIN      | orhan_aygun@hotmail.com
+ORHAN ESEN                | PM  | İSTANBUL   | orhanes@superonline.com
+OSMAN YILMAZ              | PM  | İÇEL       | ymm.osmanyilmaz@ttmail.com
+ÖMER FARUK FARSAKOĞLU     | PM  | İSTANBUL   | ofaruk8@hotmail.com
+RAMAZAN KAYA              | PM  | İZMİR      | kayaspage@gmail.com
+RECEP DEMİRCİ             | PM  | ARTVİN     | recopin@hotmail.com
+RIDVAN MURAT ÖZBANK       | PM  | İSTANBUL   | mozbank@gmail.com
+SAHİR UÇAR                | PM  | KIRKLARELİ | ucarsahir@hotmail.com
+SAMİ EVREN                | PM  | İSTANBUL   | evren58@gmail.com
+SEDAT ATALAY              | PM  | İZMİR      | s.atalay@turem.biz
+SELMA SEÇER               | PM  | MUĞLA      | ssecer@windowslive.com
+SEMİH BİLGEN              | PM  | ANKARA     | bilgen@ee.eee.metu.edu.tr
+SENNUR BAYBUĞA            | PM  | İSTANBUL   | sennurbaybuga@hotmail.com
+SERCAN ÇINAR              | PM  | ANKARA     | cinarsercan@gmail.com
+SERDAR KORDU              | PM  | İSTANBUL   | serdark99@yahoo.com
+SEVİM ÇAMLI               | PM  | ANKARA     | sevim.camli@gmail.com
+SİNAN TUTAL               | PM  | İSTANBUL   | sinantutal@yahoo.com
+SUAT BAYSAL               | PM  | SAMSUN     | suatbaysal55@gmail.com
+SÜLEYMAN ÖZYÜREK          | PM  | ANKARA     | suleymanozyurek@mynet.com
+SÜMBÜL SEDA YALNIZCA      | PM  | DENİZLİ    | smblsedayalnizca@hotmail.com
+SÜREYYA TAMER KOZAKLI     | PM  | ANKARA     | sureyyatamer@gmail.com
+ŞEFİKA CACULİ             | PM  | İSTANBUL   | sefikacaculi2000@yahoo.com
+TANAY SIDKI UYAR          | PM  | İSTANBUL   | tanayuyar@yahoo.com
+TURAP GÜNAY               | PM  | MALATYA    | selturgunay@gmail.com
+TÜLAY KOÇAK               | PM  | ANKARA     | tulaykocak65@gmail.com
+TÜRKAN OKYAZ              | PM  | DENİZLİ    | turkanokyaz@hotmail.com
+TÜRKAN UZUN               | PM  | İSTANBUL   | turkanuzun63@gmail.com
+UFUK URAS                 | PM  | İSTANBUL   | ufuk_uras@yahoo.com
+UYGAR ÖZESMİ              | PM  | İSTANBUL   | uygar.ozesmi@gmail.com
+ÜMİDE AYSU                | PM  | İSTANBUL   | umideaysu@gmail.com
+ÜMİT ŞAHİN                | PM  | İSTANBUL   | umitsa2005@gmail.com
+YASEMİN GÜNEY AĞIRDIR     | PM  | İSTANBUL   | yguney@konda.com.tr
+YASİM KESKİN              | PM  | MANİSA     | denizbaran78@hotmail.com
+YILMAZ ERDEM VARDAR       | PM  | İSTANBUL   | erdemv@yahoo.com
+YUNUS MULUK               | PM  | İSTANBUL   | yunusmuluk@gmail.com
+YÜKSEL AKGÜN              | PM  | BURSA      | yakgunbursa@gmail.com
+ZAFER TABU                | PM  | TEKİRDAĞ   | zafertabu@gmail.com
+ZEYNEL ÖZGÜN              | PM  | İSTANBUL   | ozgunzeynel@hotmail.com

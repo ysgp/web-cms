@@ -1,0 +1,33 @@
+Categories: yapilar
+
+# Danışma Kurulu
+
+ İsim Soyisim             | İsim Soyisim              |
+:-------------------------|:--------------------------|
+AHMET DİNDAR              | Abdullah Aysu             
+Ahmet Demirel             | Ahmet İnsel               
+Akın Özçer                | Alev Özkazanç             
+Ali Nesin                 | Arca Atay                 
+Aslı Tunç                 | Ayşen Uysal               
+Batuhan Aydagül           | Bekir Ağırdır             
+Besim Dellaloğlu          | Betül Duman               
+Cemsinan Deliduman        | Cengiz Aktar              
+Chris Stephenson          | Cihan Yalçın              
+Erol Köroğlu              | Esmeray                   
+Hacer Ansal               | Haluk Levent              
+İpek İlkkaracan           | Kıvanç Eliaçık            
+Levent Köker              | Mahmut Boynudelik         
+Maya Arakon               | Mehmet Tarhan             
+Mithat Sancar             | Murat Paker               
+Neşe Erdilek              | Okhan Akhan                 
+Oktay Özel                | Oya Baydar                
+Ömer Madra                | Pakrat Estukyan           
+Pelin Cengiz              | Pınar Uyan                
+Samim Akgönül             | Seda Altuğ                
+Semih Bilgen              | Semra Cerit Mazlum        
+Serpil Çakır              | Sezai Temelli             
+Sezin Öney                | Süleyman Yılmaz           
+Teoman Pamukçu            | Tümay Arslan              
+Ümit Kardaş               | Vangelis Kechiriotis      
+Yasemin İnceoğlu          | Yörük Kurtaran            
+Zeynep Gambetti           |                  
