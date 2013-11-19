@@ -25,3 +25,15 @@ ulaşabilirsiniz.
 ## Testlerin çalıştırılması
 
     $ rake test
+
+## Yayın
+
+### Heroku'da yayın:
+
+heroku-push plugin kurulumu:
+
+    $ heroku plugins:install https://github.com/ddollar/heroku-push
+
+heroku push komutu ile githubda bulunan kodu Heroku uygulamanızda yayına sokabilirsiniz.
+
+    $ heroku push https://github.com/ysgp/website.git --app HEROKU_APP
