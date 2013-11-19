@@ -1,5 +1,5 @@
-YSGP için özelleştirilmiş Nesta CMS
-===================================
+YSGP websitesi
+==============
 
 ## Gereksinimler
 
@@ -11,9 +11,8 @@ rbenv / rvm kullanılması önerilir
 
 ## Kurulum
 
-    $ git clone git@github.com:ysgp/web-cms.git ysgp
-    $ cd ysgp/
-    $ git clone git@github.com:ysgp/web-content.git content
+    $ git clone git@github.com:ysgp/website.git
+    $ cd website/
     $ bundle
 
 ## Lokal sunucunun çalıştırılması
