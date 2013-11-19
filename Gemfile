@@ -24,3 +24,7 @@ group :test, :development do
   gem 'guard-minitest'
   gem 'sinatra-reloader'
 end
+
+group :development do
+  gem 'heroku'
+end
