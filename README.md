@@ -1,7 +1,9 @@
 YSGP websitesi
 ==============
 
-[![Build Status](https://travis-ci.org/ysgp/website.png?branch=master)](https://travis-ci.org/ysgp/website)
+## Durum:
+
+Heroku : [![Build Status](https://snap-ci.com/Zk9sqfhIOYgptruJSit-4N0Z1qZW-311A3GlnEBooEQ/build_image)](https://snap-ci.com/projects/ysgp/website/build_history)
 
 ## Gereksinimler
 
