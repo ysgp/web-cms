@@ -4,7 +4,6 @@ gem 'nesta', '0.9.13'
 gem "nesta-plugin-foldable"
 gem "nesta-plugin-yaml-metadata"
 
-gem 'rake'
 gem 'slim'
 gem 'puma'
 gem 'pony'
@@ -12,6 +11,7 @@ gem 'pony'
 # gem (RUBY_VERSION =~ /^1.9/) ? 'ruby-debug19': 'ruby-debug'
 
 group :test, :development do
+  gem 'rake'
   gem 'simplecov'
   gem 'minitest'
   gem 'rack-test'
