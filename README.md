@@ -1,6 +1,8 @@
 YSGP websitesi
 ==============
 
+[![Build Status](https://travis-ci.org/ysgp/website.png?branch=master)](https://travis-ci.org/ysgp/website)
+
 ## Gereksinimler
 
 * ruby 2.0
