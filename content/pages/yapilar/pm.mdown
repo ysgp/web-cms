@@ -28,7 +28,7 @@ Bercan Aktaş              | Genç
 Celal Ay                  |
 Celal Deniz               |
 Ceyda Can                 |
-Cihan Erdal               | Genç - LGBTT
+Cihan Erdal               | Genç - LGBT
 Cihat Demirtaş            | Genç
 Çağdaş Küpeli             |
 Deniz Özkor               | Kadın - Genç
@@ -36,10 +36,10 @@ Derya Yazar Ünverir       | Genç
 Dilara Durna              | Kadın - Genç
 Durukan Dudu              | Genç
 Duygu Melek Sürücü        | Kadın - Genç
-Emin Alp Bıyık            | Genç - LGBTT
+Emin Alp Bıyık            | Genç - LGBT
 Ercüment Gürçay           |
 Eylem Tuncaelli           | Kadın
-Eyüp Çakır                | Genç - LGBTT
+Eyüp Çakır                | Genç - LGBT
 Fehim Caculi              | 
 Feyha Karslı              | Kadın
 Ferdan Ergut              |
@@ -72,7 +72,7 @@ Nil Mutluer               | Kadın
 Pelin Cengiz              | Kadın
 Recep Demirci             |
 Sennur Baybuğa            | Kadın
-Serkan Zihli              | LGBTT
+Serkan Zihli              | LGBT
 Sevay Açıcı               | Kadın
 Simin Gürdal              | Kadın
 Sinan Tutal               | 
@@ -101,7 +101,7 @@ Berna Ataş                | Kadın
 Bülent Bilmez             |
 Chris Stephenson          |
 Çiğdem Özbaş              | Kadın
-Erdal Demirdağ            | LGBTT
+Erdal Demirdağ            | LGBT
 Erol Katırcıoğlu          |
 Fatma Çetintaş            | Kadın
 İmral Kırlangıç           | Kadın
