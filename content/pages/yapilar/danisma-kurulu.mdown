@@ -5,7 +5,7 @@ Categories: yapilar
 
  İsim Soyisim             | İsim Soyisim              |
 :-------------------------|:--------------------------|
-AHMET DİNDAR              | Abdullah Aysu             
+Ahmet Dindar              | Abdullah Aysu             
 Ahmet İnsel               | Akın Özçer
 Alev Özkazanç             | Ali Nesin
 Arca Atay                 | Aslı Tunç
