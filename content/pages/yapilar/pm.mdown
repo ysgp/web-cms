@@ -18,74 +18,74 @@ Ahmet Atıl Aşıcı          |
 Ahmet Gürcan Şişmanoğlu   |
 Ali Kerim Mutlu           |
 Atillla Aytemur           |
-Ayla Şeşan                | Kadın
-Ayla Tokmak               | Kadın
-Ayşe Akdeniz              | Kadın - Genç
-Ayşe Erdem                | Kadın
-Ayşe Öktem                | Kadın
-Bahar Topçu               | Kadın - Genç
-Bercan Aktaş              | Genç
+Ayla Şeşan                | K
+Ayla Tokmak               | K
+Ayşe Akdeniz              | K - G
+Ayşe Erdem                | K
+Ayşe Öktem                | K
+Bahar Topçu               | K - G
+Bercan Aktaş              | G
 Celal Ay                  |
 Celal Deniz               |
 Ceyda Can                 |
-Cihan Erdal               | Genç - LGBT
-Cihat Demirtaş            | Genç
+Cihan Erdal               | G - L
+Cihat Demirtaş            | G
 Çağdaş Küpeli             |
-Deniz Özkor               | Kadın - Genç
-Derya Yazar Ünverir       | Genç
-Dilara Durna              | Kadın - Genç
-Durukan Dudu              | Genç
-Duygu Melek Sürücü        | Kadın - Genç
-Emin Alp Bıyık            | Genç - LGBT
+Deniz Özkor               | K - G
+Derya Nazan Ünverir       | G
+Dilara Durna              | K - G
+Durukan Dudu              | G
+Duygu Melek Sürücü        | K - G
+Emin Alp Bıyık            | G - L
 Ercüment Gürçay           |
-Eylem Tuncaelli           | Kadın
-Eyüp Çakır                | Genç - LGBT
+Eylem Tuncaelli           | K
+Eyüp Çakır                | G - L
 Fehim Caculi              | 
-Feyha Karslı              | Kadın
+Feyha Karslı              | K
 Ferdan Ergut              |
-Firdes Korkmaz Akova      | Kadın
-Firdevs Sema Tatlı        | Kadın
-Gizem Kastamonulu         | Kadın- Genç
-Gökhan Türküler Ergün     | Genç
-Gülnur Aksop              | Kadın
+Firdes Korkmaz Akova      | K
+Firdevs Sema Tatlı        | K
+Gizem Kastamonulu         | K- G
+Gökhan Türküler Ergün     | G
+Gülnur Aksop              | K
 Güven Atabay              |
-Hamide Bezirci            | Kadın - Engelli
+Hamide Bezirci            | K - E
 Hasan Hüseyin Küçükaydın  |
 İbrahim Akın              |
-İffet Karaca              | Kadın
-İkbal Polat               | Kadın
-İnci Polat                | Kadın
-İnci İşbulur              | Kadın
+İffet Karaca              | K
+İkbal Polat               | K
+İnci Polat                | K
+İnci İşbulur              | K
 Kemal Tuncaelli           |
-Koray Doğan Urbarlı       | Genç
+Koray Doğan Urbarlı       | G
 Mahmut Boynudelik         |
 Murat Belge               |
 Mehmet Nazım Öztürk       |
 Murat Paker               |
 Murat Özbank              |
-Müge Karalom              | Kadın
-Nadire Gül                | Kadın
-Necla Türemen             | Kadın
-Neriman Birgül Hakan      | Kadın
-Nesrin Arslan             | Kadın
-Nil Mutluer               | Kadın
-Pelin Cengiz              | Kadın
+Müge Karalom              | K
+Nadire Gül                | K
+Necla Türemen             | K
+Neriman Birgül Hakan      | K
+Nesrin Arslan             | K
+Nil Mutluer               | K
+Pelin Cengiz              | K
 Recep Demirci             |
-Sennur Baybuğa            | Kadın
-Serkan Zihli              | LGBT
-Sevay Açıcı               | Kadın
-Simin Gürdal              | Kadın
+Sennur Baybuğa            | K
+Serkan Zihli              | L
+Sevay Açıcı               | K
+Simin Gürdal              | K
 Sinan Tutal               | 
-Sümbül Seda Yalnızca      | Kadın - Genç
-Şefika Caculi             | Kadın
+Sümbül Seda Yalnızca      | K - G
+Şefika Caculi             | K
 Tanay Sıdkı Uyar          |
 Taylan Şendur             |
-Tülay Koçak               | Kadın
-Türkan Uzun               | Kadın
-Ümide Aysu                | Kadın
+Tülay Koçak               | K
+Türkan Uzun               | K
+Ümide Aysu                | K
 Ümit Şahin                |
 Vedat Serin               |
-Yasemin Güney Ağırdır     | Kadın
+Yasemin Güney Ağırdır     | K
 Yüksel Akgün              |
 
 
@@ -95,22 +95,22 @@ Yüksel Akgün              |
 :-------------------------|:---------- |
 Adnan Gölpınar            |
 Alaaddin Dinçer           |
-Arzu Şimşek               | Kadın
-Ayşin Hangül              | Kadın
-Berna Ataş                | Kadın
+Arzu Şimşek               | K
+Ayşin Hangül              | K
+Berna Ataş                | K
 Bülent Bilmez             |
 Chris Stephenson          |
-Çiğdem Özbaş              | Kadın
-Erdal Demirdağ            | LGBT
+Çiğdem Özbaş              | K
+Erdal Demirdağ            | L
 Erol Katırcıoğlu          |
-Fatma Çetintaş            | Kadın
-İmral Kırlangıç           | Kadın
-Nurgül Vatan              | Kadın
+Fatma Çetintaş            | K
+İmral Kırlangıç           | K
+Nurgül Vatan              | K
 Sami Evren                |
 Saruhan Oluç              |
-Sultan Özcan              | Kadın
-Türkan Okyaz              | Kadın
-Vezzan Karabulut          | Kadın
+Sultan Özcan              | K
+Türkan Okyaz              | K
+Vezzan Karabulut          | K
 Zeynel Özgün              |
 
 
@@ -118,18 +118,24 @@ Zeynel Özgün              |
 
  İsim                     | Kota       | 
 :-------------------------|:---------- |
-Abdulrahman Güler         | Genç       
+Abdulrahman Güler         | G       
 Ali Alper Akyüz           |
-Ali Serdar Gültekin       | Genç       
+Ali Serdar Gültekin       | G
 Ercüment Kimyon           |
-Fatma Nur Çırnaz          | Kadın
-Füsun Oğuz                | Kadın
+Fatma Nur Çırnaz          | K
+Füsun Oğuz                | K
 İsmet Doğan               |
 Mehmet Cengiz             |
-Mustafa Dumlupınar        | Genç
+Mustafa Dumlupınar        | G
 Mustafa Özsaygı           |
-Nevin Aytekin             | Kadın
+Nevin Aytekin             | K
 Onur Özgür Eser           |
 Osman Doğan               |
-Ozan Hasret İş            | Genç
-Vahit Koray Kozacıoğlu    | Genç
+Ozan Hasret İş            | G
+Vahit Koray Kozacıoğlu    | G
+
+KOTALAR
+Kadın: K
+Genç: G
+LGBT: L
+Engelli: E
