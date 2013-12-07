@@ -1,8 +1,9 @@
 Title: Bizden
 Link text: Bizden
 Carousel: [
-  {img: "https://lh4.googleusercontent.com/-xrAJnzZ1do0/UqM7JsjwaOI/AAAAAAAAA2M/pb4VKxTdQ9k/w720-h480-no/sevil-konusma.jpg"},
+  {img: "https://lh5.googleusercontent.com/-dX3V97VHz2c/UqNKcXZO6pI/AAAAAAAAA3U/mvdcpZOy3po/w720-h480-no/konferans.jpg"},
   {img: "https://lh5.googleusercontent.com/-o5m0p8lzcas/UqM7KaNajRI/AAAAAAAAA2U/5G-rXEsHyuY/w720-h480-no/divan.jpg"},
+  {img: "https://lh4.googleusercontent.com/-xrAJnzZ1do0/UqM7JsjwaOI/AAAAAAAAA2M/pb4VKxTdQ9k/w720-h480-no/sevil-konusma.jpg"},
   {img: "https://lh4.googleusercontent.com/-6y-RZVRpZtQ/UqM7M2wyP3I/AAAAAAAAA20/NB6ravuNNLQ/w830-h553-no/naci-sonmez.jpg"},
   {img: "https://lh4.googleusercontent.com/-6XOn0tblSII/UqM7K85LWCI/AAAAAAAAA2g/tQtg7myRob4/w720-h480-no/eski-es-sozculer.jpg"},
   {img: "https://lh5.googleusercontent.com/-Dugv3lK8TOg/UqM7LsNmGbI/AAAAAAAAA2k/gzMCKLdr6uU/w830-h553-no/sebahat-tuncel.jpg"},

@@ -1,4 +1,6 @@
+Date: 07 Dec 2013
 Categories: basin-odasi, basin-kiti
+Thumbnail: https://lh6.googleusercontent.com/-Evy_bCE07mE/UqNYdnWyboI/AAAAAAAAA4E/GgNkpJ_3VwY/w720-h480-no/basin-kiti.jpg
 Sections:
   - Basın Kiti
   - Eş Sözcülerimiz
@@ -13,9 +15,9 @@ Yeşiller ve Sol Gelecek Partisi'ni, 25 Kasım 2012 tarihinde Ankara'da gerçekl
 
 <div class="carousel slide" id="first_carousel" >
   <div class="carousel-inner">
-    <div class="item active"><img src="https://lh5.googleusercontent.com/-IdvuxRHKOxQ/Um4AvgTFBzI/AAAAAAAAAmw/P4kFZN0V5Wk/w958-h639-no/kongre-salon.jpg"></div>
-    <div class="item"><img src="https://lh4.googleusercontent.com/-A41yUzKMxtA/UlRHdcHDLpI/AAAAAAAAASY/S78eVG12R5o/w958-h639-no/kongre-divan.jpg"></div>
-    <div class="item"><img src="https://lh4.googleusercontent.com/-Vt-NnD-eawo/UlRHd5-ZZSI/AAAAAAAAASY/1a0v0xYHmv4/w958-h639-no/kongre-gencler.jpg"></div>
+    <div class="item active"><img src="https://lh5.googleusercontent.com/-2FKNYGHShAM/UqNb0P_LozI/AAAAAAAAA5k/IVigzmdCXsw/w720-h480-no/konferans.jpg"></div>
+    <div class="item"><img src="https://lh6.googleusercontent.com/-fp_BRoGfW5c/UqNdyXqX1dI/AAAAAAAAA7Y/UJNMBZynE8w/w720-h480-no/divan.jpg"></div>
+    <div class="item"><img src="https://lh6.googleusercontent.com/-ZvlepjJIDPE/UqNd05HBfbI/AAAAAAAAA7w/RVAYkq0Q0U8/w720-h480-no/gencler.jpg"></div>
   </div>
   <a class="carousel-control left" data-slide="prev" href="#first_carousel">
     <span class="glyphicon glyphicon-chevron-left"></span>
@@ -30,9 +32,10 @@ Yeşiller ve Sol Gelecek Partisi'ni, 25 Kasım 2012 tarihinde Ankara'da gerçekl
 
 <div class="carousel slide" id="second_carousel" >
   <div class="carousel-inner">
-    <div class="item active"><img src="https://lh6.googleusercontent.com/-QDsiw6HPOhc/UlRHY1igWUI/AAAAAAAAASY/X4waHVAx57M/w958-h641-no/essozculer2.JPG"></div>
-    <div class="item"><img src="https://lh6.googleusercontent.com/-mgC6-rOu4Pk/UlRHbq1JFCI/AAAAAAAAASY/DKKSv8A9B_k/w958-h641-no/essozculer1.JPG"></div>
-    <div class="item"><img src="https://lh3.googleusercontent.com/-3hGLXfJcZN4/UlRHelEP3QI/AAAAAAAAASY/zDp_esZ-YhQ/w958-h642-no/sevil+ve+Arif.jpg"></div>
+    <div class="item active"><img src="https://lh4.googleusercontent.com/-u92JqGB3PlM/UqNb0pwJYnI/AAAAAAAAA5s/jaKzKDLpTuw/w830-h467-no/sevil+naci.jpg"></div>
+    <div class="item"><img src="https://lh5.googleusercontent.com/-QSddIBjl46U/UqNb1ZXDCZI/AAAAAAAAA54/_k1ehM8glXg/w830-h553-no/sevil_7.jpg"></div>
+    <div class="item"><img src="https://lh5.googleusercontent.com/-4P-A3PlB_kk/UqNb2az_rAI/AAAAAAAAA6A/O7ixfUHWtp4/w830-h553-no/naci_3.jpg"></div>
+    <div class="item"><img src="https://lh4.googleusercontent.com/-m2eFvLOPFuo/UqNdzRTz-NI/AAAAAAAAA7k/UplSOwk-58g/w720-h480-no/e%25C5%259Fsozculer.jpg"></div>
   </div>
   <a class="carousel-control left" data-slide="prev" href="#second_carousel">
     <span class="glyphicon glyphicon-chevron-left"></span>
@@ -59,9 +62,9 @@ Bu set içindeki görseller dijital kullanım için RGB renk modunda olup, 75 dp
 - Yatay renkli ve siyah-beyaz zeminde kullanılmak üzere parti logosu
 - Dikey renkli ve siyah-beyaz zeminde kullanılmak üzere parti logosu
 - Eş Sözcüler' imizin fotoğrafları
-- Kuruluş Kongresi'nden fotoğraf kareleri
+- 1. Olağan Konferansımızdan fotoğraflar
 
-[   Paketi İndir](https://docs.google.com/uc?export=download&id=0B88KkSwAkgG1V3BRSWpYWU1PSlE "İndir")
+[   Paketi İndir](https://docs.google.com/uc?export=download&id=0B88KkSwAkgG1MWY4b1lmVnhjSDg "İndir")
 
 <br id="BasılıYayınİçinBasınPaketi">
 ### Basılı Yayın İçin Basın Paketi
@@ -73,6 +76,6 @@ Bu set içindeki görseller basılabilir malzemelerde kullanım için CMYK renk 
 - Yatay renkli ve siyah-beyaz zeminde kullanılmak üzere parti logosu
 - Dikey renkli ve siyah-beyaz zeminde kullanılmak üzere parti logosu
 - Eş Sözcüler' imizin fotoğrafları
-- Kuruluş Kongresi'nden fotoğraf kareleri
+- 1. Olağan Konferansımızdan fotoğraflar
 
-[   Paketi İndir](https://docs.google.com/uc?export=download&id=0B88KkSwAkgG1M1o2TmdxNVp4MTQ "İndir")
+[   Paketi İndir](https://docs.google.com/uc?export=download&id=0B88KkSwAkgG1Nmt6SGxWaGRJbDA "İndir")
