@@ -14,6 +14,7 @@ module Nesta
         subject: "#{subject}, #{params[:name]} #{params[:lastname]}",
         html_body: slim(:"forms/email", layout: false, locals: { params: params })
       )
+      slim :message_sent
     end
 
     get '*' do
