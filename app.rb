@@ -11,7 +11,8 @@ module Nesta
     Pony.options = { from: 'takip@test.com', to: 'ysgp@test.com', via: :smtp, via_options: { host: 'localhost', port:1025 } }
     post '/iletisim/:subject' do |subject|
       Pony.mail(
-        subject: "#{subject}, #{params[:name]} #{params[:lastname]}",
+        subject: "#{subject}, #{params['Isim']} #{params['Soyisim']}",
+        from: "#{params['Isim']}< #{params['e-posta']}>",
         html_body: slim(:"forms/email", layout: false, locals: { params: params })
       )
       slim :message_sent
