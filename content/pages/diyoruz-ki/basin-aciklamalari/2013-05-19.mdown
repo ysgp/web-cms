@@ -1,8 +1,8 @@
 Date: 19 May 2013
 Thumbnail: https://lh6.googleusercontent.com/-jCiNasA9OFA/UolOgrxHCpI/AAAAAAAAAv8/_EPhFdKjnuc/w207-h155-no/meissitesi.jpg
-Summary: Bugün Avcılar’da Meis Sitesi’nde evlerine kurşun sıkılan Trans yurttaşların yaşadıkları saldırıyı kınıyoruz.  İki gün öncesinde de yine evleri kundaklanan Meis sitesi sakini transların, emekli polis olan bir şahıstan şikayetçi olduklarını ancak bu konuda bir gelişme yaşanmadığını biliyoruz.
+description: Bugün Avcılar’da Meis Sitesi’nde evlerine kurşun sıkılan Trans yurttaşların yaşadıkları saldırıyı kınıyoruz.  İki gün öncesinde de yine evleri kundaklanan Meis sitesi sakini transların, emekli polis olan bir şahıstan şikayetçi olduklarını ancak bu konuda bir gelişme yaşanmadığını biliyoruz.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Manşet, Haberler, Tanınma Adaleti, Demokrasi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Manşet, Haberler, Tanınma Adaleti, Demokrasi
 
 # Transların Barınma Ve Yaşam Hakkına Müdahale Kabul Edilemez!
 

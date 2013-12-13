@@ -1,8 +1,8 @@
 Date: 01 Oct 2013
 Thumbnail: https://lh3.googleusercontent.com/-H9dvm_1A_As/UlSCP0It4MI/AAAAAAAAAeg/6RH9YWl2I2c/w315-h387-no/logo.jpg
-Summary: AKP Adıyaman Milletvekili Mehmet Metiner, bir televizyon kanalında sunucunun “cemevlerine ibadethane demiyorsunuz” sözlerine...
+description: AKP Adıyaman Milletvekili Mehmet Metiner, bir televizyon kanalında sunucunun “cemevlerine ibadethane demiyorsunuz” sözlerine...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, Kimlik Politikaları, Tanınma Adaleti, Katılım Adaleti
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, Kimlik Politikaları, Tanınma Adaleti, Katılım Adaleti
 
 
 # Mehmet Metiner özür dilemelidir…

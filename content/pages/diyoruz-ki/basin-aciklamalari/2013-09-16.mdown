@@ -1,8 +1,8 @@
 Date: 16 Sep 2013
 Thumbnail: https://lh6.googleusercontent.com/-PZqNJKEfNy4/UlSCOxAJY1I/AAAAAAAAAeU/Wk6so9Wy1sc/w591-h443-no/ilkogretim.jpg
-Summary: Yeşiller ve Sol Gelecek Partisi, eğitim sistemine dair sorunlar ve çözüm önerilerini içeren “Okul Yolu Sorun Dolu” adlı raporunu kamuoyuna sundu.
+description: Yeşiller ve Sol Gelecek Partisi, eğitim sistemine dair sorunlar ve çözüm önerilerini içeren “Okul Yolu Sorun Dolu” adlı raporunu kamuoyuna sundu.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, İktisadi Adalet, Çocuk Hakları, Eğitim Politikaları
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, İktisadi Adalet, Çocuk Hakları, Eğitim Politikaları
 
 # AKP’nin Eseri Ucube Eğitim Sistemi
 

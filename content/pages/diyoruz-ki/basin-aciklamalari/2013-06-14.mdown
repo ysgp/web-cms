@@ -1,8 +1,8 @@
 Date: 14 Jun 2013
 Thumbnail: https://lh6.googleusercontent.com/-W8Pz87s_m6o/UlSCSfelppI/AAAAAAAAAfA/WS-fHz7fhlk/w300-h225-no/roboski.jpg
-Summary: iyarbakır Cumhuriyet Başsavcılığı tarafından Roboski Katliamı soruşturma dosyasından görevsizlik kararı verdi, dosyayı Genelkurmay Askeri Savcılığı’na gönderdi. 
+description: iyarbakır Cumhuriyet Başsavcılığı tarafından Roboski Katliamı soruşturma dosyasından görevsizlik kararı verdi, dosyayı Genelkurmay Askeri Savcılığı’na gönderdi. 
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Roboski, Kürdistan
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Roboski, Kürdistan
 
 # “Roboski Katliamının Hesabını Sorma Görevi”nden Hiç Kimse Kaçamaz!
 

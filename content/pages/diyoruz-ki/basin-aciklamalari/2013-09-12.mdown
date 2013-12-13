@@ -1,8 +1,8 @@
 Date: 12 Sep 2013
 Thumbnail: https://lh6.googleusercontent.com/-PhSNYYqj71g/UlSCVz-6mdI/AAAAAAAAAfs/GrK9mU5tA5c/w700-h394-no/12eylulysgp.jpg
-Summary: 12 Eylül Darbesi’nin 33. yılında, halen darbe ürünü antidemokratik kurumlar, yasalar ve düzenlemelerle yönetiliyoruz.
+description: 12 Eylül Darbesi’nin 33. yılında, halen darbe ürünü antidemokratik kurumlar, yasalar ve düzenlemelerle yönetiliyoruz.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, 12 Eylül, Darbe, Davalar
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, 12 Eylül, Darbe, Davalar
 
 # 33 yıl sonra 12 Eylül’ü aşmak, ancak getirdiği düzenlemelerden kurtulmakla mümkündür
 

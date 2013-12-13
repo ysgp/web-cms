@@ -1,8 +1,8 @@
 Date: 09 May 2013
 Thumbnail: https://lh3.googleusercontent.com/-BBCd8kjV4co/UolXyR972xI/AAAAAAAAAws/XtU8wydEiS0/w400-h301-no/liman.jpg
-Summary: ABD ve AB ekonomik krizden kurtulmak amacıyla bir serbest ticaret anlaşması imzalamaya hazırlanıyor. AB ile gümrük birliği anlaşması imzalamış olan Türkiye de, yeni durumda ABD ile olan ticaretinde ortaya çıkacak olumsuzlukları gidermek amacıyla, ABD ile ikili bir serbest ticaret anlaşması imzalamak istiyor.
+description: ABD ve AB ekonomik krizden kurtulmak amacıyla bir serbest ticaret anlaşması imzalamaya hazırlanıyor. AB ile gümrük birliği anlaşması imzalamış olan Türkiye de, yeni durumda ABD ile olan ticaretinde ortaya çıkacak olumsuzlukları gidermek amacıyla, ABD ile ikili bir serbest ticaret anlaşması imzalamak istiyor.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, İktisadi Adalet, Demokrasi, Emek Meclisi, Doğa Hakları
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, İktisadi Adalet, Demokrasi, Emek Meclisi, Doğa Hakları
 
 # Türkiye-ABD Serbest Ticaret Anlaşması: Emek ve Çevre Standartlarına dikkat!
 

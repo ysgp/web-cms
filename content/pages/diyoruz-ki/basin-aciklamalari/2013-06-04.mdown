@@ -1,8 +1,8 @@
 Date: 04 Jun 2013
 Thumbnail: https://lh3.googleusercontent.com/-lpJJcnjaKXU/UlSCYXQjPiI/AAAAAAAAAgM/WO6B6H-U34k/w812-h480-no/arifali_dava.jpg
-Summary: Anayasa’nın 56. maddesine göre “Herkes, sağlıklı ve dengeli bir çevrede yaşama hakkına sahiptir. Çevreyi geliştirmek, çevre sağlığını korumak ve çevre kirlenmesini önlemek devletin ve vatandaşların ödevidir”. 
+description: Anayasa’nın 56. maddesine göre “Herkes, sağlıklı ve dengeli bir çevrede yaşama hakkına sahiptir. Çevreyi geliştirmek, çevre sağlığını korumak ve çevre kirlenmesini önlemek devletin ve vatandaşların ödevidir”. 
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Davalar, Bergama, Altın Madenciliği
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Davalar, Bergama, Altın Madenciliği
 
 # Yeşiller ve Sol Gelecek Partisi Eş Sözcüsü Avukat Arif Ali Cangı "SANIK”
 

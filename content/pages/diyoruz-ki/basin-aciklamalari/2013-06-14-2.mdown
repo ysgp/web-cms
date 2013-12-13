@@ -1,8 +1,8 @@
 Date: 14 Jun 2013
 Thumbnail: https://lh5.googleusercontent.com/-zYVNs9M4uwY/UlR9p3F424I/AAAAAAAAAcM/TPeRG47_9qo/w300-h225-no/gezi-eylem-ysgp.jpg
-Summary: Bugün direnişin 18. günü. Hükümet sözcüsü Hüseyin Çelik’in Topçu Kışlası için İstanbul düzeyinde **referandum** yapmayı düşündüklerini açıklaması, Gezi Parkı direnişinin 16. gününde, bu süre boyunca sokağa çıkmış, meydanda ve parkın içinde...
+description: Bugün direnişin 18. günü. Hükümet sözcüsü Hüseyin Çelik’in Topçu Kışlası için İstanbul düzeyinde **referandum** yapmayı düşündüklerini açıklaması, Gezi Parkı direnişinin 16. gününde, bu süre boyunca sokağa çıkmış, meydanda ve parkın içinde...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, YSGP Diyor ki, Tanınma Adaleti, Katılım Adaleti
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, YSGP Diyor ki, Tanınma Adaleti, Katılım Adaleti
 
 
 # YSGP Diyor ki; Referandumu da istiyoruz, yasasını da…

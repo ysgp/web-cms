@@ -1,8 +1,8 @@
 Date: 13 Sep 2013
 Thumbnail: https://lh4.googleusercontent.com/-lpJJcnjaKXU/UlSCYXQjPiI/AAAAAAAAAgM/WO6B6H-U34k/w700-h414-no/arifali_dava.jpg
-Summary: 16.09.2013 günü Bergama Asliye Ceza Mahkemesi’nde altın madencileri ile Bergama halkının, yaşam savunucuları ile madencilerin davası var.
+description: 16.09.2013 günü Bergama Asliye Ceza Mahkemesi’nde altın madencileri ile Bergama halkının, yaşam savunucuları ile madencilerin davası var.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Bergama, Davalar, Altın Madenciliği, Çevre ve İklim Adaleti, Doğa Hakları, İzmir
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Bergama, Davalar, Altın Madenciliği, Çevre ve İklim Adaleti, Doğa Hakları, İzmir
 
 # Bergama'da Davamız Var!
 

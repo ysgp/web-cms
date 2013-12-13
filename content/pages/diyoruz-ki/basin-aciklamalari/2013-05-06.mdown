@@ -1,8 +1,8 @@
 Date: 06 May 2013
 Thumbnail: https://lh4.googleusercontent.com/-hLteJVV7Zqw/Uolb9yExZVI/AAAAAAAAAxE/ajtnfZxAl2A/w413-h328-no/deniz_yusuf_huseyin.jpg
-Summary: 12 Mart 1971’de muhtıra vererek parlamenter rejime müdahale eden askeri cunta ile onların sivil uzantılarının işlediği hukuk cinayetinin üzerinden 41 yıl geçti. Meclis’te Süleyman Demirel önderliğinde, içinde CHP’lilerin de bulunduğu “evet” diyerek kalkan o 273 el, üç fidanı darağacına gönderdi.
+description: 12 Mart 1971’de muhtıra vererek parlamenter rejime müdahale eden askeri cunta ile onların sivil uzantılarının işlediği hukuk cinayetinin üzerinden 41 yıl geçti. Meclis’te Süleyman Demirel önderliğinde, içinde CHP’lilerin de bulunduğu “evet” diyerek kalkan o 273 el, üç fidanı darağacına gönderdi.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Demokrasi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Demokrasi
 
 # Deniz Gezmiş, Yusuf Aslan ve Hüseyin İnan’ı saygıyla anıyoruz
 

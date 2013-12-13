@@ -1,8 +1,8 @@
 Date: 29 Jun 2013
 Thumbnail: https://lh4.googleusercontent.com/-hPIz_NTiOvo/UlSCPQn1pTI/AAAAAAAAAeY/yKDPe0eTdog/w300-h199-no/lice-kalekol.jpg
-Summary: Barış süreci başladıktan sonra, kalekolların ve ek binalarının yapımına tam yol devam edildi. Bu durum, bölge halkı için Hükümet’in süreç hakkındaki niyetinden şüphe duymasından başka seçenek bırakmadı.
+description: Barış süreci başladıktan sonra, kalekolların ve ek binalarının yapımına tam yol devam edildi. Bu durum, bölge halkı için Hükümet’in süreç hakkındaki niyetinden şüphe duymasından başka seçenek bırakmadı.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kürdistan, Barış Süreci, Tanınma Adaleti, Katılım Adaleti
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kürdistan, Barış Süreci, Tanınma Adaleti, Katılım Adaleti
 
 # Barışa Giden Yol Kalekoldan Geçmez!
 

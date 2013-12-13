@@ -1,8 +1,8 @@
 Date: 17 May 2013
 Thumbnail: https://lh3.googleusercontent.com/-B6SFzc6UJj4/UlSi-CYabvI/AAAAAAAAAiM/ElMK4z_EWdA/w300-h190-no/cevresel_etki_degerlendirmesi.jpg
-Summary: Bakanlar Kurulu tarafından hazırlanıp Meclis’e sunulan Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı’na gizlenen bir madde ile Danıştay’ca defalarca iptal edilen ÇED muafiyeti yasallaştırılmaya çalışılıyor.
+description: Bakanlar Kurulu tarafından hazırlanıp Meclis’e sunulan Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı’na gizlenen bir madde ile Danıştay’ca defalarca iptal edilen ÇED muafiyeti yasallaştırılmaya çalışılıyor.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Tanınma Adaleti, Doğa Hakları, ÇED Muafiyet, TBÇK Yasa Tasarısı
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Tanınma Adaleti, Doğa Hakları, ÇED Muafiyet, TBÇK Yasa Tasarısı
 
 # Hiçbir Faaliyet ÇED'den ve Halkın Katılımından Muaf Tutulamaz!
 

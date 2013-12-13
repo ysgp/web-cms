@@ -1,8 +1,8 @@
 Date: 11 Jul 2013
 Thumbnail: https://lh5.googleusercontent.com/-dv4zdYpCzTA/UlSB7m21P1I/AAAAAAAAAc4/zpRVZ1ZvW7I/w300-h225-no/tmmob.jpg
-Summary: 6235 sayılı yasayla 1954 yılında kurulan Türk Mühendis ve Mimar Odaları Birliği (TMMOB) tüzel kişiliğe sahip, Anayasa’nın 135. Maddesi’nde belirtilen kamu kurumu niteliğinde bir meslek kuruluşudur. 
+description: 6235 sayılı yasayla 1954 yılında kurulan Türk Mühendis ve Mimar Odaları Birliği (TMMOB) tüzel kişiliğe sahip, Anayasa’nın 135. Maddesi’nde belirtilen kamu kurumu niteliğinde bir meslek kuruluşudur. 
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi
 
 # TMMOB’yi susturamazsınız…
 

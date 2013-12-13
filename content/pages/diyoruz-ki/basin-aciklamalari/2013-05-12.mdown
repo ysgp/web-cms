@@ -1,8 +1,8 @@
 Date: 12 May 2013
 Thumbnail: https://lh3.googleusercontent.com/-qnHuFQMpB6Q/UolTYZU2h5I/AAAAAAAAAwg/192wyfhwZiM/w615-h340-no/reyhanli-feryat.jpg
-Summary: Hatay’ın Reyhanlı İlçesi’nde 2 ayrı yerde meydana gelen patlamada 46 kişi öldü, yüzün üstünde insan da yaralandı. Ölen yurttaşlarımızın yakınlarına başsağlığı, yaralılara acil şifalar diliyoruz. Saldırıyı kim hangi sebeple yapmış olursa olsun lanetliyoruz.
+description: Hatay’ın Reyhanlı İlçesi’nde 2 ayrı yerde meydana gelen patlamada 46 kişi öldü, yüzün üstünde insan da yaralandı. Ölen yurttaşlarımızın yakınlarına başsağlığı, yaralılara acil şifalar diliyoruz. Saldırıyı kim hangi sebeple yapmış olursa olsun lanetliyoruz.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Tanınma Adaleti, Demokrasi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Tanınma Adaleti, Demokrasi
 
 # Reyhanlı'daki Bombalar Savaş Politikalarından Kaynaklanıyor.
 

@@ -1,6 +1,6 @@
 Categories: diyoruz-ki/kampanyalar, diyoruz-ki, kampanyalar
 Thumbnail: https://lh3.googleusercontent.com/-HMnum3nWpy8/UlSnZhj2pjI/AAAAAAAAAiY/6umkeVSX4jw/w584-h369-no/4athumb.jpg
-Summary: İnsanca yaşayabilmek, dik durabilmek; en basit ve en sıradan ihtiyaçlarımıza erişebilmek için çabalıyoruz. İşsizliğin, geçim sıkıntısının, ayrımcılığın, eş ve aile baskısının, gündelik şiddetin hayatımızı zehir etmemesi için didiniyoruz.
+description: İnsanca yaşayabilmek, dik durabilmek; en basit ve en sıradan ihtiyaçlarımıza erişebilmek için çabalıyoruz. İşsizliğin, geçim sıkıntısının, ayrımcılığın, eş ve aile baskısının, gündelik şiddetin hayatımızı zehir etmemesi için didiniyoruz.
 Sections:
   - Su
   - Ekmek

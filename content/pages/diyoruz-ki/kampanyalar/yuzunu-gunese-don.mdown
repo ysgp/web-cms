@@ -1,5 +1,5 @@
 Thumbnail: https://lh5.googleusercontent.com/-RrLb1vz7pWI/UnmQZ7j8qPI/AAAAAAAAAos/qORRF6C3WZ8/w584-h367-no/3.jpg
-Summary: Sen de gel, yüzünü güneşe dön!
+description: Sen de gel, yüzünü güneşe dön!
 Categories: diyoruz-ki/kampanyalar, diyoruz-ki, kampanyalar
 Carousel: [
   {img: "https://lh3.googleusercontent.com/-kwRs4cg1tUo/UnmQX--s9RI/AAAAAAAAAoc/JsSKcgU6lUw/w584-h367-no/1.jpg"},

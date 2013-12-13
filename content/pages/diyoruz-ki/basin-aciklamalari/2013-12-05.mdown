@@ -1,8 +1,8 @@
 Date: 05 Dec 2013
 Thumbnail: https://lh3.googleusercontent.com/-ITeQrBJiwns/UqCo7vSC4PI/AAAAAAAAA1A/5iZGJsY-WYk/w766-h556-no/kanal-istanbul.jpg
-Summary: Hükümetin ranta dayalı projeleri dur durak bilmiyor. Kanal İstanbul proje güzergahında kamulaştırmaya dönük tebligatların başladığını üzülerek görüyoruz.
+description: Hükümetin ranta dayalı projeleri dur durak bilmiyor. Kanal İstanbul proje güzergahında kamulaştırmaya dönük tebligatların başladığını üzülerek görüyoruz.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Demokrasi, Çevre ve İklim Adaleti, Doğa Hakları, Çılgın Proje
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Demokrasi, Çevre ve İklim Adaleti, Doğa Hakları, Çılgın Proje
 
 # Kanal İstanbul Cinayetini Durdurun!
 

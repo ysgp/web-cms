@@ -1,8 +1,8 @@
 Date: 15 May 2013
 Thumbnail: https://lh3.googleusercontent.com/-kpF7FUN4mzk/UolQzBdAXRI/AAAAAAAAAwI/PmRpscvCRR8/w259-h194-no/vicdani-ret.jpg
-Summary: 15 Mayıs tüm dünyada ve Türkiye’de savaş karşıtları tarafından Vicdani Retçiler Günü olarak kutlanıyor. “Vicdani Ret” kişinin dini, ahlaki, siyasi, felsefi ya da herhangi bir nedenle askerlik hizmetini yapmayı reddetmesidir.
+description: 15 Mayıs tüm dünyada ve Türkiye’de savaş karşıtları tarafından Vicdani Retçiler Günü olarak kutlanıyor. “Vicdani Ret” kişinin dini, ahlaki, siyasi, felsefi ya da herhangi bir nedenle askerlik hizmetini yapmayı reddetmesidir.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Tanınma Adaleti, Demokrasi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Tanınma Adaleti, Demokrasi
 
 # Vicdani Ret Haktır!
 

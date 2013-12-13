@@ -1,8 +1,8 @@
 Date: 10 Sep 2013
 Thumbnail: https://lh4.googleusercontent.com/-RsCpd9vwLBk/UlSCX5ZlejI/AAAAAAAAAgE/QAYCz7QPAVg/w300-h197-no/ahmetatakan.jpg
-Summary: Gezi Direnişi, AKP Hükümeti’nin kimyasını bozdu, protesto hakkına tahammülü kalmadı. Kafa kıran, yaralayan, öldüren kolluk görevlilerinin bizzat Başbakan...
+description: Gezi Direnişi, AKP Hükümeti’nin kimyasını bozdu, protesto hakkına tahammülü kalmadı. Kafa kıran, yaralayan, öldüren kolluk görevlilerinin bizzat Başbakan...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi Direnişi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi Direnişi
 
 # Demokratik hakkın kullanılmasının bedeli ÖLÜM olamaz!
 

@@ -1,8 +1,8 @@
 Date: 24 Oct 2013
 Thumbnail: https://lh4.googleusercontent.com/-TH339H7yfOY/UlSCUh9l8uI/AAAAAAAAAfk/Luf-bhKQmjs/w800-h519-no/12eylul.jpg
-Summary: Eylül Darbesi’nin üzerinden 33. yıl geçmesine rağmen darbenin halen yargılanıp, faillerinin cezalandırılmamış olması, getirdiği hukuk düzeninin halen yürürlükte olması bize yakışmıyor.
+description: Eylül Darbesi’nin üzerinden 33. yıl geçmesine rağmen darbenin halen yargılanıp, faillerinin cezalandırılmamış olması, getirdiği hukuk düzeninin halen yürürlükte olması bize yakışmıyor.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, 12 Eylül, Darbe, Davalar, Katılım Adaleti
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, 12 Eylül, Darbe, Davalar, Katılım Adaleti
 
 
 # 12 Eylül Darbe Davasının 17. Celsesinde de Adalet Nöbetindeyiz;

@@ -1,8 +1,8 @@
 Date: 02 Jul 2013
 Thumbnail: https://lh4.googleusercontent.com/-kIPFriq11KE/UlSCTXcqh2I/AAAAAAAAAfQ/YIzOkT6bKc8/w300-h150-no/sivas.jpg
-Summary: Bundan tam yirmi yıl evvel Pir Sultan Abdal Kültür Derneği’nin her yıl Sivas’ta düzenlediği Pir Sultan Abdal şenliklerinde Madımak otelinde kalan aydın, yazar ozan ve çoğu alevi katılımcılardan...
+description: Bundan tam yirmi yıl evvel Pir Sultan Abdal Kültür Derneği’nin her yıl Sivas’ta düzenlediği Pir Sultan Abdal şenliklerinde Madımak otelinde kalan aydın, yazar ozan ve çoğu alevi katılımcılardan...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Sivas
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Sivas
 
 # Sivas’ın Utancı Bitmemiştir; Unutmadık!
 

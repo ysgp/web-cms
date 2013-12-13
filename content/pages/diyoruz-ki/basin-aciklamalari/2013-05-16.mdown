@@ -1,8 +1,8 @@
 Date: 16 May 2013
 Thumbnail: https://lh6.googleusercontent.com/-I6f6eyEvbTg/UolSHuwT0dI/AAAAAAAAAwU/ZF3WOJ1pBeI/w300-h168-no/thygrevi.jpg
-Summary: Türk Hava Yolları 14 bin çalışanı ve çalışanların aileleriyle birlikte, işverenle uzlaşma sağlanamaması durumunda 15 Mayıs günü gece 03.00’te 50 bin kişiyi ilgilendiren bir grev dönemine girecektir. Bugüne kadar uzlaşmak için sunulan öneriler THY Yönetim Kurulu Başkanı Hamdi Topçu tarafından reddedilmiştir. 
+description: Türk Hava Yolları 14 bin çalışanı ve çalışanların aileleriyle birlikte, işverenle uzlaşma sağlanamaması durumunda 15 Mayıs günü gece 03.00’te 50 bin kişiyi ilgilendiren bir grev dönemine girecektir. Bugüne kadar uzlaşmak için sunulan öneriler THY Yönetim Kurulu Başkanı Hamdi Topçu tarafından reddedilmiştir. 
 Categories: diyoruz-ki/basin-aciklamalari, diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, İktisadi Adalet, Demokrasi, Emek Meclisi, THY Grevi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, İktisadi Adalet, Demokrasi, Emek Meclisi, THY Grevi
 
 # Yeşiller ve Sol Gelecek Diyor ki; THY çalışanları yalnız değildir...
 

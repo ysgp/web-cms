@@ -1,8 +1,8 @@
 Date: 15 Jun 2013
 Thumbnail: https://lh3.googleusercontent.com/-4g_FxhR99zA/UlSCWlcBfgI/AAAAAAAAAf0/EHghx28-50w/w300-h168-no/ab_parlamento.jpg
-Summary: Yeşiller ve Sol Gelecek Partisi Eş Sözcüsü Sevil Turan’ın da katıldığı, 11 Haziran Salı günü Strasbourg’ta gerçekleştirilen İstanbul’da İsyan Konferansı’nın ardından Gezi Direnişleri Avrupa Parlamentosu gündemine geldi.
+description: Yeşiller ve Sol Gelecek Partisi Eş Sözcüsü Sevil Turan’ın da katıldığı, 11 Haziran Salı günü Strasbourg’ta gerçekleştirilen İstanbul’da İsyan Konferansı’nın ardından Gezi Direnişleri Avrupa Parlamentosu gündemine geldi.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi-Direnisi, Raporlar
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi-Direnisi, Raporlar
 
 # Avrupa Parlamentosu Gezi Eylemleri Karar Metni
 

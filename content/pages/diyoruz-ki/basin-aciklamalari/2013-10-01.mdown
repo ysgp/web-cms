@@ -1,8 +1,8 @@
 Date: 01 Oct 2013
 Thumbnail: https://lh6.googleusercontent.com/-7dpSrQPpeeI/UlSCNKu41vI/AAAAAAAAAeI/dhYwwUUJSe8/w300-h199-no/iklim.jpg
-Summary: Hükümetlerarası İklim Değişikliği Paneli (IPCC) geçtiğimiz hafta iklim değişikliğinin bilimsel temelleri üzerine beşinci ana raporunu açıkladı. Bu rapor bizlere üç ana mesaj veriyor.
+description: Hükümetlerarası İklim Değişikliği Paneli (IPCC) geçtiğimiz hafta iklim değişikliğinin bilimsel temelleri üzerine beşinci ana raporunu açıkladı. Bu rapor bizlere üç ana mesaj veriyor.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, İklim Politikaları, Çevre ve İklim Adaleti, Raporlar
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, İklim Politikaları, Çevre ve İklim Adaleti, Raporlar
 
 # YSGP Diyor ki; İklim Değişikliği Tehlikesi Karşısında Yaşamın Korunması İçin
 

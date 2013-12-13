@@ -1,8 +1,8 @@
 Date: 06 Sep 2013
 Thumbnail: https://lh3.googleusercontent.com/-knJ2WiMXOqo/UlScrKsJmQI/AAAAAAAAAh8/lChQWHZk1AM/s290-no/altiyedieylul.jpg
-Summary: 6-7 Eylül 1955’te İstanbul’da yaşananlar Türkiye tarihine kara bir leke olarak geçmiş, utançlarımızdan biri olmuştur.
+description: 6-7 Eylül 1955’te İstanbul’da yaşananlar Türkiye tarihine kara bir leke olarak geçmiş, utançlarımızdan biri olmuştur.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, 6-7 Eylül Olayları
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, 6-7 Eylül Olayları
 
 # 6-7 Eylül Utancını Unutmuyoruz, Affetmiyoruz!
 

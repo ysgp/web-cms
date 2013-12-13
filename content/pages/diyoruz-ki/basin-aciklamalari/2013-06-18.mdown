@@ -1,8 +1,8 @@
 Date: 18 Jun 2013
 Thumbnail: https://lh3.googleusercontent.com/-AkpVNi9nOGs/UlR9pDkZu_I/AAAAAAAAAcE/D4lINM_telU/w300-h199-no/taksim1.jpg
-Summary: Gazlar, coplar, TOMA’lar, yaralamalar, kitlesel gözaltılar yetmedi. AKP iktidarı şimdi de adeta bir sürek avı başlattı. İstanbul’da ve ülkenin çeşitli kentlerinde onlarca ev, haber ajansı, gazete, dergi, parti ve dernek binası basılarak başta çArşı ve Ezilenlerin Sosyalist Partisi (ESP)...
+description: Gazlar, coplar, TOMA’lar, yaralamalar, kitlesel gözaltılar yetmedi. AKP iktidarı şimdi de adeta bir sürek avı başlattı. İstanbul’da ve ülkenin çeşitli kentlerinde onlarca ev, haber ajansı, gazete, dergi, parti ve dernek binası basılarak başta çArşı ve Ezilenlerin Sosyalist Partisi (ESP)...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi-Direnisi, Tanınma Adaleti, Katılım Adaleti
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi-Direnisi, Tanınma Adaleti, Katılım Adaleti
 
 # İntikam Operasyonlarını Durdurun. Gözaltına Alınanları Bırakın. “Çözüm ve Barış Sürecini” Askıdan İndirin!
 

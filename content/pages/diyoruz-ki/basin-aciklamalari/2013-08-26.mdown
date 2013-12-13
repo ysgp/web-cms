@@ -1,8 +1,8 @@
 Date: 26 Aug 2013
 Thumbnail: https://lh6.googleusercontent.com/-16LU4GpAHk4/UlSCaTpcGcI/AAAAAAAAAgk/wYMbtkI0v6s/w300-h150-no/basin-tarafsizlik.jpg
-Summary: Gezi Direnişi, genel olarak iktidarın ve özel olarak da Başbakan Erdoğan’ın kimyasını bozmuş, yönetim tarzındaki otoriter anlayış ve uygulamaları daha görünür kılmıştır.
+description: Gezi Direnişi, genel olarak iktidarın ve özel olarak da Başbakan Erdoğan’ın kimyasını bozmuş, yönetim tarzındaki otoriter anlayış ve uygulamaları daha görünür kılmıştır.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Medya
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Medya
 
 # İktidar eliyle şekillenen medya düzeni demokrasi için büyük tehdittir
 

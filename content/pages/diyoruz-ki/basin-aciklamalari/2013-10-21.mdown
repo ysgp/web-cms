@@ -1,8 +1,8 @@
 Date: 21 Oct 2013
 Thumbnail: https://lh3.googleusercontent.com/-uQvq2IwwTNU/UnChlf6jwnI/AAAAAAAAAnU/DSI-n-uNY_c/w720-h400-no/ab-ilerleme-raporu.jpg
-Summary: AB Komisyonu 2013 Türkiye İlerleme Raporu’nu kabul etti. Raporda Türkiye’nin demokrasi açığı vurgulanırken, ekoloji politikaları konularında ciddi eleştiriler yapılıyor.
+description: AB Komisyonu 2013 Türkiye İlerleme Raporu’nu kabul etti. Raporda Türkiye’nin demokrasi açığı vurgulanırken, ekoloji politikaları konularında ciddi eleştiriler yapılıyor.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, AB İlerleme Raporu
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, AB İlerleme Raporu
 
 
 # AB İlerleme Raporu… Eksikliklerin ve Müzakerelerin Takipçisiyiz!

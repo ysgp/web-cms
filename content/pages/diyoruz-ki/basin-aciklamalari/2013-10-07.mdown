@@ -1,8 +1,8 @@
 Date: 01 Oct 2013
 Thumbnail: https://lh3.googleusercontent.com/-B6SFzc6UJj4/UlSi-CYabvI/AAAAAAAAAiM/ElMK4z_EWdA/w300-h190-no/cevresel_etki_degerlendirmesi.jpg
-Summary: Yirmi yıl sonra Çevresel Etki Değerlendirme (ÇED) Yönetmeliği’nin altıncısı 3 Ekim 2013 tarihli Resmi Gazetede yayımlanarak yürürlüğe girdi. 1983 yılında...
+description: Yirmi yıl sonra Çevresel Etki Değerlendirme (ÇED) Yönetmeliği’nin altıncısı 3 Ekim 2013 tarihli Resmi Gazetede yayımlanarak yürürlüğe girdi. 1983 yılında...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, İklim Politikaları, Çevre ve İklim Adaleti, Çevre Etki Değerlendirme, TBÇK Kanunu
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, İklim Politikaları, Çevre ve İklim Adaleti, Çevre Etki Değerlendirme, TBÇK Kanunu
 
 # ÇED Yönetmeliği Yine Değişti, Doğa Yine Korumasız…
 

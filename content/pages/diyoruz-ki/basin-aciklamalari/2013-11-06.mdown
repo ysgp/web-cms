@@ -1,8 +1,8 @@
 Date: 06 Nov 2013
 Thumbnail: https://lh5.googleusercontent.com/NtORxpsmxh4EUKXQDbM3MWUJS6n_JaTg_Vf8Smft1gw=s308-no
-Summary: Ahlak bekçiliğine soyunan Başbakan Erdoğan, üniversite öğrencilerinin kızlı-erkekli aynı evde kalmasının uygun olmayacağını ve müdahale edilmesi gerektiğini belirtti. Soruyoruz; Hangi yetkiyle ve ne hakla?
+description: Ahlak bekçiliğine soyunan Başbakan Erdoğan, üniversite öğrencilerinin kızlı-erkekli aynı evde kalmasının uygun olmayacağını ve müdahale edilmesi gerektiğini belirtti. Soruyoruz; Hangi yetkiyle ve ne hakla?
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, Davalar, Nükleer Atıklar, Gaziemir 
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, Davalar, Nükleer Atıklar, Gaziemir 
 
 
 # Evimize davetsiz gelecek polis, vali ve Başbakan istemiyoruz 

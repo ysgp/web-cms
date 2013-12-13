@@ -1,8 +1,8 @@
 Date: 02 Jun 2013
 Thumbnail: https://lh5.googleusercontent.com/-zYVNs9M4uwY/UlR9p3F424I/AAAAAAAAAcM/TPeRG47_9qo/w300-h225-no/gezi-eylem-ysgp.jpg
-Summary: Hala hatasında direnen, inadını ve kibrini sürdürmeye devam eden ve on binlerin sokağa taşındığı bu büyük ve kapsayıcı sivil direnişten gerekli dersi almayan Başbakan Recep Tayyip Erdoğan’a açık not.
+description: Hala hatasında direnen, inadını ve kibrini sürdürmeye devam eden ve on binlerin sokağa taşındığı bu büyük ve kapsayıcı sivil direnişten gerekli dersi almayan Başbakan Recep Tayyip Erdoğan’a açık not.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi Parkı
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi Parkı
 
 # Artık her yer, bütün yaşam alanlarımız Gezi Parkı'dır.
 

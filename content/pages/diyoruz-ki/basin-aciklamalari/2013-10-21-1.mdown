@@ -1,8 +1,8 @@
 Date: 21 Oct 2013
 Thumbnail: https://lh3.googleusercontent.com/-uG7PWPh_pMA/UnCimU18AxI/AAAAAAAAAnc/_g0Xd9b6EO0/w421-h595-no/kentler.jpg
-Summary: Bir kez daha merkezi siyasetin gölgesinde yapılacak bu yerel seçim döneminde, mesele adaylıklar, ittifaklar, Ak Parti karşıtlığı ve yandaşlığı üzerinden gündeme geliyor, yönetim biçimi, yerinden yönetime dair öneriler söz konusu edilmiyor.
+description: Bir kez daha merkezi siyasetin gölgesinde yapılacak bu yerel seçim döneminde, mesele adaylıklar, ittifaklar, Ak Parti karşıtlığı ve yandaşlığı üzerinden gündeme geliyor, yönetim biçimi, yerinden yönetime dair öneriler söz konusu edilmiyor.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Demokrasi, Katılım Adaleti, Yerel Yönetimler, Kentsel Dönüşüm
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Demokrasi, Katılım Adaleti, Yerel Yönetimler, Kentsel Dönüşüm
 
 
 # Kentlerimizi Nasıl Yöneteceğiz?

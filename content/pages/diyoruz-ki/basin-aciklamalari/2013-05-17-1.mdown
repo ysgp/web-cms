@@ -1,8 +1,8 @@
 Date: 17 May 2013
 Thumbnail: https://lh6.googleusercontent.com/-MSRg1HLlnKo/UlSU4nDI2hI/AAAAAAAAAhY/YUjTWC17pF8/s290-no/onuryuruyusuthumb.jpg
-Summary: Tüm dünyada Uluslararası Homofobi ve Transfobiyle Mücadele Günü olarak kutlanan 17 Mayıs’ı Yeşiller ve Sol Gelecek olarak selamlıyoruz.
+description: Tüm dünyada Uluslararası Homofobi ve Transfobiyle Mücadele Günü olarak kutlanan 17 Mayıs’ı Yeşiller ve Sol Gelecek olarak selamlıyoruz.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Tanınma Adaleti, Demokrasi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Tanınma Adaleti, Demokrasi
 
 # Homofobi ve Transfobiye Karşı Mücadeleye!
 

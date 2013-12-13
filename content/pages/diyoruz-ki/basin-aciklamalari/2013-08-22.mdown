@@ -1,8 +1,8 @@
 Date: 22 Aug 2013
 Thumbnail: https://lh4.googleusercontent.com/-EKRED1I6OjU/UlSbQmWWlMI/AAAAAAAAAhw/ZRkCvUNhNws/s290-no/blackbox.jpg
-Summary: Suriye’de vahşi bir iç savaş her gün onlarca, kimi günlerde yüzlerce insanın canını almaya devam ediyor. Şam’da yaşanan bombalama ile kadın, çocuk, erkek sivil insanların hunharca katledilmesi...
+description: Suriye’de vahşi bir iç savaş her gün onlarca, kimi günlerde yüzlerce insanın canını almaya devam ediyor. Şam’da yaşanan bombalama ile kadın, çocuk, erkek sivil insanların hunharca katledilmesi...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kimyasal Silah, Suriye
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kimyasal Silah, Suriye
 
 # Suriye’deki vahşeti lanetliyoruz…
 
