@@ -1,8 +1,8 @@
 Date: 25 Jun 2013
 Thumbnail: https://lh6.googleusercontent.com/-3z4OI6j0Gl8/UlSCQqTKWFI/AAAAAAAAAeo/WQa6eBbnj6Q/w300-h195-no/milli-olan-hersey-bizimdir.jpg
-Summary: Bundan tam 79 yıl evvel, Türkiye’nin Trakya’sında yaşayan yerleşik halklardan Yahudilere karşı düzenlenen yağma ve boykot kampanyası sonucu, 15.000’den fazla Yahudi vatandaşımız tüm mallarını haraç mezat satarak İstanbul’a göç etmek zorunda bırakıldı.
+description: Bundan tam 79 yıl evvel, Türkiye’nin Trakya’sında yaşayan yerleşik halklardan Yahudilere karşı düzenlenen yağma ve boykot kampanyası sonucu, 15.000’den fazla Yahudi vatandaşımız tüm mallarını haraç mezat satarak İstanbul’a göç etmek zorunda bırakıldı.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Tanınma Adaleti, Katılım Adaleti, Kimlik Politikaları, YSGP Diyor ki
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Tanınma Adaleti, Katılım Adaleti, Kimlik Politikaları, YSGP Diyor ki
 
 # YSGP Diyor ki… 1934 Yılını Unutmuyoruz. Irkçı ve Ayrımcı Zihniyete Dur Diyoruz…
 

@@ -1,6 +1,6 @@
 Date: 18 Nov 2013
 Thumbnail: https://lh3.googleusercontent.com/-P14xqYKCyGc/UooJdhGmF1I/AAAAAAAAA0Q/D37aoJKa3Ok/w584-h369-no/buyuk-konferans.jpg
-Summary: Sen de gel, yüzünü güneşe dön! Büyük Konferansta bize katıl!
+description: Sen de gel, yüzünü güneşe dön! Büyük Konferansta bize katıl!
 Categories: diyoruz-ki/duyurular, diyoruz-ki, duyurular
 Carousel: [
   {img: "https://lh4.googleusercontent.com/-qTlqdP0kLE4/UooAL4iqSPI/AAAAAAAAAxw/XgEbNEahIks/w591-h295-no/kadin.jpg"},

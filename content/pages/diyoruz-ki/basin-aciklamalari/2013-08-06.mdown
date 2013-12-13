@@ -1,8 +1,8 @@
 Date: 06 Aug 2013
 Thumbnail: https://lh6.googleusercontent.com/--owtHfM2sR4/UlSCK98fa-I/AAAAAAAAAdo/vwlgLCNiQaM/w300-h166-no/ergenekon.jpg
-Summary: Ergenekon davası sona erdi. Mahkemenin verdiği karar, temyiz incelemesi ve sonrası süreçlerden geçerek kesinleşecek. Ergenekon davası kararının bu aşamada kişilerden bağımsız değerlendirilmesi gerektiğini düşünüyoruz
+description: Ergenekon davası sona erdi. Mahkemenin verdiği karar, temyiz incelemesi ve sonrası süreçlerden geçerek kesinleşecek. Ergenekon davası kararının bu aşamada kişilerden bağımsız değerlendirilmesi gerektiğini düşünüyoruz
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Ergenekon Davası
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Ergenekon Davası
 
 # Ergenekon Davasının, Normalleşmenin, Demokratikleşmenin Başlangıcı Olabilmesi İçin Mücadeleye Devam!
 

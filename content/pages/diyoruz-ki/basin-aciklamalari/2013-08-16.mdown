@@ -1,8 +1,8 @@
 Date: 16 Aug 2013
 Thumbnail: https://lh5.googleusercontent.com/-2_95XJhnPgw/UlSaeKu9jaI/AAAAAAAAAho/1eMro2w2ogc/s290-no/misirdarbethumb.jpg
-Summary: Darbecilerin Mısır halkına yönelik, çok sayıda ölüm ve yaralanmalara yol açan planlı saldırısı devam ederken, bu katliama sessiz kalan, darbe yönetimine açık ya da üstü örtülü destek veren tüm taraflar bu katliamın suç ortağıdır.
+description: Darbecilerin Mısır halkına yönelik, çok sayıda ölüm ve yaralanmalara yol açan planlı saldırısı devam ederken, bu katliama sessiz kalan, darbe yönetimine açık ya da üstü örtülü destek veren tüm taraflar bu katliamın suç ortağıdır.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Mısır, Darbe
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Mısır, Darbe
 
 # Darbeciler Öldürüyor, Dünya Seyrediyor…
 

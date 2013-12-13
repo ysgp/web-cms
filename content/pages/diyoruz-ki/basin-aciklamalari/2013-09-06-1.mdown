@@ -1,8 +1,8 @@
 Date: 06 Sep 2013
 Thumbnail: https://lh6.googleusercontent.com/-hXzZIA1rGtE/UlSCZHvimxI/AAAAAAAAAgU/0Pc2UxXUNS4/w400-h286-no/atanamayan-ogretmenler.jpg
-Summary: Milli Eğitim Bakanlığı tarafından 9 Eylül’de 40 bin öğretmen ataması yapılacağı açıklaması yapıldı. Bu atama da öğretmen açığını kapatmaya yetmeyecektir.
+description: Milli Eğitim Bakanlığı tarafından 9 Eylül’de 40 bin öğretmen ataması yapılacağı açıklaması yapıldı. Bu atama da öğretmen açığını kapatmaya yetmeyecektir.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Eğitim Politikaları, İktisadi Adalet
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Eğitim Politikaları, İktisadi Adalet
 
 # Öğretmen Atamaları Artırılmalı Eğitim Kurumlarındaki Öğretmen Açığı Kapatılmalıdır.
 

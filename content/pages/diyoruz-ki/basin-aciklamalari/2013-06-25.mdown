@@ -1,8 +1,8 @@
 Date: 25 Jun 2013
 Thumbnail: https://lh6.googleusercontent.com/-MSRg1HLlnKo/UlSU4nDI2hI/AAAAAAAAAhY/YUjTWC17pF8/s290-no/onuryuruyusuthumb.jpg
-Summary: Partimiz kurulduğu ilk günden itibaren LGBT bireylerin hak ve ögürlük taleplerini evrensel insan haklarının bir parçası olarak görmüştür. Bu kısa dönem içinde LGBT hareketi ile eşit ve özgür bir ilişki temelinde çalışmalarını yürütmüştür.
+description: Partimiz kurulduğu ilk günden itibaren LGBT bireylerin hak ve ögürlük taleplerini evrensel insan haklarının bir parçası olarak görmüştür. Bu kısa dönem içinde LGBT hareketi ile eşit ve özgür bir ilişki temelinde çalışmalarını yürütmüştür.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, LGBT Onur Yürüyüşü, Kimlik Politikalari, Katılım Adaleti, Tanınma Adaleti
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, LGBT Onur Yürüyüşü, Kimlik Politikalari, Katılım Adaleti, Tanınma Adaleti
 
 # Susma Haykır, Eşcinseller Vardır! 21. LGBT Onur Haftasını Kutluyoruz…
 

@@ -1,8 +1,8 @@
 Date: 18 Aug 2013
 Thumbnail: https://lh6.googleusercontent.com/-nlVXgXfdUsY/UlSCbQn_8YI/AAAAAAAAAg0/QWEoVgTN7ok/w300-h225-no/deprem.jpg
-Summary: 14 yıl önceki büyük deprem 45 saniye sürdü ve Adapazarı – Yalova arasında ağır kayıplara yol açtı. Yüz binlerce bina yıkıldı veya hasar gördü, on binlerce insan yaralandı ve en az 18 bin kişi hayatını kaybetti.
+description: 14 yıl önceki büyük deprem 45 saniye sürdü ve Adapazarı – Yalova arasında ağır kayıplara yol açtı. Yüz binlerce bina yıkıldı veya hasar gördü, on binlerce insan yaralandı ve en az 18 bin kişi hayatını kaybetti.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kentsel Dönüşüm, Kamu Yönetimi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kentsel Dönüşüm, Kamu Yönetimi
 
 # 14 yıl geçti. Kamu yönetimi de kentler de dönüşmedi…
 

@@ -1,8 +1,8 @@
 Date: 22 May 2013
 Thumbnail: https://lh3.googleusercontent.com/-7bnmv1TxBz4/UnwfpsMVljI/AAAAAAAAApM/uASl3MSxsaw/s308-no/logo_profil.jpg
-Summary: AKP iktidarı bir torba yasayı daha meclis gündemine aldı. Meclis gündemine gelen bu torba yasa ile diğer kanunların yanı sıra 5510 Sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'nun da bazı maddeleri de değiştirilecek.
+description: AKP iktidarı bir torba yasayı daha meclis gündemine aldı. Meclis gündemine gelen bu torba yasa ile diğer kanunların yanı sıra 5510 Sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'nun da bazı maddeleri de değiştirilecek.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Yasa Tasarısı
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Yasa Tasarısı
 
 # Torba Yasa Tasarısı Geri Çekilsin!
 

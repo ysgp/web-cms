@@ -1,5 +1,5 @@
 Thumbnail: https://lh5.googleusercontent.com/-4kz0ASQtE5g/UlRHMPgtcGI/AAAAAAAAAOc/tFncvakX6e0/w583-h437-no/ankara1.jpg
-Summary: TBMM Genel Kurul gündemine gelmek üzere olan Tabiatı ve Biyolojik Çeşitliliği Koruma Kanunu Tasarısı, doğayı korumak için değil, korunması gereken doğal alanları enerji, madencilik, konut ve sanayi gibi yatırımlara açmak için hazırlanan, ismi yanıltıcı, içeriği tuzaklarla dolu bir yasa tasarısı.
+description: TBMM Genel Kurul gündemine gelmek üzere olan Tabiatı ve Biyolojik Çeşitliliği Koruma Kanunu Tasarısı, doğayı korumak için değil, korunması gereken doğal alanları enerji, madencilik, konut ve sanayi gibi yatırımlara açmak için hazırlanan, ismi yanıltıcı, içeriği tuzaklarla dolu bir yasa tasarısı.
 Categories: diyoruz-ki/kampanyalar, diyoruz-ki, kampanyalar
 Carousel: [
   {img: "https://lh5.googleusercontent.com/-mfkpcBjR4a0/UlRHK--mzcI/AAAAAAAAAOU/eKbljs_e19U/w701-h473-no/istanbul.jpg"},

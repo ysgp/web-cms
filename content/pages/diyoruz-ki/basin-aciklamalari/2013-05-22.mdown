@@ -1,8 +1,8 @@
 Date: 22 May 2013
 Thumbnail: https://lh3.googleusercontent.com/-7bnmv1TxBz4/UnwfpsMVljI/AAAAAAAAApM/uASl3MSxsaw/s308-no/logo_profil.jpg
-Summary: Dün gece yarısı 219 kabul, 25 ret oyuyla kabul edilen “Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun” iktisadi adaletsizliği, çevre ve iklim adaletsizliğini derinleştirecek.
+description: Dün gece yarısı 219 kabul, 25 ret oyuyla kabul edilen “Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun” iktisadi adaletsizliği, çevre ve iklim adaletsizliğini derinleştirecek.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Yasa Tasarısı
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Yasa Tasarısı
 
 # CUMHURBAŞKANI'NA ÇAĞRI: ADALETSİZLİKLERİ DERİNLEŞTİRECEK GECEYARISI YASASINI ONAYLAMAYIN
 

@@ -1,8 +1,8 @@
 Date: 14 Jun 2013
 Thumbnail: https://lh5.googleusercontent.com/-spnEQSkc6X4/UlSCL2avOII/AAAAAAAAAd4/BrfQEVMSI74/w300-h165-no/hayattv.jpg
-Summary: Hayat Televizyonu’nun hukuksuz bir biçimde kapatılmasını kınıyor ve bu karardan vazgeçilmesini talep ediyoruz.
+description: Hayat Televizyonu’nun hukuksuz bir biçimde kapatılmasını kınıyor ve bu karardan vazgeçilmesini talep ediyoruz.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Medya
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Medya
 
 # "Hayat" Devam Etmeli!
 

@@ -1,8 +1,8 @@
 Date: 21 Oct 2013
 Thumbnail: https://lh3.googleusercontent.com/-1_cVmIAQq5k/UnCqgyra5aI/AAAAAAAAAns/ka9T45ZVMdY/w421-h595-no/cilgin_projeler.jpg
-Summary: Çılgın Projeleri Durdurun; Çözüm Yeşil Dönüşüm. Balkan ülkelerinde halen etkisini hissettiren 2008 Küresel Krizi’ne karşı, bölgedeki hükümetler çevresel açıdan yıkıcı olan çılgın projelere sığındı.
+description: Çılgın Projeleri Durdurun; Çözüm Yeşil Dönüşüm. Balkan ülkelerinde halen etkisini hissettiren 2008 Küresel Krizi’ne karşı, bölgedeki hükümetler çevresel açıdan yıkıcı olan çılgın projelere sığındı.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Demokrasi, Katılım Adaleti, Yerel Yönetimler, Kentsel Dönüşüm, Yeşil Düşünce Derneği, Çılgın Projeler, Mega Projeler
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Demokrasi, Katılım Adaleti, Yerel Yönetimler, Kentsel Dönüşüm, Yeşil Düşünce Derneği, Çılgın Projeler, Mega Projeler
 
 
 # Çılgın Projeler Konferansı, İstanbul, 26-27 Ekim 2013

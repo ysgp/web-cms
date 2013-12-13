@@ -1,8 +1,8 @@
 Date: 06 Dec 2013
 Thumbnail: https://lh5.googleusercontent.com/-PHZ8zGlJG5U/UqHaMSonLtI/AAAAAAAAA1c/x0uDt7e_cUo/w600-h402-no/mandela.jpg
-Summary: Özgürlük savaşçısı Mandela yaşamını yitirdi.
+description: Özgürlük savaşçısı Mandela yaşamını yitirdi.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Demokrasi, Tanınma Adaleti
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Demokrasi, Tanınma Adaleti
 
 # İnsanlığın başı sağolsun!
 

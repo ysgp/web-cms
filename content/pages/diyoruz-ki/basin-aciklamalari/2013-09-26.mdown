@@ -1,8 +1,8 @@
 Date: 26 Sep 2013
 Thumbnail: https://lh5.googleusercontent.com/-oEyKI6dyP7g/UlSCUMbvM5I/AAAAAAAAAfg/WvqzozQBBmU/w300-h207-no/12eylul-gezi.jpg
-Summary: Sağ kalan darbeciler Kenan Evren ve Tahsin Şahinkaya’nın “ömür boyu hapis cezası” istemiyle yargılandıkları davanın 16.duruşması...
+description: Sağ kalan darbeciler Kenan Evren ve Tahsin Şahinkaya’nın “ömür boyu hapis cezası” istemiyle yargılandıkları davanın 16.duruşması...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Davalar, 12 Eylül, Darbe
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Davalar, 12 Eylül, Darbe
 
 # Adalet Arayışımız Devam Ediyor; “12 Eylül Davası”ndayız
 

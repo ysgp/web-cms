@@ -1,8 +1,8 @@
 Date: 10 Jul 2013
 Thumbnail: https://lh3.googleusercontent.com/-H9dvm_1A_As/UlSCP0It4MI/AAAAAAAAAeg/6RH9YWl2I2c/w315-h387-no/logo.jpg
-Summary: 10 Haziran 2013 günü, Alper Budka mahlasını kullanan bir üyemizin Gezi Parkı direnişi sırasında bazı SDP taraftarlarınca tartaklanması nedeniyle başlayan sorunlar, SDP yöneticisi arkadaşların sağduyulu tavırları sayesinde çözülmüştür.
+description: 10 Haziran 2013 günü, Alper Budka mahlasını kullanan bir üyemizin Gezi Parkı direnişi sırasında bazı SDP taraftarlarınca tartaklanması nedeniyle başlayan sorunlar, SDP yöneticisi arkadaşların sağduyulu tavırları sayesinde çözülmüştür.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet,
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet,
 
 # YSGP'den zorunlu bir açıklama...
 

@@ -1,8 +1,8 @@
 Date: 11 Jul 2013
 Thumbnail: https://lh4.googleusercontent.com/-B_eJ5AMYIj4/UlSCCRCgGSI/AAAAAAAAAdg/vkwqJ3Xt5u4/w300-h169-no/sivriada-yassiada.jpg
-Summary: AKP Hükümeti, bir gecede yaptığı düzenlemelerle doğal ve tarihi alanlardaki sit alanlarının statüsünü değiştirip imara açan uygulamalarından vazgeçsin. Hükümet, 3. Köprü, Taksim Gezi Parkı projelerinde olduğu gibi şimdi de Yassıada ve Sivriada’da...
+description: AKP Hükümeti, bir gecede yaptığı düzenlemelerle doğal ve tarihi alanlardaki sit alanlarının statüsünü değiştirip imara açan uygulamalarından vazgeçsin. Hükümet, 3. Köprü, Taksim Gezi Parkı projelerinde olduğu gibi şimdi de Yassıada ve Sivriada’da...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Adalar'da İmara Karşıyız, Davalar
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Adalar'da İmara Karşıyız, Davalar
 
 # Yassıada ve Sivriada’nın İmara Açılmasına İtiraz Ediyoruz
 ![Yassiada ve Sivriada'nın görüntüsü](https://lh4.googleusercontent.com/-B_eJ5AMYIj4/UlSCCRCgGSI/AAAAAAAAAdg/vkwqJ3Xt5u4/w300-h169-no/sivriada-yassiada.jpg)

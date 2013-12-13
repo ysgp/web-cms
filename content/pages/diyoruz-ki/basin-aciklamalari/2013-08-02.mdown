@@ -1,8 +1,8 @@
 Date: 02 Aug 2013
 Thumbnail: https://lh6.googleusercontent.com/-5L3aCC86Ihk/UlSCS7lVYkI/AAAAAAAAAfI/NfbUwTtu6kI/w300-h188-no/rojava.jpg
-Summary: Sınırımızın hemen yanıbaşında bir katliam yaşanıyor. El Kaide türevi silahlı çeteler ve El Nusra katilleri Kürt halkına saldırılarını yoğunlaştırıyor. Kadın, çocuk demeden sivil halka yönelik saldırılar her geçen gün daha fazla insanın canını alıyor.
+description: Sınırımızın hemen yanıbaşında bir katliam yaşanıyor. El Kaide türevi silahlı çeteler ve El Nusra katilleri Kürt halkına saldırılarını yoğunlaştırıyor. Kadın, çocuk demeden sivil halka yönelik saldırılar her geçen gün daha fazla insanın canını alıyor.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kürdistan, Suriye, Rojava
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kürdistan, Suriye, Rojava
 
 # Suriye Kürdistanı’ndaki (Rojava) katliama sessiz kalmayacağız…
 

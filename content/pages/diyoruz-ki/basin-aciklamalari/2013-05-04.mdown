@@ -1,8 +1,8 @@
 Date: 04 May 2013
 Thumbnail: https://lh3.googleusercontent.com/-E38qcbWKPTk/UolZXqym32I/AAAAAAAAAw4/uTzwHq-e6q4/w448-h251-no/sinop-fuku%25C5%259Fima.jpg
-Summary: AKP Hükümeti nükleer sevdasından vazgeçmiyor, Fukuşima’da yaşanan felaketin ardından Japonya Hükümeti ile nükleer ortaklık kuruyor. Dün Ankara ziyaretinde bulunan Japonya Başbakanı Shinto Abe ile, Fransa Areva şirketi ve Japonya Mitsubishi ortaklığında Sinop’ta kurulması planlanan nükleer santral için hükümetler arası anlaşma imzalandı.
+description: AKP Hükümeti nükleer sevdasından vazgeçmiyor, Fukuşima’da yaşanan felaketin ardından Japonya Hükümeti ile nükleer ortaklık kuruyor. Dün Ankara ziyaretinde bulunan Japonya Başbakanı Shinto Abe ile, Fransa Areva şirketi ve Japonya Mitsubishi ortaklığında Sinop’ta kurulması planlanan nükleer santral için hükümetler arası anlaşma imzalandı.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Demokrasi, Çevre ve İklim Adaleti, Enerji Politikaları, Doğa Hakları, Nükleer
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Demokrasi, Çevre ve İklim Adaleti, Enerji Politikaları, Doğa Hakları, Nükleer
 
 # Sinop Fukuşima Olmasın!
 

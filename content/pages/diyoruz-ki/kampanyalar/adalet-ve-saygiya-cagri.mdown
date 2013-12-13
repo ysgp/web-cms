@@ -1,5 +1,5 @@
 Thumbnail: https://lh6.googleusercontent.com/-NRs73cYs6IE/UlRHP5lG1II/AAAAAAAAAO4/tgyOwQ0cq4Q/w300-h169-no/adaletvesaygiyacagri.jpg
-Summary: Yeşiller ve Sol Gelecek Partisi, Gezi olayları yaşanırken, herkesi demokrasi zemininde buluşmaya, çoğulcu ve eşitlikçi demokratik süreçlerin işletilmesi için talepte bulunmaya, toplumda yaratılmaya çalışılan kutuplaşmayı saygı ve adalet ile aşmaya davet ediyor.
+description: Yeşiller ve Sol Gelecek Partisi, Gezi olayları yaşanırken, herkesi demokrasi zemininde buluşmaya, çoğulcu ve eşitlikçi demokratik süreçlerin işletilmesi için talepte bulunmaya, toplumda yaratılmaya çalışılan kutuplaşmayı saygı ve adalet ile aşmaya davet ediyor.
 Categories: diyoruz-ki/kampanyalar, diyoruz-ki, kampanyalar
 Carousel: [
   {img: "https://lh5.googleusercontent.com/-OeNb1QCMo5Q/UmXL7X8q9TI/AAAAAAAAAlY/3LyAvArhOys/w701-h397-no/sayg%25C4%25B1yacagri.jpg"},

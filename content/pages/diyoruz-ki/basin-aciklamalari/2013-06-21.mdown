@@ -1,8 +1,8 @@
 Date: 21 Jun 2013
 Thumbnail: https://lh5.googleusercontent.com/sq94nARE_gYmrHjaTGCDy6c-_dpVA2S-3xf61QOJzzE=s207-p-no
-Summary: 1 Mayıs gecesi polis baskınından sonra Gezi Parkı’nın korunması için başlatılan eylem, artık bir demokrasi arayışına dönüşmüştür. Buna karşın AKP Hükümeti bu protestolara kimyasal gazlarla, yer yer silahla karşılık vermiş, 4 kişinin ölümüne, onlarca yurttaşın yaralanmasına yol açmıştır.
+description: 1 Mayıs gecesi polis baskınından sonra Gezi Parkı’nın korunması için başlatılan eylem, artık bir demokrasi arayışına dönüşmüştür. Buna karşın AKP Hükümeti bu protestolara kimyasal gazlarla, yer yer silahla karşılık vermiş, 4 kişinin ölümüne, onlarca yurttaşın yaralanmasına yol açmıştır.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, 12-Eylul, Gezi-Direnisi, Davalar
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, 12-Eylul, Gezi-Direnisi, Davalar
 
 # Gezi Parkı Direnişi 12 Eylül zihniyetine de direniştir!
 

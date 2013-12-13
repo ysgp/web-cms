@@ -1,8 +1,8 @@
 Date: 31 Oct 2013
 Thumbnail: https://lh6.googleusercontent.com/--u-Uj082Qqw/UnQqYlZvEzI/AAAAAAAAAn8/gVt5KU7SYMg/w883-h589-no/nukleer.jpg
-Summary: Türkiye basınında çıkan, Sinop için Japonya Başbakanı Shinzo Abe ile yapılması planlanan nükleer reaktörlerle ilgili yeni imzaların atıldığı haberleri gerçeği yansıtmıyor.
+description: Türkiye basınında çıkan, Sinop için Japonya Başbakanı Shinzo Abe ile yapılması planlanan nükleer reaktörlerle ilgili yeni imzaların atıldığı haberleri gerçeği yansıtmıyor.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, Davalar, Nükleer Atıklar, Gaziemir 
+keywords: basin-aciklamalari, diyoruz-ki, Duyuru, Haberler, Manşet, Demokrasi, Davalar, Nükleer Atıklar, Gaziemir 
 
 
 # ‘Nükleer İmza’ Yalan. Gaziemir’deki Nükleer Suçların Peşindeyiz!

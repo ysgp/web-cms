@@ -1,8 +1,8 @@
 Date: 16 Jun 2013
 Thumbnail: https://lh5.googleusercontent.com/-oS0dQDs3IFs/UlSCLX4svII/AAAAAAAAAdw/kw0zlJLT4rM/w300-h168-no/gezi_mudahale.jpg
-Summary: Gezi Parkı’na yapılan müdahale kelimenin tam anlamıyla devlet terörüdür. Dahası, sürecin makul bir çözüm yoluna girdiği eşikte bu terörün gerçekleştirilmesi Recep Tayyip Erdoğan’ın hakikatle bütün ilişkilerinin kesildiğini de göstermektedir.
+description: Gezi Parkı’na yapılan müdahale kelimenin tam anlamıyla devlet terörüdür. Dahası, sürecin makul bir çözüm yoluna girdiği eşikte bu terörün gerçekleştirilmesi Recep Tayyip Erdoğan’ın hakikatle bütün ilişkilerinin kesildiğini de göstermektedir.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi-Direnisi, Katılım Adaleti, Tanınma Adaleti
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi-Direnisi, Katılım Adaleti, Tanınma Adaleti
 
 # Bu ülke Recep Tayyip Erdoğan’ın dizginsiz kibrine mahkum değildir!
 

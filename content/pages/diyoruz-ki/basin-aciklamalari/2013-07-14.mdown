@@ -1,8 +1,8 @@
 Date: 14 Jul 2013
 Thumbnail: https://lh3.googleusercontent.com/-Khuydf1QTgw/UlSCXBw2VUI/AAAAAAAAAf8/yj9eVRqFMUM/w300-h169-no/adaletvesaygiyacagri.jpg
-Summary: Türkiye’nin gündemini sarsan Gezi olayları yıllardır farklı bir iddia içerisinde bulunan iktidarın anlaşılması güç tavırlarının da katkısıyla toplumda derin bir kutuplaşma yarattı.
+description: Türkiye’nin gündemini sarsan Gezi olayları yıllardır farklı bir iddia içerisinde bulunan iktidarın anlaşılması güç tavırlarının da katkısıyla toplumda derin bir kutuplaşma yarattı.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kampanya, İmza, Gezi Direnişi, Katılım Adaleti, Tanınma Adaleti
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Kampanya, İmza, Gezi Direnişi, Katılım Adaleti, Tanınma Adaleti
 
 # Adalet ve Saygıya Çağrı: Gezi’nin temsil ettiği demokrasi zemininde buluşmak
 

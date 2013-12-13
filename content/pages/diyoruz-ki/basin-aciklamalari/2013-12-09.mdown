@@ -1,8 +1,8 @@
 Date: 09 Dec 2013
 Thumbnail: https://lh5.googleusercontent.com/tJqTwHgiZ-vyvh1VTpeYSrQxTunRu4iaXWqr7ZNWE8M=w528-h285-no
-Summary: Hakkâri’nin Gever ilçesinde, kendi dini inanç ve kültürlerine göre ölülerini gömdükleri mezarlığa, kim tarafından yapıldığı belli olmayan çirkin saldırının, ilçede yaşayan halk tarafından protesto edildiği gösteriye, devletin polislerince, ağır silahlarla müdahale edildi.
+description: Hakkâri’nin Gever ilçesinde, kendi dini inanç ve kültürlerine göre ölülerini gömdükleri mezarlığa, kim tarafından yapıldığı belli olmayan çirkin saldırının, ilçede yaşayan halk tarafından protesto edildiği gösteriye, devletin polislerince, ağır silahlarla müdahale edildi.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Demokrasi, Tanınma Adaleti, Yüksekova Katliamı
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Demokrasi, Tanınma Adaleti, Yüksekova Katliamı
 
 # Gever katliamı aydınlatılsın! Faillerden hesap sorulsun!
 

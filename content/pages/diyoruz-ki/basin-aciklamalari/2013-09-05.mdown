@@ -1,8 +1,8 @@
 Date: 05 Sep 2013
 Thumbnail: https://lh4.googleusercontent.com/-YeKE7LlGigM/UlSCR8bA34I/AAAAAAAAAe4/YGAeP4L0a6I/w300-h279-no/olimpiyat_istemiyoruz.jpg
-Summary: 7 Eylül’de yapılacak Uluslararası Olimpiyat Komitesi toplantısında, sadece 2020 Olimpiyatlarının nerede yapılacağına değil, adeta İstanbul'un kaderine... 
+description: 7 Eylül’de yapılacak Uluslararası Olimpiyat Komitesi toplantısında, sadece 2020 Olimpiyatlarının nerede yapılacağına değil, adeta İstanbul'un kaderine... 
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Olimpiyatlar
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Olimpiyatlar
 
 # Olimpiyat savurganlığı istemiyoruz…
 

@@ -1,8 +1,8 @@
 Date: 30 Sep 2013
 Thumbnail: https://lh3.googleusercontent.com/-H9dvm_1A_As/UlSCP0It4MI/AAAAAAAAAeg/6RH9YWl2I2c/w315-h387-no/logo.jpg
-Summary: Başbakan Erdoğan uzun süredir dar bir ekip içinde hazırlanan demokratikleşme paketini açıkladı. Türkiye’deki **demokrasi açığını** veya **eksik demokrasi** sorununu...
+description: Başbakan Erdoğan uzun süredir dar bir ekip içinde hazırlanan demokratikleşme paketini açıkladı. Türkiye’deki **demokrasi açığını** veya **eksik demokrasi** sorununu...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Demokrasi Paketi, Katılım Adaleti, Tanınma Adaleti, Kürdistan, Eğitim Politikaları, Anadil
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Demokrasi Paketi, Katılım Adaleti, Tanınma Adaleti, Kürdistan, Eğitim Politikaları, Anadil
 
 # Küçük ve Yetersiz Adımlar… Demokrasi Açığı Kapanmıyor, Demokrasi Eksiği Giderilmiyor!
 

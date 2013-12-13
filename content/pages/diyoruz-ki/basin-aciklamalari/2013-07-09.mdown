@@ -1,8 +1,8 @@
 Date: 09 Jul 2013
 Thumbnail: https://lh4.googleusercontent.com/-epSkk7Nob6s/UlSB-T2HrYI/AAAAAAAAAdI/iN8yvTl3MUg/w300-h171-no/taksim-polis-toma-mudahale.jpg
-Summary: Bizzat İstanbul Valisi Hüseyin Avni Mutlu tarafından halka açılan Gezi Parkı, üç saat içinde keyfi bir kararla yeniden halka kapatıldı. Parka girmek isteyen binlerce vatandaş yeniden orantısız polis şiddetine, gaz, tazyikli su ve cop saldırısına maruz kaldı.
+description: Bizzat İstanbul Valisi Hüseyin Avni Mutlu tarafından halka açılan Gezi Parkı, üç saat içinde keyfi bir kararla yeniden halka kapatıldı. Parka girmek isteyen binlerce vatandaş yeniden orantısız polis şiddetine, gaz, tazyikli su ve cop saldırısına maruz kaldı.
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi-Direnisi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi-Direnisi
 
 # Siyasal Kibir İnsan Hakkı Tanımıyor! Dün Türkiye’nin “Devlet Terörü Tarihi”ne bir kara sayfa daha ilave edildi.
 ![Taksim'de Polis Saldırısı Görüntüsü](https://lh4.googleusercontent.com/-epSkk7Nob6s/UlSB-T2HrYI/AAAAAAAAAdI/iN8yvTl3MUg/w300-h171-no/taksim-polis-toma-mudahale.jpg)

@@ -1,8 +1,8 @@
 Date: 28 Aug 2013
 Thumbnail: https://lh6.googleusercontent.com/-Vd3bMEuq0mo/UlSCA3Sc6_I/AAAAAAAAAdY/OcyH1mlaE64/w300-h150-no/suriye-hava.jpg
-Summary: Suriye’ye yönelik bir ABD-Fransa-İngiltere ortak yapımı askeri saldırı göz göre göre geliyor. Bu askeri saldırının, 1995’te Bosna’da, 1999’da Kosova’da olduğu gibi ‘havadan’...
+description: Suriye’ye yönelik bir ABD-Fransa-İngiltere ortak yapımı askeri saldırı göz göre göre geliyor. Bu askeri saldırının, 1995’te Bosna’da, 1999’da Kosova’da olduğu gibi ‘havadan’...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Suriye, Savaş
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Suriye, Savaş
 
 # Çözüm hava saldırısı değil, barış masası…
 

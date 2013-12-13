@@ -1,8 +1,8 @@
 Date: 04 Jul 2013
 Thumbnail: https://lh3.googleusercontent.com/-c_wSSrFkw7Y/UlSB8oysCWI/AAAAAAAAAdA/DYrtzf6fgBU/w300-h154-no/taksim-projesi.jpg
-Summary: İstanbul Büyükşehir Belediyesi Mahkeme Kararını Hemen Uygulamalıdır… Tüm İnşa Faaliyetleri Hemen Durdurulmalı, Katılımcı Planlama Yapılmalıdır! Gezi Parkı Direnişi ile kentin kamusal alanlarına, yaşam alanlarına sahip çıkmakla başlayan,
+description: İstanbul Büyükşehir Belediyesi Mahkeme Kararını Hemen Uygulamalıdır… Tüm İnşa Faaliyetleri Hemen Durdurulmalı, Katılımcı Planlama Yapılmalıdır! Gezi Parkı Direnişi ile kentin kamusal alanlarına, yaşam alanlarına sahip çıkmakla başlayan,
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi Direnişi
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Gezi Direnişi
 
 # Mahkeme Taksim Projesi’nin Planlarını İptal Etti… Şimdi Katılımcılık İşletilmeli!
 

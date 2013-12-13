@@ -1,8 +1,8 @@
 Date: 04 Jul 2013
 Thumbnail: https://lh6.googleusercontent.com/-gzDZtadnDXY/UlSB_RDUwuI/AAAAAAAAAdQ/xqKzUNlzsZQ/w300-h198-no/tahrir.jpg
-Summary: Mısır halkının demokrasi talebine ve mücadelesine asker darbesi vuruldu. Mısır’ın siyasal tarihinde demokratik bir seçime benzeyen ilk seçimle iktidara gelen Cumhurbaşkanı ve Hükümetin, meydanlarda yaşanan muhalif protestoları ileri sürerek...
+description: Mısır halkının demokrasi talebine ve mücadelesine asker darbesi vuruldu. Mısır’ın siyasal tarihinde demokratik bir seçime benzeyen ilk seçimle iktidara gelen Cumhurbaşkanı ve Hükümetin, meydanlarda yaşanan muhalif protestoları ileri sürerek...
 Categories: diyoruz-ki/basin-aciklamalari ,diyoruz-ki, basin-aciklamalari
-Tags: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Mısır
+keywords: Diyoruz ki, Basın Açıklamaları, Duyuru, Haberler, Manşet, Demokrasi, Mısır
 
 # Mısır Kışı Başladı… Askeri bir darbeden demokrasi çıkmaz…
 
