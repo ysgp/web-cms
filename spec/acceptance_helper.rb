@@ -18,3 +18,7 @@ class Capybara::Session
     Hash[*URI.parse(current_url).query.split(/\?|=|&/)]
   end
 end
+
+def url_for mdown
+  mdown.gsub('content/pages','').gsub('.mdown','').gsub('/index','')
+end
