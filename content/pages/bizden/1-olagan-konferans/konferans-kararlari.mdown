@@ -5,9 +5,10 @@ Thumbnail: https://lh3.googleusercontent.com/-nkuTGYlvFMU/UqMXOZgzKoI/AAAAAAAAA1
 
 # Konferans Kararları
 
+<div data-configid="9722162/6010478" style="width: %100; height: %100;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
-<div data-configid="9722162/5920234" style="width: %100; height: %100;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 <hr>
 
-[   Dökümanı İndir](https://docs.google.com/uc?export=download&id=0B88KkSwAkgG1d0hKSU1JQ3Z4S2M "İndir")
+[   Dökümanı İndir](https://docs.google.com/uc?export=download&id=0B88KkSwAkgG1UDdwblNNOVdYLVU "İndir")
+
