@@ -4,24 +4,28 @@ Categories: yapilar
 
 [Parti Eşsözcüleri](/bizden/es-sozculer) MYK’nın doğal üyeleridir.
 
- İsim                  | Grv | Kent     | eposta adresi               |
-:----------------------|:--- |:-------- |:----------------------------|
- ABDULLAH ÇİFTÇİ       | MYK | ANKARA   | ab55ciftci@gmail.com
- ADNAN GÖLPUNAR        | MYK | ANKARA   | adnan.golpunar@hotmail.com
- AHMET ASENA           | MYK | İSTANBUL | ahmetasena@hotmail.com
- AHMET ATIL AŞICI      | MYK | İSTANBUL | ahmetatil@yahoo.com
- BELGİN ÇELİK          | MYK | ANKARA   | belgincelik54@gmail.com
- CİHAT DEMİRTAŞ        | MYK | İSTANBUL | cihatdemirtas@gmail.com
- ÇİĞDEM ÖZBAŞ          | MYK | İSTANBUL | cigdemozbas@yahoo.com
- DUYGU MELEK SÜRÜCÜ    | MYK | ANKARA   | venseremosdnz@hotmail.com
- EFE GÖKTOĞAN          | MYK | İZMİR    | egoktogan@gmail.com
- ELÇİN ÖZ              | MYK | İSTANBUL | elcinsahin@hotmail.com
- FERDAN ERGUT          | MYK | ANKARA   | ferdan@metu.edu.tr
- FİKRİ SÖNMEZ          | MYK | İSTANBUL | fikrisonmezz@gmail.com
- GİZEM KASTAMONULU     | MYK | İSTANBUL | gizemkastamonulu@gmail.com
- HAMİDE BEZİRCİ YILMAZ | MYK | İSTANBUL | hamide.bezirci@hotmail.com
- İKBAL POLAT           | MYK | BURSA    | polatikal@gmail.com
- KEMAL TUNCAELLİ       | MYK | İSTANBUL | kemaltuncaelli@hotmail.com
- MÜGE KARALOM          | MYK | İSTANBUL | mgkrlm2@gmail.com
- SİNEM KAPLAN          | MYK | İSTANBUL | sinkaplan@hotmail.com
- ZEHRA VEZAN KARABULUT | MYK | İZMİR    | z.vezankarabulut@gmail.com
+ İsim                     | Grv |
+:-------------------------|:--- |
+ ABDULLAH ÇİFTÇİ          | MYK |
+ AHMET ATIL AŞICI         | MYK |
+ ATİLLA AYTEMUR           | MYK |
+ AYLA ŞEŞAN               | MYK |
+ AYŞE ERDEM               | MYK |
+ CİHAN ERDAL              | MYK |
+ CİHAT FAZLI DEMİRTAŞ     | MYK |
+ DENİZ ÖZKOR              | MYK |
+ FERDAN ERGUT             | MYK |
+ HAMİDE BEZİRCİ YILMAZ    | MYK |
+ İBRAHİM AKIN             | MYK |
+ İKBAL POLAT              | MYK |
+ KEMAL TUNCAELLİ          | MYK |
+ MAHMUT ŞEVKET BOYNUDELİK | MYK |
+ MÜGE KARALOM             | MYK |
+ NESRİN ASLAN             | MYK |
+ SENNUR BAYBUĞA           | MYK |
+ SERKAN ZİHLİ             | MYK |
+ YASEMİN GÜNEY AĞIRDIR    | MYK |
+ ALAADDİN DİNÇER          | MYK |
+ ÇİĞDEM ÖZBAŞ             | MYK |
+ ERDAL DEMİRDAĞ           | MYK |
+ ZEHRA VEZAN KARABULUT    | MYK |
