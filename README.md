@@ -15,7 +15,7 @@ rbenv / rvm kullanılması önerilir
 
 ## Kurulum
 
-    $ git clone git@github.com:ysgp/website.git
+    $ git clone https://github.com/ysgp/website.git
     $ cd website/
     $ bundle
 
