@@ -4,28 +4,30 @@ Categories: yapilar
 
 [Parti Eşsözcüleri](/bizden/es-sozculer) MYK’nın doğal üyeleridir.
 
- İsim                     | Grv |
-:-------------------------|:--- |
- ABDULLAH ÇİFTÇİ          | MYK |
- AHMET ATIL AŞICI         | MYK |
- ATİLLA AYTEMUR           | MYK |
- AYLA ŞEŞAN               | MYK |
- AYŞE ERDEM               | MYK |
- CİHAN ERDAL              | MYK |
- CİHAT FAZLI DEMİRTAŞ     | MYK |
- DENİZ ÖZKOR              | MYK |
- FERDAN ERGUT             | MYK |
- HAMİDE BEZİRCİ YILMAZ    | MYK |
- İBRAHİM AKIN             | MYK |
- İKBAL POLAT              | MYK |
- KEMAL TUNCAELLİ          | MYK |
- MAHMUT ŞEVKET BOYNUDELİK | MYK |
- MÜGE KARALOM             | MYK |
- NESRİN ASLAN             | MYK |
- SENNUR BAYBUĞA           | MYK |
- SERKAN ZİHLİ             | MYK |
- YASEMİN GÜNEY AĞIRDIR    | MYK |
- ALAADDİN DİNÇER          | MYK |
- ÇİĞDEM ÖZBAŞ             | MYK |
- ERDAL DEMİRDAĞ           | MYK |
- ZEHRA VEZAN KARABULUT    | MYK |
+ İsim                     | Grv | Grv                 |
+:-------------------------|:--- |:--------------------|
+ ABDULLAH ÇİFTÇİ          | MYK | @abciftci           |
+ AHMET ATIL AŞICI         | MYK |                     |
+ ATİLLA AYTEMUR           | MYK |                     |
+ AYLA ŞEŞAN               | MYK | @AylaSesan          |
+ AYŞE ERDEM               | MYK | @ayseerdembodrum    |
+ CİHAN ERDAL              | MYK | @_cihanerdal        |
+ CİHAT DEMİRTAŞ           | MYK | @_cdemirtas         |
+ DENİZ ÖZKOR              | MYK |                     |
+ FERDAN ERGUT             | MYK | @FerdanErgut        |
+ HAMİDE BEZİRCİ YILMAZ    | MYK |                     |
+ İBRAHİM AKIN             | MYK | @ibrahimAkn35       |
+ İKBAL POLAT              | MYK | @polatikal          |
+ KEMAL TUNCAELLİ          | MYK |                     |
+ MAHMUT ŞEVKET BOYNUDELİK | MYK | @mboynudelik        |
+ MÜGE KARALOM             | MYK | @MugeKaralom        |
+ NESRİN ASLAN             | MYK |                     |
+ SENNUR BAYBUĞA           | MYK | @sennurbaybua       |
+ SERKAN ZİHLİ             | MYK | @serkanzihli        |
+ YASEMİN GÜNEY AĞIRDIR    | MYK | @yasemin_agirdir    |
+ ALAADDİN DİNÇER          | MYK |                     |
+ ÇİĞDEM ÖZBAŞ             | MYK |                     |
+ ERDAL DEMİRDAĞ           | MYK | @erdalpartog        |
+ ZEHRA VEZAN KARABULUT    | MYK | @35indian           |
+ 
+ 
