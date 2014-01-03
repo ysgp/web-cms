@@ -4,7 +4,7 @@ Categories: yapilar
 
 [Parti Eşsözcüleri](/bizden/es-sozculer) MYK’nın doğal üyeleridir.
 
- İsim                     | Grv | Grv                 |
+ İsim                     | Grv | Twitter             |
 :-------------------------|:--- |:--------------------|
  ABDULLAH ÇİFTÇİ          | MYK | @abciftci           |
  AHMET ATIL AŞICI         | MYK |                     |
