@@ -1,13 +1,13 @@
 Categories: yapilar
 
-# PM
+# Parti Meclisi
 
 [Parti Eşsözcüleri](/bizden/es-sozculer) PM’nin doğal üyeleridir.
 
 [MYK üyeleri](/yapilar/myk) PM üyeleri arasından seçilmişlerdir ve PM’nin doğal üyeleridir.
 
 
-## PARTİ MECLİSİ ASIL ÜYELERİ
+## PARTİ MECLİSİ ÜYELERİ
 
 
  İsim                     | Kota       | 
@@ -50,7 +50,7 @@ Gökhan Türküler Ergün     | G
 Gülnur Aksop              | K
 Güven Atabay              |
 Hamide Bezirci            | K - E
-Hasan Hüseyin Küçükaydın  |
+Hasan Hüseyin Küçükaydın  | E
 İbrahim Akın              |
 İffet Karaca              | K
 İkbal Polat               | K
@@ -89,7 +89,7 @@ Yasemin Güney Ağırdır     | K
 Yüksel Akgün              |
 
 
-## PM FAHRİ ÜYELER
+## PARTİ MECLİSİ FAHRİ DANIŞMANLAR
 
  İsim                     | Kota       | 
 :-------------------------|:---------- |
