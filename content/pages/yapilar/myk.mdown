@@ -21,12 +21,14 @@ Categories: yapilar
  KEMAL TUNCAELLİ          | MYK |                     |
  MAHMUT ŞEVKET BOYNUDELİK | MYK | @mboynudelik        |
  MÜGE KARALOM             | MYK | @MugeKaralom        |
+ NACİ SÖNMEZ              | MYK | @sonmeznaci         |
  NESRİN ASLAN             | MYK |                     |
  SENNUR BAYBUĞA           | MYK | @sennurbaybua       |
  SERKAN ZİHLİ             | MYK | @serkanzihli        |
+ SEVİL TURAN              | MYK | @sevilturan_        |
  YASEMİN GÜNEY AĞIRDIR    | MYK | @yasemin_agirdir    |
  ALAADDİN DİNÇER          | MYK |                     |
- ÇİĞDEM ÖZBAŞ             | MYK |                     |
+ ÇİĞDEM ÖZBAŞ             | MYK | @OzbasCigdem        |
  ERDAL DEMİRDAĞ           | MYK | @erdalpartog        |
  ZEHRA VEZAN KARABULUT    | MYK | @35indian           |
  
