@@ -37,10 +37,9 @@ header
   #articles.box-4
     == slim :'partials/list', :locals => { collection: @page.articles }
 
-- if @page.metadata("Sections")
-  #subnav.affix-top data-spy="affix" data-offset-top="200"
-    ul#sections.nav.nav-stacked
-      li
-        a href="#wrap" = @page.heading
-      - @page.metadata("Sections").each do |link|
-        li: a href="##{link.split("-").first.gsub(/ /,'')}" = link
+
+- if @page.metadata("ContentMenu")
+  #subnav.hidden-print role="complementary"
+    ul.nav
+      - @page.metadata("ContentMenu").each do |item|
+        li: a href=item["link"] = item["title"]
