@@ -1,6 +1,12 @@
-Categories: bizden, tarihce
+Categories: bizden, umudu-buyutuyoruz
+ContentMenu: [
+  {link: "/en/growing-hope", title: "Growing Hope"},
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"}
+  ]
 
-# İnsan, doğa ve emek için...
+# Umudu Büyütüyoruz
+
+## İnsan, doğa ve emek için...
 
 Türkiye’de bugün yeni bir umuda; yeni bir demokratik, eşitlikçi, özgürlükçü ve ekolojist, sosyal gelecek hayaline her zamankinden fazla ihtiyacımız var. 
 
