@@ -39,7 +39,7 @@ header
 
 
 - if @page.metadata("ContentMenu")
-  #subnav.hidden-print role="complementary"
+  #content_menu.hidden-print role="complementary"
     ul.nav
       - @page.metadata("ContentMenu").each do |item|
         li: a href=item["link"] = item["title"]
