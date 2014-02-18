@@ -1,0 +1,68 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "For people, for nature, and for labour… "},
+  {link: "/multilangual-pages/who-we-are-ara", title: "من أجل الإنسان والطبيعة والعمل"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Për njeriun, për natyrën & për punësimin ..."},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Մարդու, Բնութեան եւ Աշխատանքի Համար…"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Za ljude, za prirodu i za rad... "},
+  {link: "/multilangual-pages/who-we-are-bul", title: "За хората, за природата, за труда…"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ხალხისთვის, გარემოსთვის და შრომისთვის"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Ji bo Mirov, Xweza û Kedê…"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Para la djente, la natura i el lavoro..."},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "K’OÇİ, NATURA DO ZAXMET’İ ŞENİ…"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "Για τους ανθρώπους, για τη φύση και για την εργασία…"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Für Menschen, Natur und Arbeit"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Para el pueblo, para la naturaleza, y para los trabajadores…"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Pour la défense de l’humain, de la nature et du travail..."},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Az emberért, a természetért és a munkáért…"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Voor de mens, voor de natuur, en voor de arbeiders..."},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Dla ludzi, natury i pracy… "},
+  {link: "/multilangual-pages/who-we-are-per", title: "برای انسان، طبیعت، و کارگران"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "למען האנשים, הטבע והעובדים..."},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "人のため、自然のため、そして労働者のため…"},
+  ]
+
+# Für Menschen, Natur und Arbeit
+
+Eine neue Hoffnung und neue soziale Vorstellungskraft werden heute, mehr als je zuvor, in der Türkei benötigt. 
+
+Die “Partei der Grünen und der linken Zukunft” wurde gegen Ende des Jahres 2012 mit eben solcher Hoffnung durch den Zusammenschluss der “Grünen Partei” der Türkei mit der “Partei für Gleichheit und Demokratie” und Akteuren der Zivilgesellschaft gegründet. Seit ihrer Gründung ist die Partei kontinuierlich, um dieselbe neue Hoffnung herum gewachsen und hat sich weiter organisiert.
+
+Es ist eine Hoffnung auf mitbestimmende Demokratie.
+
+Es ist die Hoffnung, von Menschen, die wissen dass die Zukunft bedroht ist infolge weltweiter ökologischer Krisen und Klimawandel. 
+
+Es ist die Hoffung, eine Gesellschaft zu schaffen in der Menschen weder einander noch die Natur ausbeuten.
+
+Heute in der Türkei, steigt die Notwendigkeit für eine neue Politik jeden Tag—eine neue Politik, die sozial libertär ist, egalitär, ökologisch und partizipatorisch, und die auf Seite der “Restorative Justice” steht.
+
+## Alle Frei, Alle Verschieden, Alle Gleich...
+
+In der Welt, die wir zu erreichen versuchen, ist die Menschheit nicht Herr über die Natur, der Mann nicht Herr über die Frau, der Staat nicht Herr über den Einzelnen und der Arbeitgeber nicht Herr über den Arbeitnehmer. In anderen Worten, niemand hat das Recht andere zu beherrschen. Wir möchten nicht in einer Welt leben, in der eine einzige Wahrheit, absolutes Wissen, Hierarchie, Ausbeutung, Militarismus und Gewalt uneingeschränkt regieren.
+
+Wir führen die traditionellen Kämpfe der Grünen Bewegung, der libertären Linken, der Arbeiterbewegung, der Frauenbefreiungsbewegung und des Feminismus, der LGBT Bewegung, Identitätskämpfe für alle, die ge-“othered” werden, Kämpfer für Tierrechte, die Anti-Atom Bewegung, Verfechter der Menschenrechte und des Friedens, alsauch der Jugendbewegung weiter.
+
+Wir glauben an Direktdemokratie. Mitbestimmung ist einer der wichtigsten Grundsätze in unseren politischen Tätigkeiten und in allen Lebensbereichen. 
+
+Wir sind eine Partei, in der Hierarchie, die Hegemonie der Führerschaft und männliche Dominanz nicht existieren. Wir haben das “co-spokesperson”-System angenommen, eine Quote gleicher Anzahl von Frauen in gewählten Ämtern, und Rotation. 
+
+Wir glauben, dass Menschen ein Teil der Natur sind. Wir glauben, dass die Natur unverzichtbare Rechte hat und dass die Menschen die Verantwortung tragen, die Rechte der Natur zu schützen, ihren Lebensraum und den anderer Lebewesen.
+
+Die Werte, die uns zusammen bringen sind Gleichheit, Freiheit, Gerechtigkeit, Friede und Solidarität—universelle Werte der Linken.
+
+Wir sind gegen Gewalt. Wir kämpfen gegen Krieg, Militarismus und Staatsgewalt. Wir kämpfen gegen die Gewalt von Männern über Frauen, die Gewalt von Menschen über andere Arten und alle Formen von Gewalt, die in unser gesellschaftliches Leben eingedrungen sind. Wir führen eine gewaltfreie politische Sprache und einen gewaltfreien Kampf und wir glauben, dass Wehrdienstverweigerung aus Gewissensgründen als ein Grundrecht angesehn werden sollte. 
+
+Wir sind Teil des weltweiten Kampfes gegen den Kapitalismus, der die Natur zerstört. Wir lehnen imerialistische Agression, Invasionen und Kriege, neoliberale Wirtschaftspolitik und die Mentalität der Konsumgesellschaft ab.
+
+Wir glauben, dass es möglich ist, eine bessere Welt zu schaffen; aber dafür müssen wir das System ändern. Wir glauben, dass wir dieses Projekt der Veränderung jetzt beginnen müssen, durch Wahlen, durch den Einsatz lokaler Verwaltung und des parlamentarischen Systems, sowie durch Arbeit in und mit der Zivilgesellschaft, der Demokratiebewegung, Kampagnen und Aktionen.
+
+Wir glauben, dass wir bleibende, friedliche Lösungen für die Frage der Kurden und Alewiten finden können, sowie alle Fragen ethnischer und religiöser Identität, indem wir das Prinzip der gleichberechtigten Staatsangehörigheit in den Vordergrund stellen. Wir verteidigen ein gesellschaftliches Leben, das auf einem pluralistischen, gleichwertigen Zusammensein von Unterschieden beruht.
+
+## Unser Kampf ist für Soziale Gerechtigkeit...
+
+Wir reden viel über Gerechtigkeit in der Türkei, vorallem weil wir ihren Mangel so sehr spüren. Wir sehen das Prinzip der sozialen Gerechtigkeit als ein wegweisendes und ordnendes Prinzip in allen sozialen Fragen. Wir glauben, dass jeder frei und gleich leben kann, wenn auf vier Gebieten Gerechtigkeit gesichert wird. Wirtschaftliche Gerechtigkeit, Gerechtigkeit in der Anerkennung ethnischer und religiöser Minderheiten, Gerechtigkeit in der Umwelt und im Klima, und partizipatorische Gerechtigkeit—wenn diese im Land erwirkt werden, kann auch gesellschaftliche Gerechtigkeit verwirklicht werden. 
+
+Von heute in die Zukunft, um die Politik der Hoffnung gemeinsam wachsen zu lassen...
+
+Die Grünen und die Linke Zukunft...

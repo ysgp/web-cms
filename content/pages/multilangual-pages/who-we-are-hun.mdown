@@ -1,0 +1,57 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "For people, for nature, and for labour… "},
+  {link: "/multilangual-pages/who-we-are-ara", title: "من أجل الإنسان والطبيعة والعمل"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Për njeriun, për natyrën & për punësimin ..."},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Մարդու, Բնութեան եւ Աշխատանքի Համար…"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Za ljude, za prirodu i za rad... "},
+  {link: "/multilangual-pages/who-we-are-bul", title: "За хората, за природата, за труда…"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ხალხისთვის, გარემოსთვის და შრომისთვის"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Ji bo Mirov, Xweza û Kedê…"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Para la djente, la natura i el lavoro..."},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "K’OÇİ, NATURA DO ZAXMET’İ ŞENİ…"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "Για τους ανθρώπους, για τη φύση και για την εργασία…"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Für Menschen, Natur und Arbeit"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Para el pueblo, para la naturaleza, y para los trabajadores…"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Pour la défense de l’humain, de la nature et du travail..."},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Az emberért, a természetért és a munkáért…"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Voor de mens, voor de natuur, en voor de arbeiders..."},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Dla ludzi, natury i pracy… "},
+  {link: "/multilangual-pages/who-we-are-per", title: "برای انسان، طبیعت، و کارگران"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "למען האנשים, הטבע והעובדים..."},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "人のため、自然のため、そして労働者のため…"},
+  ]
+
+
+##	Az emberért, a természetért és a munkáért…
+ 
+Törökországnak most új reményekre és új társadalmi víziókra van szüksége, jobban, mint valaha.
+A törökországi Zöldek és a Baloldali Jövő Pártja 2012 végén ezzel a céllal alakult meg a Zöldek és az Egyenlőség és Demokrácia pártjának összeolvadásával valamint a civil társadalom szereplőivel. Fejlődése és szerveződése azóta is folyamatos és ígéretes.
+Reményeik szerint az emberek majd részesülhetnek a demokráciában. 
+Olyan emberek reménykednek bennük, akik átlátják, hogy mundnyájunk jövője forog veszélyben a klímaváltozás és a globális ökológiai válsághelyzet következtében.
+Olyan társadalmat képzelnek el, melyben az emerek sem egymást, sem a természetet nem használják ki. 
+Ma Törökországban napról-napra növekszik az igény egy új fajta politikára, mely társdalmi szempontból szabadság és egyenlőségpárti, környezettudatos, a közösség részvételére épít és a helyreállító igazságszolgáltatás innenső oldalán bontakozik ki. 
+
+## Mind Szabadok, Különbözőek, és Egyenlőek Vagyunk…
+
+Az általunk elképzelt világban az ember nem igázza le a természetet, sem  férfi a nőt, az állam az egyént, a munkaadó az alkalmazottat. Más szóval, senki nem kerekedhet mások fölé. Nem támogatjuk az olyan társadalmi berendezkedést, melyben egy kiválasztott eszme, abszolút tudás, megkérdőjelezhetetlen hierarchia, az egymás kihasználása, katonai alapelvek vagy erőszak nevében törhet uralomra egy csoport és az erőszak uralkodik mindenek felett.
+Hagyományaink azt diktálják, hogy a Zöld mozgalom együtt harcoljon a szabadelvűekkel, a munkásmozgalommal, a női emancipációt támogatókkal, a feministákkal, az LGBTI mozgalommal, hogy harcoljon azoknak a jogaiért, akiket bármilyen alapon kizárnak a társadalomból; együttműködünk az állatvédőkkel, harcolunk az emberi jogokért és a nukleáris energia kizárólag békés célokra való felhasználásáért, a békéért, a fiatalokért.
+
+- Hiszünk a közvetlen demokráciában. Alapelvünk, hogy az emberek részvétele alapvető nemcsak a politikában, hanem az élet más területein is. 
+- A mi pártunkban nincs hierarchia, a férfiak nem élveznek előnyt, nem vezető szeméyeken alapul a rendszerünk. Mi a kettős szóvivők rendszerében hiszünk, ahol pont annyi férfi vállal szerepet, ahány nő, és a feladatokat felváltva vállalják. 
+- Hisszük, hogy a emberiség a természet része. Azt valljuk, hogy a természetnek elidegeníthetetlen jogai vannak, és nekünk, embereknek komoly felelősséggel kell megvédeni a természeti élőhelyeket és az élőlények jogait. 
+- A minket összekovácsoló alapelvek az egyenlőség, a szabadság, az igazság, béke és a szolidaritás, melyek a baloldal alapelvei is egyben.
+- Ellenezzük az erőszakot. Ellenezzük a háborúskodást, a katonai kormányzást és az államvezetés által bevetett erőszakot. Küzdünk a a férfierőszak ellen a nők érdekében, és az emberiségnek a többi élőlény ellen elkövetett erőszakos cselekményei ellen; valamint az erőszak minden formája ellen, mely a társadalmi életet át-, meg áthatja. Erőszakmentes politikai párbeszéd és küzdelem a célunk, és hiszünk abban, hogy alapvető jogunknak kellene lennie annak, hogy lelkiismereti okokból megtagadhatjuk a katonai szolgálatot. 
+- A kapitalizmus elleni globális harcot támogatjuk, hiszen a kapitalizmus tönkteteszi a természetet. Visszautasítjuk az imperialista aggressziót, a háborút és az inváziókat, a neoliberális gazdaságpolitikát, a társadalmi jogfosztást, a gazdasági nővekedésre való kényszeres törekvést, és a fogyasztói társadalommá válásba való belenyugvást.  
+- Hiszünk abban, hogy lehetséges egy jobb világ, és hogy ehhez a politikai rendszer megváltoztatása szükséges. Választásokkal, önkormányzati munkával, a parlamenten keresztül, valamint civil kezdeményezések segítségével, demokratikus jogokért való küzdelemmel, kampányokkal érhetjük el ezt. 
+- Meggyőződésünk, hogy az alevi és kurd kérdésben, valamint az össze többi etnikai és vallási kérdésben tartós, békés megoldés érhető el, ha az egyenlőség alapelvére tekintünk. 
+
+## Küzdünk a Társadalmi 
+Mi, törökök sokat emlegetjük a társadalmi igazságot, talán mert a hiányát erősen érezzük.
+Az összes társadalmi kérdés közül talán a társadalmi igazság alapelve az, ami minket utunkon vezet. 
+Hiszünk abban, hogy mindenki megérdemli a szabadságot és az egyenlőséget és olyan országban, ahol a társadalmi igazságosság mind a négy területen érvényesül. 
+Úgy tartjuk, hogy ha a gazdasági igazságosság, a személyekkel szembeni igazságosság, a környezettel és a klímával kapcsolatos igazságosság és az embereknek a vezetéshez való igazságos résztvételi lehetősége megvalósul, akkor igazságos társadalomban fogunk élni. 
+A máért és a holnapért, a remény politikájáért  való küzdelemben együtt...
+
+A Zöldek és a Baloldali Jövő Pártja

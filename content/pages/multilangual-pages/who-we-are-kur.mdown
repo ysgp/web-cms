@@ -1,0 +1,54 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "For people, for nature, and for labour… "},
+  {link: "/multilangual-pages/who-we-are-ara", title: "من أجل الإنسان والطبيعة والعمل"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Për njeriun, për natyrën & për punësimin ..."},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Մարդու, Բնութեան եւ Աշխատանքի Համար…"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Za ljude, za prirodu i za rad... "},
+  {link: "/multilangual-pages/who-we-are-bul", title: "За хората, за природата, за труда…"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ხალხისთვის, გარემოსთვის და შრომისთვის"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Ji bo Mirov, Xweza û Kedê…"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Para la djente, la natura i el lavoro..."},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "K’OÇİ, NATURA DO ZAXMET’İ ŞENİ…"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "Για τους ανθρώπους, για τη φύση και για την εργασία…"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Für Menschen, Natur und Arbeit"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Para el pueblo, para la naturaleza, y para los trabajadores…"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Pour la défense de l’humain, de la nature et du travail..."},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Az emberért, a természetért és a munkáért…"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Voor de mens, voor de natuur, en voor de arbeiders..."},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Dla ludzi, natury i pracy… "},
+  {link: "/multilangual-pages/who-we-are-per", title: "برای انسان، طبیعت، و کارگران"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "למען האנשים, הטבע והעובדים..."},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "人のため、自然のため、そして労働者のため…"},
+  ]
+
+# Ji bo Mirov, Xweza û Kedê…
+
+Îro ji her demê bêtir li Tirkiyeyê pêdiviya me bi hêviyeke nû; bi xeyaleke siberojek civakî,  demokratik, wekhevîxwaz, azadîxwaz û ekolojist heye. 
+Partiya Şîn û Dahatûya Çep, di sala 2012an de  bi yekbûna Partiya Şînan, Partiya Wekhevî û Demokrasiyê û ji aktoren saziyên civakî bi hêviyeke wisa ava bû. Li derdora vê hêviyê di demekê kin de bi pêş ket û xwe bi rêxistin kir.
+Ev hêvi, hêviya demokrasiyek rasterast û bi tevlîbûn e. 
+Ev hêvî, hêviya mirovên ku ji ber qrîza ekolojik û guherîna îqlimê siberoja xwe di bin tehdîtê de dibinin e. 
+Ev hêvî, hêviya avakirina civakekê ku tê de mirov, ji hev û ji xwezayê naxwin
+Li Tirkiyeyê pêdiviya siyaseteke nû û fehmeke têkoşînê ya azadîxwaz, wekhevîxwaz, ekolojist, cîvakî û alîgirê dadê roj bi roj zêdetir dibe. 
+
+## Her kes Azad, her kes Cuda, her kes Wekhev
+Di cîhana ku em dixwazin bigihîjinê de mirov ne serdestên  xwezayê ne, ne jî mêr yên jinan, dewlet ne serdestê ferdan e, ne jî kardar yê karkeran; kes ne serdestê kesî/ê ye.  
+Em xwedî li kevneşopiya têkoşîna  tevgera şîn, çepê azadîxwaz, tevgera kedê, tevgera femînîzm û azadiya jinê, tevgera LGBTê, parastvanên mafên ajalan, tevgera li hember nukleerê, parastvanên mafê mirovan û tevgerên ciwanan derdikevin.
+Em bawerî bi demokrasiya rasterast tînin. Beşdarîbûn di xebatên me yên siyasî û di her qada jîyanê de rêgeza me ya sereke ye.
+Di partiya me hiyerarşi, serdestiya serokan û serweriya meran nîne. Ji ber vê yeke em pergala hevberdevkiyê û wezîfeyên hatine hilbijartinê de qota û rotasyona jinê dipejirînên.
+Em di wê baweriyê de ne ku mirov parçeyek xwezayê ye. Em difikirin ku xweza xwedî hin mafên bingehîn e û mirov berpirsiyar e ku  mafê xweza û  ajalên di xwezayê de dijîn biparêz e. 
+Em li dor nirxên gerdûnî yên çepê wekî wekhevî, azadî, dad, aşitî û piştgirî digihîn hev.
+Em li hember tundiyê ne. Em li hember şer, mîlîtarizm û tundiya dewletê têdikoşin. Em li hember  tundiya ku mêr li jinê dike û li hember tundiya ku mirov li zindiyên din dike têdikoşin. Têkoşîna  Li hember tundiya ku di her qadên jiyanê de xwe dide nişandan parçeyek têkoşîna me ye. Lêgerîna me ya zimanek polîtîk ê bêtundî didome û em mafê  redkirina wicdanî wek mafeke bingehîn diparêzin. 
+Em parçeyeke  têkoşîna gerdûnî ya li hember Kapîtalizmê ne ku xwezayê wêran dike û ji me û ji nifşên pêşerojê re cîhaneke têde bê jîn nahêle û çavkaniya hemû şer û kedxwariyê ye.
+Em fehma êrîşkariya emperyal, şer û dagirkeriyê, polîtîkayên neoliberal û wêrankirina mafên civakî, avakirina civaka mezaxê û fikra sabît ya pêşveçûna aborî  ji binî  ve red dikin.
+Em wisa bawer dikin ku cîhaneke baştir pêkan e  û em di wê baweriyê de ne ku ji bo ev yek pêk were divê pergala heyî ji binî ve bê guherandin. Em di wê baweriyê de ne ku divê em bi rêya hilbijartinan revebiriyên heremî û yên parlementerî bi xebatên saziyên civakî, bi têkoşînên mafê demokratik û bi qampanya û çalekiyan guherînê  ji îro ve bidin dest pê kirin.
+Em wisa bawer dikin ku em dikarin ji ser pirsa Kurd, pirsa Elewî û hemû pirsgirêkên etnîkî û olî bi rêya rêgeza hemwelatîbûna wekhev gav bikin. Em jiyaneke civakî diparêzin ku bingeha xwe ji biihevrebûna wekhev ya cudahiyên piranîgir digire. 
+
+## Em ji bo Dada Civakî Têdikoşin…
+
+Em li Tirkiyeyê li ser dadê gelekî diaxivin bes gelekî jî kêmasiya wê hîs dikin. Em rêgeza dada civakî di hemû mijarên civakî de wekî rêgeza sereke ku rê li ber me vedike qebûl dikin. 
+Em wisa bawer dikin ku jiyaneke azad û wekhew girêdayî pêkanîna çar dadan e. Heke li welatekî dada aboriyî, dada nasnameyî, dada hawirdor û avhewayê, dada beşdarîbûnê pêk were dê dada civakî jî pêk were. 
+Ji îro bo siberojê ji bo em bi hev re siyaseta hêviyê mezin bikin…
+Partiya Şîn û Dahatûya Çep
+

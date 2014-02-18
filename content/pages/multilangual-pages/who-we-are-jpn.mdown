@@ -1,0 +1,66 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "For people, for nature, and for labour… "},
+  {link: "/multilangual-pages/who-we-are-ara", title: "من أجل الإنسان والطبيعة والعمل"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Për njeriun, për natyrën & për punësimin ..."},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Մարդու, Բնութեան եւ Աշխատանքի Համար…"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Za ljude, za prirodu i za rad... "},
+  {link: "/multilangual-pages/who-we-are-bul", title: "За хората, за природата, за труда…"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ხალხისთვის, გარემოსთვის და შრომისთვის"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Ji bo Mirov, Xweza û Kedê…"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Para la djente, la natura i el lavoro..."},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "K’OÇİ, NATURA DO ZAXMET’İ ŞENİ…"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "Για τους ανθρώπους, για τη φύση και για την εργασία…"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Für Menschen, Natur und Arbeit"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Para el pueblo, para la naturaleza, y para los trabajadores…"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Pour la défense de l’humain, de la nature et du travail..."},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Az emberért, a természetért és a munkáért…"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Voor de mens, voor de natuur, en voor de arbeiders..."},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Dla ludzi, natury i pracy… "},
+  {link: "/multilangual-pages/who-we-are-per", title: "برای انسان، طبیعت، و کارگران"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "למען האנשים, הטבע והעובדים..."},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "人のため、自然のため、そして労働者のため…"},
+  ]
+
+
+#	人のため、自然のため、そして労働者のため…
+
+トルコは今まさに新しい希望と新しい社会の想像力を必要としています。
+
+緑と左派の未来の党は、こうした希望の元に、トルコの緑の党、平等と民主主義の党、そして市民社会の諸氏らの総意により２０１２年の暮に設立されました。
+
+それは、参加型民主主義への希望です。
+
+それは、世界規模の環境問題と気候変動の行く末に危機感を覚える人々の希望です。
+
+それは、人が互いに搾取しあったり、自然を搾取することがないような社会を創造するという希望です。
+
+現在トルコでは日に日に新しい政治の必要性が増しています。社会的にリバタリアンであり、平等主義であり、環境保護主義であり、参加主義であり、修復的な正義を掲げる新しい政治です。
+
+## それぞれの自由、それぞれに違う、それぞれと平等
+
+わたしたちが目指す世界では、人間は自然の支配者ではなく、また男性は女性の支配者ではなく、国家は個人の、また雇用者は従業員の支配者ではありません。つまり、他人を支配する権利を誰も所持しない世界です。わたしたちはひとつの真実、完全なる知識を装うもの、地位の序列、搾取、軍国主義、そして暴力が支配する世界には住みたくないのです。
+
+わたしたちは、緑の運動、左派的リバタリアニズム、労働運動、女性解放運動とフェミニズム、LGBTI運動、これまで〈他者化〉されてきた人々の権利のためのアイデンティティ闘争、動物愛護運動、反核運動、人権と平和を守るために働くひとたち、そして青年運動がいままで挑んできた闘いに参加します。
+
+わたしたちは直接民主主義を信じています。政治運動においてそして人生のあらゆる面において〈参加〉は私たちにとって重要な原理のひとつです。
+私たちの党にはヒエラルキー、指導者のヘゲモニーや男性による支配は存在しません。わたしたちは共同スポークスパーソン制度、議会構成員にみられる男女間格差をなくすためのクォータ制、そして代表選出者のローテーション制を採用しています。
+わたしたちは人間は自然の一部と捉えています。そして、自然も不可譲の権利をもち、人間は自然と生きる全てのもののこの権利と生きる空間を守る義務があると信じています。
+わたしたちを互いに引き寄せる理念とは、公正、自由、正義、平和と団結です。これらはすべて左派が掲げる普遍的価値です。
+わたしたちは暴力に反対します。戦争、軍国主義そして国家暴力に対して闘います。女性に対する男性の暴力、他の生物に対する人間の、そして社会生活に浸透するあらゆる暴力に対して闘います。わたしたちは非暴力的な政治言語と闘争を追求します。そして良心的兵役拒否が基本的権利として認識されるべきだと信じています。
+わたしたちは自然を破壊する資本主義に対する世界闘争の一端です。わたしたちは帝国主義的侵略、侵入と戦争、新自由主義経済政策、社会的権利の退廃、経済成長への執着と消費社会の受け入れを拒否します。
+わたしたちはよりよい世界の実現は可能だと信じていますが、しかしそれには制度の変革が必要だと思っています。選挙や地元の制度や議会制、そして市民社会的な活動や民主主義権利運動を通して、いまこの変革のプロジェクトにとりかかるべきだと主張します。
+わたしたちは平等的な市民という原理を前面に掲げることで、クルド人とアレヴィー派に関する諸問題をはじめ、すべての民族・宗教のアイデンティティ問題の恒久平和的な解決の実現が可能であると信じています。
+
+## 社会正義のための闘争。
+
+トルコではよく正義の話をします。その不在をあまりにも激しく感じるからです。わたしたちにとって社会正義はすべての社会問題の解決のための指針と調整の原理です。
+
+四つの面で正義を達成できる国では、すべての人々が自由に平等に生きることができると信じています。
+
+この国で経済的な正義、アイデンティティの承認に関する正義、環境問題に関する正義、参加の正義を達成することができれば公正な社会が実現されると確信しています。
+
+今日から明日へ、希望の政治を共に育むために、
+
+緑と左派の未来の党

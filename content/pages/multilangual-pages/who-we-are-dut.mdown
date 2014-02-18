@@ -1,0 +1,64 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "For people, for nature, and for labour… "},
+  {link: "/multilangual-pages/who-we-are-ara", title: "من أجل الإنسان والطبيعة والعمل"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Për njeriun, për natyrën & për punësimin ..."},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Մարդու, Բնութեան եւ Աշխատանքի Համար…"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Za ljude, za prirodu i za rad... "},
+  {link: "/multilangual-pages/who-we-are-bul", title: "За хората, за природата, за труда…"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ხალხისთვის, გარემოსთვის და შრომისთვის"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Ji bo Mirov, Xweza û Kedê…"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Para la djente, la natura i el lavoro..."},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "K’OÇİ, NATURA DO ZAXMET’İ ŞENİ…"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "Για τους ανθρώπους, για τη φύση και για την εργασία…"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Für Menschen, Natur und Arbeit"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Para el pueblo, para la naturaleza, y para los trabajadores…"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Pour la défense de l’humain, de la nature et du travail..."},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Az emberért, a természetért és a munkáért…"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Voor de mens, voor de natuur, en voor de arbeiders..."},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Dla ludzi, natury i pracy… "},
+  {link: "/multilangual-pages/who-we-are-per", title: "برای انسان، طبیعت، و کارگران"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "למען האנשים, הטבע והעובדים..."},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "人のため、自然のため、そして労働者のため…"},
+  ]
+
+
+# Voor de mens, voor de natuur, en voor de arbeiders...
+
+Vandaag de dag is nieuwe hoop en een nieuwe sociale voorstellingskracht meer nodig dan ooit in Turkije.
+
+De Groene en Linkse Toekomst Partij is eind 2012 gesticht met die hoop, door een samengaan van de Groene Partij met de Partij voor Gelijkheid en Democratie, samen met verschillende maatschappelijke organisaties. De partij groeit gestaag en heeft sindsdien gestalte gegeven aan nieuwe hoop voor de toekomst.
+
+Deze nieuwe verwachting verlangt naar een participatieve democratie. 
+
+Deze nieuwe verwachting is de hoop van mensen die inzien dat de toekomst op het spel staat door wereldwijde ecologische rampen en klimaatverandering.
+
+Deze nieuwe verwachting is de hoop om een samenleving te creëren waarin mensen elkaar noch de natuur exploiteren.
+
+Dezer dagen neemt de noodzaak van een nieuwe politiek in Turkije met de dag toe -- een nieuwe politiek die sociaal-liberaal, egalitair, groen, participatief is, en die vóór restorative justice is.
+
+
+## Allemaal Vrij, Allemaal Anders, Allemaal Gelijk...
+
+In de wereld die wij nastreven is de mens niet de meester van de natuur, noch is de man de meester van de vrouw, de staat de meester van het individu, of de werkgever de meester van de werknemer. In andere woorden, niemand heeft het recht om een ander te onderwerpen. We willen niet leven in een wereld waarin een enkele waarheid, absolute kennis, machtstructuren, exploitatie, militarisme, en geweld aan het roer staan.
+
+- We vechten voor de doelen van de Groene beweging, de linkse politiek, de arbeidersbeweging, de vrouwenbeweging en het feminisme, de LGBT-beweging, voor de identiteit en de rechten van diegenen die als "anders" beschouwd worden, de dierenrechtenbeweging, de anti-kernenergiebeweging, de mensenrechtenbeweging en de pacifisten, en de jeugdbeweging.
+- We geloven in directe democratie. Deelname aan het democratische proces is één van de allerbelangrijkste principes van onze politieke activiteiten en in andere gebieden van het leven.
+- We zijn een partij waarin machtstructuren, de hegemonie van de leider, en mannelijke dominantie geen plaats hebben. We hebben het zogenoemde "co-spokesperson" systeem, een gelijk quotum voor vrouwen in verkiesbare posities, en een rotatiesysteem.
+- We geloven dat mensen deel uitmaken van de natuur. We geloven dat de natuur onontvreembare rechten heeft, en dat mensen de verantwoordelijkheid hebben om de rechten en levensruimte van alle levende wezens te beschermen.
+- De waarden die ons samenbrengen zijn gelijkheid, vrijheid, rechtvaardigheid, vrede, en solidariteit; alle universele waarden van de linkse beweging.
+- We zijn tegen geweld. Wij verzetten ons tegen oorlog, militarisme, en door de staat gesanctioneerd geweld. We verzetten ons tegen geweld van mannen tegen vrouwen, van mensen tegen andere soorten, en tegen alle vormen van geweld die het sociale leven zijn binnengedrongen. We streven een niet-gewelddadige politieke taal en strijd na, en we geloven dat gewetensbezwaar een basisrecht is.
+- Wij maken deel uit van de wereldwijde strijd tegen het kapitalisme, dat de natuur vernielt. We verwerpen imperialistische aggressie, invasies en oorlogen, neoliberale economisch beleid, het uitkleden van sociale rechten, de obsessie met economische groei, en het als vanzelfsprekend aannemen dat we een consumptiemaatschappij vormen. 
+- We geloven dat het mogelijk is om een betere wereld te krijgen, maar om dat te bereiken moeten we het systeem veranderen. We geloven dat we daarom nú moeten beginnen met dit veranderingsproces, via verkiezingen en lokaal bestuur en het parlementaire systeem, alsook door maatschappelijke activiteiten, democratische bewegingen, campagnes en acties.
+- We geloven dat we duurzame vreedzame oplossingen kunnen bewerkstelligen voor de Koerdische en Alewitische kwesties alsook voor alle etnische en religieuze-identiteitskwesties, door toepassing van het principe van gelijkwaardig burgerrecht.
+
+
+## Onze Strijd is er één Voor Sociale Rechtvaardigheid...
+
+We praten vaak over rechtvaardigheid in Turkije; dat is omdat we vinden dat er zo'n groot tekort aan is. We beschouwen het principe van sociale rechtvaardigheid als richtinggevend in alle sociale vraagstukken.  We geloven dat het mogelijk is dat iedereen vrij en als gelijke leeft in een land waar rechtvaardigheid heerst in vier gebieden: we weten dat als economische rechtvaardigheid, rechtvaardigheid in de erkenning van verschillende identiteiten, rechtvaardigheid op het gebied van klimaat en milieu, en rechtvaardigheid op het gebied van deelname is bereikt, dat dan een rechtvaardige samenleving gerealiseerd is.
+
+Van vandaag naar morgen, om samen de politiek van de hoop te doen groeien..
+
+Een Groene en Linkse Toekomst.
+

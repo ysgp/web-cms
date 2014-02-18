@@ -1,0 +1,59 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "For people, for nature, and for labour… "},
+  {link: "/multilangual-pages/who-we-are-ara", title: "من أجل الإنسان والطبيعة والعمل"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Për njeriun, për natyrën & për punësimin ..."},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Մարդու, Բնութեան եւ Աշխատանքի Համար…"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Za ljude, za prirodu i za rad... "},
+  {link: "/multilangual-pages/who-we-are-bul", title: "За хората, за природата, за труда…"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ხალხისთვის, გარემოსთვის და შრომისთვის"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Ji bo Mirov, Xweza û Kedê…"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Para la djente, la natura i el lavoro..."},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "K’OÇİ, NATURA DO ZAXMET’İ ŞENİ…"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "Για τους ανθρώπους, για τη φύση και για την εργασία…"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Für Menschen, Natur und Arbeit"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Para el pueblo, para la naturaleza, y para los trabajadores…"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Pour la défense de l’humain, de la nature et du travail..."},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Az emberért, a természetért és a munkáért…"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Voor de mens, voor de natuur, en voor de arbeiders..."},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Dla ludzi, natury i pracy… "},
+  {link: "/multilangual-pages/who-we-are-per", title: "برای انسان، طبیعت، و کارگران"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "למען האנשים, הטבע והעובדים..."},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "人のため、自然のため、そして労働者のため…"},
+  ]
+
+
+# Za ljude, za prirodu i za rad... 
+
+Nova nada i nova društvena mašta su neophodni za Tursku danas više nego ikad.
+«Zeleni» i «Lijeva partija budućnosti» su osnovani 2012. godine sa tom nadom, kroz ujedinjenje «Zelene stranke Turske» sa «Strankom za jednakost i demokratiju» te uz aktere civilnog društva. Od tada je u stalnom rastu organizujući se oko ove nove nade. Od tada je u stalnom rastu organizujući se oko ove nove nade.
+Ova nada žudi za participatornom demokratijom.
+Ova nada je nada ljudi koji vide da je budućnost rizična zbog globalnih ekoloških kriza i klimatskih promjena.
+Ova nada je nada stvaranja društva gdje ljudi ne izrabljuju niti jedni druge niti prirodu.
+Danas u Turskoj, potreba za novom politikom je u svakodnevnom rastu – nova politika koja je društveno slobodarska, egalitarna, ekološka, participatorna i na strani restorativne pravde.
+
+## Svi Slobodni, svi Drugačiji, svi Jednaki...
+
+U svijetu koji želimo stvoriti, ljudska rasa nije gospodar prirode, niti je čovjek gospodar žene, država gospodar pojedinca, poslodavac gospodar uposlenog; drugim riječima, niko nema pravo da dominira nad drugima. Ne želimo da živimo u svijetu gdje bilo koja pojedinačna istitna, apsolutno znanje, hijerarhija, izrabljivanje, militarizam i nasilje mogu biti nadmoćni. 
+Mi slijedimo tradicionalne bitke za koje se bori pokret Zelenih, slobodarska ljevica, radnički pokret, pokret ženske emancijpacije i feminizam, LGBT pokret, prava identiteta za one koji su etiketirani kao «drugi», zastupnici za prava životinja, anti-nuklearni pokret, branitelji ljudskih prava i mira i pokret mladih.
+
+- Vjerujemo u direktnu demokratiju. Particpativnost ili učešće je jedna od najvažnijih ideja vodilja u našim političkim aktivnostima i u svim oblastima života. 
+- Mi smo partija u kojoj hijerarhija, hegemonija vodstva i muške dominacije ne postoje. Mi smo usvojili sistem su-portparola/glasnogovrnika-ce, jednake kvote učešća žena na izbornim mjestima i rotacije. 
+- Mi vjerujemo da su ljudi dio prirode. Mi vjerujemo da priroda ima neotuđiva prava i da ljudi imaju obavezu da štite prava i životni prostor prirode i drugih živih bića.
+- Vrijednosti koje nas spajaju su jednakost, sloboda, pravda, mir i sigurnost, sve koje jesu univerzalne vrijednosti ljevice.
+- Mi smo protiv nasilja. Mi se borimo protiv rata, militarizma i državnog nasilja. Mi se borimo protiv nasilja muškaraca nad ženama, ljudi nad drugim vrstama i svih oblika nasilja koji su prodrli u društveni život. Mi slijedimo nenasilnu komunikaciju i borbu i vjerujemo da prigovor savjesti mora biti priznato kao osnovno pravo. 
+- Mi smo dio globane borbe protiv kapitalizma koji uništava prirodu. Mi odbijamo imperijalnu agresiju, okupacije i ratove, neoliberalne ekonomske politike, orušavanje socijalnih prava, fiksacije sa ekonomskim rastom i pretpostavkama potrošačkog društva.
+- Mi vjerujemo da je moguće ostvariti bolji svijet, ali da bi se to moglo desiti mi moramo promijeniti sistem; da moramo da krenemo u ovaj projekat promjene sada, kroz izobre i upotrebu lokalnih administracija i sistema, kao i kroz rad civilnog društva, pokreta za demokratska prava, kampanje i akcije.
+- Mi vjerujemo da možemo donijeti dugoročna mirovna rješenja za pitanja Kurda i Alavita, kao i za sva etnička i vjerska pitanja time što ćemo iznijeti na vidjelo principe jednakog građanstva.
+	
+## Naša Borba je za Socijalnu Pravdu...
+
+Mi puno pričamo o pravdi u Turskoj; to je zato što nam toliko nedostaje. Mi smatramo princip socijalne pravde ključnim vodećim principom koji će regulisati sva socijalna pitanja.
+Mi vjerujemo da svi mogu živjeti slobodni i jednaki u zemlji gdje se pravda ostvaruje u 4 oblasti. 
+Mi znamo da kada bi se u ovoj zemlji ostvarila ekonomska pravda, pravda priznavanja identiteta, pravda okoliša i klime, i participativna pravda da bi se ostvarilo pravedno društvo.
+Od danas do sutra, da zajedno odrastamo sa politikom nade... 
+
+Zeleni i Lijeva budućnost... 
+
+
