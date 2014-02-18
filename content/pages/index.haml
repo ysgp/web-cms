@@ -2,17 +2,9 @@ Title: Yeşiller ve Sol Gelecek Partisi
 Link text: Anasayfa
 Template: welcome
 Carousel: [
-  {img: "https://lh6.googleusercontent.com/-SLDMZ_C6AaA/UqnN5YPIZ_I/AAAAAAAABA8/qZYSaEDkawg/w600-h411-no/poster1.jpg"},
-  {img: "https://lh3.googleusercontent.com/-dH-SMWza9uM/UqnBPW1TiRI/AAAAAAAAA-I/l-Y27XSkB2U/w600-h411-no/iklim.jpg"},
-  {img: "https://lh6.googleusercontent.com/-ydj0nDiUuS4/UqnBQ6_oWcI/AAAAAAAAA-Y/Al68XOt_Qv0/w600-h411-no/daha-baslangic.jpg"},
-  {img: "https://lh6.googleusercontent.com/-AvW8fFhQwTY/UqnBOhApRHI/AAAAAAAAA-A/mZmjedmE_Lc/w600-h411-no/halklarin-kardesligi.jpg"},
-  {img: "https://lh4.googleusercontent.com/-k2FWdWCprs0/UqnBLQ94erI/AAAAAAAAA9g/_BF-b4ZRTzo/w600-h411-no/s%25C4%25B1n%25C4%25B1rs%25C4%25B1z-dunya.jpg"},
-  {img: "https://lh5.googleusercontent.com/-rH8D0aJSHTU/UqnBSuI8bAI/AAAAAAAAA-o/bHo_m1c3C3o/w600-h411-no/kadin.jpg"},
-  {img: "https://lh5.googleusercontent.com/-BNAR3hurzoA/UqnBMI_S-wI/AAAAAAAAA9o/tuorq-scwEY/w600-h411-no/nerdesin-askim.jpg"},
-  {img: "https://lh5.googleusercontent.com/-nLi-6qdZjzk/UqnBVnsABII/AAAAAAAAA_I/vvy_BOeXO84/w600-h411-no/engelsiz.jpg"},
-  {img: "https://lh5.googleusercontent.com/-7Xxl98s8RDA/UqnBTWhP7lI/AAAAAAAAA-0/COJpMu-yzWE/w600-h411-no/hayvan-doga.jpg"},
-  {img: "https://lh4.googleusercontent.com/-LcTkZ70xCu4/UqnBNGYp4VI/AAAAAAAAA9w/p57QxVPj10c/w600-h411-no/diren-isci.jpg"},
-  {img: "https://lh6.googleusercontent.com/-LgjLvVKWrOY/UqnBN1cIaXI/AAAAAAAAA94/RCeLYJkBFjM/w600-h415-no/domuzlar.jpg"}
+{img: "https://lh5.googleusercontent.com/-R_IPlqW96OE/Uv9i2KRCjSI/AAAAAAAABRw/hCQzfY9MCOE/w720-h405-no/%25C5%259Fehirsenin.jpg", link: "/bizden/yerinden-gazetesi", title: "Şehir Senin, Şehri Kurtar", desc: "Yerinden Gazetesi ile yerelden ve yerinden haberlere ulaşmak için tıklayın." },
+{img: "https://lh6.googleusercontent.com/-hTSgapO2buk/UwOd88BM7PI/AAAAAAAABeI/dil4eTSyYjg/w720-h405-no/sirri2.jpg", link: "/bizden/yerinden-gazetesi/sirri-sureyya", title: "Sırrı Süreyya Önder", desc: "İlk Yapacağımız Şey TOKİ’yi Bu Kentten Sürgün Etmek Olacak" },
+{img: "https://lh3.googleusercontent.com/-mk9ZIqA37K8/UwOd8fpzG6I/AAAAAAAABeM/HX2dnOliCCs/w720-h405-no/adalar1.jpg", link: "/bizden/yerinden-gazetesi/adalar-acilis", title: "Adalar’da erkek siyasete inat, HDP’nin bütün adayları kadın", desc: "Adalar Seçim Bürosu Açıldı" }
   ]
 
 
@@ -24,9 +16,20 @@ Carousel: [
 
 %hr
 
-= slim :kampanya_4a, layout: false
+%section.clearfix.box-4
+  %heading
+    %h2 Basın Açıklamaları
+  = slim :'partials/list', locals: { collection: articles_in_category('basin-aciklamalari', 8) }
+
+%hr
 
 %section.clearfix.box-4
   %heading
-    %h2.hidden Basın Açıklamaları
-  = slim :'partials/list', locals: { collection: latest_articles(8) }
+    %h2 Yerinden Gazetesi
+  = slim :'partials/list', locals: { collection: articles_in_category('yerinden-gazetesi', 8) }
+
+%hr
+
+  %heading
+    %h2 4 Adalet Kampanyası
+= slim :kampanya_4a, layout: false
