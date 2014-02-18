@@ -2,6 +2,15 @@ require "nesta/app"
 require "pony"
 
 module Nesta
+  module View
+    module Helpers
+      def articles_in_category(category, count = 8)
+        articles = Nesta::Page.find_articles.select{ |p| p.metadata('categories').include?(category) }
+        return articles[0..count - 1]
+      end
+    end
+  end
+
   class App
     set :slim, { :format => :html5 }
 
