@@ -5,15 +5,16 @@
 
 #content_menu {
 	float: right;
-  padding-top: 10px;
-	padding-bottom: 50px;
   right: 0px;
 }
 
-#content_menu.subnav {
+#content_menu.subnav ul{
+	list-style: none;
+	padding-left: 0px;
 }
 
-#content_menu.subnav ul li a {
+.subnav ul li a{
+  color: rgba(127,62,152,1);
   padding: 5px;
 	font-size: 12px;
 	font-weight:500;
@@ -21,6 +22,8 @@
   border-bottom: 1px solid #dddddd;
 }
 
-#content_menu.subnav ul {
-
+.subnav > ul > li > a:hover,
+.subnav > ul > li > a:focus {
+  color: #fff;
+  background-color: rgba(127, 62, 152, 0.6);
 }
