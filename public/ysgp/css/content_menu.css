@@ -1,0 +1,26 @@
+#content_menu.affix {
+	position: fixed;
+	top: 60px;
+}
+
+#content_menu {
+	float: right;
+  padding-top: 10px;
+	padding-bottom: 50px;
+  right: 0px;
+}
+
+#content_menu.subnav {
+}
+
+#content_menu.subnav ul li a {
+  padding: 5px;
+	font-size: 12px;
+	font-weight:500;
+  display: block;
+  border-bottom: 1px solid #dddddd;
+}
+
+#content_menu.subnav ul {
+
+}
