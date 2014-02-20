@@ -1,0 +1,65 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+# Para el pueblo, para la naturaleza, y para los trabajadores…
+
+Una nueva esperanza e imaginación social se necesitan mas que nunca hoy día en Turquía.
+
+El Partido de los Verdes y del Futuro Izquierda se fundó en fines de 2012 con mucha esperanza a través de la incorporación del Partido Verde de Turquía y el Partido Para la Igualdad y Democracía y otros actores de la sociedad civil. Desde entonces ha crecido continuamente y se ha organizado a través de una nueva esperanza.
+
+Esta esperanza anhela para una democracía participatoria.
+
+Esta esperanza es la de un pueblo que sabe que el futuro se ha puesto en peligro debido al crisis global ecológico y el cambio climático.
+
+Esta esperanza es la de crear una sociedad donde los seres humanos no explotan uno al otro ni a la naturaleza.
+
+Hoy en Turquía la necesidad para una política nueva aumenta cada día—una nueva política que sea socialmente libertaria, igualitaria, ecologista, participatoria, y preocupado con una justicia restaurativa. 
+
+## Todos Libres, Todos Diferentes, Todos Iguales…
+
+En el mundo que deseamos lograr, la humanidad no es dueño de la naturaleza, ni es el hombre dueño de la mujer, ni es el estado dueño del individuo, ni es el empleador dueño del empleado; en otras palabras, nadie tiene el derecho de dominar otro. No queremos vivir en un mundo en que reinan supremos la verdad singular, el conocimiento absoluto, las jerarquías, la explotación, el militarismo  ni la violencia.
+
+Seguimos la lucha tradicional que siguen el movimiento Verde, la izquierda libertaria, el movimiento de los trabajadores, el movimiento de emancipación de mujeres y el feminismo, el movimiento LGBTI, las luchas para la identidad de los que han sido marginalizado, los defensores de los derechos de animales, el movimiento antinuclear, los defensores de los derechos humanos y la paz y el movimiento juvenil.
+
+-	Creemos en la democracía directa. La participación es uno de los principales guías en nuestras actividades políticas y en todos los aspectos de la vida.
+- En nuestro partido no existen la jerarquía, la hegemonía de liderazgo y la dominación masculina. Hemos adoptado el sistema de co-representantes, una cuota de igualdad para mujeres en las posiciones elegidas y la rotación.
+-	Creemos que los humanos son parte de la naturaleza. Creemos que la naturaleza tiene derechos inalienables y que los humanos tienen la responsabilidad de proteger los derechos y el espacio de vivir de la naturaleza y todos los seres vivos.
+-	Los valores que nos unen son la igualdad, la libertad, la justicia, la paz y la solidaridad, todos los cuales son los valores universales de la izquierda.
+-	Estamos en contra de la violencia. Luchamos contra la guerra, el militarismo y la violencia del estado. Luchamos contra la violencia empleado por hombres sobre mujeres, por humanos sobre otras especies, y todas las formas de violencia que han infiltrado nuestra vida social. Seguimos una lengua política y una lucha no violentas. Creemos que la oposición consciente debe ser considerado como un derecho básico.
+-	Somos parte de una lucha globar contra el capitalismo, que destroza la naturaleza. Rechazamos la agresión imperialista, las invasiones y las guerras, la política económica neoliberal, el deterioro de derechos sociales, la obsesión con el desarrollo económico, y la aceptación de una sociedad consumidora.
+-	Creemos que es posible lograr un mundo mejor, pero que para esto hace falta cambiar el sistema; que necesitamos empezar este proyecto ahora a través de elecciones, la administración local, el sistema parlamentario, el trabajo de la sociedad civil, los movimientos para derechos democráticos, campañas y acciones.
+-	Creemos que podemos introducir soluciones pacíficas a los problemas de los kurdos y los alevite y a todos asuntos de identidad religiosa y étnica a través de poner en primer plano el principio de la ciudadania igual.
+
+## Nuestra Lucha es Para la Justicia Social…
+En Turquía hablamos mucho de la justicia y es porque tanto la faltamos. Consideramos el principio de la justicia social como guía y regulador en todos los asuntos sociales.
+Creemos que todos pueden vivir libres y iguales en un país en que la justicia se logra en cuatro áreas.
+Creemos que si se logran en este país la justicia económica, la justicia en reconocimiento de las identidades, la justicia en asuntos ambientales y la justicia de participación, también se puede lograr una sociedad justa. 
+
+De hoy a mañana, a crecer juntos la política de la esperanza…
+
+Futuro Verde y Izquierda…
+
+

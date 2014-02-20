@@ -1,0 +1,67 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+# For people, for nature, and for labour… 
+New hope and a new social imagination are needed in Turkey more than ever today. This new hope and imagination in fact continues to grow and spread, not only here in our region, but throughout distant geographies as well.
+The Greens and Left for the Future Party was founded in late 2012 with such hope, through the merger of The Green Party of Turkey with the Party for Equity and Democracy and civil society actors. It has steadily grown and organized since then around new hope.
+Arising out of the premise that the world as we know it has irreversibly changed as the result of devastating wars and economical and ecological crises, this hope is fostered by millions of people who not only want to live in peace but also to reclaim their hope in the future as well as in nature; in other words, those who desire to reclaim their labour, voice, identity, culture, convictions and the ecosystem.
+This hope yearns for participatory democracy, for it holds that people’s participation is essential on every level in the decisions made regarding their lives.
+This hope is the hope of people who see that the future is at risk due to global ecological crises and climate change, and who struggle to prevent our world from becoming, more and more, a place where it is impossible for humans and all other living beings to live.
+This hope is the hope of creating a society where humans do not exploit one another or nature; where all people -- whether they work, do not work, or cannot work -- and labourers can live free and happy with dignity and integrity.
+This hope is the hope of those who believe that true freedom, equity, justice, democracy, and a life that is in harmony with nature are possible.
+Today in Turkey, the need for a new politics increases every day —a new politics which is socially libertarian, egalitarian, ecologist, participatory, and on the side of restorative justice.
+We, those who share these hopes and dreams, want to walk together on a path that will advance our hopes.
+We find our strength not just from the history of the land we live in, but from the traditions, ideas and values of all of those have suffered innumerable sacrifices throughout history to foster similar hopes.
+
+## All Free, All Different, All Equal…
+
+In the world we seek to achieve, humankind is not the master of nature, nor is man the master of woman, the state the master of the individual, the employer the master of the employee; in other words, no one has the right to dominate others. We do not want to live in a world where a single truth, absolute knowledge, hierarchy, exploitation, militarism, and violence reign supreme.
+
+- We pursue the traditional struggles waged by the Green movement, the libertarian left, the labour movement, the women’s emancipation movement and feminism, the LGBTI movement, identity struggles for the rights of those who have been ‘other’ised, animal-rights advocates, the anti-nuclear movement, human-rights and peace defenders, and the youth movement.
+- We believe in direct democracy. Our political struggle is realised with the equal participation of every member, every local organisation, and every working group. Participation is one of the most important guiding principles in our political activities and in all areas of life. We believe that a participatory political party, a participatory economical system, and a participatory democratic regime are all possible.
+- We are a party where hierarchy, the hegemony of leadership, and male dominance do not exist. We have adopted the co-spokesperson system, a 50% women’s quota as well as other quotas in elected positions, and rotation.
+- We believe that humans are a part of nature. We believe that nature has inalienable rights, and that humans have the responsibility to protect the rights and life space of nature and other living beings. We do not regard nature as a resource depot, but rather we seek to be in harmony with nature and to foster a green future.
+- The values that bring us together are equity, freedom, justice, peace and solidarity, all of which are the universal values of the left. Our political tradition is based on the accumulation of the historical struggle that the left has waged in changing the world, advancing democracy, and living equitably and freely in peace.
+- We are against violence. We struggle against war, militarism, and state violence. We struggle against the violence employed by men over women, humans over other species, and all forms of violence that have infiltrated social life. We pursue a non-violent political language and struggle, and we believe that conscientious objection should be considered a basic right.
+- We are a part of the global struggle against capitalism, which destroys nature, which will not impart a liveable world for us or for future generations, and which is a source of inequity, exploitation, and wars. We reject imperial aggression, invasions and wars, neoliberal economic policies, the deterioration of social rights, the fixation with economic growth, and the assumption of a consumer society. This world is enough for us all and for all living beings, should we adapt to the boundaries nature provides us and share equitably. We can create a world where not only us, but also future generations can live in fulfilment and ease.
+- We believe that it is possible to achieve a better world, but for this we need to change the system radically rather than sit back and wait for others to do this. We believe that we need to embark on this project of change now, through elections and the use of local administrations and the parliamentary system, as well as through civil society work, democratic rights movements, campaigns and actions.
+- We believe that we can bring lasting peaceful solutions to the Kurdish and Alevite questions and to all ethnic and religious identity issues by bringing the principle of equal citizenship to the fore. We value a culture of co-existence where everyone feels safe and is not under the pressure of other cultures and identities.
+
+## Our Strife is for Social Justice…
+We discuss justice in Turkey a lot; that is because we feel its lack so much. We consider the principle of social justice as a guiding and regulating leading principle in all social issues. 
+We believe that everybody can live free and as equals in a country where justice is achieved in 4 areas. 
+We know that if economic justice, justice in recognition, environmental and climate justice, and justice in participation are achieved in this country, a just society will be realised.
+
+- Along with economic justice comes a just distribution of wealth, social welfare and affluence, strong local economies and employment.
+- Just recognition of identities is the assurance of free expression of ethnic, religious, cultural, and gender identities. We see the right to just recognition, which does not exclude any ethnic, religious, gender, physically or sexually different identity, as an important attribute of social justice.
+- Justice in participation is associated to the representation of different views, pluralism, the democratic process, the independence and oversight of the judiciary and legislative, and the balance of powers.
+- Environmental and climate justice defends use that promotes nature friendly production instead of over consumption that threatens all natural beings, which includes humans, clean energy systems that are climate friendly, the free flow of rivers, clean soil, clean water, and non-genetically modified healthy seeds.
+We strive for a just life. Our efforts are for social, global, and local justice. We defend that everybody should be able to live in a world where they are equals, in peace with themselves and with nature, as human beings.
+From today to tomorrow, to grow the politics of hope together…
+
+Green and Left for the Future…
+
+

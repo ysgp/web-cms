@@ -1,8 +1,0 @@
-Categories: en
-ContentMenu: [
-  {link: "/en/growing-hope", title: "Growing Hope"},
-  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"}
-  ]
-
-# Growing Hope
-

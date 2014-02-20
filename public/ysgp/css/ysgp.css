@@ -30,13 +30,6 @@ section#content {
   padding-top:15px;
 }
 
-#subnav{
-  padding-top: 10px;
-  position: fixed;
-  right: 0px;
-  z-index:1031;
-}
-
 #content p {
   text-align: justify;
 }

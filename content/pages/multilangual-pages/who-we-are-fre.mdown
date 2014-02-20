@@ -1,0 +1,54 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+# Pour la défense de l’humain, de la nature et du travail...
+Maintenant plus que jamais il est nécessaire d’avoir en Turquie un nouvel espoir et de rêver d’un futur démocratique, égalitaire, libertaire, écologiste et social.
+C’est sur cet espoir que le Parti des Verts et Gauche à l'Avenir a été fondé a la fin de 2012 grâce au rapprochement des Verts, du parti de l’Égalité et de la Démocratie et d’acteurs de la société civile. C’est sur cet espoir qu’il s’est rapidement organisé et a grandi. 
+Ce parti est l’espoir d’une démocratie participative et directe.
+Ce parti est l’espoir de ceux qui veulent prévenir un futur menacé par la crise écologique et le réchauffement climatique.
+Ce parti est l’espoir de créer une société où l’homme n’asservit ni l’homme ni la nature.
+Chaque jour qui passe, le besoin augmente en Turquie d’une nouvelle politique qui soit solidaire des luttes libertaires, égalitaires, écologistes, participatives et qui soutienne une justice réparatrice. 
+
+## Tous Libres, Tous Différents, Tous Égaux...
+
+Dans le monde pour lequel nous œuvrons, les humains, les hommes, l’État et les employeurs ne sont pas les maîtres de la nature, des femmes,  des individus et des employés. Nous ne voulons pas vivre dans un monde où règnent la pensée unique, le dogmatisme, la hiérarchie, l’exploitation, le militarisme et la violence. Car le pluralisme est une richesse.
+
+- Nous poursuivons les luttes du mouvement écologiste, de la gauche libertaire, du mouvement syndical, du mouvement d’émencipation des femmes et du féminisme, du mouvement LGBT, les luttes identitaires de ceux qui ont été ostracisés, des défenseurs des droits des animaux, du mouvement anti-nucléaire, des défenseurs des droits de l’homme et de la paix et des mouvements de la jeunesse.
+- Nous croyons en la démocratie directe. La démocratie participative est une composante fondamentale de toutes nos activités politiques et de notre vie de tous les jours.
+- Nous sommes un parti qui ne tolère pas la hiérarchie, l’hégémonie du chef, et la suprématie masculine. Nous adoptons le système de co-porte-parolat, les quotas de femmes aux fonctions électives, et le non-cumul dans le temps.
+- Nous estimons que l’humanité fait partie intégrante de la nature. Nous pensons que la nature a des droits inaliénables, et que les humains sont responsables des droits et de la protection de l’environnement et des écosystèmes de tous les êtres vivants.
+- Les valeurs universelles de gauche que sont l’égalité, la liberté, la justice, la paix et la solidarité nous rassemblent.
+- Nous sommes contre la violence. Nous luttons contre la guerre, le militarisme et la violence étatique. Nous luttons contre toutes les formes de violences : celles des hommes envers les femmes, des humains envers les autres êtres vivants et toutes les formes de violences qui se sont infiltrées dans la société. Nous poursuivons notre quête d’un langage politique et d’une opposition sans violence et défendons la reconnaissance du droit fondamental à l’objection de conscience.
+- Nous participons à la lutte mondiale contre le capitalisme car il détruit l’environnement, ne laisse ni à nous ni aux générations futures un monde vivable, il est la cause des inégalités, de la spoliation et des guerres. Nous dénonçons le bellicisme impérialiste, les occupations et les guerres, les politiques néo-libérales, la déterioration des droits sociaux, la recherche obsessive de la croissance économique et sa vision consumériste de la société.
+- Nous croyons qu’un monde meilleur est possible et que pour l’obtenir il faut radicalement changer de système. Nous avons la responsabilité d’initier ce changement en investissant les pouvoirs locaux et parlementaires via les élections, en accompagnant les travaux de la société civile, en soutenant les luttes pour les droits démocratiques, ainsi que des pétitions et des actions.
+- Selon nous, le problème kurde, le problème alévi ainsi que tous les problèmes liés à l’identité ethnique et religieuse peuvent trouver une solution pacifique et durable émergeant du principe d’égalité entre les citoyens. Nous défendons une société pluraliste reposant sur  la convivialité.
+
+## Nous Luttons Pour une Justice Sociale
+La justice est souvent débattue en Turquie, d’autant plus que nous en ressentons fortement l’absence. Nous considérons que la justice doit être le principe directeur de toutes les questions sociales.
+Nous pensons que nous pouvons tous vivre libres et égaux dans un pays garantissant la justice dans 4 domaines. Nous sommes convaincus que la justice sociale découlera de la justice économique, de la justice dans la reconnaissance des identités, de la justice environnementale et climatique et de la justice de la représentation.
+Dès aujourd’hui et tournés vers l’avenir, faisons grandir ensemble la politique de l’espoir...
+
+Les Verts et la Gauche à l'Avenir

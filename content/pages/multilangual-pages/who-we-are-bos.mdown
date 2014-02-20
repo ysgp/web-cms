@@ -1,0 +1,60 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+
+# Za ljude, za prirodu i za rad... 
+
+Nova nada i nova društvena mašta su neophodni za Tursku danas više nego ikad.
+«Zeleni» i «Lijeva partija budućnosti» su osnovani 2012. godine sa tom nadom, kroz ujedinjenje «Zelene stranke Turske» sa «Strankom za jednakost i demokratiju» te uz aktere civilnog društva. Od tada je u stalnom rastu organizujući se oko ove nove nade. Od tada je u stalnom rastu organizujući se oko ove nove nade.
+Ova nada žudi za participatornom demokratijom.
+Ova nada je nada ljudi koji vide da je budućnost rizična zbog globalnih ekoloških kriza i klimatskih promjena.
+Ova nada je nada stvaranja društva gdje ljudi ne izrabljuju niti jedni druge niti prirodu.
+Danas u Turskoj, potreba za novom politikom je u svakodnevnom rastu – nova politika koja je društveno slobodarska, egalitarna, ekološka, participatorna i na strani restorativne pravde.
+
+## Svi Slobodni, svi Drugačiji, svi Jednaki...
+
+U svijetu koji želimo stvoriti, ljudska rasa nije gospodar prirode, niti je čovjek gospodar žene, država gospodar pojedinca, poslodavac gospodar uposlenog; drugim riječima, niko nema pravo da dominira nad drugima. Ne želimo da živimo u svijetu gdje bilo koja pojedinačna istitna, apsolutno znanje, hijerarhija, izrabljivanje, militarizam i nasilje mogu biti nadmoćni. 
+Mi slijedimo tradicionalne bitke za koje se bori pokret Zelenih, slobodarska ljevica, radnički pokret, pokret ženske emancijpacije i feminizam, LGBT pokret, prava identiteta za one koji su etiketirani kao «drugi», zastupnici za prava životinja, anti-nuklearni pokret, branitelji ljudskih prava i mira i pokret mladih.
+
+- Vjerujemo u direktnu demokratiju. Particpativnost ili učešće je jedna od najvažnijih ideja vodilja u našim političkim aktivnostima i u svim oblastima života. 
+- Mi smo partija u kojoj hijerarhija, hegemonija vodstva i muške dominacije ne postoje. Mi smo usvojili sistem su-portparola/glasnogovrnika-ce, jednake kvote učešća žena na izbornim mjestima i rotacije. 
+- Mi vjerujemo da su ljudi dio prirode. Mi vjerujemo da priroda ima neotuđiva prava i da ljudi imaju obavezu da štite prava i životni prostor prirode i drugih živih bića.
+- Vrijednosti koje nas spajaju su jednakost, sloboda, pravda, mir i sigurnost, sve koje jesu univerzalne vrijednosti ljevice.
+- Mi smo protiv nasilja. Mi se borimo protiv rata, militarizma i državnog nasilja. Mi se borimo protiv nasilja muškaraca nad ženama, ljudi nad drugim vrstama i svih oblika nasilja koji su prodrli u društveni život. Mi slijedimo nenasilnu komunikaciju i borbu i vjerujemo da prigovor savjesti mora biti priznato kao osnovno pravo. 
+- Mi smo dio globane borbe protiv kapitalizma koji uništava prirodu. Mi odbijamo imperijalnu agresiju, okupacije i ratove, neoliberalne ekonomske politike, orušavanje socijalnih prava, fiksacije sa ekonomskim rastom i pretpostavkama potrošačkog društva.
+- Mi vjerujemo da je moguće ostvariti bolji svijet, ali da bi se to moglo desiti mi moramo promijeniti sistem; da moramo da krenemo u ovaj projekat promjene sada, kroz izobre i upotrebu lokalnih administracija i sistema, kao i kroz rad civilnog društva, pokreta za demokratska prava, kampanje i akcije.
+- Mi vjerujemo da možemo donijeti dugoročna mirovna rješenja za pitanja Kurda i Alavita, kao i za sva etnička i vjerska pitanja time što ćemo iznijeti na vidjelo principe jednakog građanstva.
+	
+## Naša Borba je za Socijalnu Pravdu...
+
+Mi puno pričamo o pravdi u Turskoj; to je zato što nam toliko nedostaje. Mi smatramo princip socijalne pravde ključnim vodećim principom koji će regulisati sva socijalna pitanja.
+Mi vjerujemo da svi mogu živjeti slobodni i jednaki u zemlji gdje se pravda ostvaruje u 4 oblasti. 
+Mi znamo da kada bi se u ovoj zemlji ostvarila ekonomska pravda, pravda priznavanja identiteta, pravda okoliša i klime, i participativna pravda da bi se ostvarilo pravedno društvo.
+Od danas do sutra, da zajedno odrastamo sa politikom nade... 
+
+Zeleni i Lijeva budućnost... 
+
+

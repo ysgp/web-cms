@@ -1,0 +1,58 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+# Për njeriun, për natyrën & për punësimin ...
+
+Një shpresë e re dhe një imagjinatë sociale e re janë të nevojshme në Turqi, sot më shumë se kurrë.
+"Të Gjelbrit" & Partia "Te Majtet e së Ardhmes" u themeluan një vit më parë me shpresë te madhe, nëpemjet shkrirjes së Partisë Gjelbër me Partinë për Barazi & Demokraci edhe disa antarëve nga shoqëria civile. Që prej themelimit kjo forcë është rritur në mënyrë të qëndrueshme rreth një shprese të re.
+Kjo shpresë i ka rrënjët në demokracinë gjith-përfshirëse.
+Kjo është shpresa e njerëzve që vërejnë se e ardhmja rrezikohet seriozisht prej krizës ekologjike globale & ndryshimeve kilmaterike.
+Kjo është shpresa për krijimin e një shoqërie ku njerëzit nuk do shfrytëzojnë njëri tjetrin apo natyrën.
+Sot në Turqi, nevoja për politika të reja e frymë politikbërje të re, rritet dita ditës — një politikë e cila të jetë sociale liberale, barabarte, ekologjiste, gjithpërfshirëse, dhe krahë drejtësise restrative.
+
+## Të Gjithë të Lirë, te Gjithë të Ndryshëm, të Gjithë të Barabartë…
+
+Në rang botëror ne kërkojmë të arrijmë, konceptin se njeriu nuk është padroni i natyrës, as mashkulli nuk është padroni i femrës, ku as shteti nuk është zoti i individëve, ku punëdhënësi nuk trajton si skllav punëtorin, pra me fjalë të tjera askush nuk zotëron të drejten të dominojë të tjerët. Ne nuk duam të jetojmë në një botë ku vetem një e vertetë e imponuar, dija apsolute, hierarikia, shfrytëzimi, militarizimi dhe dhuna janë mbizotëruesit kryesorë.
+
+Ne vazhdojmë të ndjekim përpjekiet tradicionale nisur nga lëvizja e Gjelbër, e majta liberale, lëvizja e punëtorëve, lëvizja e emancipimit të gruas & feminizmi, lëvizja LGBT duke identifikuar përpjekiet tona në mbrojtjen të drejtave të atyre që janë klasifikuar si të ‘ndyshëm’, mbrojtës të të drejtave të kafshëve, lider në lëvizjet anti-bërthamore, mbrojtës të paqes dhe të drejtave të njeriut, dhe nxitës të levizjeve rinore në shoqëri.
+
+- Ne besojmë në demokracinë dirkete. Pjesmarrja është një nga principet kryesore orientuese në aktivitetin tonë politik dhe në të gjithe nën sferat e aktiviteteve jetike të përditshme.
+- Ne jemi një parti ku hierarkia, hegjemonia e kryesisë dhe dominimi mashkullor nuk ekzistojë. Kemi adaptuar sistemin ku kemi dy zëdhënes, një kuote e barabartë për femrat mbi pozicionet e zgjedhura, dhe rotacionin.
+- Ne besojmë se njerëzimi është pjesë e natyrës. Ne besojmë tek të drejtat e patjetërsueshme të natyrës, dhe se njerëzimi ka detyrimin e mbrojtjes së këtre të drejtave dhe mbi të gjitha mbrojtjen e hapsirës jetike të veë natyrës dhe gjallesave të tjera.
+- Vlerat që na bashkojnë janë barazia , liria , drejtësia , paqja dhe solidariteti , të cilat janë vlerat universale të grupit tonë të majtë.  
+- Ne jemi kundër dhunës . Ne kembëngulim gjithnjë kundër luftës , militarizmin , dhe dhunës shtetërore. Ne luftojnë kundër dhunës së përdorur nga burrat tek gratë, dhunën njerëzimit mbi speciet e tjera, dhe të gjitha format e dhunës që kanë infiltruar jetën shoqërore. Ne ndjekim një gjuhë jo të dhunshme politike sensibilizuese, dhe ne besojmë se kundërshtimi i ndërgjegjshëm duhet të konsiderohet si një e drejtë themelore. 
+- Ne jemi një pjesë e luftës globale kundër kapitalizmit , e cila shkatërron natyrën . Ne jemi kundër agresionit perandorak, pushtimet dhe luftërave, politikave neo-liberale ekonomike , përkeqësimin e të drejtave sociale, fiksimit të qëllimit vetëm në rritjen ekonomike, dhe supozimin e një shoqërie vetëm konsumatore.
+- Ne besojmë se është e mundur për të krijuar një botë më të mirë, por për këtë ne kemi nevojë për të ndryshuar sistemin,  kemi nevojë për të nisur këtë projekt të ndryshimit pikërisht tani, nëpërmjet zgjedhjeve dhe përdorimit të administratave lokale dhe sistemit parlamentar, si dhe përmes punës së shoqërisë civile, lëvizjet e të drejtave demokratike, fushata dhe aktivitete/aksione .
+- Ne besojmë se së bashku  mund të sjellim zgjidhje paqësore të qëndrueshme për çështjet Kurde dhe Alevite dhe për të gjitha çështjet e identitetit etnik dhe fetar duke sjellë parimin e qytetarisë të barabartë mbi gjithshka .
+
+## Përpjekiet Tona Jane për Drejtësi Sociale 
+
+Ne shpesh diskutojmë mbi drejtësinë në Turqi; kjo sepse ndjejme së tepërmi mungesën e saj. Ne e konsiderojmë parimin e drejtësisë sociale, si parim kryesor udhëheqës e rregullues në të gjitha çështjet sociale.
+Ne besojmë se të gjithë mund të jetojnë të lirë dhe si të barabartë në një vend ku drejtësia është arritur në 4 fusha.
+Ne e dimë se vetëm në qoftë se drejtësia ekonomike, drejtësia në njohjen e identiteteve, drejtësia mbi mjedisin dhe klimën, dhe drejtësia në pjesëmarrje do të jenë arritur në këtë vend, vetëm atëhere  shoqëria  do të ndihet e  realizuar.
+Nga sot për nesër, duke rritur politikën e shpresës, të gjithë së bashku ...
+
+E Ardhmja e Gjelbëe & e Majtë…

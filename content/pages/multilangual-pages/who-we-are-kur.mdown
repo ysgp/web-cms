@@ -1,0 +1,55 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+# Ji bo Mirov, Xweza û Kedê…
+
+Îro ji her demê bêtir li Tirkiyeyê pêdiviya me bi hêviyeke nû; bi xeyaleke siberojek civakî,  demokratik, wekhevîxwaz, azadîxwaz û ekolojist heye. 
+Partiya Şîn û Dahatûya Çep, di sala 2012an de  bi yekbûna Partiya Şînan, Partiya Wekhevî û Demokrasiyê û ji aktoren saziyên civakî bi hêviyeke wisa ava bû. Li derdora vê hêviyê di demekê kin de bi pêş ket û xwe bi rêxistin kir.
+Ev hêvi, hêviya demokrasiyek rasterast û bi tevlîbûn e. 
+Ev hêvî, hêviya mirovên ku ji ber qrîza ekolojik û guherîna îqlimê siberoja xwe di bin tehdîtê de dibinin e. 
+Ev hêvî, hêviya avakirina civakekê ku tê de mirov, ji hev û ji xwezayê naxwin
+Li Tirkiyeyê pêdiviya siyaseteke nû û fehmeke têkoşînê ya azadîxwaz, wekhevîxwaz, ekolojist, cîvakî û alîgirê dadê roj bi roj zêdetir dibe. 
+
+## Her kes Azad, her kes Cuda, her kes Wekhev
+Di cîhana ku em dixwazin bigihîjinê de mirov ne serdestên  xwezayê ne, ne jî mêr yên jinan, dewlet ne serdestê ferdan e, ne jî kardar yê karkeran; kes ne serdestê kesî/ê ye.  
+Em xwedî li kevneşopiya têkoşîna  tevgera şîn, çepê azadîxwaz, tevgera kedê, tevgera femînîzm û azadiya jinê, tevgera LGBTê, parastvanên mafên ajalan, tevgera li hember nukleerê, parastvanên mafê mirovan û tevgerên ciwanan derdikevin.
+Em bawerî bi demokrasiya rasterast tînin. Beşdarîbûn di xebatên me yên siyasî û di her qada jîyanê de rêgeza me ya sereke ye.
+Di partiya me hiyerarşi, serdestiya serokan û serweriya meran nîne. Ji ber vê yeke em pergala hevberdevkiyê û wezîfeyên hatine hilbijartinê de qota û rotasyona jinê dipejirînên.
+Em di wê baweriyê de ne ku mirov parçeyek xwezayê ye. Em difikirin ku xweza xwedî hin mafên bingehîn e û mirov berpirsiyar e ku  mafê xweza û  ajalên di xwezayê de dijîn biparêz e. 
+Em li dor nirxên gerdûnî yên çepê wekî wekhevî, azadî, dad, aşitî û piştgirî digihîn hev.
+Em li hember tundiyê ne. Em li hember şer, mîlîtarizm û tundiya dewletê têdikoşin. Em li hember  tundiya ku mêr li jinê dike û li hember tundiya ku mirov li zindiyên din dike têdikoşin. Têkoşîna  Li hember tundiya ku di her qadên jiyanê de xwe dide nişandan parçeyek têkoşîna me ye. Lêgerîna me ya zimanek polîtîk ê bêtundî didome û em mafê  redkirina wicdanî wek mafeke bingehîn diparêzin. 
+Em parçeyeke  têkoşîna gerdûnî ya li hember Kapîtalizmê ne ku xwezayê wêran dike û ji me û ji nifşên pêşerojê re cîhaneke têde bê jîn nahêle û çavkaniya hemû şer û kedxwariyê ye.
+Em fehma êrîşkariya emperyal, şer û dagirkeriyê, polîtîkayên neoliberal û wêrankirina mafên civakî, avakirina civaka mezaxê û fikra sabît ya pêşveçûna aborî  ji binî  ve red dikin.
+Em wisa bawer dikin ku cîhaneke baştir pêkan e  û em di wê baweriyê de ne ku ji bo ev yek pêk were divê pergala heyî ji binî ve bê guherandin. Em di wê baweriyê de ne ku divê em bi rêya hilbijartinan revebiriyên heremî û yên parlementerî bi xebatên saziyên civakî, bi têkoşînên mafê demokratik û bi qampanya û çalekiyan guherînê  ji îro ve bidin dest pê kirin.
+Em wisa bawer dikin ku em dikarin ji ser pirsa Kurd, pirsa Elewî û hemû pirsgirêkên etnîkî û olî bi rêya rêgeza hemwelatîbûna wekhev gav bikin. Em jiyaneke civakî diparêzin ku bingeha xwe ji biihevrebûna wekhev ya cudahiyên piranîgir digire. 
+
+## Em ji bo Dada Civakî Têdikoşin…
+
+Em li Tirkiyeyê li ser dadê gelekî diaxivin bes gelekî jî kêmasiya wê hîs dikin. Em rêgeza dada civakî di hemû mijarên civakî de wekî rêgeza sereke ku rê li ber me vedike qebûl dikin. 
+Em wisa bawer dikin ku jiyaneke azad û wekhew girêdayî pêkanîna çar dadan e. Heke li welatekî dada aboriyî, dada nasnameyî, dada hawirdor û avhewayê, dada beşdarîbûnê pêk were dê dada civakî jî pêk were. 
+Ji îro bo siberojê ji bo em bi hev re siyaseta hêviyê mezin bikin…
+Partiya Şîn û Dahatûya Çep
+

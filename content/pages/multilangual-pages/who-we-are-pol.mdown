@@ -1,0 +1,58 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+# Dla ludzi, natury i pracy… 
+
+Dziś, bardziej niż kiedykolwiek, Turcja potrzebuje nowej nadziei i nowej wyobraźni społecznej.
+Z taką nadzieją, pod koniec 2012 roku, z połączenia Tureckiej Partii Zielonych, Partii na rzecz Sprawiedliwości i Demokracji oraz organizacji społecznych, powstali Zieloni i Lewica Przyszłości. Od momentu powstania partia wciąż rozwija się i skupia ludzi wokół nowej nadziei.
+Nadziei, która potrzebuje demokracji uczestniczącej. 
+Jest to nadzieja ludzi, którzy rozumieją, że nasza przyszłość jest zagrożona globalnym kryzysem ekologicznym i zmianami klimatu.
+Jest to nadzieja na stworzenie społeczeństwa, w którym ludzie nie wyzyskują ani siebie, ani natury.
+Dziś w Turcji rośnie potrzeba nowej polityki – polityki, która byłaby lewicowo libertariańska, równościowa, ekologiczna, inkluzywna, która opowiadałby się za sprawiedliwością naprawczą.
+
+## Każda/y Wolna/y, Każda/y Inna/y, Wszyscy Równi…
+
+W świecie, do którego dążymy, ludzkość nie podporządkowuje sobie przyrody, mężczyzna – kobiety, państwo – obywateli, pracodawca – pracowników; innymi słowy, nikt nie ma prawa panować nad innymi. Nie chcemy żyć w świecie, w którym króluje jedyna prawda, wiedza absolutna, hierarchia, wyzysk, militaryzm i przemoc. 
+Zajmujemy się sprawami tradycyjnie podnoszonymi przez ruch zielonych, lewicę libertariańską, ruchy pracownicze, kobiecy ruch emancypacyjny, feminizm, ruch LGBTI, ruchy na rzecz praw wykluczonych, rzeczniczki/ów praw zwierząt, ruch antyatomowy, obrończynie/ów pokoju i praw człowieka, ruchy młodzieżowe.
+
+- Wierzymy w demokrację bezpośrednią. Zasada uczestnictwa jest jedną z wiodących zasad, którymi kierujemy się zarówno w działalności politycznej, jak i w innych sferach życia. 
+- Jesteśmy partią, w której nie istnieje hierarchia, hegemonia przywódców ani męska dominacja. Wprowadziliśmy fukncję rzeczniczki i rzecznika partii, parytety i system suwakowy na listach wyborczych. 
+- Wierzymy, że ludzie są częścią natury. Wierzymy, że natura ma niezbywalne prawa, a ludzie są odpowiedzialni za ochronę jej praw i praw wszystkich istot.
+- Wartości, które nas jednoczą to uczciwość, wolność, sprawiedliwość, pokój i solidarność – są to uniwersalne wartości lewicy. 
+- Jesteśmy przeciwni przemocy. Sprzeciwiamy się wojnie, militaryzmowi i przemocy państwa. Sprzeciwiamy się przemocy mężczyzn wobec kobiet, ludzi wobec innych gatunków i każdej przemocy w życiu społecznym. Naszym celem jest wolny od przemocy język polityki i rywalizacji politycznej. Wierzymy, że wolność sumienia jest podstawowym prawem.
+- Włączamy się w globalną walkę z kapitalizmem, który niszczy naturę. Odrzucamy imperializm, konflikty zbrojne i wojny, neoliberalną politykę ekonomiczną, uszczuplanie praw socjalnych, koncentrację na wzroście gospodarczym i brak alternatywy dla społeczeństwa konsumpcyjnego. 
+- Wierzymy, że lepszy świat jest możliwy, ale by go osiągnąć konieczna jest zmiana systemu. Już teraz musimy wkroczyć na drogę zmian: przez wybory, działalność samorządową, system parlamentarny, a także pracę na rzecz społeczeństwa obywatelskiego, działania na rzecz praw człowieka, kampanie społeczne i akcje bezpośrednie. 
+- Wierzymy, że możemy stworzyć pokojowe stosunki z Kurdami i Alewitami, a także rozwiązywać wszystkie konflikty na tle narodowościowym i religijnym, stosując zasadę równego obywatelstwa.
+
+## Walczymy o Sprawiedliwość Społeczną…
+Dużo mówimy w Turcji o sprawiedliwości, dlatego, że tak bardzo nam jej brakuje. Uważamy zasadę sprawiedliwości społecznej za wiodącą we wszystkich kwestiach społecznych. 
+Wierzymy, że każda/y może być wolna/y i równa/y, jeśli osiągniemy sprawiedliwość na czterech polach.
+Jeżeli sprawiedliwość ekonomiczna, sprawiedliwość w uznaniu tożsamości, sprawiedliwość ekologiczna i klimatyczna, sprawiedliwość w uczestnictwie zostaną osiągnięte, sprawiedliwe społeczeństwo stanie się rzeczywistością. 
+Ku przyszłości, ku wspólnej polityce nadziei… 
+
+Zieloni i Lewica Przyszłości…
+
+

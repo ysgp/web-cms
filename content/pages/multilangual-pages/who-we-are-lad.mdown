@@ -1,0 +1,63 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+# Para la djente, la natura i el lavoro...
+
+Oyendiya en Turkiya, mas ke siempre, tenemos menester de una esperansa mueva, esperansa de un avenir sosyal de demokratiya, igualdad i ekolojiya.
+«Los Vedres» i «El partido syedro del avenir» se fundaron un anyo antes kon esta esperansa, por medio del aunamiento de «El partido vedre de la Turkiya» kon «El partido para la igualdad i la demokratiya», mizmo komo kon akuadores del sektor sivil. Dezde intonses el partido se topa en un kresimyento permanente, organizandose al deredor de esta mueva esperansa . 
+Esta esperansa yama por una demokratiya partisipatoria.
+Esta esperansa apartenese a la djente ke veye ke el avenir muestro se izo riziko paramorde las krizas ekolojikas globales i los trokamyentos klimatikos.
+Esta esperansa ez la esperansa de kreyasyon de una sosyedad en la kuala la djente no eksploatan unos a otros, ni a la natura.
+Oyendiya en Turkiya, el menester por una mueva politika esta kresindo dia kada dia – una mueva politika liberal, egalitaria, ekolojika, partisipatoria i al lado de la justisia restorativa.
+
+## Todos Liberos, Todos Diferentes, Todos Iguales...
+
+En el mundo kual keriyamos kreyar, el benadam no ez el duenyo de la natura, el ombre no ez duenyo de la mujer, el governo no ez duenyo del benadam, el empresariyo no ez duenyo del empyegado; en otra mano, ninguno no tiene derecho para dominar sovre los de mas. No keremos bivir en el mundo en el kual kualseker vedrad partikulara, saviduria apsoluta, hiyerarhiya, eksploatasiyon, militarizmo o brutaldad pueden superar los derechos de los de mas.
+Mozotros segiremos las luchas tradisyonales para kualas esta luchando el movimyento de los Vedres, la syerda liberal, el movimyento de los lavoraderos, el movimyento de la emansipasyon feminina i el feminizmo, el movimyento LGBT, los derechos a los kualo eyos estan etiketando komo « segundos», la lucha para los derechos animales, el movimyento anti-nuklear, los defendores a los derechos umanos i la paz i el movimyento de los djovenes.
+
+- Kreyemos en la demokratiya direkta. La partisipasyon ez una de los mas importantes ideyas giyadoras en muestras aktividades politikas i en todas areas de la vida. 
+-	Mozotros somos el partido en kual la hiyerarhiya, la hejemoniya de los lideres i  la dominasyon maskulina no egzisten del todo. Mozotros estuvimos adoptando el sistem su-portparola, de las igualas kvotas de la partisipasyon de las mujeres a los lugares elektorales i a los lugares rotasional. 
+-	Mozotros kreyemos ke la djente aze parte de la natura. Mozotros kreyemos ke la natura tyene unos derechos iniegables i ke la djente deve mamparar a estos derechos, mizmo komo al espasio vital de la natura i de otras almas bivas.
+-	Las valores ke mos aunan son igualdad, liberalizmo, derechidat, paz i siguridat, todas las valores univerzales de la oryentasyon syerda.
+-	Mozostros mos oponemos a la brutaldad. Mozotros luchamos kontra la gera, el militarizmo i la brutaldad del governo. Mozotros luchamos kontra la brutaldad de los ombres verso las mujeres, la brutaldad de la djente sovre otras personas bivas i kontra todas las formas de la brutaldad ke toman parte en a vida sosiyal. 
+-	Mozotros trayemos una komunikasyon i una lucha non violente, kreyendo ke „la objeksion de la konsensiya“ deve ser ratifiklada komo un derecho umano baziko
+-	Azemos parte de la lucha globala kontra el kapitalizmo, el kual destruye la natura. Mozotros rechasamos  la agresyon imperiyalistika, las okupasyones i las geras, las politikas ekonomikas neoliberales, el deskayimiento de derechos sosiyales, la fiksasyon en el kresimyento ekonomoko i las hipotezas sovre la sosyedat merkantil.
+-	Mozotros kreyemos ke ez posivle realizar un mundo mejor, ma para ke esto se realize, deveremos trokar el sistem; kale ke segiremos kon en este proyekto de trokamyento agora, por el mediyo de la eleksyon i empleyo de la administrasyon lokal i del sistem, komo i por el mediyo del lavoro de la sosyedat sivil, el movimyento para los derechos demokratikos, las kampanyas elektorales i las aksyones.
+-	Mozotros kreyemos ke puedemos trayer las solusyones de la paz en largotemporal para las demandas de los Kurdes i Alavitas, otrotanto i para las todas demandas etnikas i relijiozas, por el mediyo de esto, loke moz trayeremos los prinsipiyos de la sosyedat egalitaria a la vista.
+
+## Muestra Lucha ez Para la Derechidat Sosyal...
+
+Mozotros muncho avlamos sovre la derechidad en Turkiya; esto ez porke la mizma mos manka tanto. Para mozotros el prisipiyo de la derechidat sosyal ez el mas importante el prinsipiyo giyador kual va a regular las todas demandas sosyal.
+Mozostros kreyemos ke los todos pueden bivir iguales i liberales en payiz onde se la derechidat realiza en la 4 areyas. 
+Moz savemos ke kuando se realzen en este payiz la derechidad ekonomika, la derechidad del rekonosimyento de la identidat, la derechidad de la klima i del ambiyente vital i la derechidad de la partisipasyon ke se realize la sosyedat djusta.
+De diya en diya, ke los todos djuntos mos kreyamos kon la politika de la esperansa... 
+
+Los Vedres i El futuro syerdo... 
+
+
+
+
+

@@ -1,0 +1,65 @@
+Categories: en
+ContentMenu: [
+  {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
+  {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
+  {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
+  {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
+  {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
+  {link: "/multilangual-pages/who-we-are-bul", title: "български (Bulgarca-Bulgarian)"},
+  {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
+  {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
+  {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
+  {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
+  {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
+  {link: "/multilangual-pages/who-we-are-fre", title: "Français (Fransızca-French)"},
+  {link: "/multilangual-pages/who-we-are-hun", title: "Magyar (Macarca-Hungarian)"},
+  {link: "/multilangual-pages/who-we-are-dut", title: "Nederlands (Felemenkçe-Dutch)"},
+  {link: "/multilangual-pages/who-we-are-pol", title: "Polski (Lehçe-Polish)"},
+  {link: "/multilangual-pages/who-we-are-per", title: "فارسى (Farsça-Persian)"},
+  {link: "/multilangual-pages/who-we-are-heb", title: "עברית (İbranice-Hebrew)"},
+  {link: "/multilangual-pages/who-we-are-jpn", title: "日本語 (Japonca-Japanese)"},
+  ]
+
+# K’Oçi̇, Natura do Zaxmet’i̇ Şeni̇…
+
+Turketis andğa ağani ar şvenaşa; ağani ar demok’rasia, ok’ortonoba, moşletinuri do ek’olojist’uri, sosyali moxtiminaşi ozmonuşa k’arta oraşen dido meç’ireli voret.
+Xanç’enurepe do K’vazaluri Atxe Partiya, ar tzana tzoxle Xanç’enurepeşi Partiya, Ok’ortonoba do Demok’rasiyaşi Parti do sivili ok’oxtimeepeşi akt’orepeşi ok’oxtalaten, aşo ar şvenaten didgu. Am şvenaşi gomorgvas dido manişa muirdu do iteşkilu.
+Am şvena; timuşi do golape, çkva otkvaluten zaxmet’imuşişa, nenamuşişa, minobamuşişa, xaç’k’amuşişa, ceruamuşişa do ek’osistemis mance gamaxtimuten, iri ok’otz’qvei ar skidala  na unon k’oçepek na oskedinaps ar şvena ren. 
+Am şvena; k’oçepeşi skidalaşi cindo na ren k’ararepes k’arta seviyes elok’atu na gorups, elok’atonu do xvala demok’rasiyaşi şvena ren.
+Am şvena; kiyanaşi ek’olojist’uri k’rizi do t’aroniş ktirape na iqven şeni na moxtasunon skidalapeşen mutu na var meşvens do kiyana çkinis na skidun mteli k’oçepe do skindinape şeni mtsika mtsika oskedinu na var yizden ar svaşa var guiktas ya do na ixandepan k’oçepeşi şvena ren.
+Am şvena; k’oçik k’oçi do mteli gomorgva na va gamitz’utz’onups, na ixanden, na var ixanden, na var axandinen mteli k’oçepeşi, madulyalepeşi guronobaten do k’oçi stei na askedinen, oxoşkvalei do xeleberi ar skidala na axvenenan ar ok’oxtala oxvenuşi şvena ren.
+Am şvena; mtinişi oxoşkvalu, artinoba, edaleti, demok’rasiya do natura k’ala artikartis meqonei ar skidala na korenşa na icers k’oçepeşi şvena ren.
+Turketis ar siyasetis; oxoşkvalei, artinobaten, ek’olojisturi, elak’atei, ok’oxtimei do ok’aroni edaletiş k’ele ar ok’işiruşi oxotz’onuşa k’arta ndğas daha dido meç’ireli voret.
+Çkin, am şvena do ozmonupe na irtupanpe k’ala, şvenapeçk’ini na irden ar gzas isa oxtimu minonan.
+Menceliçkini, xvala na pskidut dixapeşi istorias var, k’oçonobaş ist’orias ti mengapua şvenapeşi oxanç’enoba şeni k’arta ç’eşidi fedakyarobas mexondineri k’oçepek na dodges adetepe, fik’irepe do mutupeşen momixtepan.
+
+## K’Artai̇ Oxoşkveri̇, k’Artai̇ Çkva, k’Artai̇ ar…
+* Menç’inu na minonan kiyanas k’oçi naturaşi, kimoli oxorcaşi, devleti k’oçepeşi, xazaini madulyaşi, miti mitişi mance varen. Xvala tzori na ren, mteli çkinas, hiyerarşis, irişi otzutzonus, militarizmis, oşkurinoni ar kiyanas oskedinu var minonan. Muşeni ki didonoba zenginoba ren.
+* Xanç’eni Oxonk’anu, Oxoşkvalei K’vazalişi, dulyaşi oxonk’anaşi, oxorcaş oxoşkvalaş oxonk’anu do feminizmişi, LGBT oxonk’anaşi, goktireli xak’epe şeni na niçu minobaş ok’işiruşi, skindanepeşi xak’epe na çumenanpeşi, nukleeris na gutzudginanpeşi, k’oçepeş xak’i do ok’otzqvala na çumelan do ağnemordalepeş oxonk’anupeşi adetepes mevoqupt.
+* Direkt’i Demok’rasiyasas vicert. Polit’ik’uri ok’oşiruşi k’arta azaşi, k’arta lokaluri organizatsiaşi, k’arta oxanduş gurubişi ok’ortei seviyes elok’atuten k’uçxeş jin dodgitun. Elok’atoba polit’ik’uri oxandobaçkinis do skidalaşi k’arta svas en dido na mevoqupt çkini prensibepeşi ari ren. Elok’atoni ar siyasi partiya ti, elok’atoni ar ekonomik’uri sistema ti, elok’atoni ar demok’raturi rejimi ti na didginen vicert.
+* Hiyerarşi, gotzoncğonaleş hegemonya, kimolepeşi xakimiyeti na varen ar partiya voret. Emirdeşimatkvaloba sistemi, goşatsxunei dulyapes oxorcalepeşi k’ota do rotasyoni mom3’ondunan.
+* K’oçi naturaşi ar notzile na ren vicert. Natura na var nit’k’omilen xak’epe na uğun, k’oçepe natura do majurani skindinapeşi xak’epe do habitatimuşi oçumaluşi mç’k’eşi ren ya do viduşunamt. Natura oxmaroni mutupeşi ar gubi stei var bz’iropt, natura k’ala artikartis meqonei ar skidala do xanç’eni ar skidalaşi dodgimu minonan.
+* K’vazalurişi kozmosuri oğiroba na ren artinoba, oxoşkvaloba, edaleti, ok’otzqvala do meşvelupek çkin ok’omok’atapan. K’vazalişi kiyanaş oktiru, demok’rasiyaş oskedinu, ok’otzqvinei artonoba do oxoşkvei skidala şeni na meçaps ist’oriuli ar oxanduşi çkinape çkinis mevocant.
+* Ok’ok’idinu var minonan. Lima, militarizmi do devlet’işi meç’irupes golavudgit. Kimolepek oxorcalepes; k’oçepes majurani şurşinaxepe na uxvenapun oç’irobas do ok’oxtimei oskedinuşi k’arta k’elendo na mudgin iri oç’irobas gotzavudgit. Oç’iroba na var uğun, polit’ik’uri nena do gotzadginobaçkinişi ogoru var mep’t’k’omert do vicdani ok’onoktinuşi temeli xak’epeşi k’abuli oxvenapuşeni vikaçet.
+* Natura na guişorups, çkin do na moxtasunon nesilepes oskedinuş ar kiyana na va rnuşkumers, uartonobaşi, fuk’arape goç’k’ominuşi do limapeşi temeli na ren k’apitalizmis na gutzudgitun kiyanas na ixvenen ok’ok’iruşi ar fila voret. Emperyaluri noxeşinu, işgali do limape, neoliberali polit’ik’ape, sosyaluri xak’epeşi oxoşirşolu, ekonomik’uri rdalaşi ozmonu do xvala oxmaroni ar ok’oxtala var minonan. Naturaşi sinorepes koxvaamç’k’atşi do na manç’enan k’onai ok’ovirtat na am kiyana mteli şurşinaxepe dubağun. Xvala çkini var na moxtasunon nesilepes ti xeleberi na askidinen stei ar kiyana kodomadgenan.
+* Daha k’ai ar kiyana na domadginenşa, amuşeni ti sistemaşi radik’aluri gogtinu vicert. Mara amuşeni ar ndğas moxtimamuşis na mepşvent em mskva ndğalepe var pçumert. Otsxunobaş gzaepeten, lokaluri oktalepe do parlamenturi sistema mosvaruten; Siviluri ok’oxtimeepeşi oxanduten, demok’ratui xalkiş ok’işiruten, k’ampanya do mutupe oxvenuten am ktiraşa andğaşen geç’k’u do kiyana goktiru şeni meç’ireli voret ya do mepşvent.
+* Kyurduri problema, Alevuri problema do iri etniğuri, religiuri minobaş problemepeş, ok’otzqvalaş doloxe opağu, artaneri dobadonuri prensibepe artikarti k’ala ok’oqonuten domapağenan ya do mepşvent. K’artaik ti muşi emniyetis na ren, majurani xaç’k’a do minobapes miti na var naç’iren do irişi ok’oxtimei xaç’k’a k’ai mi3’onunan. Etniğuri minoba, xaçk’a, nena, religia, cinsiyeti mutepeşeni artonobaşa meç’irus didonobaten goladgineri, fark’inobapes artonoburişa mecineri ar ok’oxtimeri skidala bgorupt. 
+
+## Ok’Oxti̇meri̇ Edaleti̇ Şeni̇ Vi̇ntxi̇şet…
+
+* Turketis edaletişen dido bğarğalapt mara ek’onai çkva noksanoba muşiti oxovotzonapt. Ok’oxtimeri edaletişi prensibi, mteli ok’oxtimeepeşi dulyapes gza na otziraps do na gyuntzuranaps temeli ar prensibi pşinapt. K’artaişi oxoşkveri do artonobaten skidala, edaleti na uğun ar teres iqven ya do viduşunamt. Ar teres iktisadi edaleti, oçinobaş edaleti, gomorgva do t’aroniş edaleti, artikartişa meqonuşi edaleti kodidguna ok’oxtimura edaleti ti na mulun komiçkinan. 
+* İktisaduri edaletik, morgapupeşi opayu, k’ai oskedinu, regyonaluri arinoba, k’ap’et’i lok’aluri ekonomi do dulyaşa amoxtimuşi gyuveni ti muşi k’ala mumers.
+* Oçinobaşi edaleti; etniği, religuiri, xaçk’auri do cinseli minobapeşi oxoşkvaleri oxotzonapuşi gyuvence ren. Na var içkinen ar etniği, religuiru, cinseli xura do cinsiyeti fark’i na uğun minobape na var met’k’omers oçinobaşi edaleti ok’oxtimeepeşi edaletişi ar peri ya pşinapt.
+* Elok’atobaşi edaleti, fark’i na uğun fik’irepeşi oxmaru, demok’rasiyaşi oxmaru, yasama do yurutmeşi oxoşkvala do oxmaru k’ala mencelobaşi dengepe ti ixmars.
+* Gomorgva do t’aronişi edaletik k’oçepe ti ar notzilemuşi na ren mteli kiyanaşi skidalas na gutzudgin dido oxmaru var do naturaşi dosti paği enerjişi sistemape, didi ğalepeş na unonan stei gextimu, paği let’a, paği tzk’ari do xormoni meçamei na va ren k’ai ç’k’emepe gorups.
+
+Adiluri ar skidala şeni vixandept. Ok’oxtimei, globaluri do lokaluri edaleti şeni vintxişet. K’artai oxoşkvalei do ar na ren, timuşi do natura k’ala ok’otzqvei ar kiyanas, k’oçinuri ar skidala bgorupt.
+Andğaşen ç’umenşa şvenaşi siyaseti isa mordu şeni…
+
+Xanç’enurepe do K’vazaluri Atxe… 
+
+
