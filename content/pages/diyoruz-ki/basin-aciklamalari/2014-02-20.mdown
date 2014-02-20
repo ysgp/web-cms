@@ -20,39 +20,36 @@ Yeşiller ve Sol Gelecek Partisi olarak, çok dilli web sitemizin ilk sürümün
 Siteye şuradan erişilebiliyor: / *The site can be accessed at:* [Umudu Büyütüyoruz](http://www.yesillervesolgelecek.org/bizden/umudu-buyutuyoruz#.UwZl0UKSzfA)
  
  
-Şimdilik tüm dillere Türkçe "Umudu Büyütüyoruz" metninin altından linklerle erişiliyor, ama en kısa zamanda ayrı bir İngilizce sitemiz ve dillere erişmek için daha kolay site içi erişim yolları hazırlayacağız.
- 
-*While all languages are listed, for the moment,with links under the Turkish "Who We Are" text, we will soon have a seperate English site extension, and better navigation towards each language.*
- 
- 
 Umudu Büyütüyoruz metnimiz, şu Türkiye dillerinde mevcut:
 *Languages of Turkey our manifesto text is available in are:*
  
-адыгэбзэ (Adigece/Adige Circassian) 
-العربية (Arapça/Arabic) 
-Sqip (Arnavutça/Albanian)
-Bosanski (Boşnakça/BCMS) 
-Հայերէն (Ermenice/Armenian) 
-ქართული (Gürcüce/Georgian) 
-Kurdî (Kürtçe/Kurdish) 
-JudeoEspagnol (Ladino)
-Lazuri (Lazca/Lazic) 
-Türkçe (Turkish) 
-ελληνικά (Yunanca/Greek)
+- адыгэбзэ (Adigece/Adige Circassian) 
+- العربية (Arapça/Arabic) 
+- Sqip (Arnavutça/Albanian)
+- Bosanski (Boşnakça/BCMS) 
+- Հայերէն (Ermenice/Armenian) 
+- ქართული (Gürcüce/Georgian) 
+- Kurdî (Kürtçe/Kurdish) 
+- JudeoEspagnol (Ladino)
+- Lazuri (Lazca/Lazic) 
+- Türkçe (Turkish) 
+- ελληνικά (Yunanca/Greek)
+
 Metne, ayni zamanda, şu dillerde erişilebiliyor:  
 Other languages the text can be found in are:
-Deutsch (Almanca/German)
-English (İngilizce)
-Español (İspanyolca/Spanish)
-Français (Fransızca/French) 
-Italiano (İtalyanca/Italian)
-Magyar (Macarca/Hungarian)
-Nederlands (Felemenkçe/Dutch)
-Polski (Lehçe/Polish)
-български (Bulgarca/Bulgarian)
-日本語 (Japonca/Japanese)
-فارسى (Farsça/Persian)
-עברית (İbranice/Hebrew)
+
+- Deutsch (Almanca/German)
+- English (İngilizce)
+- Español (İspanyolca/Spanish)
+- Français (Fransızca/French) 
+- Italiano (İtalyanca/Italian)
+- Magyar (Macarca/Hungarian)
+- Nederlands (Felemenkçe/Dutch)
+- Polski (Lehçe/Polish)
+- български (Bulgarca/Bulgarian)
+- 日本語 (Japonca/Japanese)
+- فارسى (Farsça/Persian)
+- עברית (İbranice/Hebrew)
  
 Çok yakında yayınlanacak İngilizce sitemizde, ayrıca basın açıklamalarımızı ve hakkımızda başka bilgilere bu dilde erişebileceksiniz.
 *You will also be able to find press releases and other information about us on our English site, coming very soon.*
