@@ -27,6 +27,12 @@ header
   == slim :'partials/carousel', layout: false,
     locals: { slides: @page.metadata("Carousel") }
 
+- if @page.metadata("ContentMenu")
+  #content_menu.subnav role="complementary"
+    ul
+      - @page.metadata("ContentMenu").each do |item|
+        li: a href=item["link"] = item["title"]
+
 == @page.to_html(self)
 
 - unless @page.pages.empty?
@@ -37,9 +43,3 @@ header
   #articles.box-4
     == slim :'partials/list', :locals => { collection: @page.articles }
 
-
-- if @page.metadata("ContentMenu")
-  #content_menu.subnav.affix role="complementary"
-    ul
-      - @page.metadata("ContentMenu").each do |item|
-        li: a href=item["link"] = item["title"]
