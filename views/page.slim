@@ -40,6 +40,6 @@ header
 
 - if @page.metadata("ContentMenu")
   #content_menu.subnav.affix role="complementary"
-    ul.nav
+    ul
       - @page.metadata("ContentMenu").each do |item|
         li: a href=item["link"] = item["title"]
