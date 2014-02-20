@@ -1,6 +1,5 @@
 Categories: en
 ContentMenu: [
-ContentMenu: [
   {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
   {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
   {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
