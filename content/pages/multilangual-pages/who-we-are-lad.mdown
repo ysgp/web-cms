@@ -11,7 +11,7 @@ ContentMenu: [
   {link: "/multilangual-pages/who-we-are-geo", title: "ქართული (Gürcüce-Georgian)"},
   {link: "/multilangual-pages/who-we-are-kur", title: "Kurdî (Kürtçe-Kurdish)"},
   {link: "/multilangual-pages/who-we-are-lad", title: "Judeo Espagnol (Ladino)"},
-  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Lazic)"},
+  {link: "/multilangual-pages/who-we-are-lzz", title: "Lazuri (Lazca-Laz)"},
   {link: "/multilangual-pages/who-we-are-gre", title: "ελληνικά (Yunanca-Greek)"},
   {link: "/multilangual-pages/who-we-are-ger", title: "Deutsch (Almanca-German)"},
   {link: "/multilangual-pages/who-we-are-spa", title: "Español (İspanyolca-Spanish)"},
