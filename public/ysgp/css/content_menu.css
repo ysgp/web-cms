@@ -1,11 +1,9 @@
-#content_menu.affix {
-	position: fixed;
-	top: 60px;
-}
-
 #content_menu {
+	margin-top: -40px;
 	float: right;
   right: 0px;
+	position: relative;
+	background-color: #ffffff;
 }
 
 #content_menu.subnav ul{
