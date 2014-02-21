@@ -2,8 +2,8 @@ Categories: en
 ContentMenu: [
   {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
   {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
-  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
   {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
   {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
   {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
   {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
@@ -26,13 +26,18 @@ ContentMenu: [
 
 # For people, for nature, and for labour… 
 New hope and a new social imagination are needed in Turkey more than ever today. This new hope and imagination in fact continues to grow and spread, not only here in our region, but throughout distant geographies as well.
+
 The Greens and Left for the Future Party was founded in late 2012 with such hope, through the merger of The Green Party of Turkey with the Party for Equity and Democracy and civil society actors. It has steadily grown and organized since then around new hope.
+
 Arising out of the premise that the world as we know it has irreversibly changed as the result of devastating wars and economical and ecological crises, this hope is fostered by millions of people who not only want to live in peace but also to reclaim their hope in the future as well as in nature; in other words, those who desire to reclaim their labour, voice, identity, culture, convictions and the ecosystem.
+
 This hope yearns for participatory democracy, for it holds that people’s participation is essential on every level in the decisions made regarding their lives.
 This hope is the hope of people who see that the future is at risk due to global ecological crises and climate change, and who struggle to prevent our world from becoming, more and more, a place where it is impossible for humans and all other living beings to live.
 This hope is the hope of creating a society where humans do not exploit one another or nature; where all people -- whether they work, do not work, or cannot work -- and labourers can live free and happy with dignity and integrity.
+
 This hope is the hope of those who believe that true freedom, equity, justice, democracy, and a life that is in harmony with nature are possible.
 Today in Turkey, the need for a new politics increases every day —a new politics which is socially libertarian, egalitarian, ecologist, participatory, and on the side of restorative justice.
+
 We, those who share these hopes and dreams, want to walk together on a path that will advance our hopes.
 We find our strength not just from the history of the land we live in, but from the traditions, ideas and values of all of those have suffered innumerable sacrifices throughout history to foster similar hopes.
 
@@ -59,9 +64,10 @@ We know that if economic justice, justice in recognition, environmental and clim
 - Just recognition of identities is the assurance of free expression of ethnic, religious, cultural, and gender identities. We see the right to just recognition, which does not exclude any ethnic, religious, gender, physically or sexually different identity, as an important attribute of social justice.
 - Justice in participation is associated to the representation of different views, pluralism, the democratic process, the independence and oversight of the judiciary and legislative, and the balance of powers.
 - Environmental and climate justice defends use that promotes nature friendly production instead of over consumption that threatens all natural beings, which includes humans, clean energy systems that are climate friendly, the free flow of rivers, clean soil, clean water, and non-genetically modified healthy seeds.
+
 We strive for a just life. Our efforts are for social, global, and local justice. We defend that everybody should be able to live in a world where they are equals, in peace with themselves and with nature, as human beings.
 From today to tomorrow, to grow the politics of hope together…
 
-Green and Left for the Future…
+Greens and Left for the Future…
 
 

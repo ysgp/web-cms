@@ -2,8 +2,8 @@ Categories: en
 ContentMenu: [
   {link: "/bizden/umudu-buyutuyoruz", title: "Umudu Büyütüyoruz"},
   {link: "/multilangual-pages/who-we-are-eng", title: "English (İngilizce)"},
-  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
   {link: "/multilangual-pages/who-we-are-ady", title: "адыгэбзэ (Adıgece-Adygei)"},
+  {link: "/multilangual-pages/who-we-are-ara", title: "العربية (Arapça-Arabic)"},
   {link: "/multilangual-pages/who-we-are-alb", title: "Sqip (Arnavutça-Albanian)"},
   {link: "/multilangual-pages/who-we-are-arm", title: "Հայերէն (Ermenice-Armenian)"},
   {link: "/multilangual-pages/who-we-are-bos", title: "Bosanski (Boşnakça-BCMS)"},
