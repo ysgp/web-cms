@@ -1,0 +1,54 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+
+# Biz Kimiz?
+
+Partimiz 25 Aralık 2012 tarihinde Ankara’da 60’ın üzerinde ilden gelen 609 kadın ve erkekle kuruldu. Kuruluşunda Yeşiller Partisi ile Eşitlik ve Demokrasi Partisi’nin yanı sıra ciddi bir katılımla bağımsız bireylerin katkısı oldu. Partinin kuruluş hazırlıkları bir yıl sürdü. Kuruluş kongresinde Sevil Turan ve Av. Arif Ali Cangı kurucu eş sözcüler olarak seçildi. Bugün bu görevi, 30 Kasım 2013 tarihinde yapılan 1. Büyük Kongreden itibaren Naci Sönmez ve yeniden seçilen Sevil Turan sürdürüyorlar. Partimizin karar organı toplam 95 üyeden oluşmaktadır. Parti Genel Merkezi Ankara’da olup, çok sayıda il ve ilçede örgütlerimiz bulunmaktadır. Partimizin amblemi “Bilge güneş/Bilge ağaç/Bilge insan”dır. Yeşil ve sol düşünce ve mücadele mirasının en önemli hedeflerinden olan ekolojiyi ve özgürleşme idealini gerçekleştireceği dünya ve toplum özlemini ve bunun yaşam bulacağı değişim ve dönüşüm döngüsünü stilize bir çizimle anlatır. Renklerimiz ise yeşil, sarı ve mor. 
+

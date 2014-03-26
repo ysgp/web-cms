@@ -1,0 +1,97 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# 19) Ekonomi
+
+**“Düzenin makbul iktisadi seçeneği” nedir?**
+
+Kapitalizmin en önemli çelişkisi az sayıda şirketin (sermaye sahibinin) çok sayıda insanın (halkın) talepleriyle ilgili kararlar veriyor oluşudur. Bu durumda, üretim, toplumun istediği gibi değil sermaye sahiplerinin istediği gibi biçimleniyor demektir. Bu da kapitalizmin, iddia edildiği gibi, “ekonomik olarak etkin” olsa bile “sosyal olarak etkin olmayan” bir sistem olduğu anlamına gelir. 20. yüzyılın son çeyreğinden beri esas olarak kapitalizmin neoliberal modeli hükmünü sürdürüyor. Dünya Savaşı sonrasında kurulmak zorunda kalınan sosyal devlet 1970’lerdeki krizler bahane gösterilerek çokuluslu şirketlerin güdümündeki Washington Uzlaşısı’na kurban edildi. Deregülasyonlar, özelleştirmelerle özellikle finans şirketlerinin kârları rekorlar kırarken, emeğin geliri düştü, ekolojik kriz tırmandı. 2008’de dünya ülkelerini vuran kriz, ekonomik olduğu kadar ekolojik ve toplumsal bir krizdir de. 
+
+**Bu modelin kriz üretmesi kaçınılmaz mı?**
+
+Değiştirme yönünde köklü ve kararlı adımlar atılmazsa, kaçınılmaz. Mevcut reçetelerle krizden çıkmak imkânsızdır. Bu kafayla atılacak adımlar, bir yeri yamarken, diğer alanlardaki tahribatı artırmaktan öte bir anlam taşımaz. Başka bir dünya yok, bu dünyada yaşamaya devam etmek istiyorsak ayağımızı yorganımıza göre uzatmayı başarmamız, bırakın büyümeyi, küçülmeyi tartışmaya başlamamız gerekiyor. Var olan serveti yeniden paylaşarak, yaşamı koruyan bir ekonomik yapıyı büyüterek daha uyumlu bir iktisadi yapı kurmamız gerekiyor. Halbuki bugün ortaya çıkan sonuç toplumsal eşitsizlik ve adaletsizliğin artması, ekolojik tahribatın büyümesidir. Buna ilave olarak, işçiler dahil bütün çalışanların emeğini koruyacak, onların taleplerini savunacak araçların, yasaların, sendikal ve toplumsal örgütlenmelerin zayıflayarak gerilemesi de dikkat çekiyor. Ücretli çalışanlar daha güvencesiz, koşulları kötü ve gelirleri son derece adaletsiz düzeyde. Küreselleşen sermayenin birikimi ise muazzam bir düzeye çıkmış durumda. Bu sistemin neden olduğu ekolojik yıkımın asıl etkisini dar gelirliler üzerinde gösterdiğini de belirtmeliyiz. 
+
+**Büyük sermaye grupları ekonomiyi teslim mi aldı?**
+
+Gerçek durum böyle. Washington ve Brüksel başta olmak üzere, her başkentte görevleri hükümet politikasını etkilemeye çalışmanın ötesinde, bizzat politikaları belirleyip hükümetlerin dikkatine sunmak olan yüz binlerce özel sektör lobicisinin varlığı bunun en açık kanıtıdır. Bu lobiciler sahip oldukları maddi kaynaklar sayesinde hükümet ve bürokrasinin kapısını istedikleri anda çalabilmekte, taleplerini kolayca dillendirebilmekte, dikte edebilmekteler. Çalışanlar, toplum ve tek tek bireyler ise bu güç odaklarının baskı ve kuşatması altında ve korunaksız. Devlet ve piyasa denilen mekanizma, kârı esas amaç alarak doğayı, ekolojik dengeyi, sosyal yapıyı tahrip eden politika ve uygulamalarıyla nefes aldırmıyor. Koruyucu yasal düzenlemeler ve sosyal politikalar art arda terk ediliyor. İnsani ve toplumsal ihtiyacı karşılama çabasındaki toplum piyasanın insafına bırakılıyor. Bu açmazdan ancak katılım, dayanışma, ortaklık ve gönüllülük zemini sunan yeni alternatiflerle çıkılabilir.
+
+**Çarpık düzen dedikleri bu mu?**
+
+Dünyada da, bizde de az sayıda insanın kararıyla, çok sayıda insanın hayatını etkileyen bir ekonomik düzen var. Buna çarpık denilmez de ne denir! Bu dışlama ve yabancılaştırma, büyük bir dengesizliğin, sık sık yaşanan ve ne zaman patlayacağı da belli olmayan krizlerin nedeni. Bunlar kapitalist ulus devlet ekonomileri ve yalnızca büyümeye odaklanmışlar. Bu nedenle de toplumsal eşitsizlik, adaletsizlik, sürekli dengesizlik ve ekolojik tahribat ve yıkım kaçınılmaz bir sonuç.
+
+**Çarpık ekonomik düzenden çıkış yolu var mı?**
+ 
+Toplumu kendi geleceğini ilgilendiren önemli kararlara katmak bize çıkış imkânı sunar. Temel  mesele halkın temel iktisadi tercihlerde yönlendirici rol sahibi olmasını sağlamak. Bu piyasayı, motivasyonunu sınırsız kâr etmek amacından alan sermayeyi frenleyecek ve toplumun piyasayı kuşatmasını sağlayacak çeşitli mekanizmalar oluşturulabilir. Bu yolla toplumsal, ekonomik ve ekolojik sürdürülebilirliği olan ve katılımcılık ilkelerine dayanan yeni bir düzen kurulabilir. Adına küreselleşme dediğimiz süreç yerel ekonomileri yıkarak gelişti, giderek tekelci bir yapıya kavuştu. Oysa yerel ekonomiler sistemin belkemiği. Bu süreci tersine çevirmek zorundayız. Bu bağlamda işletmelerin yönetimlerinde çalışanların ve tüketicilerin temsilcilerinin bulunması ve kararlara katılması sağlanabilir. Ekonominin bütün süreçlerine etkin katılım, siyasi ve iktisadi alanlardaki güç yoğunlaşmasını sınırlayabilir, büyük sermaye gruplarının istedikleri gibi yön verme girişimlerini önleyebilir.
+
+**Çarpık ekonominin eşitsizlikleri neler?**
+
+Bu küresel ekonomik sistem hem ülkeler arasında, hem de ülkelerin kendi içinde her alanda ekonomik eşitsizlik ve ekolojik dengesizlik üretiyor. Dünyada ve ülkeler içinde bölgeler bu eşitsizliği ve dengesizliği yaşıyor ve bu durum giderek yayılıyor. Son yıllarda farklı konular etrafında ve birbiri ardına yaşanan krizler bunun örneği. Krizlerin araları kısalıyor, etki alanları ise genişliyor. Sık sık bir tıkanmaya doğru sürüklenme hali yaşanıyor. Küresel kapitalizmin ürettiği bu sorunların giderilmesi kapalı ekonomiler ve otoriter yönetimler oluşturmaktan geçmiyor. Aksine çıkış imkânlarını yaratacak olan her alanda demokratikleşme ve toplumsal katılımdır.
+
+**Demokratik bir küreselleşme olamaz mı?**
+
+Şu anda küreselleşen sermaye ve istediğini dünya halklarına dayatıyor. Toplumların katılımları üzerinden gelişen demokratik bir küreselleşme de mümkündür. Dünya ve AB ile kurulan ilişkileri sermayenin yönlendirdiği elitlerin kontrolünden alarak, toplumun bizzat katılıp söz ve karar sahibi olacağı biçimler oluşturmak hedeflenebilir. Buna ilave olarak yerel ekonomilerin güçlenmesi için çalışmalar yapılarak, mevcut sistemin onları öldürerek büyümesinin önüne geçilebilir. 
+
+**İşsizlik, yoksulluk ve doğa katliamları kaçınılmaz mı?**
+ 
+Ekonomik büyüme ve ekolojik denge birbirini dışlamaz. Bu istihdam için de geçerlidir. 2013 yılı için Türkiye’de işsizlik neredeyse % 10’u buldu. Asgari ücret 846 TL. Kamuoyuna yansıyan yolsuzluk, rüşvet, kayırma, hukuksuzluk skandallarını “çağ atlama” olarak sunan bir iktidar savunmasıyla karşı karşıyayız. Eğer ekonomi politikaları küresel değil yerel üretim birimlerini, kârı değil gerçek refahı, ekonomik büyümeyi değil sürdürülebilirliği temel alırsa, yani yeşil ekonomik dönüşüm benimsenir ve uygulanırsa durum çok farklı olacak. Geleneksel kalkınma stratejilerinden çok daha fazla iş imkânı, doğayı korumak ve ülkenin biyolojik kapasitesini yükseltmek mümkün olacak. Ancak böyle bir ekonomik politika işsizliği, yoksulluğu ve doğa katliamını önler.
+
+**Piyasa ekonomisinin sonuçları nelerdir?**
+ 
+Piyasa ekonomisi toplumdaki eşitsizlikleri artıran bir rol oynuyor. Eşit dağıtılmamış kaynaklara ve bilgi tekeline sahip olanlar süreçleri belirliyor ve ekonominin çarkları büyük ölçüde onlar için dönüyor. Piyasa ekonomisinin etki alanı genişliyor ama ücretli çalışanların ve çoğunluğun yaşam kalitesi göreli olarak düşüyor. Bu olumsuz etkileri bertaraf etmek için ulaşım, eğitsel ve kültürel faaliyetler, sağlık ve barınma gibi hizmetlerin kamu tarafından sağlanması dar gelirli ve varlıksız kesimlerin korunması bakımından önemlidir. Bu bağlamda paranın geçmediği veya etkili olmadığı kamu alanları yaratılması piyasanın yıkıcılığını frenleyen ve alanını daraltan imkânlar olarak görülebilir. 
+
+**Bu ekonomik düzenin vergi politikası adil mi?**
+
+Mevcut vergi politikaları gelir dağılımı adaletsizliğini gidermiyor, daha da artırıyor. Yurtdışına kaçırılan servetlerin ülkeye getirilmesi karşılığında ödenecek vergiler kolayca affedilirken, asgari ücretten halen vergi alınmaya devam ediliyor. Kamu kaynakları toplumun refahını yükseltecek alanlara akıtılmıyor. Bu kaynakların adil ve adaletsizliği yok edecek bir vergi sistemiyle toplanması gerekir. Durum hiç de böyle değildir. En zenginle en fakir dolaylı vergilerle aynı ölçüde vergi veriyorlar. Gelir dağılımını düzelten kapsamlı bir vergi reformu yapılması gerekiyor. İktisadi adalet için gerekli olan budur.
+
+**Kooperatifçilik konusunda fikriniz nedir?**
+
+Piyasa ekonomisinin hükmünü sürdürdüğü günümüzde kooperatifler çok yönlü fonksiyonu olan örgütlenmelerdir. Kamusal ilişkilerde ve insan ihtiyaçlarının karşılanmasında, piyasanın etkisinden arınmak, olabildiğince eşitsizlikleri onarmak, toplumsal adaleti sağlamak, üretim, tüketim ve çalışanlar ilişkilerinde demokratik katılımcılığı sağlamak kooperatifler yoluyla mümkün olabilir. Yine kooperatifler doğal varlıkların sınırsız ve yıkıma uğratacak düzeyde işletilmesinin önüne geçebilir. Yenilenebilir enerji kaynaklarının işletilmesinin ve kullanımının yaygınlaştırılmasında da etkin rol oynayabilir. Bu bakımdan üretici, tüketici ve çalışanlar kooperatifleri kurulabilir. Demokratikleşme, tüketicinin ve üreticinin korunması, ekolojik duyarlılık, yoksullukla mücadele, mikro finansman temini, uluslar arası işbirliği, bilgi ve veri paylaşımı kooperatiflerin kapsamını  anlatıyor. Hem üretici ve tüketici kooperatiflerinin birleşmesi, hem de dünya ölçeğinde işbirliği modellerinin geliştirilmesi önem taşımaktadır. Kooperatifler sadece ekonomik değil, aynı zamanda sosyal bir kurumdur ve sosyal amaçları da bulunmaktadır. Örneğin, bu ağ içinde kar ve piyasa unsurunu yıkıcı etkisini en aza indirmeyi hedefliyor. Partimiz doğrudan demokrasinin uygulandığı, eşitlikçi, özgürlükçü, doğayla uyumlu toplumsal düzenin kurulması hedefimizde, piyasaya alternatif olma potansiyeli taşıyan kooperatifçilik çalışmalarına önem vermektedir.
+
+
+

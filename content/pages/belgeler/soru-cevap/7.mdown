@@ -1,0 +1,86 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# 7) İnanç ve Vicdan Özgürlüğü
+
+**Herkes istediği inancı seçiyor bu ülkede, engelleyen mi var?**
+
+Türkiye’de farklı inançlar eskiden de vardı, şimdi de var. Ama mevcut anayasal, yasal ve idari yapı, toplumda görülen bazı anlayışlar, farklı inanç ve kültür gruplarına eşit ve saygılı davranmıyor. İnançlarını özgür bir şekilde yaşama konusunda çok zorluk çekiyorlar. Değişik zamanlarda ciddi saldırılara uğrayıp hayatlarını kaybediyorlar. Bu nedenle, Türkiye’de inanç özgürlüğünün sağlandığı söylenemez. Müslüman, Hıristiyan, Musevi, ve ateist bütün yurttaşlar, yıllardır inanma ya da inanmama özgürlüğünü evrensel insan hakları ve demokratik ölçüler içinde yaşayamadılar. Farklı dönemlerde farklı kesimler devlet baskı ve zorunun hedefi oldular. Toplumdan dışlandılar ve ayrımcılığa uğradılar. İnanma ve inanmama temel insan hak ve özgürlüklerindendir. Devletin bunlardan her hangi birinin yanında yer alması, diğerlerine ayrımcı davranması, demokratik normlara sahip ülkelerde kabul edilemez. Türkiye’de de yıllardır yaşananlar böyleydi. Devletin ideolojik olarak  içerik ve biçimini verdiği resmi bir inanç türü, yani Sünni hanefi inancı, devlet organları eliyle topluma dayatıldı. Diğer kesimlerin inanma ve inanmama özgürlüğünü, bütün ritüelleri ve ibadet sistemleriyle  yaşama geçirmeleri engellendi.    
+
+**Cumhuriyetin en önemli ilkesi laiklik, bu yetmiyor mu?**
+
+Yetmesi bir yana, bu ilkenin mevcut uygulaması hiç de özgürlükçü değil. Azınlıkta olan din, inanç ve kültür grupları bastırma, sindirme, dışlama ve asimilasyona maruz kalmaktadır. Devlet bu alandaki farklı kümelere eşit mesafede durmayıp, kendi tercihi olan resmi bir inanç, kimlik, kültür ve ideolojiyi bütün imkân ve baskı gücünü kullanarak empoze etmektedir. Bu da topluma laiklik diye sunuluyor. Biz özgürlükçü, insan olmaktan kaynaklanan, topluluk olmaktan kaynaklanan hak ve özgürlüklerle koruma altına alınmış gerçek ve özgürlükçü bir laikliğin asıl ihtiyaç olduğunu düşünüyoruz.
+
+**Devlet her inanç ve kültüre nasıl eşit davranacak?**
+
+Öncelikle anayasal ve yasal açıdan farklı inanç ve kültür grupları arasındaki farklılık giderilerek herkesin bu bakımdan eşit olması sağlanmalıdır. Bugün böyle bir durum yok.  Ayrıca, uygulamada sayısız  hak ihlali ve eşitsizlik söz konusu.  Hangi inanç ve kültür grubu içinde olursa olsun bütün yurttaşların hiçbir baskıya maruz kalmadan yaşamalarını sağlamak ancak demokratik düzen ve özgürlükçü laikliğin hüküm sürdüğü bir siyasal sistemle mümkün olur. Devlet o zaman bütün yurttaşlara eşit mesafeden bakar. 
+
+**Nedir Özgürlükçü Laiklik?**
+
+Tek tip yurttaş yaratma projesi peşinde koşan ulus devletin laikliği ortada. Özgürlükçü laiklik insan uygarlığının değerlerine ve evrensel insan haklarına aykırı olmayacak her tür inanç, vicdan ve inanmama özgürlüğünün kayıtsız şartsız güvence altına alındığı bir laiklik anlayışı ve sistemidir. İnsanlar bu sistemde ibadet, inanış, giyim kuşam ve yaşam tarzlarında serbestliğe sahiptirler. Hiç kimse, farklılığından ötürü ayrıma uğramaz ve aşağılayıcı muameleye tabi tutulmaz. Devlet de bütün dinlere, mezheplere ve inançlara eşit uzaklıkta durur ve kendisini onlardan ayırır. Halkın vergilerinden onlara dönük eşitsiz ve özel teşvikte bulunamaz. Devletin işlerini dinden tamamen ayırır. Aileler ve sivil girişimler isterlerse çocukların dini eğitimini sağlayabilir. Zaten devlet inanç ve ibadet konularına girmeye kalktığında laik özelliğini kaybedecektir. Okullarda da bu konuda zorlama olamaz. Bir kültür konusu olarak dinler tarihi, felsefe, etik gibi kavramlar üzerinde duran dersler eğitimin belli seviyesinde isteğe, tercihe bağlı olarak verilebilir.
+
+**Devlet kurumlarında çalışanlar inançlarını saklayacak mı?**
+
+İnanç ve kültürel kimlik bir insan hakkı olduğuna göre kamu kurumlarında çalışanların bunları gizlemeye zorlanması doğru olmaz. Elbette kimse kamudan hizmet alırken inancı ve kültürü nedeniyle bir baskı, zorlama ya da ayırımcılık da görmek istemez. Dolayısıyla kamuda görev yapanların işleri ve kararlarında inanç ve kültürel kimliklerinin hiçbir etkisinin olmaması gerekir. Üniforma giyme zorunluluğu bulunan sayıları sınırlı bazı meslekler grupları hariç, kamuda görev yapanların giyim kuşamına devlet müdahale etmemelidir. Kamudan hizmet alan yurttaşların giyim kuşam tercihine ise kimse karışmamalıdır. 
+
+**Bakanlıklardan bile büyük Diyanet İşleri Başkanlığı var, bu durumda o ne olacak?**
+ 
+Bugünkü yapısıyla asla olmaz. Kaynağını bütün yurttaşların vergileriyle oluşan bütçeden alıyor ama hizmeti Türk, Sünni ve Hanefi mezhebine veriyor. Bunun laiklikle filan ilgisi yok. Mevcut yapısı ve işleyişine son vermek en iyisi.  Çünkü böylelikle devletin bütün din ve inançlara eşit mesafede olması için iyi bir başlangıç yapılmış olur.
+
+**Aklına esen ibadethane mi açacak?**
+
+İhtiyacı olan yurttaşlar uygun yerde ibadethanelerini açabilmelidir. Hangi din ve inanç grubuna ait olursa olsun bütün ibadethanelere, devlet tarafından ayrımsız hukuki güvence sağlanmalıdır. Bir yerin ibadethane veya kutsal mekân olduğuna devletin idari veya dini görevlileri değil, o inanç grubu karar vermelidir. Cem evini ibadethane olarak gören Alevilere, “hayır ibadetinizi camide yapacaksınız” dayatması terk edilmelidir. Cami dışındaki ibadethanelerin yapımına çıkarılan zorluklara son verilmelidir. Türkiye’de Aleviler eşit yurttaşlık hakkından hiçbir dönemde yararlanamadılar. Gündelik yaşamda sürekli ayrımcılığa uğradılar ve bu sürüyor. Son olarak Suriye’de başlayan iç savaş nedeniyle sürekli ötekileştiriliyorlar. Sadece Alevilerin değil, Hıristiyan inancından çeşitli yurttaşların da kiliseleri yeniden kullanma talepleri zorluklarla yüz yüze. İbadet özgürlüğü hem bir insan hakkıdır, hem de anayasal bir haktır. Bu taleplerin önündeki engeller kaldırılmalıdır. Devlet kimsenin ibadet biçimini, mekânını belirleyemez. 
+
+**Din ve inanç anlaşmazlıkları nasıl biter?**
+ 
+Herkesin kendini güven içinde hissedeceği, din, inanç, etnik kimlik ve kültürü, cinsiyet kimliği nedeniyle ayrımcılığa uğramayacağı bir demokratik ortam yaratılmalıdır. Anayasa ve yasalarda, gizli ve açık yönetmeliklerde, kurumlarda ve uygulamalarında bulunan ayrımcılık tamamen kaldırılmalıdır. İnanç tercihleri bakımından azınlıkta olan yurttaşlara yönelik  saldırılara, aşağılamalara, ötekileştirmeler karşı,  bunların teşvik edilmesinin engellenmesine yönelik sert tedbirler alınmalıdır. Eğitim müfredatı ve ders kitapları bu gözle yeniden değerlendirilmeli ve ayrımcılıktan arındırılmalıdır. Bir arada yaşama kültürü ve anlayışı daha ve eşitlik kültürü ilköğretimden başlayarak anlatılmalıdır. Bu düşünce ve davranış biçimi toplumun her tarafına yayılmalı ve bu amaçla özel programlar devreye sokulmalıdır. 
+
+**Devletin görünürdeki  inanç anlaşmazlıklarında rolü var mı?**
+
+Türkiye farklı kimliklerin yüz yıllardır bir arada yaşadığı bir tarihsel miras üzerine inşa edildi. İnanç farklılıklarının sorun olarak ileri sürüldüğü olayların hemen tamamında, devletin, iktidarların ve onlarla ilişki içerisinde olan çevre ve kurumların rolü bulunmaktadır. Arka planda daima başka politik hesaplar ve projeler söz konusudur. Bazen bir toplum mühendisliği devreye sokularak, inanç ve kimlik anlaşmazlığı görünümünde çatışmalar, katliamlar, suikastlar, vb ortaya konulmuştur.    Aslında yaşananlar inanç anlaşmazlığı değil, farklı inançlara gösterilen ayrımcı tahammülsüz ve muhtelif politik niyetlerle bazı kesimlere yönelik baskı politikaları ve tertiplerdir. Alevilere yönelik Maraş Katliamı, Madımak Katliamı, rahip cinayetleri, Malatya Zirve Kitabevi cinayetleri ve Hrant Dink cinayeti bu çerçevede ele almak gerekir. Bu olayları azmettirenlerin ortaya çıkarılması konusunda senelerdir aşama kaydedilememesi devlet ve iktidar güçlerinin politik hedefleriyle son derece yakından ilgilidir. Özgürlükçü laiklik devletin inanç alanından elini çekmesini öngörür. Bu gerçekleştiğinde yurttaşların inanç farklılıklarının bir sorun olmadığı görülecektir. Devletin bütün inançlara aynı mesafede durması gerekir.

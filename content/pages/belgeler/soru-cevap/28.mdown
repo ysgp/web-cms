@@ -1,0 +1,95 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+
+# 28) Sağlık, Sorunlar ve Çözümler
+
+**Nasıl bir sağlık düzeni düşünüyorsunuz?**
+
+Sadece hastalığın tedavisi ve önlenmesi değil, bedensel, psikolojik ve sosyal olarak bireylerin ve toplumun iyi olma halinden söz etmek gerekiyor. Bunun için de birey ve toplum sağlığını koruyucu demokratik, eşitlikçi, ekolojik ve sosyal hakların ileri düzeyde geliştirildiği bir sistemi hedeflemeliyiz. Mevcut şartlarda halk sağlığı ciddi bir mücadele konusu haline geldi. Artık yoksullukla, fırsat eşitsizliğiyle, bürokrasiyle ve çevre kirliliğiyle mücadele bir anlamda sağlık mücadelesinin parçası durumundadır. Sağlık sistemi öncelikle bireylerin ve toplumun sağlığını koruma ve geliştirmeyi hedeflemeli. Tedavi edici hizmetler de eşitlikçi ve toplumsal anlayış çerçevesinde düzenlenmeli ve verilmeli.
+
+**Halk sağlığı nelere bağlıdır?**
+ 
+Kadınların toplumsal yaşama dahil olmaları ve eşitlikleri sağlanmalı. Sağlıksız şartlardan en fazla çocuklar etkilenir. Onların yeterli bakımı yapılabilmeli. Herkese sağlıklı barınma koşulları, dengeli ve nitelikli beslenme imkânının sağlanması halk sağlığının gerçekleşmesi bakımından olmazsa olmazdır. Benzer şekilde dil, din, cinsiyet, sınıf, bölge gibi toplumsal eşitsizlik ve ayrımcılık nedenleri giderilerek sağlık hizmetleri herkesin erişimine açık hale getirilirse halk sağlığı sorunu büyük ölçüde ortadan kaldırılabilir. Çünkü, kaliteli hizmetten eşit yararlanma herkesin hakkı. Devlet de bu hizmetin parasız, eşit ve nitelikli olarak alınmasını garanti etmekle yükümlü. Bu hizmetler ülkenin en ücra birimine kadar taşındığında halk sağlığının gerçekleşmesinde ciddi mesafe alınmış olacak.
+
+**Sağlık harcamaları devletin sırtında yük mü?**
+
+Devlet dediğimizin aslında vatandaşlara bir hizmet örgütü olduğunu aklımızdan çıkarmamalıyız. Üstelik devletin faaliyetlerini finanse eden de vatandaşların vergileri. Sağlık harcamalarını yük görmek, vatandaşı yük görmektir. Kamu kaynakları vatandaşa hizmet için vardır. Sağlıktaki merkezi yönetim ve yapılanma ise hizmeti zorlaştırıyor. Erişilebilir sağlık hizmeti için yerel yönetimlerin yetkilendirilmesi önemli bir çıkış yolu; hem etkin, hem yetkin hem de yakın bir çözüm yolu. Böyle bir sistem kurulursa sağlık bakanlığının işlevi de denetim ve planlama olur. 
+
+**Sağlıkta özelleştirmeye nasıl bakıyorsunuz?**
+
+Özelleştirmenin önü açıldı ve çok sayıda özel hastane kuruldu. Devlet hastanelerinin çoğu hastalarını tıbbi tetkik, muayene ve tedavi için oralara yönlendirdi. Sağlık alanına ayrılan kamu kaynaklarının önemli bir bölümü bu yolla, sağlık sektörüne yatırım yapan yerli ve yabancı sermayeye aktarıldı. Aradan geçen zamana rağmen gerçekleşeceği iddia edilen sonuç alınamadığı gibi, sağlık hizmetlerinin bedeli devamlı yükseldi. 
+
+**Katılım patı uygulamasına ne diyorsunuz?**
+
+Katılım payı denilerek sosyal güvenlik şemsiyesi altındaki bütün çalışan, emekli ve serbest meslek sahibi yurttaşlardan ödemeler talep ediliyor. Bu nedenle sağlık sektöründeki özelleştirme durdurulmalı. Kamu hastanelerini ticari işletme, hastaları müşteri haline getiren uygulamaya son verilmeli. İlgili bütün kesimlerin katılımıyla demokratik biçimde, devletin denetim ve gözetiminde, ama baskıdan uzak şekilde kamu hastaneleri yeniden yapılanmalı, özerk bir şekilde idare edilmeli.
+
+**Riskli kesimler için koruyucu sağlık önerileriniz nedir?**
+
+Çocuklar, doğurganlık yaşındaki kadınlar ve gebeler, yaşlılar, engelliler ve kronik hastalığı olanlar riskli grupta yer alıyor. En fazla koruyucu ve tedavi edici sağlık hizmetine bu kesimler ihtiyaç duyuyor. Kamusal sağlık hizmetleri bu kesime öncelikli ve eksiksiz olarak verilmelidir.
+
+**Kürtaj, kadın özgürlüğü ve aile planlaması hakkında görüşünüz nedir?**
+
+Devletin kadın bedeni üzerinde söz ve karar sahibi olduğu hiçbir uygulama kadın sağlığı ve özgürleşmesi bakımından kabul edilemez. Aile planlaması hizmetleri kadın sağlığı ve özgürleşmesinin bir parçası olarak görülmeli. Bu hizmetin kamu tarafından verilmesi uygun olanı. Kürtaj ve sezaryen konusu hükümetlerin kadın bedeni üzerinde tahakküm kurmak ve kontrol gerçekleştirmek üzere ele aldığı ve politika dayattığı bir alan. Bunların kadınların kendi kararlarına bırakılması, devletin aradan çekilmesi gerekiyor. Devletin yükümlülüğü isteyen kadınlara bu hizmeti en iyi şartlarda vermektir. 
+
+**Sağlıkta yerinden yönetim mümkün mü?**
+
+Sağlıkta kararlar çalışanlar, yerel yönetim ve toplum temsilcilerinin eşit oranda katıldığı kurullarda alınabilir. Çünkü, bireyler ve toplum sağlık hizmetlerinin planlaması ve uygulamasına dair kararlara katılma hakkına sahiptir. Planlama, uygulama ve denetleme bu katılım anlayışıyla yapılabilir. Sağlık eğitimi ve okul sağlığı da bu yerinden yönetimin planlama ve uygulamasıyla gerçekleşebilir.
+
+**Sağlık çalışanları için hangi adımlar atılabilir?**
+
+Sağlık emekçilerinin çalıştığı kurumların yönetsel özerkleşmesi hedeflenmeli. Sağlık personeli ve hizmetlilerinin hizmet öncesi ve hizmet içi eğitimleri için yeterli kaynak ayrılmalı. Oysa henüz grevli toplu sözleşmeli sendikal hakları bile sağlanabilmiş değil. Toplu görüşme ise idarenin son sözü söyleyen konumunda bulunması nedeniyle yeterli bir sendikal hak değil. Ayrıca toplumsal yararı gözeten ve güvenceli bir istihdam politikası hayata geçirilmeli.
+
+**Yaz boz tahtasına çevrilen hastane hizmetleri hakkında ne diyorsunuz?**
+ 
+Sağlık emekçileri arasında dengesiz ve tutarsız uygulamalar nedeniyle iş barışı bozulmuş ve motivasyonlarının olumsuz etkilenmesine yol açılmıştır. Sağlık çalışanları sürekli görmezden geliniyor. Performansa dayalı, hastayı müşteri konumuna düşüren ücretlendirme sistemi, sadece sağlık anlayışı bakımından değil hekimlik etiği bakımından da son derece tartışmalı bir uygulama olmuştur. Bunun yerine güvenceli, yeterli ve emekliliğe yansıyan, hekim ve diğer çalışanların yalnızca sağlık hizmetlerine odaklanacağı yeni bir sistem oluşturulmalı. Sağlık hizmetleri alanının teknoloji ve ilaç çöplüğüne dönüşmesine yol açan, insanı yaşadığı toplum ve doğadan koparan sistem ve uygulamalar terk edilmeli.
+
+**Endüstriyalist tüketim zihniyeti sağlık alanını nasıl etkiliyor?**
+ 
+İnsanı doğaya yabancılaştıran ve ondan koparan bir tüketim zihniyeti hâkim. Bunun yerine doğayla uyum ve ekolojik yaşam, sağlıklı bir ömür için daha uygun şartlar sunuyor. Modern tüketim toplumunda hastalıkların önemli kaynaklarından biri çevre kirliliği ve değişen beslenme alışkanlıkları. Ayrıca sağlığı yalnızca uzmanlara bırakan modern tıp anlayışı da sorunlar barındırıyor. Bunun yumuşatılmasına, şifayı ve sağlığın korunmasını eksene alan bir tıp anlayışının geliştirilmesine ihtiyaç var. 

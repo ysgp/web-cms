@@ -1,0 +1,159 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# 11) Cinsiyet Eşitliği
+
+**Cinsiyetli olma ve o role hazırlanma ne zaman başlıyor?**
+
+Her insan anne karnından ve doğumdan başlayarak kendini cinsiyet ilişkilerinin içinde bulur ve toplumsal ilişkiler içinde cinsiyet rollerini öğreneceği yollardan geçer. Dişiler için kız ve kadın olmak, eriller için oğlan ve erkek olmak bu şekilde öğrenilir. Bu süreç içinde cinsiyetler arasında hiyerarşi olması da hem öğrenilir, hem de bu olağan karşılanacak ölçüde içselleştirilir. Erkekler güç, akıl, kültür ve kamusallıkla özdeşleştirilirken, kadınlar zayıflık, duygusallık, doğa ve özel alanla özdeşleştirilerek, hiyerarşide ikinci sıraya ve ikinci sınıf konumuna yerleştirilir. Aslında yaşamın her alanı böyle bir anlayışla cinsiyetli ve erkek egemen zihniyetle kategorilere ayrılır ve günlük hayat içinde yeniden üretilir. Özetle toplumsal cinsiyet içinde bulunduğumuz toplum tarafından belirlenen kadınlık ve erkeklik rollerini içerir. Toplumsal hayatımızda kadınlar için ayrı, erkekler için ayrı görevler biçilir. Ancak bu görevlerde erkekler kadınlara göre ayrıcalıklı bir yere konulur. Bu durum toplumsal cinsiyet ayrımcılığının kurumlaşmasına neden olur.
+
+**Erkek egemen anlayışın etkileri nelerdir?**
+
+Bu anlayışın etki ve baskısını yalnız kadınlar hissetmiyor. Bu etki erkekler üzerinde de kendini gösteriyor. Kadınların birbirleriyle ilişkilerinde erkek egemen söylemin eşitsiz ve negatif etkisi sık görülüyor. Aslında erkeklik ya da erkek egemen anlayış kadınları toplumsal yaşamda kendi eşiti göremeyen anlayıştır. Tarihsel olarak da erkeklik bütün siyasi, dini ve ekonomik kamusal yaşamı bunun üzerinden kurmuştur. Kadınlar ikinci sınıf kabul edilmiştir. Bugün de hem siyasette hem de ekonomide erkeklerin, sistemin bütün imkânlarını kullanarak kadınların konumunun değişerek eşit düzeye gelmesini engellemeye çalıştıklarını görüyoruz. Genel tabloyu anlamak için TBMM’ne bakmak yeterli.
+
+**Cinsiyet, toplumsal yaşam ve devlet ilişkisi nedir?**
+
+Cinsiyet sadece kadın ve erkek olma halleri değildir. Cinsiyet insanlığı ikiye bölen ve böldüğü şeyin bir parçasını diğerinden üstün tutan siyasal iktidar biçimidir. Cinsiyete verilen rol bununla sınırlı kalmaz, aynı zamanda ilk işbölümü olan kadın ile erkek arasındaki işbölümünün de ekonomik ifadesi halini alır. Bu hal de yine erkeklik tarafından belirlenmiş tek yanlı bir sözleşme üzerine kurulmuştur. Medeni hukuk bu sözleşmenin devlet bağlamındaki öteki adıdır. Ayrıca cinsiyet, muhtelif yaşam alanlarında yasak olanı ifade eder. Çünkü, kimlik tanımlamanın bir parçası olmaktan öte cinselliğe ve üremeye dair de bir anlam içeriyor. Milliyetçi devlet zihniyetinde, disiplini bir yönetim imkânı olarak gören otoriter modellerde hep erkek egemen bir hiyerarşi topluma dayatılıyor. Bu bağlamda gelişen cinsiyet ilişkileriyle devlet kadın ve erkekleri öngördüğü alanlara yönlendiriyor ve politikalarını dayatabiliyor. 
+
+**Aile reissiz olmuyor mu?**
+
+Gerçi yasada bazı değişiklikler olsa da “aile reisliği” erkeklerin toplumsal konumunu tartışmasız hale getirmek için sadece fiilen değil, yakın zamanlara kadar yasalarda da yer almıştı. Böylelikle erkek devlet yöneticisi ve militarizmin asıl dayanağı haline getirilirken, kadın neslin devamı için doğurma ve annelik rolüne mahkûm ediliyor. Yani, bu heteroseksist siyaset üreme ve üreyeni yönetmeyi böyle bir döngüye oturtuyor. İnsanı doğanın efendisi olarak görüyor. Kapitalizmin neoliberal küreselleşmeci döneminde de bu anlayış gömlek değiştirip, kadın erkek ilişkilerinin esasını değiştirmeden sadece tüketim toplumunun ihtiyacına uygun hale getiriyor.
+
+**Cumhuriyet kadınlara hak tanımadı mı?**
+
+Osmanlının son döneminde gelişen kadın hareketinin etkisi Cumhuriyet’in ilk yıllarında kendini gösterdi. Siyasi ve kamusal bazı haklarlar konusunda olumlu gelişmeler yaşandı. Cumhuriyet ile kadın-erkek eşitliği konusundaki yasal reformlar, Osmanlı dönemine oranla (ve aynı zamanda bölge ülkeleri ile karşılaştırıldığında) hiç de yadsınamayacak ciddi bir ilerlemeydi. Özellikle yasal haklar açısından Anayasa, Medeni Kanun, İş Kanunu ve Ceza Kanunu başta olmak üzere kâğıt üzerinde eşitliğe yönelik büyük bir atılım gerçekleşti. Ancak sorun, bunların uygulamada zayıf kalmasıdır; kâğıt üzerindeki eşit haklardan küçük bir azınlık dışında (şehirli / eğitimli / yüksek gelirli) çoğu kadın epey kısıtlı olarak faydalanabiliyor. 
+
+**Osmanlı dönemindeki kadın hareketinin haklar konusunda bir rolü oldu mu?**
+
+Bu bakımdan, Osmanlı’nın son döneminde gelişen kadın hareketinin Cumhuriyet’in kuruluş aşamasında kadınların eşit hak taleplerinin politika gündeminde yer almasındaki rolü çok büyük ve önemli olduğunu dikkate almalıyız. Hiç şüphesiz, konuya ilişkin olarak Cumhuriyet yönetiminin resmi vizyonunun cinsiyet eşitliğine dayalı (en azından teoride ve söylemde) olması da bir o kadar önemli. Bununla beraber, nesnel şartlar erkeğin ekonomik, siyasi ve sosyal egemenliğini güçlendirdi. Hatta namus kavramına yasalarda önemli bir yer vererek kadın cinayetlerine meşruiyet zemini yarattı.
+
+**AKP döneminde düzelen bir şey oldu mu?**
+ 
+Bu parti ideolojisinin gereği olarak verili cinsiyet rollerini pekiştiren ve özellikle kadını mutlaka aileyle birlikte tanımlayan ve anne kavramını öne çıkaran bir çizgi izliyor. Ancak kadın hareketinin yoğun mücadelesi sonucunda Medeni Kanun ve Ceza Kanunu’nda kadın lehine kısmi bazı değişiklikler de yapıldı. Buna karşılık, özellikle geldiğimiz noktada, kadın hareketi tarafından elde edilen kazanımların muhafazakâr rotası katılaşan bir siyaset tarafından nasıl tehlikeye düşürülebileceğini görüyoruz.
+
+**Kadın hareketinin bir başarısı var mı?**
+ 
+Elbette! Kadın hareketi cinsiyet çalışmalarını farklı cinsel yönelim, cinsiyet kimliği, etnisite, inanç, kültür ve sınıftan kadınlarla ve son dönemde de erkeklerle birlikte yürüttü. Cinsiyet eşitliği için ve heteroseksizmin ayrımcılığına karşı önemli mücadeleler verdi. Bu doğrultuda kadına yönelik ve şiddete karşı uluslararası bildirge olan CEDAW’ın kabulünü sağladı. Kadına yönelik şiddeti önlemek üzere hazırlanan yasanın, eksiklerine rağmen geçmesine ve o yöndeki politikaların uygulanmasına ciddi katkıda bulundu. Mevcut haliyle toplumda bir nebze de olsa bir duyarlılık oluşmuşsa bunda en büyük pay kadın hareketinindir.
+
+**Bin yıllar içinde oluşan cinsiyetçilik kolay değişir mi?**
+ 
+Bazı mesafeler alınmış olsa bile daha gidilecek çok yol var. Zihniyetin değişmesi, eşitliğin ve tam özgürleşmenin sağlanması ilişkilerin ve mevcut yapılanmanın köklü olarak değişmesine bağlı. Her alanda bu değişiklikler sürekli yapılmalı. Heteroseksizm anlayışı etkisiz hale getirilmeli ve cinsellik yurttaşların özgür iradeleriyle yaşadıkları bir alan olarak kabul edilmeli. Cinsiyetçiliğe karşı mücadele insanlığın en temel sorun alanlarından biridir ve onsuz özgürleşme mümkün olmayacaktır.
+
+**Aile ve Sosyal Politikalar Bakanlığı bir şey yapıyor mu?**
+
+Bu bakanlığın önde gelen görevleri arasında kadının erkek karşısındaki eşitsiz konumunu güçlendirmek, eşitliği sağlamak ve şiddetle mücadele etmek de var. Ancak, temel motivasyonunun muhafazakâr aile olarak tanımlanan heteroseksüel aile modelinin yaşatılması ve desteklenmesi olduğu bütün icraatlarında görülüyor. Bu muhafazakâr aile modelinde evlilik temel kabul ediliyor. Çocuksuz aileler, nikâhsız yaşayan sevgililer ya da eşcinseller bu tanımın dışında tutuluyor. Yani, aile hane üzerinden değil evlilik üzerinden tanımlanıyor. Bu bakımdan devlet kendi vatandaşları arasında adalet ve eşitliği tesis etmiyor. Erkeklik üzerinden sadece muhafazakâr aile modelini destekliyor. Kadını bu ailenin bir parçası olarak ele alıp, geleneksel cinsiyetçiliğin ve erkek egemen yapının devamına hizmet ediyor. Halbuki, kadının önündeki ekonomik, politik ve sosyal engeller onun eşit yurttaş olarak kabul edilmesiyle kaldırılabilir. Böylece cinsiyetçi anlayış ve uygulamalar sona erebilir. 
+
+**Bu bakanlık hiç mi bir şey yapmıyor?**
+
+Tabii ki iyi işler de oluyor. En azından kadına yönelik şiddet konusunda yeterli olmasa da bazı duyarlı adımları oldu. Ama temel sorunu kadına yönelik şiddeti önlemek ve ortadan kaldırmaktan öte aileyi, daha çok korumak yöneliminden kaynaklanıyor. Bakanlık haneyi aile olarak kabul etmeli, hane içindeki bireylerin özerkliğini benimsemeli, herkese eşit hizmet sunmalı ve çoğulcu bir zihniyetle faaliyet göstermelidir. Ayrıca yerellerdeki kitle örgütleriyle birlikte çalışma ve faaliyetlerin denetimine onların da katılımını sağlamak gerekmektedir. 
+
+**AKP kadınının eşitliğinden çok aileyi mi öne çıkarıyor?**
+
+Bütün söylemlerinde ve kararlarında bu görülüyor. Zira Bakanlığın (ve AKP Hükümetinin) bu konudaki resmi söylemi giderek “kadının güçlendirilmesi” hatta “ailenin güçlendirilmesi” şeklinde eşitlik hedefinden uzaklaşan uygulamalara dönüştü. Ailenin güçlendirilmesi kavramının kadın-erkek eşitliğinin yerine konulamayacağı açıktır. Kadının konumunun iyileştirilmesi ya da kadının güçlendirilmesi de kadın-erkek eşitliği hedefi ile birebir aynı içerikte değildir. Bakanlığın gerek adında gerekse temel görevleri arasında kadın-erkek eşitliği açıkça yer almalıdır. Aynı şekilde TBMM’deki KEFEK’in (Kadın Erkek Fırsat Eşitliği Komisyonu) adı da en baştan beri kadın örgütlerinin de talep ettiği şekilde Kadın Erkek Eşitliği Komisyonu olarak değiştirilmelidir.
+
+**Kadınlara yönelik Toplum Merkezleri konusunda ne öneriyorsunuz?**
+ 
+Bakanlığa bağlı olarak 1990’lı yıllarda yerelde kurulan ve kadınlarla güçlendirme çalışmaları yapan Toplum Merkezleri, 2004’ten beri kapatılarak Aile Danışma Merkezleri ve Sosyal Hizmet Birimlerine dönüştürüldü. Bu nedenle de Bakanlık tarafından yerelde kadınlara yönelik bilinçlendirme ve güçlendirme çalışmaların yürütüldüğü önemli mekanizmalardan biri ortadan kaldırılmış oldu. Toplum Merkezlerinin uluslararası normlarda belirlenmiş olan işlevlerine uygun olarak yeniden yapılandırılmaları ve özellikle de kadınlara yönelik bilinçlendirme çalışmalarına tekrar ivme kazandırmak üzere faaliyet geçmeleri gerekiyor.
+
+**AKP cinsiyet eşitliği sorununa nasıl bakıyor?**
+
+Başbakan Erdoğan’ın özellikle 2010’dan başlayarak kamuoyuna yönelik muhtelif açıklamalarında “kadın ve erkek eşit değildir” yönünde beyanları oldu. Bu partinin vizyonunun açıkça cinsiyet eşitliğine karşı olduğu kendileri tarafından teyit edildi. AKP, bu karşıtlığını “muhafazakâr” bir parti olmasına dayandırıyor. Bu nedenle üreme politikaları üzerinde yoğunlaşıyor ve yine bu nedenle toplumu aile etrafında kontrol etmeye ve yönetmeye girişiyor. Uludere-Roboski’de, Gezi olaylarında ölenler hakkında toplumu rahatlatan bir söz söylemezken, kürtaj, kızlı-erkekli evler, en az üç çocuk söylemleri eksilmiyor. Kadın bedenine, üreme politikaları ve toplumsal projeleri bakımından araç olarak yaklaşıyor. 
+
+**Avrupa Birliği’nde cinsiyet eşitliği ne durumda?**
+
+AB’de hiçbir muhafazakâr parti “kadın erkek eşit değildir” diye bir söylem sergilemez, sergileyemez. Hatta örneğin İsveç’te babalık izninin 1 aydan 2 aya çıkarılması muhafazakâr parti iktidarında ve bu partinin girişimi ile yasalaşmıştır. İsveç’teki muhafazakâr parti bu yasal reformu aileyi korumak için yapmıştır. Sonuç itibariyle “siyasetin muhafazakâr tarafında durmak = kadın-erkek eşitliğine karşı olmak” gibi doğal bir tanım ya da sonuç yoktur. Kadın-erkek eşitliği global olarak kabul edilen bir normdur; bunu reddetmek evrensel değerler ve global normların dışına düşmektir. Türkiye’de kadın hareketinin de etkisiyle çıkarılan Kadın ve Aile Bireylerinin Şiddetten Korunmasına Yönelik Yasa eksiklerine ve uygulama yetersizliklerine rağmen olumlu bir adım. Fakat cinsiyetçi erkek egemen zihniyet etkisini sürdürmeye devam ediyor. 
+
+**Kadın sığınma evleri şiddet gören kadınlar için bir çözüm mü?**
+
+Tek başına ele alınmamalı ama çok önemli bir imkân. Çoğunluğu bakanlığa bağlı, sayıları şu an için yetersiz ve artırılması gerekiyor. Az da olsa bağımsız girişimler var ve başarılı bir şekilde hizmet veriyorlar. Sığınma evleri şiddete maruz kalan kadınlara destek verici son derece gerekli kurumsal bir mekanizmadır. Türkiye’deki kadın hareketinin en birikimli olduğu, özveriyle çalıştığı konulardan biridir. Bu konuda deneyimli kadın örgütlerinin oluşturulacağı bağımsız denetleme, yönlendirme mekanizmalarının kurulması uygulamanın çok daha etkin olmasını sağlayabilir. Hatta AB ülkelerinde olduğu gibi sığınma evlerinin devlet desteği ile bağımsız kadın grupları tarafından işletilmesi çok daha etkin bir uygulama olabilir. Gerekli olmasına rağmen sığınma evleri tek başına şiddeti engellemek için yeterli olmaktan uzaktır. 
+
+**Kadına yönelik şiddetin temelinde ne var?**
+
+Kadına yönelik şiddetin temelinde kadının ikincil konumda olduğuna dair ataerkil inanış vardır. Çocukluktan başlayarak bütün alanlarda bu düşünceye dayalı rol dağıtımı ve davranış kalıpları empoze ediliyor, öğretiliyor ve nesilden nesile aktarılıyor. Bunun kültürel formları ve dili hakim kılınıyor. Her toplumsal ilişkide yeniden üretiliyor. Devlette, ekonomide, siyasette, okulda, ailede ve bütün alanlarda kadını ikincil konumda görme ve ondan kaynaklanan şiddet hükmünü sürdürüyor.  Kadına yönelik şiddeti sona erdirmek için cinsiyet eşitliğini destekleyici sosyal ve ekonomik uzun vadeli stratejiler gereklidir. Bu bakımdan, şiddete uğrayan kadının güvenliği sağlanmalı, adli ve tıbbi desteğe ulaşması önündeki engeller kaldırılmalıdır. Özellikle bakanlığa bağlı olan sığınma evleri henüz çoğulcu bir yaklaşıma sahip değil. Ayrımcılık konusundan donanımsız durumdalar. Ekonomik destek görmeleri bir sisteme bağlanmalıdır. Sığınan kadınların ekonomik ve sosyal hayata dönebilmeleri için eğitim imkânları ve yeni hayata dönüşlerinin koşulları yaratılmalı, çocuklarının düzenli eğitim almaları ve okul kayıtlarının gizliliği sağlanmalıdır.
+
+**Cinsiyetçi zihniyetin güçlenmesinde eğitim kurumlarının rolü var mı?**
+
+Hiç şüphesiz büyük bir rolü var. Hatta topluma verilmek istenen politik ve ideolojik biçimin temelleri eğitim kurumlarında atılıyor. Bu nedenle eğitim anlayışının ve öğretim müfredatının cinsiyetçilikten, heteroseksist anlayıştan, militarist fikirlerden, ırkçılık ve milliyetçilikten, her türlü ayrımcılıktan, nefret söyleminden arındırılması gerekir. Eğitimcilerin söylem ve davranışlarının da bunlardan uzak olması sağlanmalıdır. Bunun için de öncelikle bir farkındalık çalışması gerekiyor.
+
+**Cinsiyetçi zihniyet ekonomide kendini nasıl gösteriyor?**
+ 
+Gelir dağılımı zaten genel olarak oldukça bozuk. Yoksullar arasında kadınlar daha yoksul durumdalar. Türkiye’de kadınlar mülkiyetin çok azına sahipler. İstihdam ve sosyal güvenlik politikalarında ikinci plana atılmış durumdalar. İşyerlerinde hem hak ettikleri yerlere gelemiyorlar, hem aynı işi yapmalarına karşın aynı ücreti alamıyorlar. Öncelikle işten atılanlar da kadınlar oluyor. Doğum yapmaları ve çocuk sahibi olmaları onlar için bir dezavantaj haline getiriliyor. Kayıt dışı alanda, kötü şartlarda ve sosyal güvenceleri olmaksızın düşük ücretle çalıştırılıyorlar. Eğitimli kadınların işyerlerinde hak ettikleri noktalara gelmeleri ve ücretlerini yükseltmeleri çeşitli yollarla engelleniyor. İşyerlerinde mobbing ve taciz sık yaşanan olaylar olmasına rağmen, caydırıcı ve kadınları koruyucu yasal ve fiili tedbirler yeterince alınmıyor ve uygulaması sıkı bir şekilde denetlenmiyor. Bu durum ayrımcılık ve şiddete karşı mücadeleyi olumsuz etkiliyor.
+ 
+**Türkiye kadın istihdam oranı bakımdan ne durumda?**
+
+Türkiye 2000’li yıllarda % 25 civarındaki kadın istihdam oranı ile dünya sıralamasında 200’ü aşkın ülke arasında en alttaki 15 ülke arasında yer alıyor. Yüksek cari açık ve düşük tasarruf oranı ile birlikte bu son derece düşük olan istihdam oranı da Türkiye’nin ekonomik alanda önemli yapısal sorunlarının başında geliyor. Kadınların işgücü olarak ekonomiye kalıcı ve güçlü bir şekilde katılmalarının önünde hem talep hem arz taraflı yapısal engeller var.  İş ve aile yaşamını uzlaştırmayı mümkün kılan yasal ve kurumsal mekanizmalar eksik. Çocuk kreşleri ile yaşlı ve engelli bakımı için kurumsal hizmetler son derece kısıtlı ve devletin bu konuda da üstlendiği yükümlülükler son derece sınırlı. Oysa okul öncesi çocuk bakımı ve eğitimi, yaşlı ve engelli bakımı kamusal bir sorumluluk olarak tanımlanmalı (kimi ülkelerin anayasalarında yer almaktadır) ve buna yönelik yaygın ve uluslararası normlarda hizmetlerin herkes için erişilebilir olması sağlanmalı. 
+
+**Kayıt dışı sektörde kadınların sorunları neler?**
+
+Kayıt dışı istihdamın yaygınlığı ve bu şekilde çalışan kadınların doğum ve annelik izni haklarından mahrum kalması; babalık izninin olmaması; ailenin diğer bakıma muhtaç bireyleri için (yaşlı, hasta, engelli) iş yasasında öngörülen bakım izinlerinin bulunmaması; çalışma saatlerinin çok uzun olması gibi yapısal engeller de iş ve aileyi uzlaştırmaya elvermeyen bir ortam hazırlamakta. 
+
+**Kadınların işten ayrılmalarına yol açan sorunlar nedir?**
+
+Pek çok kadın yaşamlarının ilk evrelerinde işgücü piyasasına katılsalar bile bir noktada ailevi sorumluluklar nedeniyle ayrılmak zorunda kalıyor. İşten ayrılmaların diğer nedenleri arasında yetersiz ücret, geçici iş, taciz, mobbing, güvencesizlik gibi sebepler de var. Üniversite altı eğitimli kadınlar açısından (yetişkin kadınların % 90’ı) yaygın işgücüne katılım profili genç yaşlarda, evlilik/hamilelik/doğum öncesi kısa süreli katılımdır. 
+
+**İstihdam yaratan büyümenin kadınlar için önemi var mı?**
+
+Elbette var. Talep tarafında istihdam yaratan büyüme (nüfusa göreceli olarak yeterli sayıda ve insana yaraşır işler yaratan büyüme) kadın istihdamı için özel bir önem taşır. Zira güçlü istihdam yaratan stratejiler sadece (kadın ve erkek) işsizliğini azaltmak için değil aynı zamanda ikincil işgücü konumunda piyasa dışına itilmiş kadınları işgücü piyasasına çekecek elverişli koşulları yaratmak için de son derece önemlidir. Bu açıdan Türkiye’nin izleyeceği makroekonomik politikaların (dolaylı değil) doğrudan ve öncelikli hedefinin istihdam yaratmak olarak tanımlanması, cinsiyet eşitliği açısından da işlevsel olacaktır. 
+
+**Kadın emeği alanında sorun çok galiba?**
+
+Kadını ikinci plana atmanın sonuçları her alanda görülüyor. Ev içi hizmet kadınlara mahsus bir alan olarak empoze ediliyor. Bu alana yönelik hiçbir sosyal güvenlik politikası geliştirilmiyor. Bu konu ve kayıt dışı kadın emeği mutlaka sosyal güvenlik şemsiyesi altına alınarak görünür hale getirilmelidir. Ayrıca eğitimi olan, sertifikası bulunan kadınların iş bulması da kolay olmuyor. Bu alanda fırsat eşitliğinin gecikmeden sağlanması gerekiyor.
+
+**Peki istihdam imkânları bakımından eşitlikten söz edilebilir mi?**
+ 
+Evet demek çok zor. Kayıtlarda görünmeyen çok sayıda bakım hizmetini kadınlar gerçekleştiriyor. Çocuk, yaşlı, engelli ve hastaların bakımı kadınlar tarafından yapılıyor. Oysa bu hizmetler merkezi yerel yönetimler tarafından gerçekleştirilecek kurumlaşmalar yoluyla karşılanmalı. Kreş, yuva, gündüz ve gece bakım evleri yaygınlaştırılarak bu sorun çözülebilir ve güvencesiz, kayıt dışı, düşük ücretli kadın emeğine bağlı olmaktan çıkarılabilir. Benzeri tüm projeler cinsiyet eşitliği bakışıyla yapılmalı ve bütçeleri cinsiyete duyarlı olmalıdır.
+
+**Siyasette ve yönetimlerde kadına yer var mı?**
+
+Kadın hareketinin gelişmesiyle çok sınırlı bazı gelişmeler ve anlayış değişikliği oldu. Bazı partiler tüzüklerine kadın kotası, seçim aday listelerine seçilecek sıralarda fazla olmasa bile kadın adayları koymaya başladılar. Ama bu durum tatmin edici olmaktan henüz çok uzak. TBMM’de kadın temsiliyeti artıyor ama kadın nüfusuna kıyasla son derece sınırlı. Yönetici kadınlar ise bazı sektörler dışında kayda değer bir oranda değil. Hem devlet kurumlarında, hem yerel yönetimlerde, hem de özel sektörde ciddi bir mesafe alınmış değil. Kota uygulaması genişlemeli ve yaygınlaşmalı. Bu konuda farkındalık yaratılması çok önemli. Erkek egemen zihniyetin kökten değişmesi için bu alanların çehresinin de değişmesi gerekiyor.
+
+**Aranılan eşitlikse kadınları da askere almalılar mı?**
+ 
+Zorunlu askerlik hizmeti hem doğru değil, hem de dönemi geçti. Askerlikte erkekleri şiddet uygulayan ve uygulanan bir insan haline getiren sistem işliyor. Askerlik sonrası şiddet eğilimi artarak devam ediyor. Kadınlar bundan yoğun bir şekilde etkileniyor. Militarizmi içselleştiren ve onunla özdeşleşen erkeğin gözünde şiddet olağanlaşıyor. Askerlik cinsiyetçi düşünce ve fiilleri besliyor. Bırakın kadınların askere gitmesini, zorunlu askerlik kalkmalı ve vicdani ret hakkı yasal olarak kabul edilmelidir.
+

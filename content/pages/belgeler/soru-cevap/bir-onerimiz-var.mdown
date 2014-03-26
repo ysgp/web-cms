@@ -1,0 +1,64 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+
+# Bir Önerimiz Var
+
+Yeşiller ve Sol Gelecek Partisi (YSGP) olarak bu kitapla, yaşayan sorular ve cevaplar çerçevesinde partimize dair bir kanaat edinmenize yardımcı olmaya çalıştık. Elbette dünyanın, ülkenin, insanların ve bütün canlı ve cansızlar âleminin geçmiş, gelmiş ve gelecek bütün sorunlarına yanıt vermek gibi bir hadsizliğin içinde değiliz. Sorunlarla yüklü dünyaya ve ülkemize yeterli olmadığının farkında olduğumuz ufkumuzla bakmayı ve hali hazırdaki fikirlerimizi size yansıtmayı denedik. Dünya döndükçe daha çok şeyler öğrenmeye, anlamaya, düşüncelerimizi derinleştirmeye ihtiyacımız olduğunu da biliyoruz. Bu nedenle kendimizi “öğrenen parti” diye tarif ederken, bunu samimiyetle söylüyoruz. Bütün kurullar ve üyelerimizle herkesten ve her şeyden öğrenmeye hazır olduğumuzu ifade ediyoruz. 
+
+Bunun için partimizin örgütsel yapılanmasında parti dışı kurumlardan ve bireylerden düşünsel beslenmeye son derece elverişli zeminler oluşturduk. Etkinliklerimize katılmak, toplantılarımızı izlemek, çalışma gruplarında yer almak, tartışmalara dahil olmak ve önerilerde bulunmak için, partimizi tanımak isteyen, izlemek isteyen yurttaşlar açısından mümkün olup, bu amaçla oluşturulmuş platformlara sahibiz. Buralarda sizi dinlemek ve sizden de öğrenmek isteriz. Partimize üye olmak elbette çok kolay. Tüzüğü ve programı “kabul ediyorum” demek yeterli. Onların içinde beğenmediğiniz noktalar var ise, birlikte müzakere eder ve ortak irademiz o yönde oluşursa birlikte değiştiririz. 
+
+Sizi elbette aramızda görmek isteriz. Ama insanlar için bu tür kararları vermenin kolay olmadığını bilenlerdeniz. Biraz zamana ihtiyacım var, diyorsanız, sorduğunuz sorulara verdiğimiz cevaplarla biraz tanıttığımız Yeşiller ve Sol Geleceği, hayatın içinde ve yerinde tanımanızı öneriyoruz. Aşağıda adresi bulunan, size uygun örgüt merkezimize bekleriz. Bizi daha yakından izleme fırsatı bulacaksınız. Bize de sizi yakından tanıma şansı vermiş olacaksınız. Sizi aramızda görmek bizi mutlu edecek ve güç verecek.
+
+Sevgilerimizle,
+
+Yeşiller ve Sol Gelecek Partisi 
+
+
+

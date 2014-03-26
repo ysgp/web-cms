@@ -1,0 +1,96 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+# 12) LGBTİ
+
+**LGBTİ nedir ve kimleri içeriyor?**
+
+LGBTİ kısaltmasının açılımı lezbiyen, gey, biseksüel, transeksüel ve interseksüeldir. Lezbiyen, gey, biseksüel kavramlarının ilk harfleriyle temsil edilen (LGB) cinsel yönelim, hangi cinsiyetten hoşlanıldığını ve ona karşı duygusal bir şey hissettiğini anlatır. Transeksüel ve interseksüelin ilk harfleri olan T ve İ harfleriyle temsil edilen ise, kişinin bedenini hangi cinsiyette tanımladığını, cinsiyet kimliğini ifade eder. Cinsel yönelim ve cinsiyet kimliği olarak kendilerini lezbiyen, gey, biseksüel, transeksüel ve interseksüel birey olarak tanımlayanların oluşturduğu ve ayrımcılık, homofobi, transfobi, ötekileştirme, dışlama, aşağılama, şiddet ve nefret suçları ve cinayetlerinin mağdurlarının birlikte ifade edildiği toplumsal küme / hareket de bu kısaltmayla, LGBTİ olarak anılıyor. Mağduriyetler arasında bir hiyerarşi oluşturulmasını doğru bulmayan, bu bireylerin hayatın her anı ve alanında yüz yüze geldikleri baskı, şiddet ve ayrımcılığa karşı korunması, yaşam haklarının güvenceye alınması, yasal koruma sağlanması, toplumsal yaşamın bütün demokratik süreçlerine engelsiz ve aktif olarak katılmalarının sağlanması için mücadele eden bir yapılanmadır.
+
+**LGBTİ nerden çıktı?**
+LGBTİ bireyler birden ortaya çıkmadı. Sadece son yirmi yılda daha fazla örgütlendikleri için daha fazla görünür oldular. Öncesinde de LGBTİ bireyler vardı, ama hep saklanmak zorunda kalıyorlardı. Bugün LGBTİ hareketi Türkiye’de en görünür hareketlerden biri olarak varlığını sürdürüyor.
+
+**LGBTİ hareketi ya da bireyler ne istiyor?**
+
+LGBTİ hareketi ya da bireyler herkes gibi eşitlik ve adalet istiyor. Ayrımcılığa maruz kalmamak istiyor. Okulda, işte, evde ve sokakta darp edilmemek istiyor. İş istiyor, aş istiyor. Ancak hali hazırda Türkiye’de LGBTİ bireyleri koruyan hiçbir yasa yok. Bunun için LGBTİ hareketi anayasaya cinsel yönelim ve cinsiyet kimliği ifadelerinin girmesini istiyor. Nefret suçları yasasına yine cinsiyet kimliği ve cinsel yönelim ifadelerinin girmesini istiyor. LGBTİ bireylerin sırf kimliğinden dolayı işten atılmamasını istiyor.
+
+**LGBTİ’nin hedefi nedir?**
+
+Bugün toplumdaki yerleşik ve geleneksel sistem heteroseksisttir, cinsel kimlik tanımları ve rolleri yaygın olarak buna göre şekillenmiştir. LGBTİ hareketi, cinsel kimlik tanımlarının toplumsal ve tarihsel olarak değişken kategoriler olduğu gerçekliğinden hareketle, yerleşik toplumsal cinsiyet ve cinsiyet kalıplarının sorgulanması ve özgürlükçü bir cinsel kimlik politikası oluşturulmasını hedefler.
+
+**Anayasal ve yasal yönden LGBTİ bireylerin durumu nedir?**
+
+Anayasa ve diğer yasalar bu bireyleri yok sayıyor. Dil, din, ırk, renk, cinsiyet, siyasi düşünce, felsefi, inanç, mezhep gibi kategoriler yer alırken, “cinsel yönelim” ve “cinsiyet kimliği” gibi tanımlara yer verilmiyor. Buna karşın toplumdaki yerleşik normları koruma amacıyla, aslında birçok sorunun kaynağı olduğu da bilinen “genel ahlak” kavramı her yerde ifade ediliyor.
+
+**Ayrımcılığa uğrayanlar için ne yapılmalı?**
+
+Cinsel yönelim ve cinsiyet kimliği nedeniyle baskı ve ayrımcılığa uğrayanlar yaygın bir dışlanma görüyor. Bu bireylerin toplumsal yaşama eşit şekilde katılmaları kolay olmuyor. Anayasanın bütün yurttaşlara tanıdığı hakların bu bireyler için de geçerli olması gerekir. Sosyal devlet olmanın gereği olarak LGBTİ bireylerin sosyal ve ekonomik haklardan diğer vatandaşlar gibi eşit yararlanabilmesi için yasal ve fiili bütün tedbirler alınmalıdır. Sağlık, eğitim, istihdam, konut, emeklilik, yaşlılık gibi alanlarda eşitlikçi ve özgürlükçü politikalar hayata geçirilmelidir. 
+
+**LGBTİ bireyler nefret söylemi ve suçlarının hedefi mi?**
+
+Türkiye’de ve dünyada bu suçların hedefi olan kesimlerin başında bu bireyler de geliyor. Bu bireylere karşı sayısız saldırı, yaralama oluyor, hatta cinayet işleniyor. Homofobik, transfobik söylemlerin ve nefret söylemlerinin etkisiz kılınması ve ortadan kaldırılması bir dizi politikanın hayata geçirilmesini gerektiriyor. Bazı yasal adımların atılmışı olması meselenin kökten çözülmesi bakımından yeterli değildir. Devlet kurumları, yöneticiler ve her kademedeki görevlilerin bu anlayışın etkisinden sıyrılmaları gerekiyor. Nefret suçlarının eşitlikçi bir çerçevede ele alınıp yasalarda yer alması gerekiyor.
+
+**Yerleşik genel ahlak eşitsizlik ve ayrımcılık kaynağı mı?**
+
+Maalesef öyle. Transfobi ve toplumsal genel ahlak anlayışı trans bireylere karşı eşitsizlik ve ayrımcılığın önemli bir kaynağı. Çalışma imkânları neredeyse hiç yok. Bu durum trans bireyleri seks işçiliğine yöneltiyor. Kayıt dışı ve yaşam güvencesinden yoksunluk bu alanın temel özelliği. Toplumsal baskı ve polis şiddeti bu hayatın olağan parçası haline gelmiş. Hiçbir insani yönü olmayan bu koşullarda çalışmak zorunda kalıyorlar. Seks işçiliğinin meslek olarak kabul edilmesi, mekân, sağlık hizmeti ve sosyal güvenceye kavuşturulması asgari insani bir talep olarak öne çıkıyor.
+
+**Polis şiddeti her zaman, her yerde ve herkese!**
+ 
+Trans bireyler de nasiplerini bu şiddetten fazlasıyla alıyorlar. Özellikle büyük kentlerin polis karakolları, belirli semtleri, caddeleri ve sokakları bu şiddetin alenen ve sürekli sergilendiği yerler. Bazı toplum kesimleri de aynı şiddet ve saldırganlığın parçası oluyorlar. Resmi istatistiklerde bu görülmese bile, LGBTİ bireylerin örgütlülüğünü sağlayan sivil girişimler bunları doktor raporlarıyla belgelendiriyorlar. Bu transfobik şiddete son verilmesi, ayrımcı yasaların kaldırılması ve eşit yurttaşlık haklarının sağlanması mücadelesi uzun yıllar bu yoğun çabalarla sürdürülecek.
+
+**Eşcinsel evliliğine ne diyorsunuz?**
+ 
+Dünyanın bazı ülkelerinde eşcinseller evlenebiliyor. Her geçen gün bu ülkelere yenileri ekleniyor. Çünkü eşcinseller partnerleri ile kurdukları ilişkiyi daha güvenceli hale getirmek istiyor. Partnerlerden biri hasta olduğunda ya da öldüğünde diğer partner söz hakkına sahip olamıyor. Yıllarca aynı evde yaşlanan çiftlere hiçbir hukuki korumayı devlet sağlamıyor. Bundan dolayı eşcinsel evlilikler oldukça önemli. Yeni anayasanın da bu gözle düzenlenmesi gerekir.
+
+**Eşcinsellik bir hastalık değil mi?**
+
+Birçok insan eşcinselliğin bir hastalık olduğunu zannediyor. Hayır, eşcinsellik bir hastalık değil, tıpkı heteroseksüellik gibi o da hayatımızın içinde var olan bir durum. Zaten tıp literatürü de eşcinselliği hastalık olarak görmüyor. Ancak ülkemizde bazı doktorların ve psikologların meslek etiğini çiğneyerek bu konuya tıbbın evrensel kabullerinin ve birikimlerinin oldukça dışında baktığını biliyoruz. Bu anlamda meslek etiğini çiğneyen doktorların ve psikologların ayrımcılık yapması kabul edilemez.
+
+
+
+

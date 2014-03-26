@@ -1,0 +1,104 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# 13) İklim Değişikliği
+
+**Dünyanın ısısı artıyor ve iklimi değişiyor mu?**
+
+Evet, böyle bir sorunla yüz yüzeyiz. Buzullar umulandan hızlı eriyor. Seller, kasırgalar, fırtınalar gibi iklim olaylarının meydana gelmesi olağan beklentilerin dışında ve büyüklükte yaşanmaya başladı. Dünyanın her bölgesi bu bakımdan tehdit altında. Türkiye de bundan nasibini alıyor. Seller, göller ve sulak alanların kuruması, su kaynaklarının yok olması, dağ buzullarının küçülmesi, kuraklık ve tarımsal üretimde düşme yıllar geçtikçe daha fazla görülüyor.
+
+**İklim değişikliğine yol açan ne?**
+
+Temel sebep sera gazlarının salımıdır. Dünya ısısını ciddi oranlarda yükseltiyor. Ekolojik denge bozulmaya başladı. Enerjide fosil yakıtların kullanımı ve bunun giderek artması sera gazı salımını da artırıyor. Türkiye de bu ülkeler arasında. Ulusal çıkar bahanesiyle enerjide fosil yakıtları kullanıyor. Otoyol yapımı ve motorlu taşıtların kullanımı, tarımda enerji girdisi olarak buna öncelik verilmesi ülkeyi vahim bir noktaya ve kısır bir döngünün içine çekiyor. Kısa vadeli, akıl ve bilim dışı bir tercih dünyayı ve ülkeyi felaketine adım adım yaklaştırıyor. 
+
+**AKP Hükümeti geleceği görmüyor mu?**
+ 
+Durumu görmek bir yana, iklim değişikliğini artıran politikaları pervasızca uyguluyor. Yenilenebilir enerji konusunda gerekli adım atmamak ve düzenleme yapmamak için akıl almaz bahaneler üretiyor. Hazırladıkları Tabiatı ve Biyolojik Çeşitliliği Koruma Kanunu tasarısı doğayı bedelsiz mal olarak kullanıma açmanın aracı olarak planlanmış. Üçüncü Köprü ve Üçüncü Havaalanı İstanbul’u yaşanmaz hale getirecek projeler olarak devreye sokuldu. Kentsel dönüşüm adıyla beton şehirler ve ormansızlaşma almış başını gidiyor. Onlarca termik santral lisansı verilmiş durumda ve kömürden enerji üretmek gibi artık kabul edilemez adımlar atılıyor. Nükleer enerji için aynı hızlı sorumsuzluk almış başını gidiyor. Dar görüşlü, kâr ihtirası gözlerini karartmış sermaye ile AKP kol kola dünyanın ve Türkiye’nin felaketine giden yola taş döşüyorlar. 
+
+**Adım atılması için ihtiyaç nedir?**
+
+İklim değişikliğini durdurmak için yapılacak şeyler var. Bu bütün ülkeler gibi Türkiye’nin de görevi. Resmi ve sivil bütün kurumlar bilimsel rapor ve öngörüler doğrultusunda ve eşgüdüm içinde çalışabilirler. İhtiyaç bir iklim değişikliği eylem planı ve bunun uygulamaya konulmasıdır.  Türkiye iklim değişikliğini durdurmak için atmosfere salınan karbondioksit milyon partikülde 350 partiküle indirilmesi yönünde kararlı bir mücadele yürütmelidir.
+
+**Dünyadaki sıcaklık artışı kaç derecede tutulmalı?**
+
+Tehlikeli üst sınır 1,5 derecedir. Türkiye’nin alacağı bütün yasal ve fiili tedbirlerde bunu dikkate alması ve dünyada da bunun kabul edilmesi yönünde çaba göstermesi gerekir.
+
+**İklim anlaşmalarındaki “Ortak ama farklılaşmış sorumluluk” ne demek?**
+
+İklim değişikliğini durdurmak için her ülkenin kendi koşulları çerçevesinde kişi başı sera gazı salımını indirim miktarını belirleme esnekliği içeren uluslararası anlaşmaların ilkesidir. Türkiye bunlara uymalı, gelecek yıllara dair, iklim değişikliğini durdurmak amacıyla açık taahhütlerde bulunarak kendini bu hedefe bağlamalıdır. Ayrıca, Türkiye OECD ortalamasının iki katı olan enerji yoğunluğunu 1,8’e düşürmeli, sanayide verimli teknoloji kullanımı için bağlayıcı kararlar almalıdır.
+
+**Küresel ısınmayla tüketim arasında bir ilişki var mı?**
+ 
+Dünyada egemen olan ekonomik sistem aşırı tüketim hedefine göre şekillenmiş durumda. Aşırı üretim ve aşırı tüketimin en göze çarpan alanı enerji sektörü. Fosil yakıtlara dayalı bir enerji üretiminin sürdürülebilirliği yoktur. Yarattığı kirlilik ve karbondioksit salımı nedeniyle de terk edilmek zorundadır. Dünyanın ısısı bu yüzden artmaktadır. Yüksek enerji tüketimini gelişmişlik ölçeği olarak görmekten de vazgeçilmelidir. Her alanda enerjinin etkin kullanımı ve tasarrufu teşvik edilmelidir. Yenilenebilir enerji hedeflenmeli ve buna adım adım yaklaşılmalıdır.
+
+**Yenilenebilir enerji kullanımı için hedef konulabilir mi?**
+
+Elbette konulabilir ve konulmalıdır. 2020 için AB’nin hedefi % 20. Türkiye’nin rüzgâr, güneş, jeotermal ve biyo kütleden oluşan yüksek bir yenilenebilir enerji potansiyeli var. Türkiye bu yönde bir hedef koymalı ve buna uygun bir plan oluşturmalıdır. Türkiye’nin önündeki hedef % 100 yenilenebilir enerjiye geçiş olmalıdır. Bu bakımdan ilk etapta nükleersiz ve karbonsuz % 100 yenilenebilir kaynakların enerji üretimindeki payı 2020’ye kadar % 10’a çıkarılmalıdır. Yeri gelmişken önemle belirtelim, enerji tarımına dayanan biyoyakıtlar, tarım alanlarının amacını değiştirip gıda krizini beslediği için ve sera gazı salımını azaltmaya hizmet etmediğinden bir çözüm olarak görülemez. 
+
+**İklim değişikliğini durdurmak için nasıl bir sanayi lazım?**
+
+Çimento, kimyasal vb. kirli teknolojilere dayalı olandan uzak durulmalı. Avrupa bunları yarattıkları kirlilik nedeniyle çoktan terk etti. Sera gazı yoğun tesislere izin verilmemeli. Kimyasal gübreler, ilaçlar, fosil yakıtlar, yoğun enerji tüketimine yol açan uzak mesafe taşımacılığı, küreselleşmiş gıda sistemlerinin dayanağı olan endüstriyel tarım ve hayvancılık iklim değişikliğini hızlandırıyor. Bunlardan tarım ve hayvancılığın yerel düzeyde ve sürdürülebilir yöntemlerle yapılması sağlanmalı. Doğabilecek istihdam kaybı uyumlu yeni iş alanlarıyla giderilebilir.
+
+**Ulaşımda yeni alternatifler işe yarar mı?**
+ 
+Petrole dayalı ulaşımdan acilen uzaklaşılmalı, ulaşımda bireysel olan değil toplu taşıma seçenekleri etkinleştirilmeli. Bu bakımdan şehirlerde raylı sistem ve bisiklet önemli bir alternatif. Kamu bunun için altyapı sorumluluğu üstlenmeli ve fiyatların kâr amaçlı girişimler karşısında denetleyici rolünü sürdürmeli. Ayrıca, şehirlerde iş ve yaşam bölgeleri mümkün olduğunca az ulaşım gerektirecek şekilde düzenlenebilir ve yaratıcı modeller oluşturulabilir.
+
+**Su, sulama ve barajlar ne olacak?**
+
+Su kaynaklarının korunması  çok önemli. Barajların kademeli olarak kaldırılması hedeflenmeli. HES’ler hem doğayı tahrip ediyor, hem de halkın suyla ilişkisini ortadan kaldırıyor. Bunun için bu yatırımlar durdurulmalı. Modern sulama teknikleri suyun tasarruflu kullanımı bakımından çok önemli. Çiftçilere bu konularda eğitim verilmeli, teşvik ve kredi sağlanmalı.
+
+**İklim değişikliği için Bakanlık öneriyorsunuz?**
+
+Evet, çünkü çok acil, önemli ve büyük bir sorunla yüz yüzeyiz. Bu konu mevcut bakanlıkların, genel müdürlüklerin çatısının altına sığmaz. İklim Değişikliğinden Sorumlu Devlet Bakanlığı kurulmalı. Bu bakanlık bölgesel etki raporları hazırlamalı ve uyum stratejileri oluşturmalı. Mevcut mevzuat ve politikalar gözden geçirilmeli. TBMM’de de bu yönde bir komisyonun kurulması yerinde bir adım olur. Buna bağlı olarak tavsiyelerde bulunacak İklim Değişikliği Ajansı da kurulabilir. 
+
+**Yerel yönetimler iklim değişikliğine nasıl hazırlanmalı?**
+
+İklim değişikliği her bölgede farklı hissediliyor. Yerel yönetimler yeni şartlara uyum bakımından en önde gelen kurumlar olacaktır. Bu nedenle konu hakkında bilgilenmeleri  ve hazırlık yapmaları çok önemli. İlk yapılacaklardan biri çevre düzeni ve imar planlarının iklim değişikliği dikkate alınarak uyum planları çerçevesinde yenilenmesi olmalı. 
+
+

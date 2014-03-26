@@ -1,0 +1,82 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# 21) Sosyal Politikalar
+
+**Yeşiller ve Sol Gelecek sosyal politikalar alanına nasıl bakıyor?**
+
+Sosyal politikalar genel olarak toplumu koruyan ve güçlendiren politikaların uygulama alanıdır. Toplumsal refahın adil ve insani bir ölçü içinde paylaştırılmasını hedefler ve buna uygun mekanizma ve kurumlar oluşturulmasını sağlar. Kapitalizmin küresel neoliberal politikaları ücretli çalışanlar ve tarım kesiminin aleyhine işlemekte ve adaletsizliği iyice derinleştirmektedir. Bu kesimlerin korunması ve güçlendirilmesini esas alan politikalar üretmek özgürlükçü, eşitlikçi ve ekolojist bir siyasetin asıl görevidir. Yeşiller ve Sol Gelecek bu doğrultuda mücadele etmeyi hedeflemiştir.
+
+**Adil ve demokratik bir toplum olmak kolay mı?**
+ 
+Bütün vatandaşların insani ölçüler içinde yaşayabilecek gelir elde etmelerinin garanti edileceği bir sistemle bu gerçekleşebilir ve sosyal olarak adil ve demokratik bir toplum inşa edilebilir. Bunun için de bütün eşitsizlik alanlarını düzenleyebilecek politikaların ortaya konulması gerekiyor. Gelir dağılımı ve istihdam ilişkisi gelir dağılımıyla bağlantılı. Eğitim ve sağlık hizmetlerine ulaşımdaki adaletsizlik de öyle. Gelir dağılımdaki bozukluk ve derin uçurum, birbirini besleyen bir döngüsel ilişki içinde. Gelir dağılımı bozuldukça eşitsizlik artar; eşitlik bozuldukça uçurum büyür. Bunun önüne geçilmesi için vatandaş olmaktan kaynaklanan hakları ve ihtiyaçları dikkate alan, kâr amacı gütmeyen kurumlar eliyle düzenlemeler gerekiyor. Örneğin, sosyal hizmetlerden yararlanmak, sosyal güvenceye sahip olmak, kaliteli sağlık ve eğitim hizmeti almak, insani barınma şartlarına sahip olmak, milli gelirden yurttaşlık payı almak, toplumsal yaşama katılmak için ihtiyaç duyulan bütün kaynaklara erişmek bunlar arasında sayılabilir..
+
+**Yoksulluk eski ve köklü bir sorun, nasıl çözeceksiniz?**
+
+Vatandaşın sosyal haklarını gözeten bir demokrasinin oluşturacağı asgari yaşam koşulları, gün geçtikçe büyüyen yoksulluk ve gelir uçurumuyla mücadele için önemli bir basamak olarak görülmeli. Sosyal devlet anlayışının gereği olarak, sosyal yardım sisteminin herkese uygun bir gelir yaratılması için mevcut sistemde köklü değişikliklere gidilmesi gerekiyor. Çünkü, sosyal yardımlar bir himmet, iktidarların sadakası değil, kaynağını vergilerin ve ülkenin diğer alanlardan elde edilen gelirlerinin oluşturduğu havuzdan verilen ve vatandaş olmaktan kaynaklanan bir hakkın teslimidir. Bu yardımların ağırlıklı olarak nakdi olması evrensel bir ilkedir. Yurttaşların kendi yaşamlarını kendilerinin düzenleme hakkı bakımından uygun olan budur. Ayrıca, vatandaşı siyasal müşteri konumuna düşürecek, ağırlıkla da AKP iktidarı döneminde sık olarak gördüğümüz, ilkesiz uygulamaların sosyal yardım kapsamında ele alınması doğru değildir.
+
+**Toplumsal dayanışmanın önemi nedir?**
+
+Kapitalizmin her şeyi kâra bağlayan zihniyeti, bireyler, topluluklar ve ülkeler arasında hâkim kıldığı insani normları devre dışı bırakan rekabetçi hırsı ve ideolojisi, gözü dönmüş ve doymak bilmeyen tüketim alışkanlıkları toplumdaki farkı, uçurumu, yalnızlaşmayı ve “kendi başına kaderini yaşama” halini bir sisteme dönüştürüyor ve bunu sürekli kılıyor. Toplumsal dayanışma ise bütün sosyal politikaların temeli, insanlık kadar eski, sorunları eşitlik ve adalet içinde birlikte aşmanın, bunun için gönüllü örgütlenmenin ve erdemli davranışın adı. Modern toplumlarda yurttaşın bir hak olarak asgari gelire sahip olması bunun somut ifadesi. Belli bir düzeyin altında geliri olanların veya hiç geliri olmayan hanelerin koşulsuz, şartsız sahip olacakları ve vergi gelirleriyle finanse edilecek böyle bir asgari gelir hakkı, yurttaşlar arasındaki dayanışmanın sembolü olarak görülmeli.
+
+**Ayrımcılık politikaları sosyal hakları etkiler mi?**
+
+Evet, etkiliyor. Üstelik bizim gibi ülkelerde her alanda yaygın bir ayrımcılık varsa, sosyal politikaların dayanışma adımları bazı kesimlere hiç uğramıyor. Cinsiyet kimliği, engellilik, farklı etnisite ve inanç grubundan olmak ve bölgesel farklar sosyal politikaların uygulanmasında ayrımcı davranışlara ve politikalara gerekçe oluyor. Eşitsizliklerin kaynağı bireysel etmenler değil. Asıl hedef toplumsal eşitsizliklerle mücadele olmalı. Bu nedenle özgürlükçü, eşitlikçi ve ekolojist bir sosyal politika anlayışını yaşama geçirmek için çaba veriyoruz.
+
+**Devlet sosyal hizmetlerden çekiliyor mu?**
+ 
+Epey zamandır sosyal devletten ve sosyal politikalardan kaçış var. Neoliberal zihniyet sosyal hizmetleri devletin sırtında yük olarak görüyor. Hükümetler bu politikaların çoğunu terk ediyor ve geniş bir toplum kesimini piyasanın insafına bırakıyor. Bu özelleştirmelerle baş başa giden bir süreç olarak uygulamaya konuldu. Bu durum bütün ülkelerde yükü yakınların omzuna bindirdi. Kadınların çocuklara, yaşlılara, engellilere ve hastalara yönelik bakımları gibi olağanüstü bir sorumluluk alanı doğdu. Yine bu durum kadınların iş yaşamından evlere doğru çekilmesine yol açtı. Bunun önüne geçilmesi için kamusal sosyal politika ve uygulama projelerinin savunulması ve canlandırılması gerekiyor.
+
+**Ev içi hizmetler niye hesaba katılmıyor?**
+
+Ev içi hizmetler kadınların sırtında. Burada verilen hizmetin iş piyasasındaki değeri çok önemli olmasına karşın, ulusal ekonomik ölçümlerde hiçbir şekilde hesaplara dahil edilmiyor. Halbuki çocuk, yaşlı, engelli bakımı kapitalizmin kendi sistematiği içinde önemli karşılığı olan bir hizmettir. Bunun kadınlara yönelik ayrımcılığın, onların emeğinin yok sayılmasının ve mevcut statükoyu sürdürmenin bir yolu olduğu görülüyor. Önüne geçmek için bu emeğin ölçümlerde yer almasının kabul edilmesi ve hesaplarda görülmesinin sağlanması önemli bir mücadele alanıdır.
+
+**Emekli olanı bekleyen yoksulluk mu oluyor?**
+
+Emekli maaşları, emekli olanların insani düzeyde yaşamlarını sürdürebilmeleri bakımın yeterli değil. Üstelik kamudan emekli olanlarla, SGK emeklisi olanların emekli maaşları arasında işçi emeklisi olanlar aleyhine, hiçbir ekonomik ve mali izahı olmayan bir fark bulunuyor. İktidarlar şimdiye kadar bu maaşları belli bir refah düzeyine çekmek ve işçi-memur emeklisi farkını ortadan kaldırmak yönünde anlamlı bir adım atmadılar. Derin bir eşitsizlik sürüyor. Maaşların insanca yaşamak için uygun bir düzeye çekilmesi gerekiyor. 

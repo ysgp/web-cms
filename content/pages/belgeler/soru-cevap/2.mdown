@@ -1,0 +1,128 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+
+# 2) Yaşanabilir Bir Dünya
+ 
+**Dünyayı umursamayan bir siyaset mümkün mü?**
+
+O günler geride kaldı. Bugün dünyada 7 milyarın üzerinde insan ve milyonlarca tür yaşıyor. Artık kutupta kopan bir buz kütlesi etkisini dünyanın her köşesinde gösteriyor. Dünyayı dikkate almadan sadece kendi yaşadığımız ülkeyle/coğrafyayla sınırlı düşünmek, davranmak ve politikalar uygulamak mümkün değil. Bunda ısrar etmek, kuyunun dibinden gökyüzüne bakmak gibi bir şeydir. O nedenle, eşitlik ve adalet için verilen bir mücadeleyi ekoloji mücadelesinden ayıramayız. Bugün toprak ana ve üzerindeki varlıkların hakları, çevre ve iklim adaleti, sağlıklı suya ve gıdaya erişim, sağlıklı bir çevrede yaşama hakkı, gelecek nesiller ve doğanın hakları için verilen mücadele yaşanılabilir bir dünya özlemimizin ayrılmaz parçalarıdır. An itibariyle tüketim düzeyimizi 1,5 dünya karşılayabilmekte. Bu demektir ki epey zamandır cepten yiyoruz ve bunu anlamaz, farkına varmazsak yakın gelecekte yaşanılabilir bir dünya kalmayacak.
+
+**Gerçekten iklim değişiyor mu?**
+
+Hem de büyük bir hızla. Kuraklık, seller, fırtınalar, sıcak dalgaları ve diğer iklimsel oluşumlar süreklilik, yaygınlık ve genişlik kazanmaya başladı. Yakından bakıldığında bu durumun insan kaynaklı olduğu görülüyor. Petrol, kömür ve doğal gaz gibi fosil yakıtların kullanılması ve önü alınamaz bir tüketim furyasına dayanan üretim zihniyetinin bütün dünyada hâkim olması bu durumu hazırlıyor. Doğayla uyumlu bir uygarlık adımı atmaya ve yaşam tarzını buna göre düzenlemeye yönelmedikçe de kuraklık, susuzluk, gıda krizi, açlık, sel ve deniz seviyelerindeki yükselmelere bağlı ölümler, evlerinden ve yurtlarından olan tüm canlılar, halklar ve iklim mültecileri önümüzdeki yılların olağan sahneleri haline gelecek.
+
+**Doğayı ve ekosistemi neler tahrip ediyor?**
+
+Kâr hırsıyla ormanlar yok edildi ve bu halen sürüyor. Doğal yaşam alanları insan yerleşimleri açmak, yerleşimlerin yollarını yapmak, sanayi alanları oluşturmak, enerji yatırımlarına girişmek, madencilik ve turizm işletmeleri gerçekleştirmek için talan ediliyor. Nükleer kazalar çevrelerini radyasyona boğdu. Fabrika ve endüstriyel tarımın sentetik ilaç ve gübre atıkları toprakları ve gıdamızı zehirledi. Sulak alanlar, denizler ve atmosfer hızla kirleniyor. Açgözlü aşırı avlanma denizlerdeki canlı yaşamının kökünü kazıyor. Canlı türleri azalıyor ve tükeniyor. Biyolojik çeşitlilikteki azalma ve yok oluş alarm veriyor. Yani, bu ekolojik kriz sadece bugünü değil, geleceğimizi ve çocuklarımızın geleceğini de tehdit ediyor.
+
+**Her şeyin sebebi kirlenme ve aşırı tüketim mi?**
+
+Kimyasal ve radyoaktif kirlenme her yerde. Doğanın kendini bunlardan arındırması yüzyıllar geçse bile neredeyse imkânsız. Tüketim toplumu alışkanlığı ve ideolojisi dünyanın büyük bölümünü esir almış durumda. Sağlıksız gıdalar ve hızlı beslenme geleneksel gıda ve beslenme alışkanlığının yerini aldı. Kanser, alerji, astım gibi hastalıklar süratle yayılıyor. Toprağa dayalı kırsal yaşam, üretim ve üretim ilişkileri tehdit altında. Enerji, maden ve diğer sanayi sektörlerinden kaynaklanan baskı ve yatırımlar nedeniyle topraklar elden çıkıyor.
+
+**Bu tür üretim ve tüketim sistemi sürdürülebilir mi?**
+
+Bu sistem ekonomik, siyasi ve ekolojik zihniyet ve uygulamalarıyla değişmezse insanlığın ve diğer tüm varlıkların hem bugünü, hem de geleceği karanlık. Aslında gecikmeden bugün yaşanan krize ekolojik bir toplum hedefiyle çözüm aranmalıdır. Siyasi ve ekonomik mücadele ile ekolojik mücadeleyi birbirinden ayrı ele alan anlayışla gidişatı değiştirmek mümkün değildir. Ancak birbiriyle organik olarak bütünleştirilmiş tek bir politik vizyon, yani ekonomi ve siyasete ekolojik kriterler ve politikalarla yaklaşan çözüm ve eylem dili bu sorunların üstesinden gelebilir. Mevcut kapitalist sistemin bütün dünyaya dayattığı ekonomik, sosyal ve ekolojik açmazdan çıkmak için birini diğerine tercih etmeden, sorunlar arasında hiyerarşik öncelik belirlemeden top yekun ve birlikte ekolojik toplumsal hedefi gözeterek tavır almalıyız. Hükümetler şirketlerin güdümünde, gelecek kaygısı ve ahlaki sorumluluk duymadan kriz yaratan bu sistemi sürdürmek istiyorlar. Bu sonsuz bir döngü değil. Dünya büyük bir hızla sınırlarına doğru gidiyor. Dolayısıyla bu böyle sürdürülemez.
+
+**Bu büyüme ve tüketim tutkusu nasıl önlenecek, umut var mı?**
+
+Kolay değil. Bir kere fosil yakıtlara bağımlılık oluşmuş. Niteliğin yerini nicelik almış. İhtiyaçları karşılama ve insanın kendini gerçekleştirmesi bir yana bırakılmış, tüketim tutkusunun tatmin edilmesi ur gibi bütün dünyayı sarmış. Dünya üzerindeki yaşamın korunması ve geliştirilmesi sorumluluğu bir yana bırakılmış. Kâr, doğayı ve insanı sömürme asıl hedef olmuş. Bu baştan sona değişebilir. Bu vahim tabloyu yaratan endüstriyel kapitalizmin açgözlü sistemi yerine eşitlikçi, sosyal, özgürlükçü, adil ve ekolojik sistem için hem ülkede, hem dünyada gösterilecek çabalarla sürdürülebilir, hakkaniyetli, daha fazla değil, yeterliliğe dayalı yeni ve başka bir dünya mümkün. Ama bunu gerçekleştirebilmemiz için önce niyetimizi sonra alışkanlıklarımızı ve politikalarımızı değiştirmemiz gerekir. 
+
+**AKP iktidarı böyle bir dünya mı özlüyor?**
+
+Asla. Krizi derinleştiren, doğayı bedelsiz sermaye gibi görüp tahrip eden ve emeğin hakkını vermekten sakınan bütün uygulamaları sergiliyor. Kalkınma diye, her ne pahasına olursa olsun ekonomik olarak büyümeliyiz, diyorlar. Toplumun ve doğanın yararı, yapısı, kapasitesi, bugünü ve geleceği umurlarında bile değil. AKP şimdiye kadar gördüğümüz kalkınmacı ve büyümeci iktidarların en hoyratı, saldırganı, yırtıcısı ve ihtiraslısı. Doğayı tüketme pahasına enerji, madencilik, sanayi ve inşaat sektörüne yükleniyor.
+ 
+**Türkiye’nin kalkınmaya ihtiyacı yok mu?**
+
+İnşaata dayalı bir kalkınma anlayışı sürdürülüyor.Dağ taş beton oldu. Ormanlar, dereler, vadiler, göller, sulak alanlar, meralar, tarım toprakları, atalık tohumlarımız ciddi bir tehdit altında. Büyüme için her yol mübah sayılıyor. ÇED süreçleri sorun mu çıkarıyor, hemen yönetmelik değiştiriliyor; her büyük ihalede ihale yasasını değiştirilmesi gibi. Bugüne kadar 165 defa değiştirdiler. Bu kör inat, ülkenin yetersiz de olsa zorlukla oluşturulabilmiş kurumsal yapısını günden güne eritiyor. Nükleer felakete davetiye çıkarıyorlar. Son sürat termik santraller kurmaya devam edip iklim değişikliğini ve kirliliği artırmaktan hiç mi hiç kaçınmıyorlar. İktidarın rüyaları bile betonların arasında geçiyor. Kalkınma sihirli bir sözcük gibi bütün sağ iktidarların ve hatta kendi solda tarif eden kimi merkez partilerinin sloganı olmuş. Bunun esası rant paylaşımıdır. Toplumsal gelişmelerle toplumsal ihtiyaçlar arasında, ekolojik bir vizyonla denge ve uyum arayan, tüketim ideolojisinin ve sisteminin girdabına kendini kaptırmamış bir yönelimi hakim kılmadan, ülkede ve dünyada dar bir zümrenin çıkarını gözeten bir ekonomi anlayışıdır.  
+
+**AKP su damlalarını para banknotları olarak mı görüyor?**
+ 
+Derelerle yaşam arasında kopmaz bağ var. AKP bu bağı her tarafta kesip HES’ler kurmak istiyor. Derelerin suyunu kâr arsızı şirketlerin kasalarına akıtmanın peşinde. Yaptıkları, yüz binlerce insanın ve canlının yaşam kaynağı ve ortak malı olan çayların, derelerin, ırmakların şirketlere tahsis edilmesi, her türlü akli ölçünün ve vicdani değerin dışına çıkan vahşi bir özelleştirmedir. Suyu paraya bağlamak, bir insan hakkının, temel bir hakkın, açık ve gaddar bir şekilde ihlalidir. Bölgedeki canlı yaşamını ve yerleşik sosyal hayatı yok etmeyi amaçlamaktır.
+
+**Temiz, adil, sağlıklı ve yeterli gıdaya ulaşmak mümkün olacak mı?**
+ 
+Böyle giderse zor. Ama bu durumu değiştirebiliriz. Normal şartlarda bir devlet yurttaşlarının eşit, sağlıklı ve yeterli gıdaya ulaşması için gerekli bütün şartları hazırlamak ve düzenlemekle sorumludur. Bu sosyal devlet olmanın getirdiği bir yükümlülüktür. Ama olan biten, AKP’nin gıda, tarım ve hayvancılık politikalarının ters yönde olduğunu gösteriyor. Bütün düzenlemeler bu alanlardaki büyük şirketlerin çıkarlarına göre düzenleniyor. Tarım ilaçları ve hormonlarla zehirlenmiş ürünlerden oluşan gıdalar hayatımızın olağan gerçekliği haline geldi. GDO’lu, yani hücre yapısıyla oynanmış besinler bütün uyarı ve tepkilere rağmen vatandaşın tüketimine sunuluyor. Tarım arazileri inşaat, sanayi ve enerji sektörünün tehdidi altında. Hayvancılık derseniz, büyük ölçüde dünya tekellerine muhtaç hale geldik. Saman ve diğer hayvan yemlerini bile ithal ediyoruz. Üstelik bu yemlerin büyük kısmı GDO’lu. Gıda hem bu ülke yurttaşları için, hem de bütün insanlığın geleceği için stratejik bir konudur ama ne yazık ki, kâr için yanıp tutuşan şirketlerin insafına terk edilmiştir. Yanlış tarım politikaları sonucu küçük çiftçi insanca bir geçim saylayamadığı için üretimden vazgeçiyor. Topraklarını elden çıkarıyor. Kendi topraklarını işleyemeyen devlet Sudan’dan 5 milyon dönüm arazi kiralama yoluna gidiyor. Bu ne perhiz, bu ne lahana turşusu.
+
+**Gıda konusunda köklü ve kalıcı çözüm nedir?**
+
+Bugün dünyada var olan gıda ve açlık sorunu, tarım topraklarının ve gıdanın yetersiz olmasından çok, tarım yapılabilen toprakların ve gıdanın adil dağıtılmamasından kaynaklanıyor. Tarım toprakları eğer kirletilmeden doğa dostu yöntemlerle sürdürülebilir bir şekilde kullanılır, GDO tamamen yasaklanır, tarım topraklarında yapılaşmaya izin verilmez, üretici-aracı-tüketici zincirleri yerine yerel üreticiyi destekleyen tüketici modeller hayata geçirilir, hastalıklara ve iklim değişikliklerine dayanıklı atalık tohumlarımız yaygınlaştırılır, gıda bağımsızlığı tesis edilirse, ucuz, sağlıklı, adil ve yeterli gıdaya ulaşmak mümkün olabilir.
+
+**Doğa ve çevre yıkımı yaşanırken kamuoyu ve yargı olanlara seyirci mi kalıyor?**
+
+Bir kere AKP iktidarı yasaları değiştirip, doğa koruma alanlarını iyice daraltıyor; enerji, madencilik, inşaat gibi yatırımları yargı denetiminden kaçırıyor; kendi hayatını ve geleceğini ilgilendiren bu konularda halkın söz ve karar hakkını çiğniyor. Bu açıkça çevre düşmanı bir politikadır. Sonucu da zaten çevresel yıkım oluyor. Katılımı engelleyerek, düşünce ve ifade özgürlüğünü ortadan kaldırarak, demokrasiyi kenara iterek, baskıcı ve merkeziyetçi bir yönetimi hâkim kılıyor. Mahkemeden olumlu karar mı çıktı, hemen başka yollarla kararı etkisiz hale getiriyor. İtiraz mı var, protesto mu var, bir belde veya mahalle meclisi çevresine sahip mi çıktı, gelsin polis, gelsin jandarma. Biber gazı, tomalardan tazyikli su, cop, olmadı plastik mermi, sıkı bir saldırı ve dayak. Ölümler ve yaralanmalar, ardından gözaltılar, tutuklanmalar, mahkûmiyetler. Direnenlerin karşılaştıkları davranışın özeti bu. Yine de birçok dere özgürlüğüne kavuştu, doğa parçaları talan edilmekten kurtarıldı. Bu nedenle, kendi geleceğini ilgilendiren kararlarda halka söz hakkı verilmeli, merkeziyetçi değil yerel çözümler üretebilecek yapılar tesis edilmeli ve yargı bağımsızlığı sağlanmalı. 
+
+**Bu tahribat ve yıkım neden önlenemiyor?**
+
+Ekoloji ve çevre sorununun önemi son 50 yılda anlaşılmaya başladı. Öyle “Her sorunun çözümü bizim politikalarımızda var” gibi kolaycı ve geleneksel yaklaşımlarla tahribat ve yıkım önlenemez. Ekoloji ve çevre mücadelesini, demokrasi ve özgürlük mücadelesinin ayrılmaz ve önemli parçalarından biri haline getirmek gerekir. Bu alan uzmanlık ve teknik bir bilgi gerektiren özel alan değildir. Tamamen politikayla ve tercihlerle ilgilidir. Sisteme ve iktidara karşı yürütülecek muhalefetin yeşil ve sol olması kaçınılmazdır.
+
+**Yeşil ve sol alternatiftir mi demek istiyorsunuz?**
+
+Elbette. Yeşilin ve solun ayrı yollarda yürümesiyle sonuç elde edilemez. Bunu geçtiğimiz on yıllarda defalarca gördük. Şimdi bu iki büyük ideal günümüzde iç içe geçerek, yeni bir dünya özleminin yegâne değerler ve politikalar bütünü ve sentezi olmuştur. Bu nedenle, vadilerde, köylerde, kıyılarda, meydanlarda, kentlerde, fabrikalarda, kırlarda, gençlik, kadın, işçi, esnaf ve emekli, herkes eşitlik, özgürlük ve adalet mücadelesiyle ekoloji ve çevre mücadelesini iç içe ve birlikte sürdürmelidir. Yeşiller Ve Sol Gelecek bu anlayışın partisi olarak doğdu.
+ 
+**Yeşil ve sol alternatifin ilkeleri nelerdir?**
+
+Öncelikli olanlarını sıralayalım: Dünyanın sınırsız bir kaynak deposu olarak görülmesinden vazgeçilmelidir. Dünya tükenmez değildir. Şu anda insanla doğa arasındaki bozulan ilişkiyi onarmak gerekir. Bunun yolu da üretim ve tüketim sistemini değiştirmeyi göze almaktan geçer. İnsan doğanın bir parçasıdır, efendisi veya patronu değil. İnsanı doğadan ayırmayan, insanın sürdürülebilirliğinin ancak doğanın sürdürülebilirliği ile mümkün olduğundan hareket eden ve doğayla uyumlu bir yaşam anlayışı hâkim kılınmalıdır. Bu bir ekolojik haktır ve kalıcı olmalıdır. İnsanların olduğu gibi, doğanın ve diğer tüm canlıların da vazgeçilmez hakları vardır ve olmalıdır. Anayasa ve yasalar onları da toplum sözleşmemizin vazgeçilmezleri arasına almalıdır. Doğayla uyumlu bir ekonomik ve toplumsal düzen için bu yaşamsaldır. Bunun için de mevcut sistemin DNA’sı değişmelidir. Bu da ancak bireysel, yerel, ulusal ve küresel düzlemlerde yapılacak mücadeleyle mümkündür.
+
+**Yani ne pahasına olursa olsun büyüme dünyayı da bizi de tüketir!**
+ 
+Özellikle AKP dahil, sağ ve muhafazakâr iktidarlar ile yıllarca solda olduğunu iddia eden bütün iktidarların saplantısı ve tek hedefi büyümedir. Bu devam ederse, kaybedilen değerlerimizin yeniden kazanılması ve mevcutların korunması mümkün olmayacak. Halbuki, yaşanılır bir dünya büyümeyi değil insanların ve diğer canlıların birlikte yaşamını, mutluluğunu ve refahını anlatır. Ekolojik dengeyi bozmadan, doğayı tahrip etmeden, kirlilik yaratmadan, dünyayı geri dönülemez bir eşiğe getirmeden daha sade, daha küçük, herkese yeten, daha yavaş ve sürdürülebilir bir yaşam modeli mümkündür.
+
+**Az, sade, küçük ve yavaş olan bir hayat, öyle mi?**
+ 
+Evet, enerjiyi etkin kullanalım ve daha az tüketelim. Bu enerjiyi elde etmek için ekolojik dengeyi daha az zorlayalım. Güneş, rüzgâr, dalga gibi imkânlar var. Temiz ve yenilenebilir. Tüketim ideolojisinin esiri haline gelmiş toplumumuzu, gerçek ihtiyaçlar konusunda uyaralım. Ekolojik tarımı benimseyelim ve yerel ürünü destekleyelim. Böylece tarım ve gıdadaki zehirlenmenin bertaraf edilmesini önerelim. Atalık tohumlarımızı yaygınlaştıralım, biyolojik çeşitliliğimizi koruyalım. Tekelleri besleyen endüstriyel tarım yerine toprağın korunması için çaba gösterelim ve küçük çiftçiyi destekleyelim. O zaman yaşamın değiştiğini, gerçek bereket ve zenginliğin geleceğini daha iyi göreceğiz.
+
+**Koca metropoller var, kentler var, bir de kentsel dönüşüm var!**
+
+Mesele eski binaların güçlendirilmesi, altyapının yenilenmesi ve kente yaşam kalitesinin yükseltilmesi yönünde ilave hizmetler sunulması olsaydı, problem olmazdı. Ama kentsel dönüşüm denilerek, yıllar içinde oluşmuş kentlerin ve mahallelerin kimlikleri yok edilip tek tipleştiriliyor. Şehir merkezleri uluslararası sermayenin finans ve turizm sektörüne sunuluyor. Sözüm ona “soylulaştırılan” mahalleler yılda birkaç hafta tatil için gelen bol paralı yabancılara peşkeş çekiliyor. Bunun için inşaat lobilerinin baskısıyla Mütekabiliyet Yasası TBMM’den kolayca geçiriliyor. Sonuçta bölge insanının barınma ve konut hakkı ihlal ediliyor. Kültürel ve tarihi doku yok ediliyor. İnsanlar doğup büyüdükleri evlerinden ve mahallelerinden uzaklaştırılıyor. Orada yaşayanlara fikirleri sorulmuyor ve kararlara katılmalarının önüne geçiliyor. Komşuluk kültürü ve mahalle dayanışması tarihe gömülüyor. Tarihi ve sosyolojik gerçeklik olan mahalle yaşamının bir parçası olan kediler, köpekler, kuşlar hayat alanlarından sürülüyor. İnşaatlar ihtiyaçtan çok çıkar sağlamak için yapılıyor; ormanları ve oradaki canlı yaşamı, su kaynaklarını yok eden ulaşıma çözüm olmaktan uzak yollar, havaalanları inşa ediliyor. Bunun adı kentsel dönüşüm. Biz böyle bir dönüşümde yer almak istemiyoruz.
+
+**Yaşanılabilir bir dünya için çıkış yolu nedir?**
+
+Öncelikle mevcut durum tek ve zorunlu seçenek değil. Bu bir yanılsamadır. Eşitlikçi, özgürlükçü, adil, sürdürülebilir, temiz ve yeşil başka bir dünya mümkündür ve ona ulaşabiliriz. Bunun için ekonomik tercihimiz sürdürülebilir ve yeşil bir ekonomi olmalıdır. Bu ekonomik ve toplumsal sistem gelecek kuşakların ve doğanın haklarını gözetmelidir. İnsandan ve doğadan yana olmalıdır. Enerji, tarım ve ekonomi politikaları buna göre oluşturulmalıdır. Bunun için bugünden harekete geçmeli, büyük küçük demeden her yerde olumlu örnekler yaratarak yaşanılabilir bir dünyayı bugünden kurmalıyız.
+

@@ -1,0 +1,74 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# Sunuş
+
+Bu çalışma Yeşiller ve Sol Gelecek Partisi’nin tanıtımını nasıl yapabiliriz, politikalarının biraz daha yakından öğrenilmesi için hangi yöntemleri uygulayabiliriz soruları etrafında Merkez Yürütme Kurulumuzda yapılan bir tartışma sonucu çıkan ortak fikrin ürünüdür.
+Partilerin metinleri, eğer bazı somut olaylarla ilgili ve kısa değilse, onu çok yakından takip edenlerin dışında okunmaz. Parti politikalarının somut olaylara bağlı, kısa ve kestirme ifadelerle ortaya konulması, sembollerle ifade edilmesi yaygın olarak benimsenir. 
+
+Partilerin, özellikle de yeni kurulan partilerin kendilerini bırakın ayrıntılı politikalarıyla, isimlerini duyurmaları bile hiç kolay değildir. Hele biraz farklı ve muhalifseniz bu daha zor olacaktır. 
+Yeşiller ve Sol Gelecek Partisi de hem yeni kuruldu, hem geleneksel politik anlayışların epey dışında pek çok yeni şey söyleyen ama gerek medya ve gerek toplum açısından, belli bir tanınırlık düzeyine gelmesi için ciddi emek harcaması gereken bir noktada bulunuyor. 
+Yaklaşık bir yılı geride bıraktık. Kurucu organlarımızı kongrelerle yeniledik. Artık kendimizi ve politikalarımızı tanıtma zamanının geldiğini düşünüyoruz. İlk adımları Gezi Direnişi sırasında attık. Birçok konuda görüşlerimizi kısa metinlerde ve sorulara bağlı bir anlatımla sunma çabası içinde olduk.
+
+Şimdi çok önemli temel konuları ayrı başlıklar olarak ele alıp, yine sorular ve cevapları şeklinde sunuyoruz.
+
+Başlıkta yer alan konulara dair hiç şüphesiz çok fazla soru sorulabilir ve daha doyurucu cevaplar verilebilir. Size sunduklarımızı yeterli bulmamanız bize sadece mutlu eder. Hele eleştiri, soru, katkı ve yorumlarınızı iletişim adreslerimize ulaştırırsanız, bu kitabı belirli aralıklarla kendini yenileyen sizden gelenlerle de interaktif bir şekilde olgunlaşan bir çalışma durumuna getirebiliriz.
+
+Zaten partimizin örgütsel yapılanmasında ve çalışmalarında yurttaşla ilişki itibariyle oldukça geçişken bir model uygulamaktayız. Bu modeli elinizdeki partimizi ve politikaların anlatan çalışmanın yenilenme periyotlarında da hayata geçirmek istiyoruz.
+
+Konuların sıralanmasında belli bir sistem olmakla beraber, okunmasının konu sırasıyla olması gerekmez.
+
+Bu tür çalışmada kimi hatalı, eksik, zamanı geçmiş bilgiler yer olabilir, biz bu kusurları düzeltme çabası içinde olacağız.
+
+Bu çalışmada yer alanlar ağırlıkla parti temel belgeleri üzerinden üretilmiştir. Bunun dışında, ele alınan konuda partiyle fikri ortaklıkları bulunan kimi bilim insanlarının, kurumların, sivil toplum örgütlerinin belgelerinin kamuoyuna yansıyan belge ve görüşlerinden de yardımcı kaynak olarak yararlanılmıştır. Ancak, atıfta bulunmanın bu tür bir yayında teknik olarak mümkün olamayacağı için dipnot olarak verilmemiştir. 
+
+Çalışmada çok sayıda soru ve yanıt bulunmasına karşın, konuların kapsamı ve uygulama sahalarının genişliği dikkate alındığında çok sınırlı kaldığı, yine de güncelliğin içine çok fazla giremediği, ayrıntılardan ister istemez uzak durduğu görülecektir. Tabii ki, konuların ve soruların her biri tek başına alındığında ve tamamen ona odaklanıldığında çok geniş değerlendirmeleri ve çalışmaları hak eden önemdedir.
+
+Biz Yeşiller ve Sol Gelecek Partisi olarak bu çalışmayla bir başlangıç yapmak istedik. Umut ediyoruz ki sizlerden de bu tür çalışmaları devam ettirmemiz yönünde teşvik, destek ve katılım göreceğiz. 
+

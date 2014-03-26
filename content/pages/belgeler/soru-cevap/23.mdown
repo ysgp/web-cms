@@ -1,0 +1,97 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# 23) Çocuklar, Hakları ve Gelecekleri
+
+**Çocuk kimdir ve hakları nedir?**
+
+18 yaşına kadar her birey yasal olarak çocuk kabul edilir. Korunma, gelişme ve katılım hakkına sahiptir. Baskı ve sömürüden uzak, sağlıklı ve özgür bir gelişme ortamı içinde büyüme ve kendisini isteği ve ilgisi doğrultusunda geliştirmek de hakları arasındadır. Ebeveynler, devlet ve toplum çocuklara karşı sorumlu ve borçludur. Hiçbir ayrım gözetmeden başta eğitim olmak üzere bütün haklarının tanınması gerekir. Ana baba, yasal vasiler veya aile üyelerinin düşünceleri, eylemleri, siyasal görüşleri, inançları ve meslekleri nedeniyle çocuklar ayrıma veya cezaya tabi tutulamaz. Eğitimlerinde kendi kültürel kimliklerinin özgün nitelikleri dikkate alınmak zorundadır. Türkiye’de her çocuk kendi kültürel değerlerini öğrenme, yaşama ve anadilinde eğitim hakkına sahip olmalıdır.
+
+**Çocuk istismarı deyince ne anlıyorsunuz?**
+
+Eğitim, sağlık, barış içinde güvenli bir yaşam çocukların temel hakkıdır. Ancak, devletin, toplumun ve ailelerin bunlara yeterince duyarlılık gösterdiği söylenemez. Çocuk işçiliği, sokakta çocuk istismarı, çocuk dilendirme, sokakta çocuk çalıştırma, organ mafyası, çocuk pornografisi, aile içi ve dışı şiddet, çocukları politikada kullanma, çocuk mahkûmluğu gibi geniş yelpazeye yayılan bir istismar alanı söz konusudur. Bu nedenle aynı genişlikte bir mağduriyet yelpazesi de ortaya çıkıyor. Buna karşı hem toplumsal duyarlılığı geliştirmek, hem de yasal düzeyde tedbirler alınması için mücadele etmek gerekiyor. Çocukların silahtan, savaştan ve silahlı çatışmalardan uzak tutulması da günümüzün en önemli sorunlarından biri. Çocukların yaşam ve bedenlerinin ticari ve benzeri amaçlarla kullanılması, onur kırıcı şekilde afişe edilmesi de önlenmelidir. 
+
+**Çocuk sağlığı, korunması ve yararına dair ne söylüyorsunuz?**
+
+Doğumdan yetişkinliğe, asgari sağlık ve refah düzeyinde yaşama ve büyüme bütün çocukların hakkıdır. Bu bakımdan köklü anne-çocuk ve halk sağlığı politikaları, kurumları ve hizmetleri gerekiyor. Yoksullukla ve yoksul aile çocuklarının sağlığı ve geleceğiyle ilgili hizmetler de yerine getirilmeli. Devlet bu çerçevede etkin ve adil sosyal politikalar geliştirmekle yükümlüdür. Çocukların korunma, yaşama, gelişme, katılım ve güvenlik hakkının ve yüksek yararının yasama ve yargı organları, kamu ve özel sivil toplum kuruluşları ve medya tarafından titizlikle gözetilmesi gerekir. 
+
+**Çocukların görüşünü almak önemli mi?**
+
+Onları ilgilendiren politika ve faaliyetlerde yarar ve haklarını gözetmek temel ilkedir. Çocuklara dair eylemlerde katılım hakkından hareketle görüşlerinin alınması önemli. Yetişkinler gibi onların da kanaat, duygu ve düşünceleri var. Bunu yuvalarda, okullarda, ebeveynleri ve kamuoyu önünde bireysel veya toplu olarak açıklayabilmeliler. Bu onların geleceği, kişiliklerinin gelişimi ve haklarına sahip çıkan birey olmaları bakımından çok önemli.
+
+**Çocuklar için doğal ve çevresel değerlerin önemi nedir?**
+
+Çocuklar da en az yetişkinler kadar doğal ve çevresel değerlere sahip olma hakkına sahiptir. Yaşamları boyunca ihtiyaçlarını giderebilmek ve insani gelişimlerini sürdürebilmek bakımından bu zorunludur. Bu bakımdan doğal ve çevresel değerlere yönelik atılacak her adım çocukların ve gelecek nesillerin çevre hakları bakımından önemle ele alınmalı.
+
+**Çocukların anadili ve kültür hakkı ne ifade ediyor?**
+ 
+Türkiye insan, dil, inanç, kültür ve kimlik zengini bir ülke. Bu çeşitlilik çocuklar söz konusu olduğunda daha da önem kazanıyor. Çocukların insani gelişimi bakımından içine doğdukları dilin, kültürün, inancın demokratik bir çoğulculuk yoluyla aktarılabileceği kurumsal yollar bulunmak zorunda. Yerel yönetimlerin okullar açması, anadilleri farklı olanlara kendi dillerinin ve özgün kültürel değerlerinin öğretilmesinin sağlaması, ihtiyaç olan yayınların basılmasının gerçekleştirilmesi bu haklardan kabul edilmelidir.
+
+**Çocukların işçi olarak çalıştırılması hakkında fikriniz nedir?**
+ 
+Çocukların çalıştırılması insan haklarına ve uluslararası sözleşmelere aykırıdır. Partimiz bunun kesinlikle önüne geçilmesi gerektiğini savunuyor. Yüz binlerce çocuk özellikle kayıt dışı sektörde her türlü güvenceden yoksun olarak, düşük ücretlerle, insani koşullardan tamamen uzak ve uzun çalışma saatleriyle köle gibi çalıştırılıyor. Bu devlet tarafından engellenmeli ve bütün işçi çocukların zorunlu eğitim süresini mutlaka eğitim alarak tamamlamaları sağlanmalıdır. Ayrıca, yaşıtlarıyla beraber hak ve istekleri için örgütlenmek, derneklere, klüplere üye olmak, toplantı ve gösteri yapmak çocukların da hakları olmalı. Genç nüfusun oranının yüksekliği, kayıt dışı sektörlerin yaygınlığı, sosyal güvenlik kurumlarının yetersizliği ve denetimsizliği ise çocuk işçiler konusunu çok ciddi bir  sorun olarak önümüze getirmektedir. Eğitim görmeleri ve sağlıklı bir büyüme ve gelişim göstermeleri gereken çocukların, kayıt dışı sektöre ucuz emek olmasında, devletin sosyal fonksiyonlarını yerine getirmemesinin rolü çok büyüktür. Partimiz bu sorumsuzluğun kesinlikle sonlandırılması için bütün tedbirlerin alınmasından yanadır.   
+
+**Korumaya ve özel bakıma muhtaç çocuklar için ne yapılabilir?**
+
+Engelli, öksüz, yoksul ya da engelli olup korunması ve özel bakım görmesi gereken çocukların bakım ve eğitiminden devlet ve toplum sorumludur. Elbette devlet, yerel yönetimler ve diğer kamu kuruluşlarının sorumluluğu daha fazla olmalıdır. Bu çocukların barınma, sağlık, tedavi, eğitim, rehabilitasyon ve bütün sosyalleşme ve kendilerini geliştirme şartları sürdürülebilir şekilde bu kurumlarca sağlanmalıdır. Bu çocukların toplumdan yalıtılmış alanlara kapatılması engellenmelidir.
+
+**Çocuklarla ilgili uluslararası anlaşma ve sözleşmeler uygulanıyor mu?**
+
+Türkiye 1990’da BM Çocuk Hakları Sözleşmesi’ni (ÇHS) imzaladı ve Anayasa’nın 90. maddesine göre iç hukuk normu olarak kabul etti. Bu sözleşmeden kaynaklanan bütün çocuk haklarını devlet kabul ve taahhüt etmiş durumda. Ayrıca sayısız anlaşma ve sözleşmeyi de kabul etmiş ve uygulama vaadinde bulunmuştur. Bunlar son derece olumlu ve her maddesi ve uygulamaları dikkatle takip edilmesi gereken uluslararası çocuk hakları hukukunun önemli unsurlarıdır. Partimiz iktidarların, devlet kurumlarının ve ilgili diğer kuruluşların faaliyetlerini bu çerçevede takip etmeyi ve problem alanlarını siyasetin mücadele konusu haline getirmeyi önemsemektedir.
+
+**BM Çocuk Hakları Sözleşmesi’nin 17, 29.ve 30. maddelerine konulan çekinceye ne diyorsunuz?**
+
+Bu maddeler çocukların anadili ve kültürleriyle ilgili konuları kapsıyor. Türkiye çok dilli, çok kültürlü ve çok inançlı bir toplum.Demokrasi ve çoğulculuk ilkeleri bakımından bu kabul edilemez. Bu çekincenin hemen kaldırılması lazım. Çocukların anayasadan kaynaklanan haklarının kullanılmasını engellemektedir. Hem anayasanın eşitlik ilkesine, hem de ÇHS’nin ayrımcılığı yasaklayan 2. maddesine aykırıdır. 
+
+**Çocuğun sosyalleşme hakkı nasıl şekilleniyor?**
+
+Bütün çocukların, bulundukları, yaşadıkları ve eğitim gördükleri her yerde oyun oynama hakkı vardır. Bu hak cinsiyet, toplumsal statü, dil, din, etnisite ve kültür farkı gözetmeden bütün çocuklara her şart altında sağlanmak zorundadır. Zihinsel ve bedensel gelişimleri için yeterince boş zaman ve bunu değerlendirecek sosyalleşme, oyun, spor, eğlence ve kültürel etkinliği yaşıtlarıyla birlikte gerçekleştirmeleri için imkân sağlamak devletin ve toplumun görevidir. Eşitlikçi ve özgürlükçü bir toplum tasavvurunun önemli bir mücadele alanı da çocukların haklarının sağlanmasıdır.
+
+
+

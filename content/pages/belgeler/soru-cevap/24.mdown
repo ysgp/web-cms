@@ -1,0 +1,86 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# 24) Engelliler, Sorunları ve Hakları
+
+**Türkiye’de engellilerin durumu nasıl?**
+
+Nüfusumuzun % 10’unu engelli yurttaşlar oluşturuyor. Ama eşit yurttaşlık hakkının onlar için geçerli olduğunu söyleyemeyiz. Toplumdan tecrit edilmiş bir hayatı yaşamaya zorlanıyorlar. Onların hayatını kolaylaştıracak düzenlemeler layıkıyla yapılmadığı gibi, toplumun çoğunluğu tarafından yardıma muhtaç, kendi başına yaşaması olanaksız bireyler olarak görülüyorlar. Toplumun bu yöndeki baskısı engellilerin üzerinde açık olarak hissediliyor.
+
+**Engelliler mahkûm edildikleri dar hayatın dışına çıkabilir mi?**
+
+Merkezi ve yerel yönetimler uygulamaları ile toplumun zihniyetinin değişmesi gerekiyor. Diğer vatandaşların sahip olduğu tüm haklara engellilerin de sahip olmaları gerektiğinin kabulünü sağlamak zorunlu görünüyor. Bu ise ciddi bir mücadele gerektiriyor. Bu yönde başarı elde edilirse engellilerde mahkûm edildikleri sınırlandırılmış hayatın dışına çıkabilirler; dışlanma ve tecritleri sona erebilir. Yakın çevre gözetimi ve bir tür ev hapsi böyle bitebilir. Engellileri hayata dahil etmek üzere çok yönlü sosyal politikalar, gelişkin istihdam olanakları, yerel uygulamalar ve toplumsal zihniyetin kökten değişmesi durumu değiştirebilir.
+
+**AB’ye aday üyelik sürecinin engellilerin şartlarına etkisi oldu mu?**
+
+Uyum anlaşmalarında bütün belediyelerin bütün ulaşım yollarını, devlet daireleri ve diğer kamu kuruluşlarını engellilerin rahatlıkla ulaşabileceği şekilde düzenlemeleri karara bağlandı. Bunun için 7 yıllık süre verildi. Ama mevcut AKP iktidarı henüz bu konuda gerekenleri hakkıyla yerine getirmedi. 
+
+**Engellilere farklı sıfatlarla hitap edilmesi doğru mu?**
+ 
+Halen resmi kurumların yazışmalarında “sakat, özürlü, çürük” gibi tanımlar yer alıyor. Toplumdaki yardıma muhtaç birey algısını pekiştiren bu tanımlar ve ifadeler kullanılmamalı.
+
+**Engelli politikaları nasıl oluşturulmalı?**
+
+Bütün engelli kesimlerin birlikte ele alınması gerekiyor. Ortopedik, işitme ve görme engelliler ile zihinsel engelliler toplumla tam olarak kaynaştırılmalı. Bu amaçla engelli olmayanlara yönelik de proje ve programlar oluşturulmalı. Engellilerin bütün eşit yurttaşlık haklarına ve tam sosyal haklara kavuşması anayasal güvenceye kavuşturulmalı. Kamusal konut, sağlık ve eğitim projeleriyle engellilerin özel sosyal politikalarla desteklenmesi gerekiyor.
+
+**Engellilerin öncelikli talepleri hakkında ne düşünüyorsunuz?**
+
+Engellilerin en temel ihtiyacı olan kendi engellerini kısmen ortadan kaldırmak üzere kullanmak zorunda oldukları teknik destek cihazları (işitme cihazı, beyaz baston, tekerlekli sandalye vb.) ve protez gibi tamamlayıcı unsurların tamamen bedelsiz olarak ve gecikilmeden verilmeli. Ayrıca, yine bunların kullanım süreleri itibariyle değiştirilip yenilendiklerinde de bedellerinin ödenmesinde zorluk çıkarılmamalı. Bütün bunları kendileri satın alanlara bedellerinin tam olarak ödenmesi sağlanmalıdır. İşitme cihazı tıbben çift taraflı kullanılması gerekirken, yalnızca tek taraf cihazın bedelinin ödenmesi gibi akıldışı bir uygulama mutlaka kaldırılmalı. Bu konularda Sosyal Güvenlik Kurumu’nun (SGK) uygulama tebliğinden kaynaklanan ve engellilerin hayatını zora sokan anlayış gecikmeden değiştirilmeli. Ayrıca, ortopedik engellilere tekerlekli sandalye verilmesini önleyen uygulamaya da son verilmelidir. 
+
+**Engelli dostu kentler hakkında fikriniz nedir?**
+
+Belediyelerle ilgili 5393 sayılı Yasa hizmetlerin engelli, yaşlı, düşük ve dar gelirlileri gözeterek verilmesi gerektiğine dair hükümlere yer veriyor. Ancak bunların istenilen düzeyde gerçekleştiği söylenemez. Halen büyük küçük bütün kentlerimizde belediye hizmetleri bu toplum kesimleri için istenilen standartta ve erişilebilir şekilde uygulanmıyor. Atılan kimi adımlar ise oldukça yetersiz.
+
+**Engelli dostu kentlere dair önerileriniz nedir?**
+ 
+Tüm yerleşim birimlerinin engelliler, hastalar ve yaşlıların zorluk çekmeden, güvenli ve rahatça, başkalarının yardımına gerek duymaksızın her yere ulaşabileceği şekilde düzenlenmesi, var olanların bu amaçla değiştirilmesi gerekiyor. Bu bakımdan erişilebilirlik sorununun çözümü için altyapı düzenlemeleri ve teknik donanım sağlanmalı. Bunların arasında en az 1,5-2 metre genişlikte kaldırımların yapılması ve yaya kaldırım eğiminin % 2’den fazla olmaması önemlidir. Kaldırım yüzeylerinin engelsiz, pürüzsüz, kaymayan ve görme engelliler için kılavuz olması gerekir. Özellikle bunlar öncelikli olarak ele alınması gereken konular. Ayrıca alt-üst geçitler engelli, hasta ve yaşlılar için özel düzenlemelere sahip olmalı. Ulaşım araçları engellilerin kullanımına uygun hale getirilmeli. Araç personelinin de bu konuda eğitim alması sağlanmalı. Güzergâhlar çoğaltılmalı, uyumlu toplu taşıt sayısı artırılmalı. Bunlara ilave olarak yerel yönetimler engellilerin üretime ve istihdama katılımı yönünde özel çalışmalar yapmalı, imkânlar oluşturmalı, meslek edinmeleri için eğitim imkânı sunmalı. Eğlenmek engellilerin, yaşlıların, düşkünlerin ve hastaların da hakkıdır. Bu olanakların yaratılması yoluyla onlara topluma katılacakları ve yaşama daha sıkı sarılacakları bir kent oluşturulabilir. 
+
+**Engelli dostu kentlerde hizmet nasıl olmalı?**
+
+Hiç şüphesiz yerel yönetimlerin sosyal sorumluluk hizmetleri bağlamında tedavi, bakım, eğitim ve rehabilitasyon gibi görevleri yerine getirecek kurumları oluşturmaları ve aksamadan sürdürülmesini sağlamaları da beklenir. Bütün zorunlu, zaman zaman değil her zaman, kararı hizmeti alacak olanlarla birlikte verilen, göstermelik ve seçim dönemlerine mahsus olmayan gerçek ihtiyaçlar üzerinde şekillenen adımlarla yerine getirilmeli. Ortaya konulacak somut politikalar engellilerin hayatlarını iyileştirmek ve refahını yükseltmek için gereklidir.

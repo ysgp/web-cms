@@ -1,0 +1,102 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+# 27) Eğitim, Sorunlar ve Öneriler
+
+**Bizde eğitimin amacı nedir?**
+
+Ne yazık ki bizde eğitim, eleştirel düşünce ve fikri gelişmeyi sağlamak yerine piyasaya işgücü, devlete ve rejime uyumlu, sadık vatandaş sağlama amaçlı. Eğitim alanında problemlerin bir diğeri de özgür düşüncenin ve bilimsel bilginin önündeki engeller. Mevcut sistem sınıfsal ve bölgesel farklılıkları derinleştirirken kültürel farkları yok sayıyor. Oysa insanla doğanın uyum içinde olduğu sürdürülebilir, ekolojik ve demokratik bir toplumsal sistemin kurulması da eğitimin amaçları arasında olmalı.
+
+**Mevcut eğitimin temel özellikleri ne?**
+
+Öncelikle otoriter bir zihniyet ve ezberci bir sistem hâkim. İnsanların yaratıcı potansiyellerini ortaya çıkarmaktan, demokrasi, eşitlik, toplumsal cinsiyet ve ekolojik konularda duyarlılık kazandırmaktan çok uzak. Ayrımcılıklara karşı duyarlılık bir yana, onu besleyen bir müfredat ve anlayış söz konusu. Barış, savaş karşıtlığı, adalet, kardeşlik, evrensellik gibi değer ve erdemler hak ettikleri ölçüde bu eğitim sisteminde yer bulamıyor. Milliyetçiliğin, ırkçılığın, belli bir kesime ait inanç sisteminin muhtelif biçimlerde uygulamalarla işlendiği ve müfredata yedirildiğini yıllardır görüyoruz. Bunların önüne geçilmesi için yasa ve yönetmeliklerle önlem alınması gerekiyor. Kültürel mirasa sahip çıkan, tarihten kaynaklanan sorunlarla yüzleşmeyi ve evrensel değerleri içselleştirmeyi hedefleyen, farklı olana empati geliştiren, cinsiyet eşitsizliğine karşı bir anlayışı yerleştiren bir eğitim sistemine geçiş atılması gereken temel adımdır.
+
+**Anadilinde eğitim çok mu önemli?**
+
+Tartışmasız bir insan hakkı olarak da, pedagojik ilkeler nedeniyle de anadilinde eğitimin mutlaka uygulanması gerekiyor. Cumhuriyet’in ayrımcı politikalarının en açık şekilde görüldüğü alanların başında eğitim geliyor. Eğitim alanındaki ayrımcılıkların başında ise anadilinde eğitim hakkının çiğnenmesi var. Bu etnik ayrımcılık Cumhuriyet tarihi boyunca sürdü. Başta Kürtler olmak üzere, inkâr ve asimilasyon politikalarının mağduru olan farklı etnik kimliklere mensup toplum kesimleri, yoksun kaldıkları anadilinde eğitim hakkı nedeniyle derin bir eşitsizliğe mahkûm oldular. Oysa herkes anadilinde eğitim görebilmeli ve kamu hizmeti alabilmelidir. Demokrasinin evrensel ilkeleri ve uluslararası insan hakları sözleşmeleri de bu hakkı olmazsa olmazlar arasında görüyor.  Farklı dillerde eğitim görebilmek çoğulcu ve demokratik sistemlerin öncelikli şartıdır.
+
+**Zorunlu din dersleri ne olacak?**
+
+Zorunlu din dersleri konusunda da aynı şey yaşanıyor. Aleviler, Babailer gibi farklı inanç ve kültürleri benimseyen ailelerin çocukları mağdur oluyor. Son dönemde yapılan kısmi değişiklikler halen gerçek ihtiyaca cevap vermekten uzak. Zorunlu din dersleri kaldırılmalı. Özgürlükçü bir laiklik anlayışı çerçevesinde öğrencilere bir kültürel formasyon kazandırmak bağlamında bütün din ve inanç sistemleri uygulaması yapılmaksızın verilebilir. İç barış ve bir arada yaşama kültürü böyle bir zemin üzerinde yükselebilir.
+
+**Eğitim müfredatında içerik nasıl?**
+ 
+Ayrımcılık, ötekileştirme, cinsiyet eşitsizliği, erkek egemen dil, bazı etnisite ve inanç kümelerini aşağılayan ve dışlayan içerik ve ifadeler, otoriter bir zihniyeti hâkim kılan söylem, milliyetçi ve ırkçı tarihi ve efsanevi anlatımlar kitaplarda, yardımcı yayınlarda ve uygulamalarda sık görülüyor. Eğitim hizmeti verenlerin bu konuda duyarlı olmaları çok önemli. Müfredat ve uygulamanın bu ayrımcı içerikten temizlenmesi gerekiyor. Ayrıca, eğitimin bütününde var olan insan merkezli bakışın değişerek doğanın tahribatına duyarlı, dünyanın ve gelecek nesillerin haklarını gözeten bir anlayışın hem eğitim hizmeti verenlere, hem de eğitim görenlere kazandırılması önem taşıyor.
+
+**Herkese parasız ve nitelikli eğitim verilebilir mi?**
+ 
+Eğitim alma herkes için tartışmasız bir hak. Dar gelirli ve yoksul toplum kesimleri dahil, devletin herkese her düzeyde kaliteli eğitim hizmeti sunması bir yükümlülük.  Bu eğitimin parasız ve nitelikli olması toplumsal adalet ve eşitlik ilkesinin gereği.  Vatandaşların bu eğitime ulaşması için yeterli şartların hazırlanması da sosyal devletten beklenen bir hizmet. Bu çerçevede bölgeler arası dengesizliklerin ortadan kaldırılması ve eğitim planlamasının ve kaynak aktarımının buna göre yapılması gerekiyor.
+
+**Kadınların eğitimi beklenen düzeyde mi?**
+
+Kadınların eğitim imkânlarına ulaşmasının önünde çok ve özel engeller bulunuyor. Aile, çevre, bölge, ekonomik ve sosyal durum ile gelenekler kadınların eğitim almasında farklı bölgelerde farklı engeller oluşturuyor. Özellikle öne çıkan sorun, bazı bölge ve kentlerde kızların ya hiç eğitim görmemesi ya da birkaç yıllık ilköğretimden sonra okuldan alınıp erken yaşta evlendirilmesi. Kadınların erken çocukluk eğitiminden yüksek eğitime kadar uzanan süreçte hak ettikleri ölçüde yer alabilmeleri için imkânlar artırılmalı ve yasal tedbirler alınmalı. Eğitime eşit erişimin gereği budur.
+
+**Yaşam boyu eğitim ve öğrenme için ne düşünüyorsunuz?**
+
+Zorunlu eğitim sistemi ve okullar yetmez. İnsan yaşam boyu eğitim alabilir ve birçok şeyi öğrenebilir. Okul resmiyetinin dışında faaliyet ve örgütlenmeler yoluyla bu sağlanabilir. Bu şekilde gerçekleşen katılımla öğrenme ve eleştirel düşünme, ilköğretimden üniversiteye sistematik eğitim ve öğretimin ayrılmaz bir parçasıdır. Mahallelerde açılacak gençlik merkezleri, kendini yönetecek gençler için sosyalleşme, etkileşim ve örgütlenme ortamı yaratabilir. Okul dışı öğrenmenin önemli bir parçası olabilir. Bu, eğitim ve öğretimde alternatif modellerin araştırılıp ortaya çıkarılmasının yollarını açabilir. Bireylerin çok yönlü gelişimi bakımından potansiyellerinin ortaya çıkmasını sağlayabilir. Kamu desteği bu bakımdan son derece önemlidir.
+
+**Okumaz yazmaz vatandaşlar halen var mı?**
+ 
+Genç kuşaklarda oran giderek azalmaktaysa da yaşlı kuşaklar arasında okuma yazma bilmeyenlerin oranı bazı bölgelerde yüksek düzeyde. Milyonları buluyor. Bunun bölgesel eşitsizlik, ekonomik ve siyasal ihmal gibi birçok nedeni var. Belli dönemlerde açılan okuma-yazma kursları ve seferberlikleri kısmi sonuçlar vermiş olmakla beraber sorunun esası çözülemedi. Yaşlı kuşaklar arasında okuma-yazma bilmeme durumu kadınlarda daha fazla göze çarpıyor. Bu sorunun kurumsal mekanizmalarla, yaygın olarak ve sürdürülebilir şekilde kamu-sivil toplum işbirliğiyle planlanıp gerçekleştirilmesi gerekiyor. 
+
+**Arıza veren eğitim sistemi yeniden ele alınamaz mı?**
+ 
+Eğitim sisteminin yeniden yapılanmaya ihtiyacı var. Toplumsal ihtiyaçlar ve gerçekliğimizle paralel giden bir sistem değil. Çağın gerisinde kalıyor. Hak ve özgürlükleri genişleten uluslararası sözleşmeler bağlamında yeniden yapılandırılması gerekiyor. Anadilinde eğitimin gerçekleşmesi konusundaki anayasal ve yasal adımlar cesaretle atılmalı. Eğitimin merkezi örgütlenme sistematiği büyük sorun yaratıyor. Okul yönetimleri bu sistemde kendini yönetmekten aciz bırakılıyor. Hem okulda yerinden yönetime geçilmeli, hem de eğitim sisteminin karar ve yürütme yetkilerinin önemli bölümü yerel yönetimlere aktarılmalıdır. 
+
+**Eğitim alanında aklınıza ilk gelen tedbirler neler?**
+
+Şunlar sıralanabilir: Meslek liselerinin eğitim içeriği güçlendirilmeli, ders yükü azaltılmalı ve etkili hale getirilmeli. Üniversiteler özgür ve özerk kurumlar olmalı. Merkezi vesayetin üniversite ayağı olan YÖK sistemini tadil etmek değil kaldırmak gerekiyor. İhtiyacı olan bütün üniversite öğrencilerine parasız eğitim, ulaşım, beslenme ve barınma koşulları sağlanmalı ve tatmin edici düzeyde burs verilmeli. Dershanelere dayalı hazırlık ve eğitim sistemi tasfiye edilmeli ve eğitimin kalitesi yükseltilmeli.  Öğrencilerin okul yönetimine ve kararlara katılmaları sağlanmalı ve örgütlenmelerinin önündeki yasal ve fiili engeller kaldırılmalı. Bütün eğitim ve öğretim kurumları ve üniversiteler polisten ve polis gibi davranan özel güvenlikten arındırılmalı. Anadilinde eğitim hakkının önündeki anayasal ve yasal engeller kaldırılmalıdır.  
+
+**Eğitim ve öğretim ikliminin değişmesi nasıl olacak?**
+ 
+Eğitim hizmetlerinin planlama ve uygulamasında önemli kararlara bireysel ve toplumsal katılım imkânı sağlanmalı. Bunun yasal ve fiili mekanizmalarını yaratmak devletin sorumluluğu. Çoğulcu, özgür, cinsiyet eşitlikçi bir anlayışla eğitim kurumları ve yerel yönetimler kendi müfredat ve kurullarını oluşturabilmeli. Geliştirici sosyal faaliyetler için imkân sağlanmalı. Özgür düşünce geliştirme, paylaşma ve dayanışma ortamı ve fırsatları yaratılmalı. Bunlar yapılırsa mevcut erkek egemen, otoriter,milliyetçi, yabancı düşmanı, muhafazakar, rekabetçi homofobik, heteroseksist cinsiyetçi, ataerkil  eğitim ve öğretim iklimi hızla değişecektir.
+
+**Hem öğretmen var, hem öğretmen yok, bu ne iş?**
+ 
+Çünkü öğretmen yetiştirme ve istihdam ilişkisi kopmuş durumda. Binlerce mezun ve stajyer var. Ama okulların önemli bölümünde dersler boş geçiyor. Genç ve eğitimli işsizler yaratılıyor. Maliyenin yeterli kadro açamadığı bahanesi ileri sürülüyor. Halbuki ihtiyaç kadar nitelikli öğretmen yetiştirilmesi ve onlara güvenceli istihdam sağlanması gerekir. Eğitim emekçileri boğaz tokluğuna yaşamaya mahkûm ediliyorlar. Grevli ve toplu sözleşmeli sendikal hak henüz tam olarak sağlanabilmiş değil. Ücret artışları, sosyal haklar ve özlük haklarının geleceği bakanın iki dudağının arasında. Eğitime daha fazla kaynak, yeterli yatırım, yetişkin personel ve planlı bir gelişim modeli getirilmeli.
