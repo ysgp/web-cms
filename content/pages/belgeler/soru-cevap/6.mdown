@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**6) AZINLIKLAR**
+# 6) Azınlıklar
 
 **Türk ve Müslüman olmanın bu ülkeye ne zararı var?**
 

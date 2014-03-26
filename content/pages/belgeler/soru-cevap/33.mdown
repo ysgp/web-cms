@@ -49,7 +49,7 @@ ContentMenu: [
 
 
 
-##**33) GÖÇMENLER, SORUNLARI VE ÇÖZÜM YOLLARI**
+# 33) Göçmenler, Sorunları ve Çözüm Yolları
 
 **Göçmen, mülteci ve sığınmacı kimdir?**
 

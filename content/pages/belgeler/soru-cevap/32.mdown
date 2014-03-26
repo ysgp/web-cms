@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**32) SPOR VE TOPLUM**
+# 32) Spor ve Toplum
 
 **Sporun dünyada ve Türkiye’de temel özelliği nedir?**
 

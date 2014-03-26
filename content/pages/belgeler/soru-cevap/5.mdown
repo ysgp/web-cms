@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**5) TARİHLE YÜZLEŞME**
+# 5) Tarihle Yüzleşme
 
 **Ne demek tarihle yüzleşme, tarihimizden şüpheniz mi var?**
 

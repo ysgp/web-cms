@@ -46,7 +46,7 @@ ContentMenu: [
   {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
   ]
 
-##**12) LGBTİ**
+# 12) LGBTİ
 
 **LGBTİ nedir ve kimleri içeriyor?**
 

@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**20) EMEK, HAKLARI VE ÖRGÜTLENMESİ**
+# 20) Emek, Hakları ve Örgütlenmesi
 
 **Ekonominin insani, toplumsal ve ekolojik hedeflerle uyumu şart mı?**
 

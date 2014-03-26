@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**NASIL BİR PARTİYİZ?**
+# Nasıl Bir Partiyiz?
 
 **Yeşiller ve Sol Gelecek Partisi’ni nasıl tanımlıyorsunuz?**
 

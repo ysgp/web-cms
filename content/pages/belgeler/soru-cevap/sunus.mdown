@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**SUNUŞ**
+# Sunuş
 
 Bu çalışma Yeşiller ve Sol Gelecek Partisi’nin tanıtımını nasıl yapabiliriz, politikalarının biraz daha yakından öğrenilmesi için hangi yöntemleri uygulayabiliriz soruları etrafında Merkez Yürütme Kurulumuzda yapılan bir tartışma sonucu çıkan ortak fikrin ürünüdür.
 Partilerin metinleri, eğer bazı somut olaylarla ilgili ve kısa değilse, onu çok yakından takip edenlerin dışında okunmaz. Parti politikalarının somut olaylara bağlı, kısa ve kestirme ifadelerle ortaya konulması, sembollerle ifade edilmesi yaygın olarak benimsenir. 

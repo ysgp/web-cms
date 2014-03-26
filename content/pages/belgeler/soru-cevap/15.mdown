@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**15) KENT POLİTİKALARI**
+# 15) Kent Politikaları
 
 **Bizde kentleşmeyi neler belirliyor?**
 

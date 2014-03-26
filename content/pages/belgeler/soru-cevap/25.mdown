@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**25) EMEKLİLER, YAŞLILAR VE HAKLARI**
+# 25) Emekliler, Yaşlılar ve Hakları
 
 **Emekliler ve yaşlılar topluma bir yük mü?**
 

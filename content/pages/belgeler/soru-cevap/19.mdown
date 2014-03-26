@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**19) EKONOMİ**
+# 19) Ekonomi
 
 **“Düzenin makbul iktisadi seçeneği” nedir?**
 

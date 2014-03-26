@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**22) GENÇLİK**
+# 22) Gençlik
 
 **Bu düzen gençlere ne vaat ediyor?**
 

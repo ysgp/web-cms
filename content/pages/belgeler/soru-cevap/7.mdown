@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**7) İNANÇ VE VİCDAN ÖZGÜRLÜĞÜ**
+# 7) İnanç ve Vicdan Özgürlüğü
 
 **Herkes istediği inancı seçiyor bu ülkede, engelleyen mi var?**
 

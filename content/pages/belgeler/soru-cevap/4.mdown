@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**4) KÜRT SORUNU VE ÇÖZÜM YOLLARI**
+# 4) Kürt Sorunu ve Çözüm Yolları
 
 **Memlekette yalnız Kürt mü var, neden ötekiler sorun değil?**
  

@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**21) SOSYAL POLİTİKALAR**
+# 21) Sosyal Politikalar
 
 **Yeşiller ve Sol Gelecek sosyal politikalar alanına nasıl bakıyor?**
 

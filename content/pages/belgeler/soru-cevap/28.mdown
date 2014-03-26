@@ -48,7 +48,7 @@ ContentMenu: [
 
 
 
-##**28) SAĞLIK, SORUNLAR VE ÇÖZÜMLER**
+# 28) Sağlık, Sorunlar ve Çözümler
 
 **Nasıl bir sağlık düzeni düşünüyorsunuz?**
 

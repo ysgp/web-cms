@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**11) CİNSİYET EŞİTLİĞİ**
+# 11) Cinsiyet Eşitliği
 
 **Cinsiyetli olma ve o role hazırlanma ne zaman başlıyor?**
 

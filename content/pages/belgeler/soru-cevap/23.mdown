@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**23) ÇOCUKLAR, HAKLARI VE GELECEKLERİ**
+# 23) Çocuklar, Hakları ve Gelecekleri
 
 **Çocuk kimdir ve hakları nedir?**
 

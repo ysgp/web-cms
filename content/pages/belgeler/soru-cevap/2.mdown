@@ -48,7 +48,7 @@ ContentMenu: [
 
 
 
-##**2) YAŞANILABİLİR BİR DÜNYA**
+# 2) Yaşanabilir Bir Dünya
  
 **Dünyayı umursamayan bir siyaset mümkün mü?**
 

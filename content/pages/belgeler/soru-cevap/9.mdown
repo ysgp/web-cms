@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**9) YERİNDEN YÖNETİM VE YEREL ÖZERKLİK**
+# 9) Yerinden Yönetim ve Yerel Özerklik
 
 **Memlekette demokrasi olması için belediye nasıl olmalı?**
 

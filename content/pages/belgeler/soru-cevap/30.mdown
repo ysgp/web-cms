@@ -48,7 +48,7 @@ ContentMenu: [
 
 
 
-##**30) KORSAN POLİTİKALARI**
+# 30) Korsan Politikaları
 
 **Bilişim teknolojileri dünyayı siyaseten nasıl etkiliyor?**
 

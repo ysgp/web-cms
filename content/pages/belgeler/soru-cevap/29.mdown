@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**29) KÜLTÜR, SANAT, İKTİDAR VE TOPLUM**
+# 29) Kültür, Sanat, İktidar ve Toplum
 
 **Kültür ve sanat hayatımızın iktidarlarla ilişkisi nasıl?**
 

@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**14) ENERJİ SORUNU**
+# 14) Enerji Sorunu
 
 **İklim değişikliği ve ekolojik yıkımın arkasında nasıl bir ilişki var?**
 

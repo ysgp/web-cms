@@ -48,7 +48,7 @@ ContentMenu: [
 
 
 
-##**17) DOĞANIN KORUNMASI VE EKOLOJİ**
+# 17) Doğanin Korunması ve Ekoloji
 
 **Doğa hak sahibi bir özne mi?**
 

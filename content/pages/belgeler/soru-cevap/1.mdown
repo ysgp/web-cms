@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-###**1) DEMOKRASİ VE ÖZGÜRLÜK**
+# 1) Demokrasi ve Özgürlük
 
 **Demokrasi dediğiniz nedir?**
 

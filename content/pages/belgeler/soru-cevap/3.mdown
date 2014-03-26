@@ -46,7 +46,7 @@ ContentMenu: [
   {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
   ]
 
-##**3) EŞİTLİK VE ADALET**
+# 3) Eşitlik ve Adalet
 
 **Bizim düzenimizde eşitlik ve adalet var mı?**
 

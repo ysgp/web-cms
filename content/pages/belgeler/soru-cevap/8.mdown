@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**8) ANAYASA, YASALAR VE YARGI**
+# 8) Anayasa, Yasalar ve Yargı
 
 **Türkiye’nin en temel sorunu nedir?**
 

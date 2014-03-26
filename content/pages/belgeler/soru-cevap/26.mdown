@@ -48,7 +48,7 @@ ContentMenu: [
 
 
 
-##**26) HAYVAN HAKLARI VE TOPLUMSAL SORUMLULUK**
+# 26) Hayvan Hakları ve Toplumsal Sorumluluk
 
 **İnsan diğer canlılardan üstün değil mi?**
 

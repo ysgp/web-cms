@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**24) ENGELLİLER, SORUNLARI VE HAKLARI**
+# 24) Engelliler, Sorunları ve Hakları
 
 **Türkiye’de engellilerin durumu nasıl?**
 

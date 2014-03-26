@@ -46,7 +46,7 @@ ContentMenu: [
   {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
   ]
 
-##**31) HANGİ TURİZM?**
+# 31) Hangi Turizm?
 
 **Türkiye’de nasıl bir turizm modeli uygulanıyor?**
  

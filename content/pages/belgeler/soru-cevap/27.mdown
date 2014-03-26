@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**27) EĞİTİM, SORUNLAR VE ÖNERİLER**
+# 27) Eğitim, Sorunlar ve Öneriler
 
 **Bizde eğitimin amacı nedir?**
 

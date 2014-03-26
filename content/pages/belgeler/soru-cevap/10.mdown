@@ -48,7 +48,7 @@ ContentMenu: [
 
 
 
-##**10) ULUSLARARASI POLİTİKA**
+# 10) Uluslararası Politika
 
 **Türkiye’nin dış politika stratejisi emperyal mi?**
 

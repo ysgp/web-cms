@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**16) TARIM, GIDA VE SU POLİTİKALARI**
+# 16) Tarım, Gıda ve su Politikaları
 
 **Dünyada açlık ve yoksulluk artışı ile gıda krizi baş başa mı gidiyor?**
 

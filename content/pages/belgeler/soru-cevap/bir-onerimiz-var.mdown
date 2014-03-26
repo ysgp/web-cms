@@ -48,7 +48,7 @@ ContentMenu: [
 
 
 
-##**BİR ÖNERİMİZ VAR**
+# Bir Önerimiz Var
 
 Yeşiller ve Sol Gelecek Partisi (YSGP) olarak bu kitapla, yaşayan sorular ve cevaplar çerçevesinde partimize dair bir kanaat edinmenize yardımcı olmaya çalıştık. Elbette dünyanın, ülkenin, insanların ve bütün canlı ve cansızlar âleminin geçmiş, gelmiş ve gelecek bütün sorunlarına yanıt vermek gibi bir hadsizliğin içinde değiliz. Sorunlarla yüklü dünyaya ve ülkemize yeterli olmadığının farkında olduğumuz ufkumuzla bakmayı ve hali hazırdaki fikirlerimizi size yansıtmayı denedik. Dünya döndükçe daha çok şeyler öğrenmeye, anlamaya, düşüncelerimizi derinleştirmeye ihtiyacımız olduğunu da biliyoruz. Bu nedenle kendimizi “öğrenen parti” diye tarif ederken, bunu samimiyetle söylüyoruz. Bütün kurullar ve üyelerimizle herkesten ve her şeyden öğrenmeye hazır olduğumuzu ifade ediyoruz. 
 

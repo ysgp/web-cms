@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**18) KIRSAL YAŞAM**
+# 18) Kırsal Yaşam
 
 **Kalkınmacı politikaların kıra etkisi ne oldu?**
 

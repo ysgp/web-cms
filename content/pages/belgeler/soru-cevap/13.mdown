@@ -47,7 +47,7 @@ ContentMenu: [
   ]
 
 
-##**13) İKLİM DEĞİŞİKLİĞİ**
+# 13) İklim Değişikliği
 
 **Dünyanın ısısı artıyor ve iklimi değişiyor mu?**
 
