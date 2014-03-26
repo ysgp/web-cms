@@ -1,0 +1,99 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+
+##**17) DOĞANIN KORUNMASI VE EKOLOJİ**
+
+**Doğa hak sahibi bir özne mi?**
+
+Doğanın hak sahibi bir özne olduğu fikri, son yıllarda insan ve doğa ilişkisinin yeniden tarif edilmesi, ekolojik ve sürdürülebilir bir yeni temele oturtulması mücadelesinde ortaya çıkan önemli bir anlayış. Bu anlayışa göre insan doğanın bir parçasıdır, tıpkı canlı ve cansız diğer parçaları gibi. İnsanın hakları da bu canlı ve cansız varlıkların haklarıyla birlikte yeniden tanımlanmalıdır. Elbette bu hakların arasında çelişkiler de bulunmaktadır ama doğanın dengesi, bütünlüğü, sağlığı ve güvenli geleceği dikkate alınarak bu çelişkiler çözüme kavuşturulabilir. Bu sayede bütün yaşamsal döngüler ve süreçler insan tarafından bozulmadan sürekliliği sağlanabilir. Sonuç olarak doğanın biyolojik kapasitesini yenileme, bütünlüğünü sürdürme ve ilişkide olduğu diğer varlıklarla birlikte olma halini koruma hakkı vardı. Bu halleriyle ve varoluşuyla doğa bir öznedir.
+
+**Doğanın haklarını kim çiğniyor?**
+ 
+Bir kere küresel kapitalizm ve onun politikalarını savunan ve uygulayan kesimler, doğayı hak sahibi bir özne olarak kabul etmiyorlar. Toplumların büyük bir kesimi de bu yaklaşımın etkisi altında, doğayı herkesin istediği gibi değerlendirebileceği sınırsız, sahipsiz, bedelsiz bir imkân olarak görüyor. Halbuki, doğa insan faaliyetleri nedeniyle tahrip oluyor ve kirleniyor. Zehirli ve radyoaktif atıklardan zarar görüyor. Yaşamsal bütünlüğü ve döngüsü zaafa uğruyor, sağlıklı işleyişi ciddi ölçüde sekteye uğruyor. Genetik yapısı büyük ölçüde bozuluyor. Oysa doğanın korunması, yani insan eyleminin tahribatlarına karşı haklarının savunulması gerekiyor. Su, tohum, toprak kaynak değil, doğanın parçasıdır; dünyada yaşayan bütün varlıklara aittir; mülkiyet ve patent konusu olmamalıdır; bireysel ve kamusal kullanım ekolojik dengeleri tahrip etmemelidir.
+
+**Yeşiller ve Sol Gelecek doğayı hak sahibi görüyor mu?**
+
+Evet, biz doğayı hak sahibi, insanı da doğanın bir parçası olarak görüyoruz. Tüm canlıların bu bütünlük içinde bir değeri ve anlamı olduğu fikrindeyiz. Doğaya uyumu temel bir ilke olarak kabul ediyoruz. Ekolojik dengeyi ve gelecek kuşakları gözeten bir ilişkinin sürdürülmesini olmazsa olmaz bir ilke olarak görüyoruz. Bu nedenle de doğayı koruyan, insan merkezli olmayan politikalar öneriyoruz.
+
+**Doğal yaşam alanlarının parçalanması neye yol açıyor?**
+ 
+Ekonomik insan etkinlikleri doğal yaşam alanlarını parçalıyor. Bu mutlaka önlenmeli. Doğanın bütünlüğünün yok edilmesi canlı ve cansız hayatı açısından olumsuz sonuçlar üretiyor ve tahribata yol açıyor. Milli parkları ve doğa koruma alanlarını bu nedenle savunmak gerekiyor. Alanlarının daha da genişletilmesi için mücadele edilmeli. Yıkıcı insan etkinliklerinin bertaraf edilmesi kararlılık ister. Maden arama, HES, nükleer ve termik santraller gibi diğer enerji tesisleri, endüstriyel üretim tesisleri ve alanları ile kitle turizm tesis ve alanlarının bu bölgelerden uzak tutulması için mücadele edilmelidir. “Kamu yararı” gerekçesinin bir bahane olarak kullanılmasına seyirci kalınmamalı.
+
+**Yaban hayatı için koridorlar açılması ne demek?**
+
+Doğal yaşam alanlarının gerek merkezi iktidarın, gerekse yerel yönetimlerin muhtelif uygulamalarıyla parçalanması, bölünmesi oradaki canlı dengesinde değişikliklere yol açıyor, ekolojik bütünlüğü zedeliyor, canlı ve bitki yaşamına zarar veriyor. Canlı türlerinin geleceği riske giriyor. Besin zinciri tepetaklak oluyor. Kimi canlı türleri yeni oluşan bölünmüş biyolojik alanlara hapsoluyor ve beslendikleri gıdalara ulaşamaz hale geliyorlar. Bu durum türlerinin sonunu getiriyor. Bazı durumlarda ise, bu biyolojik bölünme sonucu, aslında yaşam alanları o bölge olmayan canlılar o bölgeye muhtelif yollardan gelmek zorunda kalıyor ve oradaki kimi canlıların besinlerini ya da bizzat kendilerini yok ederek yine dengeleri bozuyorlar. Bunun önüne geçilmesi için, bölünmüş biyolojik alanlarda yaban hayatının sürdürülebilirliğini sağlamak üzere canlı geçişlerine imkân tanıyan koridorlar yaratılması çok önemli. Ayrıca yaban hayvanlarının ve nesli tükenmekte olan bitki türlerinin ticaretinin önlenmesi de gerekiyor. 
+
+**Doğa sadece yeşil ve orman mı?**
+
+Böyle olduğu sanılır ama değil. Sulak alanlar, bozkır, yarı çöl, deniz, nehir, mera, vadi, dağ, tarım arazisi ve bataklıklar da farklı eko sistemlere ve yaşam örgülerine sahiptir ve aynı derecede önemli. Bunların eko sistemlerindeki ekolojik ilişkiler ve türlerinin zarar görmemesi hedeflenmeli. Canlılar ve kültürlerinin doğal alanları korunmalı. İnsan tahribatı söz konusu olduğunda rehabilitasyon yoluna gidilmeli ve alanları genişletilmeli. Devletin bu amaçla kaynak ayırması için mücadele edilmeli.
+
+**Doğa korumada emanetçilik ve ihtiyatlılık ilkeleri nedir?**
+ 
+Endüstriyel üretim anlayışı doğayı bir hammadde deposu olarak görüyor ve ekonomik nedenlerle doğal varlıkların tüketilmesine neden oluyor. Ama ortaya çıkan sonuçlar da gösteriyor ki, böyle bir üretim anlayışı yaşamın sürdürülebilmesini imkânsız hale getiriyor. Sürdürülebilir kalkınma diye tarif ettikleri aslında, doğayı bedelsiz ve sınırsız bir kaynak olarak görüyor, özü itibariyle doğanın varlığına karşı, bu nedenle de kabul edilemez. Yapılan üretimle doğanın kendini yenileyebilmesi arasında eşzamanlı bir uyumun olması gerekir. Kalkınma amaçlı üretim tarzları motivasyonunu kârdan, hep daha fazla kârdan aldığı için doğanın kendini yenilemesine imkân tanımaz. Sonuçta bu döngü yine insana zarar verir, doğayı telafisi imkânsız tahribat ve yıkımla karşı karşıya bırakır. Yalnız bizler değil, ülkemiz değil, bütün dünya ve gelecek nesiller de bu tehditle karşı karşıyayız. Bu bakımdan bizler, aynı zamanda gelecek nesiller için emanetçiyiz. Bu durumun bize ilave sorumluluklar yüklediğini görmeliyiz. Her türlü girişimin yaratacağı muhtemel zararları önlemek ve en aza indirmek ilkemiz olmalı. İnsanların ve doğanın olası zararlardan korunması için devletin ihtiyatlılık davranışını da bir ilke olarak gözetmesi gerektiğini ve bunun anayasal zorunluluk haline getirilmesini savunuyoruz. 
+
+**Doğaya sınır koymak mümkün mü?**
+
+Ne sınır konulabilir, ne de sınırla korunabilir. Doğa ve ekosistemleri bir bütündür. Bu gerçekten hareketle, hem yerel, hem de komşularla işbirliği çok önemli. Bölgesel ve küresel işbirliklerinin yapılması ve sürdürülebilir olması da artık kaçınılmaz. İklim değişikliği ve doğal felaketler sınır tanımıyor. Doğa koruma ve ekolojik mücadelede geniş bir işbirliği alanı mevcut ve partimiz bunu savunuyor. Bu işbirliği hem resmi, hem de sivil platformlarda gerçekleşebilir. Yerel, bölgesel ve küresel kampanyalar yapılabilir. Anlaşma ve sözleşmeler imzalanabilir. Ortak kurumlar oluşturulabilir. Partimiz var olanlarda yer almak, ihtiyaç duyulanları da gerçekleştirmek için mücadele sürdürmekte. Ayrıca partimiz kırsal ve yerel yaşam bilgisinin, somut ve soyut uygulama biçimlerinin yeni nesillere aktarılması, arşivlenmesi ve yaşam içinde korunmasının önemine işaret etmekte ve bunun kurumlaşması için de çaba göstermekte.
+
+**Doğa ve çevre nasıl kirleniyor?**
+ 
+Çevre kirliliği kontrol edilemiyor. Bu durum doğa, canlı yaşamı, ekosistemler, insan yaşamı ve halk sağlığı üzerinde ciddi olumsuzluklara yol açıyor. Kimyasal ve radyoaktif artıklar denetimsiz bir şekilde doğaya bırakılıyor, havaya salınıyor. Atmosfer, deniz, göller, akarsular, sulak alanlar, toprak, yeraltı suları, ormanlar ve diğer eko sistemler endüstriyel üretimin tercihi ve bu sorumsuzluğu nedeniyle ileri derecede kirleniyor ve tahrip oluyor. Yaygın petrol ve kömür kullanımı, baca gazları başta kentler olmak üzere önemli sağlık sorunlarına yol açıyor. Kalp ve akciğer hastalıkları ve sık görülen erken ölümlere bu kirlenme neden oluyor. Endüstriyel kirlilik içme sularını kirletiyor, susuzluğa ve doğrudan hastalıklara davetiye çıkarıyor. Denize, göllere ve akarsulara bırakılan atıklar canlı yaşamı ve balıkçılığı öldürüyor ve çevre halkını çaresizliğe mahkûm ediyor. Orman alanları, tarım toprakları ve sulak alanlar endüstriyel üretime açılarak taammüden çevre cinayeti işleniyor ve büyük ekonomik kayıplara sebep olunuyor.
+
+**Hava ve deniz kirliliği sıfır atık ilkesiyle önlenir mi?**
+ 
+Kolay değil ama mümkündür. Tehlikeli atık çıkaran üretimden vazgeçilmesi yönünde adım atılabilir. Üretilen atıkların serbestçe doğaya bırakılmasının önüne geçilip, sağlığa zarar vermeyecek şekillerde etkisiz hale getirilmesine imkân veren yöntemler uygulanabilir.
+
+**Kimyasal ve radyoaktif atıklar için ne yapmalı?**
+ 
+Bu atıklar çok tehlikeli ve etkileme ömürleri çok uzun. Bu nedenle de bunları üreten ve tüketen kurumların çok sıkı denetim altına alınması gerekiyor. Yasal düzenlemelerle bu atıkları üreten endüstriyel tesislere, atıklarını en güvenilir yoldan bertaraf etme zorunluluğu getirilmeli. Bunların denetimi de ulusal düzeyde örgütlenmiş bağımsız bir kurumca yapılmalı. Denetim tek değil, çok yönlü, çapraz olmalı. Sivil toplum ve devlet kurumları da bunun gözlemcisi olarak süreci izlemeli. Meslek odaları, üniversiteler, sendikalar ve ilgili diğer sivil kurumlar bu çalışmalarda ve kurullarda temsilcileriyle yer almalı. Halk yaşamını ve doğayı riske atan bu tür atık üreten tesisler, çevre halkının onayı olmadan kurulamamalı. Sadece yetkililer değil, halk da sürekli denetim yapabilmeli, zira denetimde toplumun katılımı son derece önemlidir.
+
+**Çevre Etki Değerlendirmesi (ÇED) Raporu ne işe yarıyor?**
+ 
+Endüstriyel bir tesisin kurulacağı bölgede yaratması muhtemel bütün doğa ve çevre sorunlarını ele alıp inceleyen ve verilecek izne kaynaklık eden bir rapordur. Gerçekleşmesi ihtimal dahilinde olan sorunları daha baştan önleyebilmek bakımından çok önemli bir rapor. Son dönemde AKP ve yönettiği ilgili kurumlar, yeni yatırımlarda raporun yaratacağı sonuçları önceden bildiklerinden, ÇED raporu gerekliliğini devre dışı bırakmak için olmadık yollara başvuruyorlar. Bunun önüne geçilmesi için bu rapor bağımsız bilimsel kuruluşlarca verilmeli. Uzmanlar heyetinde yer alacak kişilerin belirlenmesinde yöre halkının da söz hakkı olmalı. Ayrıca bu heyete ilgili meslek kuruluşları ve sivil toplum örgütleri de temsilci verebilmeli. Bunun bile yeterli olmadığı bazı projelerde ortaya çıktı. Böylesi durumlarda geniş kapsamlı Stratejik Çevre Değerlendirmesi Raporları da hazırlanmalı. Bütün bunlar Türkiye’nin Aarhus Konvansiyonu’nu hemen imzalamasının, bilgi ve karar hakkı ile toplum katılımı ilkesini hayata geçirmek için adım atma zamanın çoktan geldiğini gösteriyor. 

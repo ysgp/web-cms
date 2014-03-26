@@ -1,0 +1,81 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**5) TARİHLE YÜZLEŞME**
+
+**Ne demek tarihle yüzleşme, tarihimizden şüpheniz mi var?**
+
+Öyle. Osmanlı ve Cumhuriyet döneminde yaşananlar hakkında hem fazla bir şey bilmiyoruz, hem de bildiklerimiz galiba yaşananlardan epey farklı. Tarihimizle yüzleşelim derken, daha iyi bir gelecek inşa etmek için, bizi yanlış yönlendiren tarihsel hataları ortaya çıkaralım istiyoruz. Çünkü, yıllardan beri yaşadığımız bütün önemli sorunların kaynağında o dönemlerde yaşananlar yatıyor! Geçmişteki yanlışlar ve haksızlıklarla yüzleşmek, gelecekte bunlardan uzak durmayı sağlayacak yasal düzenlemeleri yapmamıza ve bununla uyumlu bir toplumsallığı oluşturmamıza yardım edecek.
+
+**Yıllar öncesinde yaşananlar nasıl bugünü belirler?**
+
+Belirliyor. Cumhuriyetin kuruluşuyla bir dönüşüm yaşadık. Dikkatlice planlanmış nüfus mühendisliği, kaba ve şiddetle sürdürülen etnik temizlik, aleni katliam, soykırım metotları tek tip toplum yaratmak uğruna yönetim güçleri tarafından yukarıdan aşağı yıllarca uygulandı. Buna uygun bir resmi ideoloji topluma dayatıldı. Eğitim, dil, inanç, kültür ve yaşam tarzı buna göre sil baştan düzenlendi. Toplumsal hafıza neredeyse yeniden formatlandı. Bu nedenle nice nesiller bu toprakların tarihinden ve gerçeklerinden koptu. 
+
+**Peki, biz nelerle yüzleşmeliyiz?**
+ 
+1915 Ermeni Soykırımı, 1938 Dersim Katliamı, Cumhuriyet dönemi boyunca Müslüman olmayanlara uygulanan sürgün, pogrom, mülklerine el koyma ve haksız vergiler (1934 Trakya Yahudi Pogromu, 1941 Yirmi Kura Askerliği, 1942 Varlık Vergisi, 6-7 Eylül 1955 Pogromu ve 1964 Rum Sürgünü), Süryani Soykırımı, Alevilerin uğradığı haksızlıklar ve katliamlar, Kürtlere yıllarca uygulanan katliam, sürgün ve zorunlu göçler. Bunlar ve daha niceleri bizim yüzleşmemiz gereken olaylar.
+
+**Tamam yüzleşelim de, bu iş kimlerle ve nasıl olacak?**
+
+Devlet acıları yaşayanlar, onların kurumları ve temsilcileri ile karşı karşıya gelip özür dileyecek ve böylece yüzleşme gerçekleşmiş olacak. Hayır! Böyle olmayacak. Çünkü, yüzleşme sadece devlet ve onun mağdur ettikleri arasında gerçekleşen, bir defaya mahsus basit bir özür dilemeden daha karmaşık bir süreç. Uzun, zor ve incelik gerektiren bu sürece bütün toplum katılmalı. Yüzleşme gerektiren olayların bazılarına toplum kısmi ya da bütünsel olarak katılmış, katılmaya zorlanmış ya da sessiz biçimde izlemiş/izlemeye zorlanmış olabilir. Her durumda toplumun tamamı yüzleşme süreçlerinin bir unsurudur. Dolayısıyla yüzleşme sürecinin bütün unsurları her şeyi, her tür sorumluluğu açıkça konuşur hale gelmelidir. Tabii bu konuşma bir diyalog biçiminde yürümeli, var olan gerginliklere yenilerini eklemekten kaçınarak, anlayışla ve ötekine öncelik tanıyarak ilerlemelidir. Bir diyalogda söylenen sözün yarısı söyleyene, diğer yarısı da dinleyene aittir. Bu ilkeyi unutmadan hareket ettiğimizde, zorlu yüzleşme süreçleri geleceğin olumlu toplumuna katkıda bulunacaktır. 
+
+**Her  24 Nisan’da Ermeniler hatırlanıyor, işin aslı nedir?**
+
+24 Nisan 1915 ve hatta çok daha öncesinden başlayarak  saldırı, öldürme, toprak gaspı ve yağmalama olayları birçok kez yaşanmıştı. Türklerin dışında, kimi Türkmen gruplar ve muhacirler ile bazı Kürt ağalarının da bu saldırılarda yer aldığı biliniyor. Ama asıl üzerinde durmak istenilen, Ermenilere karşı, Osmanlı İttihat Terakki yönetiminin Ermeni vatandaşlara sürgünle başlayıp kitlesel kıyımlarla devam eden ve nihayetinde büyük bir Ermeni nüfusunun, soykırıma uğratılarak, yüz binlerce kadın erkek, genç yaşlı, zengin yoksul, eğitimli eğitimsiz Ermenilerin binlerce yıllık vatanları Anadolu topraklarından silinmesi olayıdır. Sınırlı bir bölümü canlarını kurtarmıştır. Sonunda kadim yurtları Anadolu’da bu insanların kendilerinden ve medeniyetlerinden eser kalmamıştır.
+
+**Soykırımın üzerinden 100 yıl geçmiş, yapacak bir şey var mı?**
+
+Yapacak çok şey var, yeter ki niyet olsun. Biz durumun ne kadar vahim ne olduğunu söyledik. Yüzleşmemek sorun yaratıyor. Tedavi için de önerilerimiz var. Ermeni halkına yönelik soykırımı devlet ve toplum olarak kabul etmeliyiz. Yurt dışına sürülmüş ya da bu topraklarda yaşayan mağdur edilmiş Ermenilerin bütün mağduriyetlerinin giderilmesi için birçok şey yapmalıyız. Onlara yurttaşlık da dahil olmak üzere bütün haklarını iade etmeliyiz. Ermenistan’la artık sınırları açmalı ve dostane ilişkiler geliştirmeliyiz. 
+
+**Diğer mağdurların durumu ne olacak?**
+
+Benzeri bir yaklaşım onlar için de ortaya konulmalı. Cumhuriyet bu bakımdan kendi yurttaşlarıyla barışmayı bilmeli. Kürtler, Aleviler, Rumlar, Yahudiler, Süryaniler, Çerkesler, Zazalar, Türkmenler, Ezidiler, Tatarlar, Araplar, Pomaklar, Romanlar eşit yurttaş konumuna getirilmelidir. Bunun yolu hem yüzleşme, hem de güçlü bir demokratikleşmedir. Eşit vatandaşlık yasal düzeyde sağlanmadan ve her alanda uygulama imkânı bulmadan bu toplulukların rahat yüzü görmesi mümkün olmayacak. Sorunları halının altına süpürmekten vazgeçelim.
+
+
+

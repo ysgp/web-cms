@@ -1,0 +1,109 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**20) EMEK, HAKLARI VE ÖRGÜTLENMESİ**
+
+**Ekonominin insani, toplumsal ve ekolojik hedeflerle uyumu şart mı?**
+
+Uyumun olmaması zaten sorunların esas kaynağı. İşçiler, kamu çalışanları, emekçileri ve ücretli çalışanları örgütlenme, sendikalaşma, dayanışma, grev ve toplu sözleşme haklarını özgürce kullanabilmeliler. Bunlar evrensel haklar. Toplumsal yapı ve üretim süreci böyle bir yapılanma üzerinde yükselmeli. İktisadi alanda demokrasi ve kararlara katılım ancak böyle mekanizmalarla hayat bulur. Ekonominin böylesi insani ve toplumsal hedeflere yöneldiği şartlarda uyumun sağlanması ve hedeflere ulaşmak mümkün olabilir. Bugün işçi ve kamu emekçileri sendikalarını, meslek odalarını daha güçlü kılmaya, kapsayıcı ve demokratik bir işleyişe kavuşturmaya ihtiyaç var. 
+
+**Herkese sendika ve grev hakkı mümkün mü ve gerekli mi?**
+
+Örgütlenme, toplumsal ve ekonomik hak ve çıkarları kazanma, koruma ve geliştirme hakkına herkes sahip olmalı. Yani tam anlamıyla sendikalaşma, toplu sözleşme, grev hakkı ve toplu eylem gibi temel haklar geleneksel işçi, emekçi ve ücretli çalışanların dışında, kamu görevlileri, emekliler, ev içi emekçileri, çiftçiler ve öğrenciler gibi kesimleri de kapsamalı. Bu konuda çalışanlar arasında ayrım yapılamaz. Sendikalaşma, toplu pazarlık ve grevi de içeren toplu eylem hakkı birlikte kullanılan haklardır ve sınırlandırılmaları kabul edilemez. Bu bakımdan barışçı eylem hakkı, iş yavaşlatma, işi durdurma, dayanışma grevi, hak grevi ve genel grev hakkı da bu kapsamda kabul edilmelidir. Toplu pazarlık çoğulcu bir şekilde gerçekleşmeli, içeriği sınırlandırılmamalı ve işverenlere tanınan lokavt bir hak olmaktan çıkarılmalıdır. 
+
+**Sendikal haklar hangi yasal temellere dayanıyor?**
+
+Uluslararası Çalışma Örgütü’nün (ILO) 87 ve 89 sayılı sözleşmeleri ve ilgili kararları, Avrupa İnsan Hakları Sözleşmesi (AİHS) hükümleri, Avrupa İnsan Hakları Mahkemesi (AİHM) kararları, Avrupa Konseyi’nin Avrupa Sosyal Şartı ile Gözden Geçirilmiş Sosyal Şartı, Sosyal Haklar Avrupa Komitesi kararları ve AB Temel Haklar Şartı sendikal hakların kullanımıyla ilgili uluslararası hukuki zemini oluşturmaktadır. Türkiye bunları imzalamıştır. Anayasa’nın 90. maddesi bunları iç hukuk hükmü kabul ettiğinden uygulanmak zorundadır. Bunlara aykırı yasa ve idari düzenlemeler ve mahkeme kararları aslında geçersizdir.
+
+**Emeğin güçlenmesi için ortak çalışanlar yasası gerekmez mi?**
+ 
+Temel sorun bu. Ayrı yasalara tabi durumdalar. Bu haklarını aramalarını ve güçlerini birleştirmelerini imkânsız kılıyor. Toplumun hak temelli örgütlenmesini ve güçlü örgütler kurmasını önlüyor. Emeklerinin karşılığını ve işveren karşısında daha güçlü pazarlık imkânlarını ortadan kaldırıyor. Sonuç itibariyle emeğin güçlerinin bölünmesine ve zayıflamasına neden oluyor. Bu bakımdan işçiler ve kamu görevlileriyle ilgili sendikal mevzuat yeniden ele alınmalı ve uluslararası çalışma hukukunun normlarına göre düzenlenmelidir. Tüm çalışanlar için geçerli, güvenceli istihdam sağlayan, ortak ve demokratik bir çalışanlar yasası çıkarılmalıdır. Anayasa ve diğer yasalar buna göre değişmelidir.
+
+**Sendikalaşma ve iş güvencesi ilişkisi nedir?**
+
+İş güvencesi aslında birçok hakkı korumanın anahtarı gibidir. Çalışma ve sendikalaşma hakkı da buna bağlıdır. Sendikal nedenlerle işten çıkarılma çok yaygın bir şekilde uygulanıyor. Önüne geçmek için hızlı ve etkin bir yargılama ve işe iade sistemi kurulması gerekiyor. Sendika karşıtlığı ve sendikasızlaştırma bir hakkın kullanılmasını engellemek, ihlal etmek, yani aleni ayrımcılıktır. Bu konuda caydırıcı yasal önlemler alınmalı. Halbuki şu anda Türkiye’de 2,5 milyon işçi taşeron sistemiyle güvenceden yoksun ve düşük ücretle çalışmaya mahkûm edilmiş durumda. Esnek ve kuralsız çalıştırma yoluyla iş güvencesi ortadan kaldırıldı. Sendikalaşma hakkı için referandum temel bir hak olarak kabul edilmeli. Sendikalaşma yönündeki bütün faaliyetler tam bir serbesti içinde yapılabilmeli. 
+
+**Sendikaların iç demokrasileri hakkında fikriniz nedir?**
+
+Sendikalar işçilerin ve çalışanların son derece önemli örgütlenmeleridir. Demokrasinin varlığını aramada kriter olarak görülecek alanların en önemlilerinden biridir. Bununla beraber, Türkiye’de sendikaların kendi yapılanmalarında gelişkin bir iç demokrasiye sahip oldukları söylenemez.  Bu bakımdan sendikal dünyanın çok köklü yapısal reformlara ihtiyacı olduğu açıktır. Bu bakımdan sendika işleyişinde iç demokrasiyi güvenceye alacak mekanizmaların oluşturulması da zorunludur. Sendikalarda bu konuda çok ciddi sorunların yaşandığı, iç süreçlerinin sorgulandığı, işlemlerin ve ilişkilerin saydam olmadığı, yönetimlerin değişiminde demokratik mekanizmaların yeterince işlemediği kanaati kamuoyunda yaygındır. Hem işçi, hem de kamu emekçileri sendikalarının bünyelerindeki farklı anlayışların yönetim mekanizmalarında temsili yönünde değişimlere gitmeleri ve yönetimlerini destek tabanı daha geniş bir meşruiyete oturtmaları başarılı mücadele vermeleri bakımından son derece önemli. 
+
+**İş güvensizliği ve ölümler hakkında ne diyorsunuz?**
+
+Üretim sürecinde iş güvensizliği, işçi ve emekçi ölümlerinde Türkiye, ilk sıradaki ülkeler arasında yer alıyor. AKP’nin 12 yıllık iktidarında 10 bin 723 işçi yaşamını kaybetti. Tersaneler, kömür ocakları, inşaat ve ulaşım ölüm ve yaralanmanın en çok olduğu sektörler. Yasaların yetersizliği de, var olan yasaların yeterince uygulanmadığı ve denetimlerin ciddi şekilde yapılmadığı hemen her olayda bir kez daha görülüyor. Cezai yaptırımlar ise son derece yetersiz. Ölenler öldükleriyle kalıyor, geride bıraktıkları yakınları da yoksulluğa ve çaresizliğe mahkûm ediliyor. Ölümlü kazaların insanca olmayan ve süresi çok uzun olan çalışma koşulları ve saatleriyle de ilgisi bulunmakta. Çalışma saatlerinin ücrette düşüşe gidilmeden azaltılması gerekiyor. İşsizlere yeni istihdam olanakları da yaratacak bu adım, çalışanlar için şartları biraz daha insani hale getirecektir.
+
+**Emek alanına kadınların katılımı nasıl?**
+
+Halen dört kadından ancak biri çalışma hayatına katılabiliyor. Bunların da yaklaşık % 14-15’i işsiz kalma riskiyle karşı karşıya bulunuyor. Çalışma hayatında cinsiyetçi yaklaşım bütün boyutlarıyla etkisini sürdürüyor ve iş bölümünde kendini açıkça gösteriyor. Sosyal güvence ve iş güvencesinden yoksunluk kadınların karşılaştığı başlıca sorunlardan. Kadın ve işçi olmak iş yaşamında kadınlara ilave sorunlar getiriyor. Kadının çalışmaması, çocuk bakımı ve ev işleriyle uğraşması düşüncesi Türkiye’de hâlâ çok yaygın. Kadına böyle bir rol biçiliyor. Sosyal ve ekonomik krizlerin kadınların yükünü ağırlaştırdığı da biliniyor. Neo liberal politikalar sürdükçe erkekleri de kadınları da daha fazla işsizlik, güvencesizlik ve daha fazla sömürü bekliyor. 
+
+**Çalışma hayatında cinsiyet ayrımcılığıyla mücadele nasıl olacak?**
+
+Kapitalizmin toplumsal hayatta yarattığı tahribat en çok kadınları, yaşlıları, çocukları ve engellileri etkiliyor. Bu bakımdan özellikle emek alanında ve üretim sürecinde toplumsal cinsiyete duyarlı mücadele yöntemlerinin benimsenmesi gerekiyor. Mevcut koşulların ürettiği toplumsal cinsiyet ayrımcılığına karşı mücadelede çalışma koşullarının kadınlar ve LGBTİ bireyler için daha uygun ve kapsayıcı olması için çaba gösterilmeli. Gerekli düzenlemeler için yasal ve kurumsal adımların atılması sağlanmalı.
+
+**Sendika yönetimlerinde kadınların durumu nedir?**
+
+Aslında iş yaşamındaki tablo sendikalara da yansıyor. İşçi sendikalarında yönetim kademelerine kadar tırmanabilen kadınların sayısı, son yıllarda az da olsa artmakla beraber halen son derece sınırlıdır. Bu alana erkek dünyası olarak bakılabilir. Buna karşılık kadınlar, bütün engelleyici faktörlere rağmen, sendikal örgütlenme ve diğer hak mücadelelerinin her aşamasında yer alıyorlar. Kamu emekçilerinin sendikal mücadelesinde ise kadınların durumu başlangıcından itibaren daha farklı ve ileri durumda. Buna rağmen yönetim kademelerine aynı ölçüde yansıdığı söylenemez. Tüm kurullarda eşit temsilin sağlanması önemli ve ertelenemez bir talep. Bu bağlamda program ve tüzüklerin cinsiyetçi ve ayrımcı hükümlerden ve uygulamalardan arındırılması ve eşitliği sağlayacak demokratik ve eşitlikçi adımların atılması gerekiyor.
+
+**Kadınlar için eşit işe eşit ücret mümkün mü?**
+ 
+Bu önemli bir hedefimiz. İstihdam olanaklarına eşit bir şekilde erişmeleri sağlanabilir. Cinsiyet ayrımcılığı önlenerek eşit işe eşit ücreti almaları sağlanabilir. Hiçbir kayda girmeyen ama ömür boyu bedelsiz olarak gerçekleştirdikleri bakım hizmetleri nedeniyle gereken saygıyı görmek haklarıdır. Bunun için emekçi, işçi ve ücretli çalışan sınıfların talep ve beklentileri ekonomik ve sosyal politikaların çerçevesini belirlemeli. Cinsiyet eşitliğinin sağlanması bunların çok temel bir kriteri olmalı. 
+
+**Çalışma hayatında ayrımcılık ne boyutta?**
+
+Ayrımcılık çalışma hayatımızın önemli sorunlarından biri. Kadınlar, engelliler, yaşlılar ve yabancı uyruklular bundan etkileniyor. Maaşlar ve yükselme fırsatı bakımından bu ayrımcılık daha açık görülüyor. Bu durum, ekonomik gelişmeye katkı sunabilecek fikirleri de sınırladığı gibi büyük çapta ekonomik değer kaybına da neden oluyor. Ayrımcılığın önüne geçilmesi için yasal düzenlemeler yapılması ve yönetmeliklerle bütün işyerlerinde uygulamaya girmesi gerekiyor. 
+
+**Çalışma yaşamında kadını koruyacak tedbirler neler olabilir?**
+
+Kadına duyarlı sosyal politikaların yasal ve kurumsal olarak devreye sokulması gerekiyor. İşgücüne katılmalarının  önündeki  engellerin  temizlenmesi zorunlu. Bu açıdan çocuk, yaşlı, hasta ve engelli bakımının toplumsallaştırılması yönünde kapsamlı çalışmalar yapılması kamusal bir görev. Kadın işsizliği ve kayıt dışı istihdamı konusunda özel tedbirler alınarak mücadele edilmeli, güvenceli istihdam ve insanca koşullar sağlanmalı. Sosyal güvenliğin çalışan birey odaklı olmaktan çıkarılıp tüm vatandaşları kucaklayan ve kapsayan bir sisteme dönüştürülmesi gerekiyor. Kadına yönelik her türlü ayrımcılık, şiddet, taciz ve mobbinge son verilmesi için yasal adımlar dahil etkin tedbirler uygulanmalı. Kadın ve erkek arasındaki ücret farkı kaldırılmalı ve insanca bir yaşam için gerekli olan seviyeye çıkarılmalı. Kadınların sendikalaşmasının önündeki engeller kalkmalı. Mesleki sağlıklarının korunması için eğitim, teknik destek ve işyeri düzenlemelerinin yapılması sağlanmalı. Eşitlikçi, özgürlükçü ve ekolojist bir siyasal mücadele hattı, toplumsal hedefleri bakımında bunlara öncelik vermek zorundadır. Yeşiller ve Sol Gelecek’in mücadelesi de bu yöndedir.
+
+**Kadınların yükü ağır, toplumsal cinsiyet duyarlılığı nasıl sağlanabilir?**
+
+Cinsellik, sağlık, hamilelik, doğum, çocuk bakımı, ev işi ve iş hayatını dengelemek kadınlar için hem bir ihtiyaç, hem de zorluklar üreten bir durum. Kadınlarla özdeşleştirilen birçok iş erkeklerle paylaşılabilir. Bunun için yasal önlemler ve yönetmeliklerle kadınlar açısında koşullar daha insani ve çalışma yaşamını da etkilemeyen duruma getirilebilir. Toplumsal cinsiyet duyarlı düzenlemeler getirilebilir. Çocuklar için kaliteli bakım hizmetleri, işyerlerinde çocuk bakım yerleri ve olanakları yaratılabilir. Doğum sonrası ebeveyn izni 18 aya kadar uzatılabilir. 
+
+
+

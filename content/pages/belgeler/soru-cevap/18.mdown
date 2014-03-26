@@ -1,0 +1,74 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**18) KIRSAL YAŞAM**
+
+**Kalkınmacı politikaların kıra etkisi ne oldu?**
+
+1950’lerden beri uygulanan sağın geleneksel kalkınmacı politikaları en köklü tahribatı kırsal alanlarda gösterdi. Büyüme, kalkınma, gerçekliğimizle uyumu olmayan nüfus hedefleri, yoğun fosil yakıt kullanımı ve bunların sıkı bir merkezileşmeyle beraber sürdürülmesi kırsal yaşamın ağır darbe almasına yol açtı. Şehir ve kır ilişkisi doğal mecrasından çıktı. Hem şehrin, hem de köyün toplumsal yaşamı, ekonomisi, kültürü olan bitenden derin zarar gördü. Benzerlerini dünyada da gördüğümüz ekolojik çöküş, doğal kaynakların sınırsız sömürülmesi ve kurutulması, toplumsal yapı ve dinamiklerin yok edilmesi, mülkiyet ilişkilerinin ekonomik anlamını kaybederek sürdürülemez hale gelmesi Türkiye kırında da yaşandı.
+
+**Köy yaşamının aşağılanması nasıl başladı?**
+
+Kültürel ve toplumsal aşağılama, hor görme, kırsal yaşamdaki çöküşle birlikte başladı. Kırsal alan büyük işletmeciler tarafından sürdürülebilirlikten uzak, enerji yoğun, merkezileştirici ve verimsiz yöntemlerle şehirler için doğal kaynak deposu muamelesi görmeye başlaması bu bakış açısını ve yıkımı getirdi. AKP merkezileşmeyi iyice artırdı. Köyleri kente tabi kıldı. Bunlar geleneksel kır yaşamına ve üretime ağır darbeler oldu. Kırsal yerleşimler hammadde üretim bölgeleri olarak görmemek, insani ve ekolojik birimler olan köyleri ve topluluklarını kendi sosyoekonomik ve kültürel dinamikleriyle değerlendirmek gerekir. Köyleri ortadan kaldırmak siyasi, ekonomik ve sosyolojik bir dar görüşlülüktür. Tersine köylerin korunması ve geliştirilmesi gerekir.
+
+**Kırsal yaşam yarınsız hale mi getiriliyor?**
+
+Köyler büyük ölçüde terk edilmiş durumda. Mevcut mülkiyet ve tapu sistemine göre topraklar yetmiyor. Gençler iş ve güvenli bir gelecek için büyük kentlere göç ediyor. Kalanlar genellikle yaşlılar. Aslında ihtiyaç gidişatın tersine çevrilmesi yönünde. Şehir ve kır arasındaki dengesiz, eşitsiz ve adaletsiz ilişkinin sağlıklı ve sürdürülebilir hale getirilmesi gerekli. Kırsalın kendine yeterli, ekolojik, ekonomik ve toplumsal dengesi sağlanmış, sürdürülebilir ve sağlıklı bir işleyişe kavuşması hedeflenmeli.
+
+**Tarımsal alanda yaşanan yoksullaşma ne olacak?**
+
+İktidarların ve şimdi AKP’nin refah ve gelişme umudu diye sunduğu küresel kapitalizm tarımsal alanda, kırda inanılmaz bir yoksullaşma yarattı. Kırsal nüfusta dengeler altüst oldu. Tarımla geçinenlerin sorunları arttı. Geçim kaynakları daraldı. Yükselen yoksullaşma kadın ve erkekleri farklı etkiledi. Yani toplumsal cinsiyet itibariyle farklılıklar doğuyor. Bunları dikkate alan tedbirlerin gecikmeden devreye sokulması gerekiyor.
+
+**Kırsal alana destek verilemez mi?**
+
+Toprağın işlenmesini kolaylaştıracak kolektif bilgi ve dağıtım ağları kurup üretimin iyileşmesi sağlanabilir. Ekonomik refahı artırmak, kültür ve yaşam biçimini koruyarak güçlendirmek de mümkün. Enerji-yoğun, merkezi ve ekolojik tahribata yol açan üretimler tedricen terk edilebilir. Doğaya uyumlu, ekolojik olarak sürdürülebilir ve onarıcı yöntemler uygulanabilir ve bölge şartlarına uygun destekler verilebilir. 
+
+**Kır ve kent ilişkisinde yeni model önerileriniz var mı?**
+
+Dünyada da işleyen ve sürdürülebilir örnekler var. Üreticiler için katma değeri yüksek, tüketiciler için sağlıklı ve kaliteli ürünlerin ortaya çıkması hedeflenebilir. Adil paylaşımlı ve kır-şehir ilişkisini güçlendiren ve besleyen, doğrudan üretim, tüketim ve dayanışma modelleri oluşturulabilir. Kırsalın horlanıp kenarlara itildiği, terk edildiği süreç sonlandırılabilir. Yeniden benimsenen ve geleceğine güven duyulan yaşam ve üretim alanları olarak hak ettiği değere kavuşan kır ile mevcut kentin dengeli, adil, dayanışma içerikli ilişkisi tesis edilebilir. 

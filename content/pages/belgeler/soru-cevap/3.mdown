@@ -1,0 +1,105 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+##**3) EŞİTLİK VE ADALET**
+
+**Bizim düzenimizde eşitlik ve adalet var mı?**
+
+Hemen her yerde aradık ama biz de bulamadık. Yıllar boyu bu ülkede yurttaşlara ne eşit davranıldı, ne de adalet sağlandı. Bu nedenle hepimiz çoğu zaman ikisini aynı anlamda kullanırız. Türkiye bu kavramlara ekonomik, siyasi ve kültürel bakımdan çok uzak bir ülke. Adalet kavramını isim olarak alıp da, uzun iktidarları döneminde bunun zerresini bile uygulamalarında göstermeyen nice partiler gördük. Adalet kavramı çok değerli ama dünya ülkeleriyle aramızda uçurumlar yaratan sağ, milliyetçi, muhafazakâr iktidarlar bu kavramın içini boşalttılar.
+
+**Peki, sizin adaletiniz nasıl bir şey olacak?**
+
+Adalet evrensel bir değerler sistemidir. Binlerce yılık mücadeleler içinde oluşmuştur. Gelişen ve değişen dinamik toplumsal süreçler bu değerlere yenilerini katar. Biz parti olarak eşitlikçi, adaletli, özgür, demokratik bir Türkiye kurmak için yola çıktık. Bu işin hiç de kolay olmadığını baştan biliyoruz. Ama hareket noktamız, geleneksel olandan epey farklı ve özgün bir adalet anlayışıyla davranmak olacak. Bu ülke liberallerin, devletçilerin, milliyetçilerin, muhafazakârların, cemaatçilerin iktidarlarında yaşadı ve çözüm diye, adalet diye yaptıklarını yeterince gördü. Biz, toplumsal adalet dediğimiz, her alana nüfuz eden bir adalet ve eşitlik anlayışının hâkim olması için çaba gösteren özgürlükçü, eşitlikçi, ekolojist ve demokrat bir siyasi partiyiz. 
+
+**Küreselleşme filan deniyor, bu devirde adalet uygulamak zor değil mi?**
+
+Evet sermaye küreselleşti ve dünya üzerinde elini kolunu uzatmadığı konu ve yer kalmadı. Ama insanlığın eşitlik, adalet, barış, ekoloji gibi değer ve özlemleri de gün geçtikçe küreselleşiyor. Bu bakımdan sermayenin yarattığı sosyal ve ekolojik tahribat, adaletsizlik gün geçtikçe güçlü itiraz ve tepkilere yol açıyor. Özgürlük ve eşitliğin adalet ilkesiyle tamamlanan gücü, demokratik bir toplumsal özlemin taşıyıcısı oluyor. İnsanlığın önünü açıyor ve küresel sermayenin meydanı boş bulmasına izin vermiyor. Bunu dünyanın en ücra köşesinde de, mega metropollerde de görüyoruz. Umutlu olmak için çok şey var.
+
+**Hangi alanda adaleti sağlayacaksın, say say bitmez?**
+
+Abartmayalım. Toplumsal adaleti dört temel alanda ele alırsak işin üstesinden gelmemiz kolaylaşır. Birincisi sömürü, yoksulluk, gelir eşitsizliği, işsizlik ve bölgesel eşitsizlik diye sıralayacağımız iktisadi adalet alanı olabilir. İkincisi etnik, dinsel, kültürel ve cinsel farklı kimliklerin dışlanmaması ve kabulüyle ilgili tanınma adaleti alanını söyleyebiliriz. Üçüncüsü siyasal hayatımızın çoğulcu bir karakter kazanmasının önündeki yasal, fiili ve kültürel engelleri kaldırmayı amaçlayan, katılım eşitliği sağlamayı hedefleyen katılım adaleti alanı diyebiliriz. Sonuncusu ise kapitalist kalkınma ve büyüme anlayışının yarattığı doğa ve canlı yaşamının tahribatına, küresel iklim değişikliğine ve ekosistemlerdeki yıkımlara karşı mücadele sergileyeceğimiz çevre ve iklim adaletidir. Adaletin anahtarı bu dörtlüdür; bugünümüz ve geleceğimiz için ona sıkı sarılmalıyız.
+
+**Ekonomide adalet var mı, nerede?**
+
+Türkiye’de ekonomi hem bütün ülke sathında, hem de bölgeler arasında derin uçurumları ve eşitliksizlikleri barındırıyor. İktidarların birbirine devrettiği ve taşlaşmış yapısal sorunları var. Gelir adaletsizliği ve uçurumu hemen hiçbir dönemde ortadan kaldırılamadı. Önceki yıllarda olduğu gibi, bazı dönemsel toparlanmalar yaşansa bile, düzen köklü bir değişim geçirmediği, ekonomide mevcut sistem terk edilmediği için sorunlar yaşanmaya devam ediyor. Bu kez de öyle oldu. Bütün geçmiş iktidarlar gibi AKP’de, sınırlı bir toparlanma dönemini göstererek, ekonomide işlerin tıkırında olduğunu söylüyor. Hal böyleyken, günde 1 dolar bile bulamayan yüz binler var. En yüksek gelir grubuyla, en düşük gelir grubu arasındaki uçurum gün geçtikçe artıyor. Sayıları 50 bini geçmeyen aile toplam gelirin önemli bir bölümünü elinde tutuyor. 
+
+**AKP’nin büyüme ve kalkınma politikası istihdam yaratıyor mu?**
+
+Sözü edilen büyüme nedense bir türlü istihdam yaratamıyor. Genç işsizlerin sayısı artmaya devam ediyor. Yüksek eğitimlisi de eğitimsizi de işsizlikle boğuşuyor. Kadınlar hak ettikleri eşit ücreti alamıyorlar. Çocuk işçiler birçok işletmenin kayıt dışı gelir kapısı olmuş. Türkiye kalkınıyor, iyi büyüyor deniliyor ama toplumsal kalkınma endeksinde her gün biraz daha geriliyoruz. Çalışanlara, emeklilere insani şartlarda yeterince güvenceli bir yaşam standardı sağlanmış değil. Küçük esnaf ve üreticiler tekeller karşısında korunmuyor. Türkiye ihtiraslı bir sermaye grubu ve onların destekçisi hükümetin, köklü bir iktisadi yeniden yapılanma ihtiyacına sırtını dönen, dar görüşlü ve ekolojik yıkıma meyilli politikaları doğrultusunda bir açmaza doğru ilerliyor. 
+
+**Ekonomide durumu değiştirmek için bir şey yapılamaz mı?**
+
+Her zaman yapacak bir şey vardır. Kendi hayatımızla ilgili kararları verebilecek bir düzen oluşturma önemli bir adım olur. Yoksa mevcut toplumsal eşitsizlikler ve açgözlü kapitalizmin dur durak bilmeyen girişimleri her gün kendini yeniden üretir. Bir yerden başlamak lazım. Katılımcı bir ekonomi yaratılabilir ve kimi ortak mülkiyet alanları oluşturulabilir. Ödediğimiz vergilerle yapılan kamu harcamalarının gerçek esenliğimizi artırıyor olması gerekir. Aksi takdirde, yapılan iş birkaç müteahhidin cebini doldurmaktan öte bir şey olmaz.
+
+**Farklı bir ekonomi mi öneriyorsunuz?**
+
+Eğer önerdiğimizin bir farkı varsa, onu birlikte görmek istiyoruz. Adının hiç önemi yok. Şimdi hizmeti parası olan alıyor. Diğerleri seyrediyor. Kapitalizmin katı kurallarının işlemediği bazı kamu alanları oluşturulabilir. Bazı kamu hizmetlerinde para devre dışı bırakılabilir. Burada yurttaşların sivil girişimleri, yerel yönetimler ve kamu kurumlarının yer aldığı platformlar yoluyla adımlar atılabilir. Kooperatif tipi üretici ve tüketicilerin örgütsel modeli yenilenerek çok etkili hale getirilebilir. Asgari gelir hakkı bütün yurttaşlar için sağlanabilir. Emek alanının sermayenin keyfine terk edilmesine son verilebilir. Zaten sermayenin ekonomideki mevcut hegemonyasının kırılması, eşitsizliklerin giderilmesi ve katılımcı bir ekonominin yollarının açılması bakımından ciddi imkânlar yaratabilir. Ayrıca, Yeşiller ve Sol Gelecek Partisi olarak farklı bir ekonomi önerimizin çok önemli ve vazgeçilmez bir boyutu da ekolojik bir ekonomi olmasıdır.
+ 
+**Ekolojik bir ekonomi nasıl bir şey?**
+
+Gerçekleştirilecek her türlü ekonomik girişim, yatırım, enerji üretimi, ulaşım, sanayi üretimi, kimyasal kullanımı, bugün ve gelecek için bazı kriterler gözetilerek ele alınmalıdır. Bunların başta gelenleri de enerji etkinliği, geri dönüşüm, insan ve diğer canlılar için toksik olup olmadığı, iklim değişikliğine neden olup olmadığı, biyolojik çeşitliliğe, su döngüsüne ve diğer ekolojik döngülere zarar verip vermediği yönünden değerlendirilmesidir. Böylelikle hem bugün için, hem de gelecek için insan ve doğa uyumunu gözeten, temel motivasyonu kâr olmayan bir alternatif ekonominin yolu açılabilir. 
+
+**Ekonomik eşitsizliklerde kimliklerin rolü var mı?**
+
+Çok eskiden beri böyle bir durum var. Etnik kökeni ya da inancından dolayı kamusal hayattan ve toplumdan dışlanan milyonlar var. Kürtler, Aleviler ve Müslüman olmayan azınlıklar bunların başında geliyor. Halbuki bu durum temel insan haklarına aykırı. İnsanların kendi kimliği ve kültürünü yaşayarak ve geliştirerek toplumsal hayatın çeşitli alanlarında var olma hakkı, yasal kısıtlamalarla, inkârlarla ve iktidarların uygulamalarıyla alenen çiğnendi. Bunun yarattığı eşitsizlik başkalarına fırsat ve kâr olarak aktı. Devlet, yerel yönetimler ve diğer kamu kurumları farklı olanları sürekli iktisaden mağdur etti.
+
+**Ekonomideki bu tür eşitsizlik nasıl ortadan kaldırılacak?**
+ 
+Kolay değil.  Çok köklü adımların atılması lazım. Farklı halkların ve kültürlerin baskı görmesi, asimilasyonu, inkârı ve dışlanmaları son bulmalıdır. Anayasal yurttaşlık çerçevesinin yasal olarak kabul edilmesi iyi bir başlangıç olur. Kimlik ve kültürleri, eşit yurttaşlık temelinde yasal güvenceye kavuşur. Haklarındaki aşağılayıcı ve ötekileştirici davranışlara son verilmesi sağlanır. Yoğun olarak yaşadıkları yerlerde, ademi merkeziyet ilkesinden hareketle, özerk ve demokratik yerinden yönetim anlayışıyla, mevcut ekonomik eşitsizlik ve ondan doğan adaletsizliğin ortadan kaldırılması yönünde adım atılabilir.
+
+**Beş yılda bir yapılan seçimle böyle bir değişiklik gerçekleşir mi?**
+
+Zaten önemli bir problem de halkın kendi kaderiyle ilgili konulara dahil olamaması. Her şeyin merkezden belirlendiği, yerel yönetimlerin merkezi  vesayetin altında bulunduğu, seçimden seçime halkın devreye sokulduğu bir sistem demokrasi ölçüleri bakımından yeterli değildir. Yani, ülkemizde gelişkin ve yeterli katılım adaleti yok. Her şeyin temsili demokrasiyle, irademizi bazı temsilcilere terk ederek çözüleceğini sanıyoruz. Oy verdiklerimiz bir süre sonra kaskatı merkezi ve otoriter anlayışlarla karşımıza geliyor. Son zamanlarda olanlar böyle değil mi? Bunun önüne geçmenin yolu yerel ve sivil yurttaş girişimi ve inisiyatiflerinin oluşması ve geliştirilmesidir. Sendikalar, meslek birlikleri, mahalle meclisleri, dernekler, platformlar gibi canlı ve son derece çeşitli örgütlülüklerle toplumsal ve siyasal sorunların çözüm sürecine müdahil olmak, katılım adaletini gerçekleştirebilir. Bu durum da çarkların tersine dönmesi demektir. 
+
+**Evde ve işyerindeki kadın için katılım adaleti var mı?**
+
+Katılım adaletsizliği en çok kadınları vuruyor. Her yerde hükümran olan erkekler ve onların sözü. İş yerinde erkek patron ve çalışan, evde baba, kardeş, koca ve erkek çocuk bu tablonun temsilcisi. Toplumsal cinsiyet rolleri dayatılıyor ve bu durum ekonomik ve siyasal hayatta hem kadın katılımını engelliyor, hem de eşitliği ulaşılmaz hale getiriyor. Sonuç olarak sadece kadınlar değil, erkekler de kendi istek ve tercihleri doğrultusunda özgürce gelişme imkânı bulamıyorlar. Toplumdaki egemen cinsiyet rolleri ve bunun yarattığı olumsuz sonuçlar özellikle kadınları kendi geleceklerini ellerine alma imkânından mahrum bırakan katılım adaletsizliğinin de önemli bir nedeni. Yaratıcılık ve özgürlükleri kısıtlanarak erkek egemen düzenin devamı garanti altına alınıyor. 
+
+**Katılım adaleti ve kadın-erkek eşitliği bir arada olamaz mı?**
+ 
+Kadınlar ve partimiz bunun için uğraşıyoruz. Yaşamın her alanında bunun sağlanması gerekir. Ama ciddi engeller var. Yasalar, kurallar, alışkanlıklar, örf ve âdetler, yaygın zihniyet erkek egemenliğini hem sürekli üretiyor, hem de pekiştiriyor. Toplumsal ve siyasal yaşamda pozitif ayrımcılığı uygulayarak, yani kadınların aleyhine olan mevcut durumu büyük ölçüde değiştirmek üzere her konuda kadınlara pozitif ayrımcılık tanıyan adımlar ve düzenlemelerle sonuç alınması için mücadele ediyoruz. Partimizde de bu konuda çok sayıda adım attık. Özlemimiz kadın-erkek eşitliğinin her düzeyde yaşandığı ve bütün bireylerin mutluluğunun hedeflendiği bir dünyayı gerçekleştirmek.

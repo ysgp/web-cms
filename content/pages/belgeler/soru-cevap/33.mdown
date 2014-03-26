@@ -1,0 +1,115 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+
+
+##**33) GÖÇMENLER, SORUNLARI VE ÇÖZÜM YOLLARI**
+
+**Göçmen, mülteci ve sığınmacı kimdir?**
+
+Türkiye özellikle Batı ülkelerine yönelik göçmen akınının hem bir geçiş ülkesi, hem de bazı eski Sovyet ülkeleri ve Afrika’nın yoksul ülkelerinden ve bazı Yakındoğu ülkelerinden göç alan bir ülke. Ayrıca, Ortadoğu’ya komşu olması nedeniyle de, yaşanan savaşlardan kaçan çok sayıda sığınmacıyla sık karşılaşan bir ülke. Öncelikle bu konuyla ilgili kavramlara bir açıklık kazandırmak lazım. Mülteci, sığınmacı, göçmen ve kaçak göçmen kavramları sık kullanılıyor ama bunların ortak yönleri ve farklılıkları yeterince bilinmiyor. Mülteci ırk, din, siyasal düşünce, ulusal kimlik gibi nedenlerle baskı hisseden veya savaş ve iç savaş gibi durumlarda kendi devletine olan güvenini kaybeden, devletinin ona tarafsız davranmayacağı düşüncesiyle ülkesini terk edip, başka bir ülkeye sığınma talebinde bulunan ve bu talebi kabul edilen kişiye deniyor. Yoksulluk, açlık, kıtlık, eğitim şartlarının yetersizliği, işsizlik, kuraklık gibi haller de gerçek nedenler arasında görülüyor. Göçmen ise bu nedenlerin dışında ve çoğu zaman ekonomik gerekçelerle ve gönüllü olarak ülkesini terk ederek başka bir ülkeye, o ülke yetkililerinin bilgi ve izniyle yerleşen kişi. Kaçak göçmen ise gittiği ülkenin yetkililerine kendisini bildirmeden veya izin almadan yerleşen kişidir. Yaşanan iç savaş nedeniyle özellikle Suriyeli sığınmacıların yüz binlercesinin çeşitli yollardan gelerek kimi kamplarda, kimi kiralık evlerde kimileri ise sokakta ve parklarda yaşamalarıyla son dönemde en çok dikkati çeken sığınmacılar ise yukarıda sıralanmış olan nedenlerle ülkesini terk eden ve henüz sığınma talebi kaçtığı ülkenin yetkilileri, tarafından soruşturma safhasında olan kişidir. İskan Kanunu madde 3/3’e göre “Türkiye’de yerleşmek maksadıyla olmayıp bir zaruret ilcasıyla muvakkat oturmak üzere sığınanlara sığınmacı denir” şeklinde tarif edilmektedir.
+
+**Göçmenler genel olarak nasıl muameleyle karşılaşıyorlar?**
+
+Kaçak olanlar yakalandığında ülkelerine sınır dışı ediliyorlar. Başvuru yapanlar ise BM Mülteciler Yüksek Komiserliği Türkiye Temsilciliği aracılığıyla takip ediliyor. Kayda alınan kişiler gerekçelerinin doğru olup olmadığını ispat edecekleri zorlu bir süreç yaşarlar. Bu süre iki yılı bulabilir. Bu süre içinde kendilerine gösterilen şehirde ve mekânda yaşamak zorundalar. Emniyete her gün imza vermek zorundalar. Şehri terk edemez, gece 24’ten sonra sokağa çıkamazlar. Ne yazık ki bu dönemde hiçbir ekonomik ve sosyal korumaları yok ve kaçarken ne getirdilerse onunla geçinmek, son derece sağlıksız koşullarda yaşamak zorunda kalıyorlar.
+
+**Türkiye’de göçmen olup kaçak çalışanların durumu nedir?**
+
+Türkiye’ye iş amacıyla göç 90’lı yıllardan itibaren arttı, özellikle de Doğu Bloku ülkelerinden. Hasta bakıcı, çocuk bakıcısı, temizlikçilik gibi işlerde ağırlıkla kadınlar büyük ölçüde kayıt dışı ve sosyal güvencesiz bir şekilde istihdam ediliyorlar. Turizm ve hizmet sektörünün ardından inşaat, tekstil ve madencilik alanı da giderek bu göçmenlere, kayıt dışı ve düşük ücretli olduğu için kapılarını aralayan sektörler oluyor. Neredeyse kölelik şartlarında çalışmak durumunda kalıyorlar. Fuhşun da önemli bir yasadışı iş alanı haline geldiği görülüyor. İstanbul kaçak göçmen trafiğinin yoğunlaştığı uluslararası merkez konumunda. İran, Irak, Afganistan, Sudan gibi ülkelerden gelip AB ülkelerine gitmeyi amaçlayanların ara istasyonu. 
+
+**Göçmen kampları hangi illerde var?**
+
+Hatay, Edirne, Kırklareli, İstanbul Kumkapı ve Zeytinburnu ve İzmir’de ve başka bazı ilçelerde koşulları oldukça kötü  göçmen barınakları var. Giderlerini BM karşılıyor. Bazıları için Türkiye başka ülkelere gitmek için bir geçiş istasyonu, diğer bazıları içinse nihai varış noktası konumunda. Kabul edilmeyenlerin iadesi  çeşitli güçlükleri olan bir konu. Çünkü, hapis, işkence ve ölüm cezalarıyla karşı karşıya kalabiliyorlar. Bu yüzden de gitmemek için Türkiye’de her türlü insani şarttan yoksun bir hayat sürmeyi göze alıyorlar. 
+
+**Kamplarda koşullar nasıl?**
+
+Mülteci olduğunu kanıtlayanların kabul edilecekleri ülke için bekleme süreleri de oldukça uzun sürüyor. Bu süre boyunca çalışma imkânları yok. Aylarca kapalı, yani gözaltında kalıyorlar. Odalarda çok sayıda kişi bulunuyor ve yeterli yatak olmadığından yerlerde yatmak zorunda kalanlar oluyor. Hastalanmaları halinde tedavi göremiyorlar. Görevli polislerin insafına kalmış durumdalar. Zorunlu durumlarda sağlık giderleri Sosyal Yardımlaşma ve Dayanışma Vakfı bütçesinden karşılanıyor. Bu gayri insanı şartların değişmesi gerekiyor.
+
+**Göçmen sorununda yabancı düşmanlığı yaşanıyor mu?**
+
+Göç alan ülkelerin çoğunda değişik şekilde yabancı düşmanlığı görülüyor. Çoğu zaman ırkçı partiler bu yönde politikalar uyguluyorlar.  Asayiş, işsizlik, sosyal hizmet alanlarının daralması, vb konuları bahane edip saldırgan tavırlara, şiddete ve hatta cinayete varan olaylar yaşanabiliyor. Avrupa ülkelerinde son dönemde yükselen ırkçı ve ayrımcı politikaların ardında yaşanmakta olan ekonomik krizin de önemli rolü olduğu görülüyor. Bu bakımdan göçmenler bulundukları hemen her ülkede değişik gerekçelerle yabancı düşmanlığının (xenophobia) ve nefret söyleminin hedefi oluyorlar. Geçtiğimiz yıllarda Ermenistan’la yaşanan bir sorun nedeniyle Türkiye’de çalışan 100-150 bin Ermeni göçmeni yurtdışı etmekle tehdit eden Başbakan Erdoğan’ın tavrında sembolleşen politika göçmenlerin durumunu gözler önüne sermesi bakımından son derece ibret verici. 
+
+**Hangi ülkeler göçmen kabul ediyor?**
+
+İsveç, Norveç, Avustralya, Kanada ve ABD kabul ediyor. Genellikle kabul etmemelerine karşın AB ülkeleri de ilgi odağı ve sık sık kaçak girişlere sahne oluyor. 
+
+**Göçmenlerin sayısı nedir?**
+
+Konuyla ilgili çalışma yapan sivil kuruluşlar dünya çapında mülteci sayısının BM Mülteciler Yüksek Komiserliği’nin kayıtlarına göre 15,2 milyon olduğunu belirtiyorlar. Göçmen nüfusunun ise son on yılda 150 milyondan 214 milyonunun üzerine çıktığı yine aynı kuruluşlarca ifade ediliyor. Bugün dünyada her 33 kişiden biri göçmen durumunda. Uluslararası ve yerel çatışmaların, savaşların, insan hakları ihlallerinin ve ekonomik sömürünün dayanılmaz boyutlara ulaşmasının bu tabloda tayin edici bir rolü olduğu görülüyor. 
+
+**Türkiye’de göçmenleri koruyucu nitelikte bir yasa var mı?**
+
+Hayır, henüz yok. Anayasanın 16. maddesinde “yabancıların durumu” ele alınıyor ve temel hak ve hürriyetlerinin milletler arası hukuka göre sınırlanabileceğine işaret ediliyor. Ceza Kanunu’nun 18. maddesinde ise “geri verme” konusu düzenleniyor. TBMM’de “Yabancılar ve Uluslararası Koruma Kanunu Tasarısı” adıyla bir tasarı 2012 yılından bu yana bekliyor. İçişleri ve diğer ilgili komisyonlarda görüşüldükten sonra Genel Kurul’a gelecek. Yüz binlerce Suriyeli sığınmacının yasal olan/olmayan yollardan Türkiye’ye girmesiyle birlikte devasa bir sorun olarak ortaya çıkan bu konunun, uluslararası normlara ve evrensel prensiplere dayalı yasal çerçeveye ve ona uygun bir uygulamaya kavuşması artık geciktirilemez. Dört kavram etrafında ifade edilen göçmenlik konumu İnsan Hakları Evrensel Bildirgesi madde 14’te, 1951 Cenevre Sözleşmesi’nde ve Birleşmiş Milletler sözleşmelerinde tartışmasız insan hakları bağlamında evrensel ilke ve normlara kavuşmuştur. Bunları imzalamış Türkiye’nin konuya dair koruyucu bir yasasının olmaması artık kabul edilemez. Çünkü Türkiye gelenlere hukuki vasıflandırma yapıyor ve tecrit uyguluyor. Misafir kavramı kullanılarak yasal yükümlülüklerden ve statü tanımaktan kaçınılıyor. 
+
+**Doğru dürüst bir yasa yoksa, bu kadar göçmenin başına neler geliyor?**
+ 
+BU insanlar yabancılar polisi, bürokratlar ve yerel yöneticilerin insafına terk edilmiş durumda. Yapılan hatalar AİHM’nin kararlarında insan hakları ihlalleri olarak yer aldı ve kimi uluslararası insan hakları örgütlerinin raporlarında eleştirilere konu oldu. Şu anda Suriyeliler hariç resmen yaklaşık 26 bin civarında ilticacı söz konusu. Edirne’den Yunanistan’a geçmeye çalışırken yakalananların sayısı 23 bin. Türkiye’de 250 bin civarında kayıtlı yabancı çalışma izni ile çalışıyor. En az bu sayı kadar kişinin de kayıtsız olarak çalıştığını tahmin etmek zor değil.
+
+**TBMM’de bulunan yasa tasarısı hakkında ne düşünüyorsunuz?**
+
+Tasarının hazırlık evresinde STK’lar, ilgili sivil örgütler ve akademisyenlerin görüşleri alındı. Şüphesiz mevcut durumu değiştirecek, kısmen düzeltecek, sığınmacılar lehine koşulları iyileştirecek unsurlar içeriyor. Ancak özgürlük ve güvenlik dengesinde ibrenin güvenlikten yana kaydığı bir tasarı özelliği taşıyor. İnsan hakları standartları ve usul güvenceleri bakımından ciddi yetersizlikleri var. Uygulamasını 1951’den beri yürürlükte olan ve çok az ülkede varlığını sürdüren “coğrafi sınırlama” anlayışı üzerine inşa ediyor. Böylelikle Türkiye kendisine sığınan insanlarla birlikte daimi yaşama isteğini göstermeyeceğini ifade etmiş oluyor. Bütün toleransını sığınma tarihinden 3. bir ülkeye yerleştirme tarihine kadar geçici süre göçmenlere nasıl bir yaşam ve koşul sunacağını belirlemeyle sınırlı tutuyor. Bu güç durumdaki insanlara daimi ev sahipliği sorumluluğu ve külfeti altına girmek istemiyor. Bunun hem insani bakımdan, hem de dünyadaki göçmen gerçekliğinin gelişme seyri bakımından isabetli ve uzak görüşlü bir yasal çerçeve olmadığı aşikâr. Beklentimiz komisyonlarda ve Genel Kurul’da gerekli müdahalelerle evrensel norm ve ilkelere uygun bir yasanın çıkmasıdır. Ayrıca göçmen işçilerin örgütlenme, sendikalara ve derneklere üye olma, iş yaşamına dair diğer hakları kullanabilmeleri için yasal güvenceye kavuşmaları sağlanmalıdır.
+
+**Sayıları milyona yaklaşan Suriyeli sığınmacılar hakkında ne düşünüyorsunuz?**
+ 
+Suriye’deki iç savaş üçüncü yılın içinde ve Türkiye bu ülkeyle en uzun sınıra sahip bir komşu. Bu kadar can kaybının yaşandığı, kent ve köylerin yerle bir olduğu bir savaşta kitleler halinde sığınmacıyla karşılaşılacağı belliydi. Türkiye’nin bu sığınmacılara sınırlarını açması, asgari insani koşullara sahip kamplarda konaklamalarını ve gıda, sağlık vb. hizmetleri almalarını sağlaması çok önemlidir. Bu çadır kampların dışında binlerce Suriyelinin belli şehir ve ilçelerde kiralık evlerde yaşadığı, durumları kısmen uygun olanların kendi aralarında bir ekonomik ilişki ağı yarattığı da biliniyor. Bununla beraber derin bir yoksulluk ve yoksunlukla canlarını kurtarmak üzere Türkiye’ye sığınıp sokaklarda kalan, kent parklarında perişan bir hayat sürdürmeye çalışan büyük bir kitle var. Bunların önemli bir bölümü batı kentlerine, özellikle İstanbul’a gelmiş durumdalar. Çocukları köşe başlarında dileniyor. 
+
+**Bu sığınmacıların yasal statüleri nedir?**
+
+Türkiye’nin bu sığınmacılara hiçbir statü ifade etmeyen, önceki yıllarda gelen Çeçen sığınmacılara yaptığı gibi, “misafir” nitelemesi doğru değil. Kitlesel bir sığınma söz konusu olduğu için, bireysel mülteci işlemine girişilmeden “geçici koruma” kapsamına alınmaları gerekir. Çünkü 1994 tarihli yönetmeliğin “Sınırlarımıza Topluca Gelen veya Sınırlarımızı Topluca Geçen Mülteci ve Sığınmacıların Ülkemize Kabul Edilmeleri Halinde Yapılacak işlemler ve Alınacak Tebliğler” başlıklı 4. bölümü bu kapsamda değerlendiriyor. Bu sığınmacılara yönelik tecride ve izolasyona da son verilmesi gerekiyor. Uluslararası kuruluşlara ve medyaya uygulanan görüşme yasağı, yardım kuruluşlarına yönelik erişimi engelleme uygulamaları kaldırılmalı. Kamplara dair sır perdesi ister istemez haklı soruları da akla getiriyor. Bazı kişilerin kaçırılması ve para karşılığı Suriyeli yetkililere satıldığına dair kamuoyuna yansıyan iddialar dehşet verici ve bu tecrit ve yasakların sonucu. İç İşleri Bakanlığı’na bağlı İltica ve Göç Bürosu bu konuda inisiyatifini doğru kullanmamakta. Medyanın ve sivil kurumların ziyaret ve incelemelerine açık, şeffaf bir işleyiş yaratılmalı.
+
+**Halkın göçmenlere bakışı nasıl?**
+
+Hem büyük kitlesel sığınma olaylarında, hem de ekonomik nedenlerle gerçekleşen göçmenlik durumlarında, bu sorunların yaşandığı ya da kısmen hissedildiği yerlerde ortaya çıkan olaylar, yerli halkla yaşanan anlaşmazlık dikkat çekiyor. Reyhanlı’da patlayan bombalardan önce ve sonra o bölgede yaşanan gerilim, kimi illerde artarak süren hoşnutsuzluk, politik ve ekonomik içerikli tepkiler göz ardı edilmemeli. Türkiye gibi kuruluşundan itibaren göç alıp veren bir ülkede bu durumun kendi içinde katmanlı halleri ve bundan kaynaklanan psikopolitik boyutları olduğu da biliniyor. Yapılan araştırmalar da ilginç sonuçlar veriyor. Toplumumuzun ağırlıklı bir bölümünün göçmenlere ve yabancılara karşı olumsuz bir tutum sergilediği görülüyor. Özellikle de göçmenlerin, zaten az olan iş bulma imkânlarını ellerinden aldığı fikri çok yaygın. Aksayan ve yetmeyen sosyal güvenlik hizmetlerinden yabancıların da faydalanması fikrinden hoşlanılmıyor. Bu bakımdan göçmenler bir yük olarak görülüyor. Birçok bakımdan göçmenler ulusal kültüre karşı bir tehdit olarak algılanıyor. Oysa devlet yapılanması olarak da, toplum olarak da bu insani soruna, evrensel değerler sistemi içinde çözüldüğünde, farklı coğrafyalardan gelen farklı kültürlerin taşıyıcısı olan bu insanlarla varlıkları ve kültürleri paylaşarak zenginleşmenin bir imkânı ve fırsatı olarak bakılmalıdır. Ama bunun için mevcut zihniyetin değişmesi, yeni yasal normların oluşması, yeni kurum ve uygulamalarla farklı bir başlangıç yapılması gerekiyor. Partimiz Yeşiller ve Sol Gelecek, görüş ve araştırmalarından yararlandığı kuruluşlarla bu yönde bir çabanın içinde olacaktır. 
+
+**Geçici diye gelenlerin kalması endişesi var mı?**
+
+Kitlesel sığınmacılığın söz konusu olduğu ve yaşanan sorunun aylar ve yıllar boyu sürdüğü durumlarda, süre uzadıkça, sorun çözülse bile bazı sığınmacılar açısından geri dönme eğiliminin zayıfladığı görülüyor. Bugün Suriyeliler bakımından da böyle bir gelişme ihtimal dışı değildir. Sayının 2014 içinde bir milyona ulaşabileceği ileri sürülüyor. Bu bakımdan, Türkiye’nin konuyu “misafir” gibi uluslararası göçmen-mülteci-sığınmacı hukukunda yeri olmayan bir kavram ve tuhaf “statü”yle geçiştiremeyeceğini görmesi gerekiyor. Geçici olma konumundan ülkeye yerleşerek kalıcı olma konumuna geçiş sorunu giderek daha belirgin hale gelecektir. Bu konunun toplumsal gerilimlere, ayrımcılıklara, ötekileştirmelere, baskılara kaynaklık etmemesi için Türkiye’nin yasal adımlarını bir an önce atması gerekiyor. Yeşiller ve Sol Gelecek olarak, bu büyük sorunun insan haklarına ve evrensel ilke ve değerlere dayalı bir yasal çözüme ve uygulamaya kavuşması için mücadele vereceğiz. 
+
+
+

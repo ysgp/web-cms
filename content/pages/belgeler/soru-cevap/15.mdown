@@ -1,0 +1,152 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**15) KENT POLİTİKALARI**
+
+**Bizde kentleşmeyi neler belirliyor?**
+
+Son 40-50 yıldır kentleşme çok hızlandı. Nüfusun büyük bölümü artık kentlerde yaşıyor. Sanayileşme ve istihdam imkânları bakımından kentler öne geçti. Çoğu bölgede köyler boşalmış durumda. Bu bakımdan kentleşmeyi sosyoekonomik politikaların belirlediğini söylemek yanlış olmaz.
+
+**Cumhuriyet döneminde kentsel değişimin ve kentleşme politikalarının seyri nedir?**
+
+Cumhuriyet’in uzun yıllarına damga vuran tek parti döneminde kentleşme süreci ulus devlet yaratma hedefinin bir aracı olarak görüldü. Daha sonraki çok partili dönemlerde liberalleşme odaklı ekonomik yönelimlere ve emek gücünün organizasyonu amacına denk düşen gelişmelerin önünü açan bir kent gelişimi yaşanmıştır. Son otuz yıldır ihracata öncelik veren neoliberal ve küreselleşmeci politikalara geçişin öncelikli imkânı olarak kente ve kent arazilerine yaklaşılmıştır. Böylece kent sermaye birikiminin bir aktörü haline gelmiştir. 
+
+**Kentsel dönüşümün tarihsel gelişmesi nasıl oldu?**
+
+Ulus devletin son hızla kurulduğu Cumhuriyet’in ilk yıllarında anıt parklar ve geniş bulvarlar gibi girişimler görülmüş ve yaygın bir kamulaştırma yapılmıştır. Çok partili dönemle birlikte süreci belirleyense gecekondu önleme bölgeleri ve kent merkezlerinin imarına yönelik bir dönüşümdü . Neo liberalizmin ve küreselleşmenin etkisinin görüldüğü 1980’i takip eden yıllardaysa tapu tahsis belgeleri dağıtılarak gecekondular kente dahil edildi. Ulus devleti tanımlayan kentleşme sembolü yapıların değişmeye başladığı, küreselleşme dönemine uygun plan ve mimarinin öne geçtiği görüldü. 
+
+**Bugün de bir kentsel dönüşüm yaşanmıyor mu?**
+
+Evet yaşanıyor. Yakından bakınca kapitalist neoliberal düşüncenin güdümündeki devlet odaklı, halkın sözü ve kararının devre dışı bırakıldığı son derece merkeziyetçi bir tarzda yaşanıyor. Sosyal yapılanmayı, tarihsel dokuyu, kültürel mirası, ekolojik çevreyi ve kamusal alanı hesaba katmayan, aç gözlü bir sermaye biriktirme hırsının fırsat alanı olarak bir kentsel dönüşüm. Bugün İstanbul’da 2 milyon kişi yaşadığı yerden edilmiş durumda.
+
+**Kentsel dönüşüm kavramı ne zaman gündeme geldi?**
+ 
+1999’da yaşanan Marmara depreminden sonra duyuldu. Gerekçesi depreme dayanıklı planlı yapılaşma, çöküntü alanlarının rehabilitasyonu, olması beklenen büyük depreme hazırlık, artan nüfusa ve olağanüstü gelişmeye karşın daralan ve güvenli yaşam ortamına sahip olmayan eski kentteki bu duruma karşı kenti suçtan kurtarma gibi gerekçelerle bu adım meşrulaştırılmaya çalışıldı. Aslında küresel kapitalizmin yeniden üretim hedefinin bir parçası olarak, toplumsal bir mekân olan kentin yeniden üretilmesiydi söz konusu olan. İktidar şimdi yapısal dönüşümü, bir yandan üzerinde yükseldiği sermaye tabanına kaynak aktararak, bir yandan da oldubittilerle ve itirazları dikkate almadan gerçekleştirmeye çalışıyor. 
+
+**Barınma hakkı için ne düşünüyorsunuz?**
+
+Son 30-40 yıl Türkiye’nin hem iktisaden, hem de sosyolojik olarak büyük değişimler geçirdiği yıllar oldu. Tarımda yaşananlar, tercih edilen sanayileşme modeli ve Cumhuriyet’in çoğulcu olmayan yapılanması nedeniyle gelişen Kürt özgürlük ve eşitlik taleplerini bastırmak üzere sürdürülen savaşın yarattığı zorunlu ve gönüllü göçler, özellikle büyük kentlerde plansız kentleşmeye, gecekondulaşmaya yol açmıştır. Sağlıklı ve güvenli barınma hakkı anayasanın bütün vatandaşlara tanıdığı bir haktır. Bu hakkın bir rant paylaşımına dönüşmeden, ekolojik dengeyi bozmadan, kentin doğal ve tarihsel mirasını tahrip etmeden, bölgede bulunan canlı ve bitki yaşamına karşı bir risk üretmeden kamu kaynaklarının saydam ve denetlenebilir şekilde kullanılarak sağlanması gerekir. Ancak, durumun böyle olmadığı, yaşlanmış yapı stoklarını ve deprem riskini ileri sürerek kentsel bir rant dağıtımı-paylaşımı yaşanıyor. Üstelik ne ÇED raporu, ne de orada yıllardır yaşayanların tepkileri dikkate alınmadan, o insanları bölgeden uzaklaşmaya zorlayarak yapılıyor. Bunun anayasal bir görev olan barınma hakkının sağlanmasıyla bir ilgisi yoktur. 
+
+**TOKİ kentsel dönüşümde bir başarı örneği sayılır mı?**
+
+TOKİ bütçesiyle, karar ve süreçlere müdahale gücüyle birçok bakanlığı geride bıraktı. Hatta AKP iktidarının inşaata dayalı büyüme ve kalkınma politikasının lokomotif gücünü oluşturuyor. Kente, yerel yönetimlere, doğaya, ormanlara, dere ve vadilere, ekolojiye, tarihi ve kültürel mirasa dair hiçbir ilke, yasa, plan, kurul, karar, uluslararası hüküm, hiçbir şey Başbakan Erdoğan destekli TOKİ’nin hoyrat ve yıkıcı icraatlarını durduramadı. Kentlerin gelişimine ve kimliğine başarısız müdahaleler şaheser diye pazarlandı. Binlerce insan yerinden, mahallesinden, komşularından, hayatından ve anılarından koparıldı. Sağlıksız tek tip konutlar dönüşümün mekânı oldu. Geçtiğimiz aylarda patlak veren “Yolsuzluk ve Rüşvet Operasyonu”nun önemli ayaklarından birinin merkezinde TOKi ve ondan sorumlu bakanın olması, nasıl bir başarı (?) ile karşı karşıya olduğumuzu biraz daha gösterdi.
+
+**TOKİ eliyle yürüyen bu politikanın tarihsel öncülleri nedir?**
+
+Özü itibariyle kent rantının iktidar eliyle,  etki alanı içindeki sermaye çevrelerine aktarılması bariz bir popülist politikadır. Ama Türkiye’nin gördüğü yegâne ve zımni rızaya dayanan politika da bu değildir. Uzun yıllar tarımda uygulanan devlet desteği bunun ilk örneklerindendi. Ardından ithal ikameci sanayileşme ve kentleşme hareketinin başladığı dönemde, sanayinin ihtiyaç duyduğu işgücünün sağlanabilmesi bakımından batıdaki büyük kentlere başlayan göç ve o kentlerin çeperlerindeki gecekondulaşmaya kapı aralanması bir başka dönemsel örnek oldu. 
+
+**Kentsel dönüşüm popülist bir politika mı?**
+
+Popülist politika şimdiye kadar, yoksul seçmen kitlelerinin iş, konut ve mülk sahibi olmalarını ama buna karşılık iktidara yönelik siyasal rızalarını ortaya koydukları bir alışveriş şeklinde yaşandı. Son örneği ise şimdiki kentsel dönüşümdür. Birçok boyutu olmasına karşın oluşan rantın dağıtımı, paylaşımı ve bunun üzerinde yükselen siyasal rıza yaşanıyor. Bu alışverişte demokrasi, katılım, kent hakkı, ekolojik duyarlılık, gelecek nesiller, tarihi ve kültürel mirasa sahip çıkma, doğa ve çevreyi koruma endişesinin bulunduğunu söylemek çok zor. İktidara gelmek ve gelirken de alınan toplumsal rıza için bazı kesimlere yaratılan ranttan pay dağıtmak, işin özeti böyle. Şimdi gecekondular meşruiyetini kaybetti ve sahipleri de göbeğini kaşıyanlar olarak damgalandı.
+
+**Uygulanan kentsel dönüşüm kriz getirir mi?**
+ 
+Piyasa şartları ve sermayenin birikim süreçlerinin ihtiyaç duyduğu politikalar çerçevesinde şekilleniyor bu dönüşüm. Bu durumda kentin kendisi ve kentsel arsa sermayenin yatırım aracı haline getiriliyor. Kentsel gelişme tek yöne değil, her yöne doğru oluyor ve bu nedenle de gelişme kontrolden çıkıyor. Rant ve imar hakkı her şeyi belirliyor. Sermaye yeni alanlar talep ettikçe şuursuzca bir genişleme ve inşaat yatırımı yapılıyor. Meydana gelen talep dışı aşırı birikimin, atıl kapasitenin er geç bir krize dönüşmesi sürpriz olmayacak. 
+
+**Kentsel rant kimin olmalı?**
+
+Bu rantın bireysel tasarrufa yönelmesi, modern kentlerin önemli bir problemidir. Halbuki dönüşüm süreçlerinde doğan kentsel rantın kamuya döneceği mekanizmaların oluşturulmasıyla kent paydaşlarının ortak yaşamını ve onlara sunulan hizmeti sağlayan bir kaynağa dönüşebilir. Bu bakımdan değişimde kamu yararı, olası doğal afetler, sağlıklı yaşam alanları gibi yerinde dönüşüm projeleri temel alınmalıdır.
+
+**Toplumsal sınıflar kentsel değişimden nasıl etkileniyor?**
+
+Hemen her kesim bu dönüşüm ve değişimden etkileniyor. Kentsel dönüşüme bir soylulaştırma fırsatı ve aracı gibi bakmak son derece yanlış. İnsan varsa kentin varlığı anlam kazanır. Kent insanların toplandığı bir mekândır. Onun kaldırma gücünü aşan değişiklikler daima kaos ve kriz yaratır. Bu nedenle değişim ve dönüşümün halkın katılımıyla baştan dikkatlice planlanması gerekir. Bu bakımdan gettolaşma, tek tipleşme, gelir ve hizmet adaletsizliği üretecek dönüşüm ve değişime izin verilmemelidir. Yaşanabilirlik ölçüleri öncelikle kentler için geçerlidir. Bunlar gelir adaleti, insani gelişmişliğin belli bir düzeyde olması, ekonominin gelişme düzeyi ve çeşitliliğinin belli bir düzeye gelmesi şeklinde sıralanabilir. Bütün bunlar toplumsal sınıfların kentsel değişim ve dönüşümle olan ilişkilerini belirleyen etkenlerdir. Bunlarda meydana gelecek olumsuzluklar, etkilenen sınıfları haklı olarak değişim ve dönüşüme tavır almaya iter.
+
+**İklim değişikliğinin kentsel etkileri ve alınacak önlemler nelerdir?**
+
+İklim değişikliği biyolojik çeşitliliği yok ediyor, topraklar niteliklerini kaybediyor, su kaynakları yok oluyor, hava ve su kirliliği hayatımızı derinden etkiliyor. Bütün bunlar kentsel alanlarda en ağır haliyle hissediliyor. Kentlerde bütün bunlara dair ciddi tedbirler alınması gerekiyor. Çevrenin korunması, iyileştirilmesi nasıl olacak, tedbirler nasıl alınacak, etkilerin vardığı boyut gibi konular önemli çalışma alanları olarak öne çıkıyor. Kentsel gelişmenin sürdürülebilirliğinin sağlanması bu çalışmalara bağlıdır. Kentsel ekolojinin korunması ve gelişimi yine bu çalışmaların aydınlattığı yoldan sağlanabilir. Bunları gözeten kent formları ve ulaşım modelleri oluşturulması gerekir.
+
+**Değişim ve kentsel arazinin rasyonel kullanımı arasındaki ilişki nasıl olmalı?**
+
+Kentsel araziyi kullanım işlevlerine göre ayırmak, bir noktadan sonra enerji israfına ve ekolojik tehditlere yol açıyor. Doğru olan kenti bir bütün olarak ele almak ve gelişimini bu bütünlüğü gözeterek planlamak. Avrupa Kentsel Şartı da buna dikkat çekiyor ve gelişme modellerinde buna dikkat edilmesini öneriyor. Bunun yanı sıra, seyahat ve hareketin önemli hale geldiği günümüz toplumunda, öncelik petrole dayalı otomobil çok çeşitli sorunlar üretiyor. Toplu ulaşım ve sürdürülebilir ulaşım alternatiflerine öncelik vermek gerekiyor.
+
+**“Ah bir evimiz olsa” diyenlere karşı bir sözünüz var mı?**
+ 
+Emlak ve arazi fiyatları çok yükseldi. Artık emekli ikramiyesiyle alınacak şeyler değil. İnsanların çocukluklarını, gençliklerini ve yetişkinliklerini geçirdikleri mahalleler de ellerinden kayıyor. Bu durumda insanların konut ihtiyacını karşılamak, öyle TOKİ’nin yap-sat politikasıyla geçiştirilemez. Kenti oluşturan halka ihtiyaç ve gelirlerine uygun konutlar sunulması bir insan hakkı olan barınma hakkının yerine getirilmesidir. Kentler o kentleri oluşturan halklara aittir. Dolayısıyla bu mekânlar sosyal, ekonomik ve kültürel değerleriyle bir bütün olarak gelecek nesillere aktarılacak şekilde ele alınmalıdır. Çoğulcu bir yaşam kültürü, farklı kimliklere sahip kentli bireyleri ve toplulukları zenginleştirir. Konut talepleri bunu gözeterek karşılanmalıdır. 
+
+**Kentlilik bilinci ve yerinden yönetim birbirine mi bağlı?**
+
+Kentlilik bilinci zamanla, demokrasi ve demokratik doğrudan katılımın süreklilik içinde sağlanması ve bir yaşam tarzı haline gelmesiyle kazanılır. Bu bakımdan yerinden yönetim mekanizmaları olmazsa olmaz bir tercihtir. Avrupa Yerel Yönetimler Özerklik Şartı halk meclisleri, yerel referandumlar, her türlü doğrudan katılım, müzakere ve karar mekanizmaları gibi bu konuda önemli ve olumlu modellerin uygulanması şartını getiriyor.  Bunlar uygulanabilir ve yetkilendirilebilir. Bütün kent paydaşları, çeşitli nedenlerle kente göç etmek zorunda kalan göçmenler ve diğer dezavantajlı grupların da oy kullanabildiği ve temsil edildiği bir işleyiş kent yaşamını ve hizmetlerin demokratik bir işleyiş içerisinde gerçekleşmesini sağlayabilir. 
+
+**Kentsel farklılıklar korunmalı mı?**
+
+Kentlerin yayılma, ulaşım ve enformasyon yapıları farklı olabilir. Kültürel, mimari, sanatsal ve sosyolojik farklar kentlere farklı kimlik kazandırır. Bu farkları ortadan kaldırıp kentleri birbirine benzemeye zorlamak tek tipleşme ve giderek çirkinleşme yaratır. Bu nedenle altyapıların geliştirilmesiyle tarihsel değerlerin ve çevrenin korunması bütünsellik ve dengeli bir ortaklık içinde ele alınmalı. Mekânsal ve bölgesel eşitsizlikler azaltılmalı, sanatsal yaratıcılık ve kültür hizmetleri desteklenmeli. Yerel kültür ve kimlikler korunmalı, tarihsel yapılar yaşatılmalı. 
+
+**Belediye de bir devlet kuruluşu değil mi?**
+
+Ne münasebet! Belediye halkla merkezi siyasi idare arasında bir köprü gibidir. İktidarın tek elde toplanmasını önler ve çoğullaştırır. Kent paydaşının siyasete müdahil olmasının yollarını artırır. Ayrıca merkezi iktidarın denetlenmesi imkânını sağlar. Yerel yönetimler demokrasiye asıl gücünü veren yapılardır. Bir halkın özgürleşmesi demokratik ve yerinden, özerk yerel yönetimlerle gerçekleşir. Özgürlüğün nüvesi bunlardır. Yerel yönetimsiz  demokrasi olmaz. Bireylerin siyaseten olgunlaşması ve katılımı yerel yönetim birimleri olmaksızın gerçekleşmez. 
+
+**Kent-kır ilişkisi neden önemli?**
+ 
+Giderek büyüyen kentler yerine kendine yeterli ve kendi yerel çevresinden, yerel üretimlerinden beslenen yapılar kurmak gerekiyor. Köyde geleneksel yaşamını sürdürmekte olanları ve küçük çiftçileri kente bağımlı kılan ekonomiler ve eğitim sistemleri yerine, kendi değerlerinin farkına varan ve kırsalda yaşayanların temel ihtiyaçlarını karşılayabilecek, fırsat eşitliğini sağlayacak bir yerel ekonomiyi destekleyen bir kent-kır ilişkisi kurulmalı. 
+
+**Yeşiller ve Sol Gelecek olarak nasıl bir kent hedefiniz var?**
+
+Temiz ve sağlıklı, yeşil ve güzel, bütün hizmetleri etkin ve sürdürülebilir, paydaşlarının doğrudan katılımıyla yönetilebilir ve demokratik, yeşil bir kent partimiz açısından gerçekleşmesi mümkün ve farklı olan kenttir. Böyle bir kentte yurttaşlara temiz ve sağlıklı içme suyu sağlanması, hava kirliliğinin azaltılması, katı atıkların özelliklerine ve önemlerine tasnif edilerek toplanması ve depolanması, toksik maddelerden arındırma önemli hizmet alanları olacaktır. Kentsel yeşil alanların korunması ve oluşturulması, biyolojik çeşitliliği geliştiren alanların hem korunması hem de geliştirilmesi, kent paydaşlarının yararlanacağı sessiz sakin bölgeler tanzim edilmesi, toprağı tahrip etmeyecek yapısal özelliklerini bozmayacak, kimyasal kirlenmeden uzak tutacak sürdürülebilir bir toprak kullanımının hâkim kılınması ve kentin tarihsel ve kültürel mirasına sahip çıkılması için gerekli bütçe, personel ve kurumsal desteğin sağlanması, toplumsal bir duyarlılığın gelişmesi için çalışma yapılması önemli bir hedef olacaktır. 
+
+**Etkin ve sürdürülebilir yeşil kent için neler yapılabilir?**
+
+Dünyanın olduğu gibi kentlerinde kaynakları sınırsız değildir. Bu bakımdan yereldeki yaşamı sürdürülebilir kılan bütün kaynakların azami düzeyde etkin kullanılması, israftan sakınılması, tüketim ideolojisinin ve ekonomisinin sorumsuz etkisinin kırılması gerekiyor. Su için, gıda için, toprak için, enerji için, özetle kaynak olarak değerlendirilebilecek her şey için bu geçerli. Petrol tüketimine dayalı ulaşım sistemleri yerine raylı sistemlerin ağırlıkta olduğu, bisikletin önemli bir bireysel ulaşım aracı olarak devreye sokulduğu, bunun için kentte gerekli düzenlemelerin yapıldığı, kent paydaşlarına fiziki hareketliliğin bir zihniyet, bir yaşam anlayışı olarak sunulduğu adımlar atılması gerekiyor. 
+
+**Yeşil kent ve iklim değişikliği ilişkisi hakkında ne diyorsunuz?**
+
+Böyle bir kentte dünyanın bugünü ve geleceği için artık büyük bir tehlike halini alan iklim değişikliğini besleyen her şeyden sakınılmasını aktif bir yönetim politikası haline getirilmesi hedef olmalı. Kent hizmetlerinde ihtiyaç duyulan bütün teknik donanımın bu anlamda enerjinin etkin kullanımına hizmet eden, iklim değişikliğine yol açmayan, kirlenme yaratmayan teknoloji olmasına özen gösterilmeli. Dünyada bunları uygulayan sayısız kent var. Kopenhag, Stockholm, Amsterdam, Kiev, Münster bu konularda yaratıcı çözümleri uygulamaya koyan şehirlerin başında geliyor.
+
+**Kent ve çocuk size neyi anlatır?**
+
+Çok klişe olacak ama çocuklar gelecektir. Onların yer almadığı, onların sözünün ve elinin dokunmadığı bir kent yönetimi, yerel yönetim kimse için bir gelecek vaat edemez. Bu noktadan baktığımızda, her çocuğun mutlu, refah içinde, savaştan, şiddetten arınmış, daha güzel ve barış içinde, sağlıklı ve iyi planlanmış yerleşim birimlerinde yaşamak ve büyümek hakkı vardır. Yerel yönetimler politikalarını belirlerken bu temel ihtiyacı gözetmeli, çocukların da fikrini alarak bu doğrultuda adım atmalı.
+
+**Yerel yönetimler çocuklar için neleri gözetmeli?**
+ 
+Yaya gidebilecek kadar yakın okullar, aydınlık ve yüksek koridorlar, bisiklet yolları, ahşap malzemeli oyun araçlarının bulunduğu çocuk parkları, beton değil toprak ve çim okul bahçeleri, trafiğe kapatılmış cadde ve sokaklar, boyama ve grafiti duvarları, spor ve dinlenme tesisleri ve oyun alanları vb. her çocuğun sağlıklı gelişimi için atılması gereken asgari adımlar. Çocuğun bireysel ve kolektif sorumluluk üstlenmesi, özgüveninin gelişmesi, yeteneklerinin ve ilgi alanının ortaya çıkması, demokratik duyarlılığı yüksek birey olarak gelişebilmesi için bunlar önceliklidir. İş yapma, eleştirme, ortaklaşma, farklı fikir ve öneri geliştirme, isteğini açıkça ifade etme anlayışının güçlenmesi için bu şartlar yaratılmalıdır. 
+
+**Her çocuk aynı şartlara sahip değil, farklı durumda olanlar da var!**
+
+Şartları iyi olmayan ve risk grubunda olan çocukların sayısı da oldukça yüksek. Dolayısıyla bu konularda da ciddi adımlar atılması gerekir. Sokak çocukları, engelli çocuklar, hasta çocuklar, kimsesiz ve yoksul çocuklar, sokakta çalışan çocuklar, zorunlu göç mağduru çocuklar ve mahkûm çocuklar bu kapsamda ele alınmalı. Bunun için özel bütçe ayrılmalı. Özellikle zorunlu göç çocuklarının anadilinde eğitim almalarının sağlanmalı. Sağlık hizmeti almaları, cadde, sokak ve meydanların çocuklar için güvenli hale getirilmesi yerel yönetimlerin ihmal edilemez sorumlulukları arasında olmalı.
+
+

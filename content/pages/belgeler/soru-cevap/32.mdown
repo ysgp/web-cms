@@ -1,0 +1,86 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**32) SPOR VE TOPLUM**
+
+**Sporun dünyada ve Türkiye’de temel özelliği nedir?**
+
+Günümüzde, endüstriyel kapitalist sistemin metalaştırıcı etkisiyle spor, profesyonelleşme ve boş zaman aktivitesi olarak kesin çizgilerle ayrılıyor. İzleyici ve sporcu arasındaki keskin ayrım, sporun mübadele üzerinden tanımlanmasına yol açıyor. Spor, piyasa değerlerinin hüküm sürdüğü, ticarileşme ve kâr hırsının hâkim olduğu, piyasa ilişkilerinin bir parçası olan rekabetin her şeyin önüne geçtiği bir alan haline geliyor.
+
+**Mevcut spor anlayışı amatör ruha yer bırakıyor mu?**
+
+Profesyonelleşme dışında kalan hiçbir sportif faaliyete yer bırakmayan bu anlayış, spordaki amatör ruhu yok ederek, insanları seyircilik üzerinden edilgen kılıyor ve spor müsabakalarını alınır-satılır bir faaliyet olarak sunuyor. Yüksek meblağlar üzerinden gerçekleşen sponsorluk anlaşmaları ile spor bir marka değeri haline geliyor. Spor kulüpleri teker teker şirketleşiyor, taraftarlık piyasa ile entegre bir şekilde arz-talep dengesi vasıtasıyla ticari faaliyete doğru evriliyor. Bu gelişmeler, "modern spor" olarak tanımlanan şeyin aslında kapitalizmin spor üzerinde kurduğu tahakkümün bir ifadesi olduğunun açık göstergesi.
+
+**Sporla kâr nasıl buluştu?**
+
+Sporun endüstriyelleşmesi ile birlikte kâr fetişizminin spora hâkim olması, rekabet ideolojisini müsabakaların belirleyeni haline getiriyor. Dostluk, kardeşlik ve temiz oyun gibi söylemlerin içinin boşaltılması ile beraber, kazanma hırsı ve vurgusu, sporun temel dinamiği oluyor. Sadece sonuca odaklı bir faaliyet haline gelen spor, şike, doping gibi eylemleri sıradanlaştırıyor, kazanmayı sporcu sağlığının ve spor etiğinin üzerinde bir konuma yerleştiriyor. 
+
+**Bir kolektif görsellik şöleni olan futbol nereye gidiyor?**
+
+Dünya üzerinde en fazla izleyiciye sahip olan spor dalı olarak futbol, endüstriyelleşmenin billurlaşmış hali. Futbolun yüz yılı aşkın tarihinde, bu dönüşümü rahatlıkla gözlemleyebiliriz. Astronomik ücretlerin futbola dahil olması, keyif veren bir etkinlik olarak futbolun yok olması ve rakibe saygı gibi etik değerlerin rafa kalkmasıyla birlikte yaşanıyor. 
+
+**Para ve sportmenlik uyumlu ve saygılı bir beraberlik yaşayabilir mi?**
+
+Bu süreçte yerellik yok oluyor, büyük şehirlerin büyük bütçelere sahip takımları, futbolun hem formunu, hem de içeriğini belirlemeye başlıyor. Önceleri amaç sportif bir etkinlik iken ve spor, sporcular ile izleyicilerin her birini bu oyunun ana özneleri olarak bir araya getirirken, endüstriyelleşme, oluşan bu kitleselliği, tabiatı gereği parayla özdeşleştirip, hem bu oyunun ana öznelerini kâr getiren metalara, hem de sportif faaliyetin amacını yalnızca paraya dönüştürüyor. 
+
+**Demokratik taraftarlıkla saldırgan holiganlığın yolları ayrılacak mı?**
+
+Öte yandan, futbol ve diğer spor dallarının ayrılmaz bir parçası olan tribünler, ırkçı, milliyetçi, cinsiyetçi, homofobik ve transfobik bir kültürün taşıyıcısı ve yeniden üreticisi haline geliyor. Ulusal maçların hâkim ulusal kültürün yeniden üretildiği önemli bir alan haline gelmesi, sportif faaliyetin kitleselliği üzerinden ticari bir amaç güdülmesinin yanında, hâkim ideolojilerin birer uygulama sahasına dönüşmesine yol açıyor. 
+
+**Tribün neylerse güzel eyler zihniyeti bir çıkmaz yol değil mi?**
+
+Tribünlerde sıkça karşılaşılan ırkçı, cinsiyetçi, homofobik ve transfobik tezahüratlar, yaratılan “erkek tribün” imajıyla ilişkilidir. Ülkemizde küfre karşı cezai bir işlem olarak tasarlanan saha kapatma yerine tribünleri kadınlara açma gibi girişimler, mevcut spor anlayışının cinsiyetçiliğini gözler önüne seriyor. 
+
+**Bağımsız sportif alternatif mümkün mü?**
+
+Tüm bu olgulardan hareketle, endüstriyel spora karşı piyasa ilişkilerinden bağımsız bir sportif alternatifi oluşturma çabalarını desteklemek ve profesyonelleşme karşısında durmak, özgürlükçü ve eşitlikçi bir siyasetin olmazsa olmazlarından. Bu siyaset, spor müsabakalarına sızmış ırkçı, militarist, milliyetçi, cinsiyetçi, homofobik ve transfobik yaklaşımlara karşı ve sporcu emeğinin güvence altına alınması için mücadelenin sürdürülmesi ve var olan mücadelelere destek olunması perspektifini taşır.
+
+
+
+

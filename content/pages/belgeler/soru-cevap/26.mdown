@@ -1,0 +1,103 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+
+##**26) HAYVAN HAKLARI VE TOPLUMSAL SORUMLULUK**
+
+**İnsan diğer canlılardan üstün değil mi?**
+
+İnsanı dünyanın ve diğer canlıların efendisi gibi görmek doğru değil. İnsan da doğanın bir parçası ve diğerleri arasında bir tür. İnsanlar gibi hayvanların da algı, his, acı ve bilinç gibi canlılara özgü olan ve yalnızca insanlara mahsus olmayan özellikleri var. Bu nedenle, insanların hayvanlar üzerinde şiddet, zülüm ve işkence uygulaması kabul edilemez.
+
+**Hak ve hukuk yalnız insanlara mahsus mu?**
+ 
+İnsanlara ahlaken ve hukuken sayısız hak ve hukuk tanınmıştır. Hayvanlara da tanınması ve faydalanmaları gereken haklar var. İnsanlar kendi hak ve hukuklarını savunamayan hayvanların haklarını da savunmakla yükümlü. Onların hakları da insanlar aracılığıyla davalara konu olabilmeli, davalarda müdahil olarak kabul edilebilmeliler. Topluma, doğayla barışık bir yaşama giden yolun buradan geçtiğinin ısrarla anlatılması gerekiyor.
+
+**İnsan ve hayvan arasındaki ilişki eşit olabilir mi?**
+
+Hayvanları evcilleştirme dönemiyle birlikte dünyadaki canlılar arasındaki ilişkiye hiyerarşik bakma anlayışı gelişti ve eşitsiz ilişki böylece doğdu. İnsan farklı bir konuma oturtuldu. Doğayla uyumlu, demokratik ve bütün canlılara eşit değer biçen ekolojik toplum hedefi, elbette hayvanların insanlara bağımlılığı şeklindeki bu yerleşik anlayışı ortadan kaldıracaktır. Böyle bir ahlaki anlayışın oluşup gelişmesi için çaba gösteriyoruz ve göstereceğiz.
+
+**İnsan ve hayvan arasındaki eşitliği sağlamak kolay mı?**
+
+Hayvan haklarının ardında yatan zihniyet, felsefi olarak insanı dünyanın efendisi olarak gören türcülüktür. Hayvanlar üzerindeki tüm sömürü ve tahakküm buradan besleniyor. Bunun kaldırılması kolay değil ama mücadele etmeyi hedef olarak benimsemeliyiz. 
+
+**Hayvanların doğasına müdahale edilmesi doğru mu?**
+ 
+Hayır, elbette değil! Hayvanlar doğal yaşamlarını sürdürebilmeli. Kafes bataryası, boynuz, kuyruk ve gaga kesme gibi uygulamalara son verilmelidir. Şiddet uygulayanlar ağır biçimde cezalandırılmalıdır. 
+
+**Nüfus fazla, gıda az, endüstriyel hayvancılıktan başka çıkış yolu var mı?**
+ 
+Beslenme alışkanlıklarının değişmesi, endüstriyel ve yoğun hayvancılık modellerinin aşamalı olarak terk edilmesi gerekiyor. İnsanlığın binlerce yıl sürdürdüğü bitkisel ve organik beslenme tarzını ve ona uygun gıda üretimi ve tüketimini yerleştirmeye çalışmalıyız.
+
+**Hayvanlara yaşayacak alan kaldı mı?**
+
+İnsanlar kendi yaşam alanlarını diğer canlıların aleyhine genişlettiler. Kentlerde birlikte yaşadığımız sokaklar hayvanlara yasaklanıp, barınaklara hapsedilerek zulüm ve şiddet uygulanıyor. Kentleri hayvanlardan arındıran hiçbir yasal ve fiili uygulama ahlaki değil. Sokak hayvanlarının yaşam güvenliğinden ve refahından da hepimiz sorumluyuz. 
+
+**Sirklere, parklara ve havuzlara ne diyorsunuz?**
+ 
+Bunlarda esasen eğitici, eşit ve birlikte yaşama kültürünü aşılayan bir şey yok. Kâr ve eğlence amaçlı hapishaneler bunlar. Sportif avcılık, yunus havuzları, sirkler ve hayvanat bahçeleri hayvanları ölüme ve esarete mahkûm ediyor. Hepsini kaldırmak en iyisi.
+
+**Canlı hayvan ithalatı yapılıyor, buna ne diyorsunuz?**
+
+Gümrükler ve sınırlar yolgeçen hanına dönmüş. İthalatı da, taşımacılığı da kesinlikle sınırlanmalı. Bu bakımdan hayvan ticaretini önlemek ve türleri korumak için getirilen uluslararası anlaşmalara uyulmalı. Evcil hayvan satışı da önlenmeli. 
+
+**Vejetaryen ve vegan beslenmenin hayvan haklarıyla ilgisi var mı?**
+
+Tercih eden bireylerin hikâyeleri farklılıklar gösterse de, hayvan haklarıyla yakın ilişkileri var. Bu beslenme tarzlarının tanıtılması ve teşvik edilmesi hayvan haklarının gelişmesi bakımından önemli. Ürün etiketlerinde hayvansal veya hayvanlarda test edilmiş ürün içerip içermediğine yer yer verilmesi önemli bir adım olacaktır.
+
+**Kürk çok sıcak tutuyor, karşı çıkmak saçma değil mi?**
+
+Kürkü için hayvan üretimi, avı ve kürk satışı yasaklanmalı. Çünkü, moda ve ısınmak için, insanın bir başka canlıyı öldürmesine gerek yok. Kendine yakışan ve ısıtan başka giysiler giyebilir. Dünya sadece insanlara değil, bütün canlılara ait. Kâr için onların hayatına son vererek aslında dünyanın sonu hazırlanıyor. 
+
+**Deneylerde hayvanların kullanılmasının nesi yanlış?**
+
+Bir canlı için başka bir canlının yaşamı araç ve malzeme olarak kullanılıyor. Bazı canlılar açıkça kapitalizmin kâr amacının parçası haline getiriliyor. Bunun hayvan hakları ve ahlaki değerler bakımından kökten sorgulanması gerekiyor. Bu bakımdan ister tıbbi, ister kozmetik amaçlı olsun deneylerde hayvan kullanılmamalı ve mutlaka alternatif yollar aranmalıdır.
+
+**Hayvan Hakları Denetleme Birimi öneriyorsunuz, bu ne işe yarayacak?**
+
+Böyle bir birime çok ihtiyaç var. Çünkü hayvanların hakları ihlal edildiğinde onların başvurma imkânları yok. Bu nedenle, kurumların uygulamalarının yasa ve yönetmeliklerin getirdiği şartlar bakımından denetlenmesini böyle bir kurumun yapması ciddi bir ihtiyaç. 

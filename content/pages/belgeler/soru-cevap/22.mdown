@@ -1,0 +1,87 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**22) GENÇLİK**
+
+**Bu düzen gençlere ne vaat ediyor?**
+
+Hayatın her alanında katılım ve eşitlik sorunu gençlerin canını sıkıyor. Mevcut sistemi ve bunun üzerinde şekillenen toplumsal yapısı epey köhnemiş Türkiye’nin yeniden inşası gerekiyor. Düzen gençleri “tehlike”, “sorun”, “taze ve ucuz işgücü”, “militarizmin bedelsiz insan kaynağı” ve biraz da “gelecek” olarak görüyor. Şimdiye kadar yapılan darbelerin hemen hepsi kendilerine dayatılan eşitsiz ve köhnemiş düzeni reddeden ve özgürlük isteyen gençleri hedef aldı. En son Taksim Gezi Parkı’na kışla görünümlü AVM yapmak isteyen AKP iktidarına karşı seslerini yükseltip son yılların en kitlesel direnişini sergileyenler de ağırlıkla gençlerdi. Bu mücadelede yaşamlarını kaybedenlerin de gençler olması tesadüf değildir.Düzenin bu geleneksel ve tahammülsüz, despotik yaklaşımın muhatabı olan eğitimsiz, eğitim gören ve eğitimli gençlerin büyük bir bölümü geleceğe dair haklı olarak umutsuz bakıyor. Bunun değişmesi ve gençlerin toplumda “genç” kimlikleriyle var olabilmelerinin yolunu açacak köklü değişim öngören, merkezinde gençlerin ihtiyaçları olan politikaların ortaya konulması gerekiyor.
+
+**Gençlerin eşit statü istemesi çok bir şey mi?**
+ 
+Bu gençlerin hakkıdır. Kendi yaşamları üzerinde daha fazla söz ve karar sahibi olmaları gerekir. Geleneksel devlet anlayışı ve uygulaması özellikle eğitimi kullanarak gençlerin aile, devlet ve iktidar üçlüsünün ideallerine göre şekillenen bir hayatı seçmelerini isteniyor. Genç bireylerin kendi yaşam ve kimliklerine dair bu seçimi özgürce yapmaları engelleniyor. Bunu mümkün kılacak toplumsal zeminlerin yaratılması çok bir şey değil, bir hakkın yerine getirilmesidir. Onları piyasaya işgücü olarak görmekten vazgeçip eşit yurttaş olduklarını hatırlamak ve her alanda katılım hakkı tanımak doğru olandır. Kamu hizmetlerinin, özellikle sosyal ihtiyaçların gerçekleşmesinde buna dikkat edilmelidir.
+
+**Gençlerin kamusal alanda var olmaları nasıl sağlanır?**
+ 
+Katılımın gençler açısından en önemli boyutu toplumsal karar süreçlerine dahil olarak kamusal alanda varlıklarını hissettirmeleridir. Ancak nüfusla kıyaslandığında buna imkân tanıyacak gençlik çalışmaları, kaynak ve kurumların yeterli olmadığı görülüyor. Hizmetleri artıracak ve yaygınlaştıracak adımlar atılması gerekiyor. Sosyal ve kültürel merkezler, eşit ve aktif yurttaşlar olarak gençlerin katılımını  sağlama da önemli bir imkân olarak değerlendirilebilir. Yerel yönetimlerin bu yönde de yetkilerinin artırılması gerekir. 
+
+**Genç işsizlik oranı tahammül sınırlarını zorlamıyor mu?**
+
+Malum genç işsiz sayısı, yetişkin işsizlerin iki katını aştı. Son resmi açıklama % 19,3 olduğunu ortaya koydu. Yani her beş gençten biri işsiz. İşsizlik eğitimliler arasında hem hızla artıyor, hem de oranı giderek yükseliyor. İşsizliğin azaltılması ve gençler için nitelikli istihdam alanları yaratılması daha fazla gecikmeden ulaşılması gereken bir hedef. Bundan dolayı gençler lehine çözümlerin stratejik olarak oluşturulması zorunluluk haline geldi. İş bulan gençlerin de bir dizi eşitsizlik ve adaletsizlikle karşı karşıya kaldıkları bir gerçek. Ücretsiz staj uygulaması da bu durumun yaygın ve dikkat çeken bir parçası. Askerlik yapmış olma şartının aranmasının eşitsizliği daha da derinleştirdiği ise son derece açık.
+
+**Gençlere sürekli sosyal güvence sağlanamaz mı?**
+ 
+Gençlerin eğitim dönemlerinin sosyal güvence altına alınmaması Türkiye’de bir sorun olmaya devam ediyor. Bunun önüne geçilmesi için eğitim dönemleri ve çalışma yaşamı öncesinde aileleri veya sivil toplum kuruluşlarının desteklerine ihtiyaç duymadan, bir hak olarak sosyal güvencelerinin devlet tarafından sağlanması gerekiyor. Partimiz bunu öneriyor.
+
+**Bu düzen gençlere eğitimde fırsat eşitliği sağlıyor mu?**
+
+Devlet okullarının eğitim kalitesi çağa uygun değil, son derece yetersiz. Kaliteli eğitimin özel okullarda verilmesi, sık değiştirilen sınav sistemi öğrencileri ve aileleri dershanelere yönlendiriyor. Bu politikanın her yönüyle hatalı olduğu ortada. Oysa eğitimde bütün gençlere fırsat eşitliği tanınması sosyal adalet ilkesi gereği. Ailelerinin sınıfsal durumları nedeniyle eğitimini sürdüremeyen gençlerin oranı bir hayli fazla. Bunun önüne geçmek için yeterli kamu kaynağının bu alana yönlendirilmesi gerekiyor. Ayrıca, barınma, beslenme ve sağlık hakkı da aynı kapsamda ele alınmalı. Bunlar kamunun zorunlu hizmet alanlarıdır.
+
+**Gençler “nasihate doyduk” diyorlar, siz ne diyorsunuz?**
+ 
+Haklılar, çünkü her alanda katılım sorunu yaşıyorlar. Gerçi seçimlerde aday olma yaşı filan düşürüldü ama sorunun esası halen sürüyor. Gerontokrasi denilen yaşlılar hâkimiyeti, hiyerarşik ve bürokratik yapılanma özellikle 12 Eylül Darbe Rejiminden beri güçlendirildi. Bu yapılarla ve gençleri katılım dışında tutarak sorunlar çözülemez. “Deneyim” ve “olgunluk” gibi gerekçelerle karar süreçlerinden dışlanmaları doğru değil. Yaş ve deneyim hiyerarşisi toplumun geleceğinin inşa edilmesini engeller. Üniversitelerde sesini yükselten genç her gün karşısında polisi, idareyi ve mahkemeyi buluyor. Hemen her olayda  gençlerin karşısında dikilen devletin dili ve tarzı  çok yaşlı. Onları hiç anlamıyor ve anlamaya da yanaşmıyor.
+
+**Siyasette gençleşmeye ne diyorsunuz?**
+
+Gerek partilerin, gerekse siyasal süreçlere gençlerin katılımlarının önündeki yasal sınırlamaların ve fiili engellemelerin kalmasını savunuyoruz.  Oy verme ve seçilme yaşı daha aşağı indirilmelidir. Çünkü, dünyada olduğu gibi, Türkiye’de de gençle, artık siyaset alanının diğer yaş gruplarıyla eşit oldukları, söz ve karar hakkını kullanabildikleri bir zemin haline gelmesi istiyorlar. Büyük toplumsal değişimlere yaratıcı dinamizmleri ve sergiledikleri olgun ve kararlı mücadele üsluplarıyla gençlerin bu taleplerinin son derece haklı olduğu görülüyor.  Günümüz dünyasındaki teknoloji, iletişim ve eğitim olanaklarının olağanüstü gelişimi genç kuşakların daha erken yaşlarda olgunlaşmaları ve hayata hazırlanmaları imkanını veriyor. Partimiz bu konuda ileri bir adım atıp, kendi örgütsel yapısında ve seçim sisteminde pozitif ayrımcılık uygulayıp gençlere her seçimli organda kota getirmiştir. Eşitlikçi, özgürlükçü ve demokratik bir siyasi parti olarak bunu bir ilke olarak görüyoruz. Siyasete katılma yaşının da 16’ya indirilmesi gerektiğini düşünüyoruz.
+
+**Anayasa’nın gençliğe bakışında bir problem yok mu?**
+
+Yıllardır itiraz eden gençler çok haklı. Biz de değişsin diye mücadele ediyoruz. Bu anayasa gençleri devletin ve benzeri kurumların ideallerini gerçekleştirecek araçlar olarak görüyor ve her alanda böyle davranıyor. Anayasa ve diğer yasaların, eğitimle ilgili yönetmeliklerin bu anlayıştan arındırılması gerekiyor. Bu bakımdan özellikle Anayasa’nın “gençliğin korunması” ile “sporun geliştirilmesi” başlıklı, devletin gençlerle ilişkisini düzenleyen 58. ve 59. maddeleri çıkarılmalı ve asla bir daha yer verilmemelidir. 58. madde devletin bekasını merkeze alan ve gençleri bu amaçla araçsallaştıran, devletin gençlere müdahalesi için sınırsız alan açan bir maddedir. 59. madde ise alkol, uyuşturucu gibi alışkanlıklara karşı gençleri korumayı öngörüyor. Günümüz gençliği böyle bir korumayı asla kabul etmiyor. Farklı evrenler söz konusu. Spor ise bir ehlileştirme, terbiye etme alanı olarak değerlendiriliyor. Aynı bakanlığın hem gençlikle, hem de sporla ilgilenmesi de bunun göstergesi. Gençler bu ayak bağlarından kurtulup özgürleşmek istiyor. 
+

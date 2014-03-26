@@ -1,0 +1,138 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**9) YERİNDEN YÖNETİM VE YEREL ÖZERKLİK**
+
+**Memlekette demokrasi olması için belediye nasıl olmalı?**
+
+Merkezi idarenin mahalli idareler üzerindeki vesayet rejimi kalkmalı. Yerel yönetimler kendileri karar alıp uygulayabilmeli. Bu kararlar seçilmiş yerel organlar tarafından alınmalı. Bu belediyelerin yerel gelir kaynakları olmalı ve harcamalarını bunlardan yapmalılar. Merkezle koordinasyon ayrı bir konu ama birçok konuda merkeze muhtaç olmamalılar. Belediyeler o yerel yerleşim biriminde yaşayan halkların evleridir. Eğer yerel yönetimler kendi alanlarıyla sınırlı konularda, buralardaki kamu işlerini o beldede yaşayanların çıkarları doğrultusunda düzenler ve yaparlarsa, yöre halkının çıkarına çalıştıkları görülür.
+
+**Yerinden yönetimin güçlendirilmesine neden kafayı taktık?**
+
+Her şeye Ankara karar veriyor. Kent halkının kararda ve uygulamada sözü yok. Demokrasi insanlar nerede yaşıyorsa oradan, kentlerden, kasabalardan, köylerden yükselir. Demokratik bir ülke olmak istiyorsak, yerel yönetimler ve kent halkı katılım, karar ve yönetim süreçlerinde güçlü olmalı. Böyle olsaydı Gezi olayları, 3. köprü gibi projeler yaşanır mıydı?
+
+**Yerinden yönetim memleketi bölmez mi?**
+
+Niye bölsün? Böyle kalırsa bir gün bölünür. Halbuki belde halkı kendi kimliği, kültürü, inancı ve diliyle, bütün demokratik katılım yollarını her sorun ortaya çıktığında kullanarak rahatlıkla barışçı bir şekilde çözer ve beldesini yönetir. Bunun için beldede, mahallede meclisler kurabilir ve kendine uyan kararı alır. Kürt meselesini sıkı merkezi yönetimle çözmeye çalıştık da ne oldu? Neredeyse bölünmenin eşiğine geldik.
+
+**Ne yani valiler, kaymakamlar olmasın mı? Bu memleketi kim idare edecek?**
+
+Vali ve kaymakamların bir amacı vardır: Merkezin vesayetini belediyeler üzerinde sürdürmek. Bizim sorunumuz tam da merkezi vesayetin katlanılmaz hale gelen ağırlığı değil mi? Ayrıca bu yöneticiler memur. Belli dönem için ilçe ve illere atanıyorlar ve sonra da gidiyorlar. Yerel yöneticiler oranın insanı. Seçimle geliyor ve seçimle gidiyorlar. Bölge halkı onları tanıyor. Benimsemezse seçmiyor. Vali ve kaymakamlar merkezi idareye bağlı ve onun talimatıyla hareket ediyor. Bazı alanlar hariç yerinden yönetimlerin merkezi idareye bu şekilde bağlanmasına demokrasi denemez. Belediye hizmetlerinin hızla ve bölgenin ihtiyaçlarına uygun şekilde yapılması ancak bölge halkının katılımı ve kararıyla gerçekleşir. Yerel yönetimleri merkezi idarenin şubesi gibi görmek doğru değildir. Yerel yöneticiler de merkezi idarenin memuru olamaz. 
+
+**Güçlü merkezi idareden niye rahatsız oluyorsunuz ki!**
+ 
+Osmanlı dahil 200 yıldır yönetimimiz merkezi. Bölgesel eşitsizlik, inanç, kültür ve kimlik çatışmaları yaşanmadı mı? Hem de nasıl, binlerce insanın ocağına ateş düştü ve hayatı söndü. Bu koca ülkenin doğası talan edilmedi mi? Dereler kurumadı mı? Çöken tarım köylüyü çiftçiyi kıvrandırmıyor mu? Yıllar boyu yolsuzluklar birbirini izledi. Bugün, aman bizi merkezi idareyle pek güzel yönetiyorlar diyebilir miyiz? Bir halk en güzel kendi kendini yönetir. Bıraksınlar, yerel ve yerinden yönetim modeliyle ve demokratik katılımla halk yaşadığı kentleri yönetsin. O zaman demokrasi neymiş görelim.
+
+**Yerinden yönetimin daha iyi ve demokratik olacağının garantisi ne?**
+
+Halk kendini yönetecekleri kendi belirliyor ve seçiyor. Sorunları, ihtiyaçlarını, çözüm yollarını tartışarak buluyor. Kararını yine tartışarak alıyor. Beldenin parasını çarçur etmeden kullanıyor. İşi denetliyor. Hesapları halka açık hale getiriyor. Beğenmediğini demokratik yollardan değiştiriyor. Kâr ve çıkarın belirleyici olmasına göz yumulmuyor. Daha ne olsun!
+
+**Nedir bu merkezi idareyle alıp veremediğiniz anlamadım!**
+
+Kocaman bir ülkeyiz. Nüfus almış başını gitmiş. Dil, inanç, etnik kimlik derseniz Birleşmiş Milletler gibiyiz. Tarihi mirasımız kolay bulunmaz. Bu topraklar ve sulardaki biyolojik çeşitlilik çok az ülkede var. Binlerce köyü, sayısız ilçesi ve çok sayıda kenti olan Türkiye’yi Ankara’dan idare etmek ancak bu kadar olur ve buraya kadar olur. Bürokrasiyi büyütürsen, demokrasiyi küçültürsün. Küçük bir hizmetin gerçekleşmesi bile aylar alır, o da nasıl bir şey olur, Allah bilir. Halk işin içine katılmaz ise, sonuç bizdeki gibi üçüncü sınıf olur. Niyet halkın gelirlerinden oluşan bütçeyi, tek parti ya da fazla partili bir koalisyonun emrine vererek, onlara menfaat sağlama olunca, bu merkeziyetin varacağı yer, hem her türlü otoriterleşme, hem de halkı yoksul ve yoksun bırakmadır. Ne kadar merkezileşme, o kadar yozlaşma, o kadar otoriterleşme. Artık yeter!
+
+**Yerel idareler bir şeyler yapıyor da engelleyen mi var?**
+
+Olmaz mı! Belde için plan proje yaparlar, merkezi idare yok sayar. Kendi karar alır ve zorla o kararı uygular. Kuzey Marmara Otoyolu, 3. Köprü böyle oldu. İstanbul Belediyesi’nin üst ölçek planlarını yok saydılar. İşi kitabına uydurdular. Yerel yönetimler merkezi idareye bağlanıp, onun şubesi haline getirilince başka bir sonuç beklenemez. HES’ler, limanlar, kentsel dönüşümler hep bu merkezi idarenin vesayeti sonucu oluyor. Türkiye’nin öteki ucundaki bir kentin meydanı için Ankara’da karar veriliyor. Yerel yönetimlerin eli kolu bağlanmış.
+
+**Yerinden yönetim aslında yerel yönetim değil mi?**
+ 
+Epey farklı. Her şeyin merkezi yönetim tarafından belirlendiği, yerel yönetime de sınırlı bir alanın bırakıldığı geleneksel belediye modelinden, kendi kendini yönetme, katılımcı demokrasi ve özerk karakteri nedeniyle çok farklı. Aslında dünyanın birçok yerinde uygulanıyor ve bir kere deneyen bir daha bırakmıyor. Bir kentteki, beldedeki kamu hizmetlerinin önemli bölümünün merkezi idareden bağımsız olarak o yerel yönetim bünyesinde gerçekleştirilmesidir. Bunlar idari, iktisadi, teknik hizmet alanlarıdır. Merkezi idarenin sisteminin ve hiyerarşisinin dışındadır. Bütçesi ağırlıkla o belde gelirlerinden oluşur. Merkezden de bazı kaynaklar sağlanır. Faaliyetleri demokratik usullerle halkın katılımına ve denetimine açıktır. Her şeyin kaymakam, vali, bakan ve başbakanın iki dudağının arasında olduğu merkezi modelden bıktık illallah!
+
+**Türkiye’nin yerinden yönetime ihtiyacı var diyorsunuz öyle mi?**
+
+Her şeyi Ankara’nın belirlediği bir hayattan kurtulmanın başka türlü imkânı yok. Halk yönetime katılmadan, yerel ihtiyaçlarla hizmetler arasında birbirini besleyen bir sistem kurmadan işin içinden çıkamayız. Üstelik kent ve beldelere verimli ve etkin hizmette her halde yerel idare yoluyla olabilir. Halkın doğrudan veya dolaylı yollardan karar ve yönetim sürecine dahil olması da faaliyetlerin kalitesini, şeffaflığını, maliyetin düşürülmesini sağlar. Daha ne olsun!
+
+**Mevcut mahalli idareler kanunu yetmiyor mu?**
+
+O kanunlar çok geride kalmış. Hepsi de merkezi vesayeti güçlendirmiş. Bunlar kalkmalı artık. Yetmez, Avrupa Konseyi Yerel Yönetimler Özerklik Şartı üzerindeki çekinceler de kalkmalıdır. Merkezilik bırakılıp, ademi merkeziyete geçilmelidir. Yurttaşa daha yakın olan yerel yönetimleri böyle güçlendirerek demokrasi geliştirilmelidir. Yurttaşın hizmet ihtiyaçları böylece daha hızlı, kaliteli, katılımcı ve kesintisiz sağlanacaktır. Hatta ademi merkeziyet ilkesini bölgesel yönetimlerle birlikte ele almamız gerekiyor. Yurttaşların, yönetenleri rahatlıkla denetleyebileceği, hesap soracağı, bütçelerini katılımcı bir biçimde hazırlayacakları yönetim kademelerinin kendilerine yakın yerlerde kurulması doğru olandır. Küçük yerel birimlerin gerçek özerklikleri ancak bölgesel yönetimlerin kurucu unsurları olmasıyla mümkün olacak.
+
+**Büyükşehir uygulamasının sayısı artırıldı, nasıl karşılıyorsunuz?**
+
+İstanbul’da başlayıp geliştirilen bir model. AKP ve Başbakan Erdoğan bu modele sıkı sıkıya sarıldılar ve şimdi sayıları 30’u buldu. Hatta onları Türkiye’nin merkezi siyasal iktidarına taşıyan şeyin bu model olduğunu düşünüyorlar. Bu 12 Eylül 1980 Askeri Darbe zihniyetinin ortaya çıkardığı bir modeldir. Büyük metropollerin zengin çoğul etnik, kültürel, inançsal, ekonomik yapısını ve bunlardan kaynaklanan dinamik siyasal çelişmelerini kontrol altına almak amacıyla geliştirildi. 
+
+**Büyükşehir modelinin nesi sorunlu?**
+
+Etkin kamu yönetimi gerçekleşmeli denilerek, kente dair bütün karar mekanizmaları olağanüstü merkezileştirildi ve katılım kanalları mümkün olduğu kadar kapatıldı. Böylelikle kenti yönetmek adına, demokrasi ve katılımı yok etmek için çok sayıda belediyenin varlığına son veridi ve yetkiler tek belediyede toplandı. Yetkiler büyük şehir ile ilçe belediyeleri arasında paylaşıldı gibi görünse de aslında il düzeyinde merkezileşti. Zayıf meclis ve çok güçlü belediye başkanı modeli olarak devreye girdi. İmar yetkisi de devralındı. İmar yetkisi aslında rantın nasıl dağıtılacağı ve nasıl yoğunlaşacağıyla ilgili son derece önemli bir yetkidir. Nitekim sonuçları özelleştirmeler ve kentsel dönüşüm faaliyetlerinde açıkça görüldü. 
+
+**Çılgın Projelerin büyükşehir modeliyle ilgisi var mı?**
+ 
+Elbette var, nitekim hem Gezi Parkı  olayında, hem de 17 Aralık 2013’te patlayan Yolsuzluk ve Rüşvet Skandalı’nda bu gerçekliğin ortaya çıkması tesadüf değildir. Belediye başkanı ve etrafındaki küçük bir grubun büyük projeler, çılgın projeler hakkında karar verme yetkisine sahip olmasına imkân veren bu modelden başkasını beklemek zor olur. AB’nin yerel yönetimlere dair neredeyse bütün ilkelerine aykırı bir modeldir. Gezi Parkı, 3. köprü, 3. havaalanı, Kanal İstanbul gibi projeler bu modelin neleri getireceğini gösteriyor. Yeşiller ve Sol Gelecek olarak yerel yönetim anlayışımız bu modelin terk edilmesi ve yerinden, özerk ve demokratik yerel yönetimler modeline geçilmesidir.
+
+**Nüfusun büyük bölümü bu modelin yönetimine mi girecek?**
+
+Türkiye nüfusunun % 75’i, toprakların % 50’si İstanbul Büyükşehir Belediyesi’nde sembolleşen modelin yönetimi altında artık. Binlerce köy ve belde belediyesi kaldırıldı. Köylerin muhtariyeti son buldu ve mahalle haline getirildiler. İl düzeyinde merkezileşildi. Bunlar yapılırken kimseye sorulmadı. Köylülerin kendi haklarında alınan karardan haberleri bile olmadı. Şimdi, 1982 Anayasası’nda açıkça yazıldığı gibi, merkezin mahalli idareler üzerindeki vesayet hakkının gelişmiş örneği olan İstanbul modelinin ortaya çıkardığı zihniyet ülke nüfusu ve toprağının büyük bir bölümünde hükmünü sürdürecek. Bu tür merkezi idare modellerine geçmenin nedeni hiçbir zaman ve hiçbir dönemde insanlara daha iyi düzeyde hizmet götürmek değil, tersine onları daha güçlü ve etkili bir şekilde yöneterek kontrol altında tutma istek ve ihtirasıdır.
+
+**Bir de bölgesel yönetim konusu var, bu ne işe yarayacak?**
+
+Bizdeki idari bölünme sistemi 19. yüzyıldan kalma. Vilayet bazında liva (sancak) sistemi üzerine yapılmış. Fransa’dan alınan bu idari yapılanma yerleşimler arası seyahatin atla yapıldığı dönemlerden kalma. Yani bir merkezi yönetim ve bugün sayıları 81’e çıkan vilayet bazında mahalli idarelerle yönetiliyoruz. Üstelik merkezle yerel arasındaki ilişki de oldukça güçlü bir vesayet ilişkisi. Bu vesayetin kalkıp, yerel yönetimlerin kendi kararlarını o yerelin sakinlerinin katılımıyla verebileceği ve kaynaklarının kullanımıyla ilgili söz sahibi olacakları bir özerkliği elde edebilmeleri için, merkezin yetkilerinin önemli bölümünü yerellere devretmesi gerekir. Bu noktada ara bir ölçek birim olarak merkezin bazı yetkilerinin toplumsal, ekonomik, kültürel, ekolojik vb. değer ve kıstaslara göre düzenlenmiş bölgelere devredilmesi isabetli olacaktır. Bu bölgeleme sistemi merkezden yerele yetki devrinin hem birçok gerçekliğe uygun olmasını, hem de toplumsal beklentilere yanıt vermesini sağlayabilir. 
+
+**Yıllar önce kurulan Bölge Kalkınma Ajansları var, onlar yetmiyor mu?**
+ 
+Hayır. Kalkınma Ajanslarının rolü kentlerin yatırım planlarının bölgesel ölçekte düzenlenmesinden ibaret. Devlet Denetleme Kurulu’nun son raporu ajansların tıkandığını açıkladı. Kalkınma ajansları modelinin işlevli olmadığı devlet kurumlarınca açıklandığına göre, bunlarda ısrar etmenin anlamı yok. Yerine, çağımızın demokratik, katılımcı, denetlenebilir, özerk bölgesel yönetimleri kurulmalıdır. Bu özgürlükçü ve demokratik anlayışla oluşturulacak bölge meclisleri ile yerel halkın kendi kararlarını kendileri almalarının önündeki geleneksel merkezi devlet yapılanmasının ve halkı dışlayan merkez politikalarını dayatan yerel yönetim kaynaklı engellerin kalkmasını sağlayacaktır. 
+
+**Merkez yetki devretsin de hangilerini?**
+
+Adliye, İçişleri, Dışişleri, Savunma ve Maliye dışındaki bakanlıkların yetkileri yerinden yönetimlere devredilebilir. Misal, belediyelerin yaptığı asfaltlama hizmetini düşünelim. Altyapı alanındaki yetkilerin bazıları bakanlıkta olduğu için belediyeler bütüncül ve uzun erimli planlama yapamıyorlar. Her yıl bu yollar neden kazılıyor, su boruları döşenirken elektrik tellerini döşemek neden akıllarına gelmedi diye sormanızın nedeni merkezi idarenin yerel üzerindeki vesayetinden kaynaklı. Çünkü her bakanlık kendi planını kendisi yapıyor ve belediyenin yolunu da istediği gibi kazıyor, çünkü yetki ve güç onlarda.
+
+**Belediyelerin yapısı hep böyle mi kalacak?**
+
+Elbette kalamaz, demokratikleşmeli. Meclislerin üye sayısı nüfusla uyumlu değil ve temsil gücü zayıf. Mahallelerin belediyelerle yönetim bağı kurulmalı. Bu ihtiyaç muhtarlarla karşılanamaz. Katılım kapasitesi yüksek ve sürekliliği olan kurumsallaşmalara gidilmelidir. Yani, tepeden tırnağa belediyelerin yapısı değişmeli, katılım mekanizmaları, kurumları ve platformları artırılmalıdır.
+
+**Özyönetim, katılım deniyor, nasıl olacak bu?**
+ 
+Bölge ölçeğinde bir yönetim birimi nasıl o bölgedeki yerellerin katılım ve karar süreçlerinin güçlü bir demokratik işleyiş olarak hayata geçirebilecek ise, mahalle ölçeğinde bir yönetim modeli oluşturmak da yerellerin işleyişini hem demokratikleştirecek, hem de güçlendirecek. Mahallelerde şu anda muhtarlıklar bulunuyor. Muhtarlar seçildikten sonra da esas itibariyle merkezi idareye bağlı bir işleyiş söz konusu. Aslında temel ihtiyaç muhtarların merkezden yönetimi modelini değiştirip yerel yönetimlerle ilişkilenmesini sağlamaktır. Bunun yolu da mahallede yaşayanların doğrudan katılacakları sandık bazında seçimlerle Mahalle Meclislerinin oluşmasıdır. Böylelikle bütün mahalle meclisinden seçilen temsilcilerle o yerelde kent konseyi veya diğer adıyla kent parlamentosu oluşabilir. Özü itibariyle mahalle meclisleri özyönetim birimleridir. Bu meclisler vasıtasıyla yerel yönetimlerin karar süreçlerine demokratik ve eşitlikçi bir katılımı mümkün olabilir.
+
+**Her vatandaş belediye işlerinden anlar mı?**
+ 
+Belediyelerin yaptığı işler ve verdikleri hizmetler aslında tamamen vatandaşın temel yaşamına dair işlerdir. Kimse o işlerin yabancısı değildir. Doğum, temizlik, imar, eğitim, sağlık, enerji, ölüm, altyapı, su vs. Tüm bu konularda neyin nasıl yapılması gerektiğinde o beldenin insanları söz sahibi olmalı, tercih hakkını kullanabilmelidir. Kentsel tasarım ve hizmetlere dair tüm uzmanlık bilgileri de yurttaşın tercihlerini demokratik şekilde yapması için yardımcı olmalıdır. Herkesin yaşadığı kenti, mahallesini yönetmeye hakkı vardır. Dünyanın ilk gelişen bölgelerindeki idari sistem yerel idaredir. Bütün modeller gelip geçmiştir ama halkın doğrudan katılımına açık yerel yönetimler daima kalıcı olmuştur. Avrupa’nın temel idare biçimi yerinden yönetimdir. Kent paydaşları kalıcıdır ve kendi sorunlarının hangi yollardan nasıl çözüleceğini, en iyi onlar bilir.
+
+
+
+

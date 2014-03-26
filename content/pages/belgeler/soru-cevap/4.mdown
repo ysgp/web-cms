@@ -1,0 +1,107 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**4) KÜRT SORUNU VE ÇÖZÜM YOLLARI**
+
+**Memlekette yalnız Kürt mü var, neden ötekiler sorun değil?**
+ 
+Olur mu! Türkiye’de çok sayıda farklı etnik kimliğe sahip vatandaş var. Kürtler bu kesimler içinde nüfusu en kalabalık ve bazı kentlerde çoğunluk durumunda olanıdır. Mevcut anayasa, yasalar, kurumlar ve devletin geleneksel yönetim anlayışı nedeniyle aslında Türklük ve Sünni Müslümanlık kapsamı dışında kalanların hepsinin cumhuriyetle çok ciddi sorunu var. Bu toplum kesimleri hiçbir zaman eşit yurttaş olarak görülmediler, kimlik ve kültürleri yok sayılmaya, asimilasyona, inkâra, sürgüne ve çoğu kez de yok edilmeye çalışıldılar. Kürtlerin farkı 1984 yılından beri bu sorun nedeniyle çok kanlı ve binlerce insanın yaşamını kaybetmesine yol açan  savaşın güçlü bir tarafı olmalarıdır. Bu sorunun çözümü, Türkiye’nin yüzyıllık bir dönemi kapatık köklü biçimde demokratikleşmesinin anahtarı konumundadır. Diğer kesimlerin yaşadıklarının önemsiz olduğu sonucu çıkarılamaz. Bu bakımdan, açıkçası Ermenilerin, Ezidilerin, Lazların, Yahudilerin, Romanların, Alevilerin, Rumların, Çerkezlerin ve Arapların, Süryanileri ve ayrımcılığa uğrayan diğer bütün kesimlerin sorunu da Kürtlerin sorunu kadar önemli ve ihmal edilemez bir noktadadır.  
+
+**Devlet şimdi “terör örgütü” dediği PKK  ve lideri Öcalan’la görüşüyor, buna ne diyorsunuz?**
+
+Savaşların tarihine bakın, insanlar ve devletler kiminle savaşırlarsa, barış ve çözüm için onunla görüşürler. Aksi davranışlar zaten barış getirmez. İrlanda’da İRA’yla, İspanya’da ETA’yla, Güney Afrika’da Mandela ve Güney Afrika Kongresi’yle barış görüşmeleri yapıldı. Bizde de devletin resmi ve sivil güçleri ile PKK’nın silahlı güçleri arasında neredeyse 30 yıl süren bu savaştan sonra, 21 Mart 2013 Newroz Bayramı’ndan beri eylemsizlik, ‘Barış ve Çözüm Süreci’ diye adlandırılan görüşmeler başladı. Artık cenaze gelmiyor. Daha fazla insan kaybı ve toplumsal tahribatın önlenmesi bakımından bu müzakere süreci hayati bir öneme sahip. Devlet ilk kez savaştığı güçle görüşüyor, TBMM’yi bu sürece dahil ediyor ve toplumun bu barışa hazırlanması için, yetersiz de olsa kimi adımlar atıyor. Sürecin anayasal ve yasal hazırlığı henüz beklenen hızda sürmüyor. KCK davası tutukluları sorunu çözüme kavuşmadı. Bütün güçlüklerine ve ağır seyretmesine rağmen bu barış, müzakere ve çözüm süreci hayati bir öneme sahiptir. Ona değer verilmeli ve sonuç alınması için sürekli desteklenmelidir. 
+
+**Çatışmalar durunca Kürt Sorunu çözülmüş olur mu?** 
+
+Böyle bir adım çok önemli ama yeterli değil. Keşke o kadar kolay bir çözüm olsa. Önemli olan Kürtlerin haklarının görüşülebileceği bir demokratik zemin yaratmak ve gerekli olan bütün anayasal ve yasal değişiklikleri yapabilmektir. Farklı dilleri, kültürleri, inançları, kimlikleri eşit yurttaşlık hakkına kavuşturacak yasal adımlar atılmadan “gönüllü yurttaşlık” sağlanamaz. Bu nedenle, çatışmanın durması çok iyi, ama ardından yapılacak çok şey var. Karşılıklı güvenin sarsılmasına yol açacak davranışlardan kaçınılarak, sürecin çürümesine ve kopmasına yol neden olacak ertelemecilik, zaman kazanma ve  oyalama, idare etme gibi yollara girilmemesi gerekir. Cumhuriyet öncesinden başlayan ve bugüne kadar süren, milyonlarca insanı ilgilendiren, yaklaşık 150 yılık ve kana bulanmış bir sorunun kısa sürede ve duraksamalar yaşanmadan çözülmesi tabii beklenemez. Süreci tersine çevirmek isteyen, çatışmayı körükleyen, asla Kürtlerle eşit şartlarda yaşamayı kabullenmeyen ve yeniden eski baskıcı ve asimilasyoncu rejim günlerine dönülmesini hedefleyen, devletin içinde ve siyasal zeminde bazı güçler bulunduğunu da biliyoruz. Ama kitlelerin umudunun kırılmasına ve sıcak çatışma şartlarına dönülmesine de asla seyirci kalınmamalı. Partimiz bu konuda gereken mücadele ve dayanışmayı  her zaman sergiliyor ve sergileyecek. 
+
+**Kürtleri rahatsız eden yasalar ve yasaklar hangileri?**
+ 
+Diyalog ve tarafların hukuki güvenceye alınmış bir zeminde müzakereleri iyi bir ortam yaratabilir. Ama iş onunla bitmez. Kürtlerin isyanına neden olan çok şey var ve değişmesi gerekir. Bölgede halen büyük bir askeri güç var, artık bunun azaltılması, sınır güçleri dışında kalanların bölgeden ayrılması gerekiyor. Koruculuk epey zamandır hem sorun, hem de suç kaynağı. Korucuların silahları toplanmalı ve bir bölümü emekliye ayrılmalı, yaşı uygun olanlar ise başka alanlarda istihdam edilmeliler. Anayasanın girişinde ve diğer muhtelif maddelerinde, Siyasi Partiler Yasası’nda, özellikle 81. maddede düşünce özgürlüğü, çoğulcu toplum yapısı ve farklı kimliklerin tanımasını engelleyen hükümler yer alıyor. Bunlar değişmeden çözüme ulaşmak zor. Özgürlükçü, eşitlikçi, demokratik ve ekolojik yeni bir anayasanın mutlaka yapılması gerekiyor. Anadilinde eğitim ve kamuda anadilinde hizmet verilmesi sorun olmaya devam ediyor. TMK ve TCK bu bakımdan epey sorunlu maddeler içeriyor. İsmi değiştirilen yerleşim yerleri eski isimlerine yeni kavuşmaya başladılar. Bölgede binlerce faili meçhul cinayet yaşandı. Halen çocuklarını, eşlerini arayanlar var. Bir çok insanın mezar yeri bile belli değil. Bütün bunların aydınlatılması, resmi ve sivil cinayet çetelerinin hesap vermesinin sağlanması son derece önemlidir. TBMM, Hakikat Komisyonları kurarak bölge halkının mağduriyetine yol açan olayları ve sorumluları gün yüzüne çıkarmalıdır.
+
+**Bu devlet yapısıyla eşit yurttaşlık sağlanabilir mi?**
+
+Mümkün olsaydı şimdiye kadar görürdük. Hep tersi oldu ve binlerce insan hayatını yitirdi. Türkiye’de bürokratik ve zorba bir devlet yapılanması ve ona cevaz veren anayasal ve yasal bir yapılanma var. Bu yapılanma Türk ve Sünni kimliği dışında kalan ve inanç, etnik kimlik, dil ve kültür gibi alanlarda farklılıklar gösteren oldukça geniş toplum kesimlerine karşı cumhuriyetin başından beri ayrımcılık, baskı, asimilasyon ve kapsamlı devlet şiddetinin uygulanmasına yol açtı. Bu nedenle  yurttaşların önemli bir bölümü yıllardır demokratik, katılımcı ve kapsayıcı,  sosyal, etkin kamu hizmeti veren, sınıfsal ve sosyal eşitsizliklerin bertaraf edildiği bir düzen ve yerel yönetimler istiyor. Bu amaca ulaşmak için milliyetçi, militarist ve baskıcı devlet anlayışıyla mücadele ediyorlar. Bu kökleşmiş zihniyetin toplumdaki ve rejimin kurumlarındaki etkisini ortadan kaldırmak için çaba gösteriyorlar. Bu çalışmaları amacına ulaştıracak model yerinden yerel yönetim ve özerklik ilkesidir. O yönde yerel yönetimlerin demokratikleştirilmesi adımlarının atılması gerekir.  Bu, merkezi yönetimin vesayetine son verecek ve yerel yönetimleri merkezi yönetim karşısında güçlendirecektir. Yerel yönetimlerde çok dilli hizmet verilmesi de siyasal katılımı ve kapsayıcılığı yaygınlaştıracaktır. Böylece eşit yurttaşlık sorununun çözümüne giden yolda geleneksel yapılanmanın yarattığı güçlükler aşılabilir. Avrupa yerel Yönetimler Özerklik Şartı’na Türkiye’nin koyduğu şerhin kaldırılması bu bakımdan hayati öneme sahiptir. 
+
+**Eşit yurttaşlık konusunda engellenen haklar nelerdir?**
+ 
+Siyasal, demokratik ve kültürel haklar, farklı kimliklerin kendilerini geliştirmeleri için başta gelen alanlara işaret eder. Bunların herkes için eşit ve eksiksiz düzeyde olması gerekir. Anadilinde eğitim-öğretim ve kamu hizmeti olanaklarının sunulması sorunun aşılmasında çok önemli bir talep ve haktır. Genel af demokratikleşme bakımından toplumsal iklimin değişmesinde anahtar niteliğindedir. Bütün alanlardaki engellenen hakların cesaretle yerine getirilmesi bir arada yaşama imkânlarını artıracak ve ortamı güçlendirecektir. Birbirini anlayan ve saygı duyan bir söylem, kaybedilenlere duyulan ortak acı, sadece siyasi değil, insani bir gerekliliktir. Güvensizlikler, gerginlikler ve önyargılar bu engellerin kaldırılmasıyla aşılabilecektir. Kürt sorunu etrafında hakikatlerin araştırılması, yüzleşmelerin gerçekleşmesi,mağduriyetlerin bütün boyutlarıyla tazmin edilmesi, bölgesel dengesizliğin ekonomik, ekolojik, sosyal ve kültürel bakımdan çok özel ve etkin programlarla, bölge yerel yönetimlerinin ve halkın doğrudan katılım ve kararlarıyla ortadan kaldırılması acilen hedeflenmelidir. 
+
+**Kürt bölgelerinde başka eşitsizlik yok mu?**
+
+Ekonomik ve sosyal eşitsizlik had safhada. Hem bilinçli ihmal politikaları hem de yıllardır süren savaş, çatışma ve gerginlik bölgeyi perişan etti. Yoğun bir işsizlik yaşanıyor. Doğa ciddi bir yıkıma uğramış ve kendini toparlaması için yoğun çaba, yatırım ve zaman gerekiyor. Dağlar, yaylalar, meralar, ovalar, vadiler, ormanlar, tarlalar ve köyler yandı, yakıldı, mayınlandı ve bombardıman altında kaldı, sulak alanlar onarılması zor yaralar aldı. Ekosistem büyük zarar gördü. Bütün bölgenin toparlanması, temizlenmesi, yeniden canlandırılması ve ekolojik tarıma hazırlanması gerekiyor. Köylere dönüşün ciddi bir sosyal ve ekonomik canlandırma programı olarak devreye sokulması bölgedeki eşitsizliği bir nebze olsun azaltabilir. Yerinden edilenlerin kayıplarının tazmin edilmesi de bu kapsamda ele alınmalıdır. Savaş ve çatışma döneminde ağır tahribat gören ve ciddi kayıplara uğrayan tarım, hayvancılık ve diğer geleneksel geçim yollarının yeniden canlandırılması da bir başka adım olacaktır.
+ 
+**Son dönemde yapılan yatırımlar etkili değil mi?**
+
+Ağırlıkla yanlış enerji yatırımları yapıldı. Bu nedenle de insanlar göçe zorlandı. Kültürleri yok eden, doğayı tahrip eden büyük baraj projeleri bunlar. Ekolojiye de barışa da hizmet etmiyorlar. Munzur tehdit altında.Hasankeyf tarihe gömülmek üzere. Bu tip yatırımlar doğal, tarihi ve sosyal dokuyu yok ediyor. Bölge halkının tercihi, ekolojik gereklilikler, yerel ölçek ve kamusal anlayış yol göstermedikçe, yapılan yatırımlar bölgeyi insanıyla, doğasıyla ayağa kaldırmıyor. Yerel yönetimlerinin elini kolunu bağlayıp, bütün planların merkezi idare, yani bakanlıklarca yapılması uygulamasına mutlaka son verilmelidir. Bölge Kalkınma Ajanslarının bu bakımdan da işlevsiz kaldığı devletin kendi hazırladığı raporlarda yer almaktadır. 
+
+**Yaşananlardan en çok kadınların etkilendiği doğru mu?**
+
+Savaş ve çatışmalar en çok kadınlara zarar verdi. Şiddet, baskı, taciz, tecavüz kadınların hayatını dayanılmaz hale getirdi. Bölgenin geleneksel yoksulluğu, konut sorunu, işsizlik ve yoğun nüfus kadınları çok etkiledi. Bu durumun tersine çevrilmesi lazım. Kadınlar için ekonomik imkânlar, politik ve sosyal alanlardaki iş, barınma, hukuk, dil, sağlık, eğitim gibi temel ihtiyaçları karşılayacak yerinde düzenleme ve hizmet sağlanırsa önemli bir adım atılmış olacak. 
+
+**Çocukların durumu nasıl?**
+
+Çok sayıda çocuk TMK’dan dolayı uzun süre mağdur oldu. Eskisi kadar olmasa da halen benzer durumlar oluyor. Savaş, yoksulluk, baskı, şiddet ve göçün en travmatik etkisi çocuklarda görülüyor. Başka bir hayat düşünemez durumdalar. Savaşı sürekli içinde yaşanması normal bir durum gibi algılıyorlar. Ölümü oyun gibi görüyorlar. Dağa çıkmak onlar için bir dönem masalımsı bir macera gibi anlaşılıyordu. Bütün bu çocuklara yönelik bölge çapında sosyal çalışma ve sosyal hizmet alanları yaratılması gerekiyor. Sayıları olağanüstü artan sokak çocuklarına yönelik eğitim ve rehabilitasyon çalışmalarına hız verilmesi de başka bir gereklilik.
+
+**Türkiye’nin önümüzdeki yıllarında Kürtlerin rolü hakkında ne düşünüyorsunuz?**
+
+Kürt özgürlük hareketinin uzun zamandır kamuoyuna açıkladığı politikaları, Kürtlerin haklarına dair sorunlarını demokratik özerklik ve eşit yurttaşlık temelinde çözmüş bir cumhuriyetin yurttaşları olarak birlikte yaşama iradesini ifade ediyor. Barış ve Çözüm sürecinde sergiledikleri bütün yaklaşımlar da bunu pekiştiriyor. Kürt hareketinin iradesini yansıtan odaklar olarak Abdullah Öcalan, Kandil, Brüksel ve Türkiye’de BDP, çeşitli vesilelerle demokratik bir cumhuriyet için, savaşın geride bırakılması için, Türkiye’nin demokratik, ekolojik, özerk ve eşitlikçi bir zeminde yeniden inşası yönünde bütün ezilen, mağdur, düzenle problemi olan halklar ve toplum kesimleriyle birlikte yürümeye hazır olduklarını ifade ediyorlar. Halkların Demokratik Kongresi, bu fikri paylaşan, içinde partimizin de bulunduğu geniş bir toplumsal muhalefet örgütleri, partiler, bireyler ve kurumlar tarafından böyle bir amaca yönelik olarak oluşturuldu. 
+Eski ve yeni statüko güçlerinin dışında bir halklar koalisyonu mu doğuyor?
+Evet, böyle bir gelişme başladı. Türkiye’nin geleneksel statüko güçlerinin arsından sıyrılıp, bütün siyasal denklemlerin değişmesine neden olacak gelişmelerin hemen sonuç vermesini beklemek doğru olmaz. Ama bu süreç başlamıştır ve demokrasi, ekoloji, barış ve özgürlük güçleri tarafından dikkatle ele alınması ve izlenmesi gerekir. Bugün, bir yandan Kürt sorunun eşitlik ve barışçı bir çözüme kavuşması için çaba gösterilirken, diğer yandan Türkiye’yi sürekli olarak kamplaşmaya zorlayan, mevcut rejimi kendilerine göre dizayn edip, restore edip düzeni esas itibariyle sürdürmeye çalışan, bir yanda AKP’nin diğer yanda merkezinde CHP’nin olduğu iki gerilim odağının dışında üçüncü kurucu bir iktidar seçeneğinin oluşmasına çaba gösteriliyor. 
+
+**Kürt özgürlük hareketinin rolü nedir?**
+
+Bu platformda önemli bir role sahip olan ve BDP’nin şahsında temsil edilen Kürt hareketi hiç şüphesiz önümüzdeki yıllarda da Türkiye’nin temel siyasal yönelimini belirleyen aktörlerinden biri olacaktır. Artık onların hesaba katılmadığı siyasal denklemlerin kabul görmesi kolay olmayacak. Türkiye’deki mevcut düzenden hoşnutsuzluğu olan bütün demokrasi ve emek güçlerinin, geleceğin şekillenmesinde Kürt demokrasi güçleriyle birlikte yürümelerinin ve ortak politik hedeflerde buluşmalarının imkanı önceki yıllara göre oldukça artmıştır. Bu Türkiye’nin köklü değişimi ve dönüşümü için büyük bir imkan sunmaktadır. HDK ve onun sunduğu ortak platformlarda yer alan bütün güçler yaşadığımız sorunlara bu açıdan bakarak çözüm üretebilir ve mücadele sürdürebilir. 
+
+**30 Mart 2014 Yerel Seçimleri’nde nasıl bir adım atılıyor?**
+
+Bu seçim ortak platformun sunduğu modelin kapasitesini, sınırlarını ve güçlüklerini görmek bakımından önemli bir sınav olacak. Halkların Demokratik Kongresi sunduğu siyasal platformda buluşup barışın, ekolojinin, özgürlüğün, kardeşliğin, emeğin ve demokrasinin programını savunan toplumsal güçler, seçmenleri eski ve yeni statükonun güçlerine mahkum etmeyen yeni bir alternatif ortaya koyuyorlar. Barajın hüküm sürdüğü, Hazine yardımının düzen partilerine akıtıldığı, partiler arası ittifakın yasayla yasaklandığı bu şartlarda, uygun ve yaratıcı platformlar üye ve taraftarlarımızı seçim sathında sözümüzü ortaya koymak bakımından bize ciddi imkan sunuyor. Yıllardır seçim istatistiklerinin ihmal edilebilir rakamlarına mahkum edilmiş demokrasi ve barış güçleri, ırkçı ve milliyetçi saldırganlığın sık yaşandığı bölge ve kentlerde, Kürt özgürlük ve demokrasi güçleriyle birlik varoluş biçimlerini sergileyerek barış, eşitlik ve özgürlük içinde bir ortak yaşam tahayyüllerine olan inanç ve kararlılıklarını gösteriyorlar.  Bu güç yeni Türkiye’nin siyasal denkleminde artık tayin edici aktörlerden biri olarak yerini alacak olan halkların koalisyonunudur. Bunun hemen ve çigisel bir gelişmeyle gerçekleşeceğini beklemek doğru olmaz. Ciddi zorluklar yaşanacağı ve geniş kesimlerin ikna edilmesi ve kazanılmasının zaman alacağı hesaba katılmalıdır. Yeşiller ve Sol Gelecek Partisi olarak bunu çok önemli ve değerli buluyor, gelişmesi ve güçlenmesi için çaba gösteriyoruz.
+
+
+

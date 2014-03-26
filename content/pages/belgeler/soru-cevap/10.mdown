@@ -1,0 +1,121 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+
+##**10) ULUSLARARASI POLİTİKA**
+
+**Türkiye’nin dış politika stratejisi emperyal mi?**
+
+Türkiye, Osmanlı İmparatorluğu’nun yıkıntıları üzerine kurulmuş bir ülke. İmparatorluğun bünyesinden çıkan çok sayıda ülkeyle ve bu ülkelerde yaşayan topluluklarla ister istemez tarihi ve kültürel bağları var. Bu durumu uluslararası politikada birçok şeyi yapmaya yarayacak bir avantaj olarak gören iktidardaki güçlerin zaman zaman, özellikle Doğu Akdeniz ve Ortadoğu’nun odak teşkil ettiği bölgede, düzeni belirleyen ve sürdüren ve çıkar paylaşımında sözü baskın bir güç olma isteğiyle emperyal politikalara yöneldikleri görülüyor. AKP iktidarının özellikle son dönemlerinde emperyal kibrin nelere mal olduğunu gördük. Türkiye tarihinde hiç olmadığı kadar Ortadoğu’da yalnız bir ülke haline geldi, ama onlara sorarsanız bu değerli bir yalnızlık. 
+
+**Akdeniz, Kafkasya ve Ortadoğu’nun özelliği nedir?**
+
+Burası dünya petrol ve doğalgaz kaynaklarının yoğunlaştığı en önemli bölgelerden biri. Bu nedenle yıllar boyu süren uluslararası ve bölgesel savaşlara, mezhep kavgalarına ve iktidar oyunlarına alan olmuştur. İstikrarsızlık bölgenin temel karakteristiği haline gelmiştir. Nice nesiller savaş ve çatışma içinde doğmuş ve yine o savaşların içinde dünyadan göçüp gitmiştir. Bölgenin enerji kaynaklarının Batının sanayileşmiş ülkelerine aktarılması sorunu, yaşanan çatışma ve çekişmelerin en önemli nedenidir.
+
+**Türkiye bölgede ne yapmak istiyor?**
+
+Batı ülkelerinin önemli taleplerinden biri olan bölge kaynaklarının enerji nakil hatları vasıtasıyla güvenli bir şekilde Batı’ya aktarılması, bunun bu işi yapacak ülkeye getireceği politik konum ve çıkar, Türkiye’nin emperyal stratejisiyle uyumlu görünüyor. Dünya muktedirlerinin, örneğin ABD ve bazı Batılı güçlerin bunu uygun bulmakla beraber bazı sınırlar çizmeleri Türkiye’nin çok da hoşnut olmadığı sonuçlar doğuruyor. Bu yönelimin bölge halklarıyla ilişkide yarattığı yeni yükler ve tehditler nedeniyle sorunlar üreterek, gerilim ve çatışma dinamiklerinin yeniden etkin olduğu bazı ilave mecralar yarattığı da görülüyor. 
+
+**Türkiye bölgede bir barış adası olamaz mı?**
+
+Uluslararası saygınlık bölgesel askeri güç olmakla sağlanamaz. Hiç saygınlığı olmayan böyle güçler çok var. Saygınlığı ancak barış ve demokrasi odağı olmak getirebilir. Aralarındaki tarihi ve kültürel bağlar ne olursa olsun, hiçbir ülke kendine vasi, hami ve himayeci güç istemez. Bu tür bölgesel güç projelerinin parçası olmayı kabul edenlerin, bölge halklarının haklı talep ve mücadelelerinin hedefi olmaları kaçınılmazdır. İnsan hakları, demokrasi ve ekoloji konularında duyarlı bir dış politika Türkiye’yi daha olumlu bir konuma taşıyacaktır. Bu çerçevede izlenecek aktif, yapıcı ve çok boyutlu dış politika ve işbirliği saygınlığa ve bölgesel barışa giden yolu açar. 
+
+**Arap Baharı konusuna dair yaklaşımınız nedir?**
+
+Tunus’tan başlayarak gelişen halk hareketleri ve çatışmalar Mısır, Libya ve Suriye’ye uzandı. Bu ülkeler ve bölgenin diğer devletlerinde toplumların alttan alta biriken tepkileri sonucunda gelişen demokrasi ve özgürlük arayış ve mücadeleleri olduğu aşikar. Ortaya çıkış gerekçeleriyle, şimdi vardıkları sonuçları bir arada değerlendirmenin son derece önemli olduğu gelişmeler bunlar. Kiminde yasal sorunlar, despotik devlet yapısı, kiminde artan yoksulluk ve yolsuzluk, vb nedenlerle su yüzüne çıktı ve sert iç savaşlara yol açtı. Meydanlara dökülen kitlelerin yekpare olmayıp farklı toplumsal tahayyüllere sahip oldukları sonraki gelişmeler bize gösterdi. Bunlardan en karmaşık olanının sınırımızdaki Suriye olduğu görülüyor.  Her ülkenin kendi özgün koşullarında, tarihen ve sosyolojik olarak politik dizilişler  çok farklılık gösterse de, partimiz dünya barışı ve halkların kendi kaderlerine sahip çıkma ilkesine saygı çerçevesinde, halk ayaklanmaları ve demokrasi arayışları karşısındaki emperyal müdahalelere olumlu bakmaz ve karşı durur. 
+
+**Suriye yaşananlar farklı bir noktaya gelmedi mi?**
+
+Evet, çok sayıda insan öldü. Yüz binlerce insan Türkiye dahil komsu ülkelere sığınmak zorunda kaldı. Daha fazlası kendi toprakların da sürgün oldu, yerini yurdunu terk etti. Köktendinci El Nusra ve El Kaide gibi cihatçı örgütler, kendi küresel vizyonlarına bağlı olarak bu ülkeyi yeni mevzilenme alanı olarak görüyorlar. Bu bağlamda,  Suriye toplumunu farklı inançların, kültürlerin, dillerin ve kimliklerin var olduğu bir yapı olarak değerlendiriyor ve bu ülkede demokrasinin ancak bu çoğulculuk üzerinde kurulup sürdürülebileceğini düşünüyoruz. Bu ülke Kürtlerinin etkin oldukları bölgelerde(Rojova) ilan ettikleri özerk yönetimler olumlu bir gelişme olarak görülmeli ve desteklenmelidir. 
+
+**Türkiye’nin önünde hangi seçenekler var?**
+
+Milliyetçi, otoriter ve bütün toplumsal süreçlere müdahale etme gücünü ve alışkanlığını anayasa ve yasalardan alan bürokratik güçlerin temel yönelimi olan dış dünyaya kapalı uluslararası hat, seçeneklerden biridir. İçeride köklü bir demokratikleşme ve yenilenme hamlesine girişmeksizin mevcut yapılanmanın üzerine ideolojik ve kültürel olarak dokusu İslami ve muhafazakâr bir otoriter anlayışı oturtup iktisadi olarak da kapitalist küreselleşmenin neoliberal tercihlerini benimseyerek dünyaya açılmak bir diğer bir seçenek. Ancak, Türkiye’nin bunların dışında bir yol oluşturması mümkün ve gereklidir.
+
+**Türkiye’nin üçüncü seçeneği nedir?**
+
+Çok zengin ve farklılıklar gösteren bir tarihsel mirasa ve yapılanmaya sahibiz. Bunların demokrasi ve eşit yurttaşlık sağlayan bir siyasal düzen içinde kaynaşmaları önemli bir hedefimizdir. Uluslararası sorunlarda çatışmacı yöntemlere, özellikle de savaşa karşıyız. Sorunların barışçı yöntemler ve sonuna kadar diyalogla aşılması tercihimizdir. Çok yönlü ticari ve kültürel ilişkilerden ve işbirliğinden yanayız. Bloklaşma ve kutuplaşmanın gerilim, çatışma ve sorunları barışçı olmayan yollardan çözme eğilimini beslediğini görüyoruz. Dünya kaynaklarının kullanımının güçlü olana, bloklarda yer alanlara göre değil, adil bir paylaşıma dayanması gerektiğini düşünüyoruz.
+
+**Avrupa Birliği bu seçeneğin neresinde yer alıyor?**
+
+AB’nin şu anda 27 üyesi var. Türkiye’nin de bu üyeler gibi eşit bir üye olmasını istiyoruz. Avrupa İnsan Hakları Sözleşmesi ve Avrupa İnsan Hakları Mahkemesi’nin içerik ve uygulamalarının iç hukuk haline getirilmesi gerektiğini savunuyoruz. Zaten Türkiye’nin taahhütleri de bu yönde. Taşıdığı yapısal problemler ve aksi yöndeki kimi özelliklerine karşın, demokrasi ve insan haklarının geliştirilmesi bakımından ve ulus devlet sınırlarının olmadığı bir dünya ideali açısından AB önemli bir örnektir. Türkiye’nin gelecek vizyonunda bu yönüyle AB vazgeçilmez bir köşe taşıdır.
+
+**AB nasıl bir yapısal özelliğe sahip?**
+ 
+AB’yi yekpare bir yapı olarak görmemek gerekir. Ultra liberalinden ekolojistine, solcusuna, milliyetçisine birçok görüşün bir arada yer aldığı bir yapıdan söz ediyoruz. Ekonomik ve sosyal bakımdan büyük ölçüde liberal ve teknokratlar tarafından yönetiliyor. Mevcut yapısı elitist ve sermaye hâkimiyetinin belirlediği bir yapı. Bununla beraber özgürlükçü, eşitlikçi ve ekolojist bir hareketin Avrupa’da yapacağı çok şey var. Dayanışmanın egemen olduğu, sosyal ve ekolojik bir Avrupa için mücadele edilmesi hem mümkün, hem de gerekli. Böylelikle yeşil ideallerin ve emeğin Avrupa’sına giden yol açılabilir. Bu amaç için mücadele yürütenlerin uluslararası işbirliği sağlanabilir. Bu nedenle Türkiye’nin AB’ye üyelik hedefiyle Akdeniz, Ortadoğu ve Kafkaslara yönelik barış ve istikrar politikaları birbirinin tamamlayıcısıdır.
+
+**Kıbrıs Sorunu’nda şimdi durum nedir?**
+
+Son elli yılın temel dış politika sorunlarından biri de Kıbrıs. Annan Planı’nın referanduma sunulması sonrasında kayda değer bir gelişme yaşanmadı. Kuzeyde ve güneyde değişen yönetimlerin dönemlerinde de bazı ikili görüşmeler olsa bile mesafe alınamadı. Partimiz eşit haklara sahip iki kesimli, iki toplumlu bir federasyon olarak askerden arınmış tek bir Kıbrıs’ın en uygun çözüm modeli olduğuna inanmaktadır. Partimiz, uzun süren tıkanmanın ardından iki toplum arasında başlayan görüşmelerin bu doğrultuda sürdürülerek sonuçlanması umudunu taşımakta ve desteklemektedir. 
+
+**Komşularla Sıfır Sorun politikası ne oldu?**
+
+Mazi oldu dersek, abartmış olmayız. AKP’nin bir yandan sıfır sorun demesi, diğer yandan eski Osmanlı toprakları üzerinde kurulmuş bölge ülkelerine, büyük devletlerin bölge politikaları üzerinden rol ve görev alarak hami pozisyonu elde etmek istemesi kendi içinde çelişkili bir politikaydı ve başarısız oldu. Çok sayıda komşu ülkeyle ilişkiler eskisinden daha sorunlu hale geldi. Suriye’de iç savaş yaşanıyor ve İslami fundamentalistlerin (köktenci) küresel örgütü El Kaide sınırımızda çok etkin duruma geldi. İran’la, Irak’la, Mısır’la halen ilişkiler epey gerilimli. İsrail’le ilişkilerin ne zaman normalleşeceği  ise meçhul. Bölgesel rol almak hevesiyle ve günümüz dünyasında karşılığı olmayan tarihsel güdülerle, gerçekliğimize ve bölge barışına hizmet etmeyen politikalar ister istemez Bağdat’tan döndü.
+
+**Ermenistan’la ilişkilere nasıl bakıyorsunuz?**
+ 
+Türkiye’nin Ermenistan’la ilişkisi iki önemli konunun etkisi altında. Bunlardan biri, 1915’te Osmanlı İttihat ve Terakki yönetiminin Ermenilere karşı uyguladığı, yüz binlercesinin yaşamını yitirdiği ve bir o kadarının da yerinden yurdundan edildiği tehcir ve soykırımdır. Diğeri ise Ermenistan’la Azerbaycan arasında Dağlık Karabağ anlaşmazlığı nedeniyle yaşanan gerilim ve çatışmaların Türkiye’nin Ermenistan’la ilişkilerinde oynadığı olumsuz rol. Bunların aşılması Türkiye’nin soykırım gerçeğiyle yüzleşmesiyle daha rahat mümkün olabilecektir. Ancak, öncesinde de iyi ilişkiler geliştirmek üzere yapılacak çok şey bulunuyor. Türkiye’nin Ermenistan’la ilişkilerinin Azerbaycan’ın ipoteğinden kurtarılması başlangıç olabilir. Sınır kapılarının açılması, geçişlerin kolaylaştırılması, ticari ve kültürel ilişkilerin geliştirilmesi gibi adımlar atılabilir. Bu ülkeyle ilişkilerimizin düzelmesi bölge halkları ve ülkeleri için son derece önemli olduğu kadar her iki ülkenin insanlarına vicdani bir borçtur.
+
+**Dış politikada önerdiğiniz ilkeler nedir?**
+ 
+Öncelikle karşılıklı işbirliği ve barışçı dostluk politikaları ilişkilerin temeli olmalıdır. Muhtelif gerekçelere ve konjonktürel fırsatlara dayanarak emperyal politikalara yönelmek tercih edilmemelidir. Etnisite, inanç, mezhep, kültürel ortaklık gibi zeminlerden hareketle müdahaleci ve nüfuz artırıcı tutumlardan kaçınılmalıdır. Sorunların diyalog ve barışçı usullerle çözülmesi gerekir. Askeri müdahale yollarından sakınılmalıdır. BM’nin zamanın gerçekliğine uygun yeni bir yapılanmaya ve işleyişe kavuşturulması hedeflenmelidir. 
+
+**Ortadoğu’da Kürtlerin geleceğini nasıl görüyorsunuz?**
+
+Ortadoğu’nun siyasi haritası yeni bir siyasal dinamiğin ortaya çıkmakta olduğunu gösteriyor. Bunun ardındaki dinamik bölge ülkelerine yayılmış bir şekilde yaşayan Kürtlerdir. Irak’ın kuzeyinde ortaya çıkan, Kürdistan Bölgesel Yönetimi adıyla ifade edilen ve büyük ölçüde devletleşmiş Kürtlerdir. Saddam sonrası Irak’ında önemli bir güç olarak yeni yapılanmada yer alan Kürtler, sadece orayla sınırlı kalmayıp, bulundukları diğer ülkelerde de süreci etkileyen güçlü bir dinamik olarak, siyasal ortamı belirleyen güçlerin arasına girdiler. Suriye’de başlayan iç savaş sürecine bambaşka, demokratik ve çoğulcu bir program ve hazırlıkla giren Kürtler Rojova bölgesinin üç vilayetinde ilan ettikleri özerklikle Irak’ta başlayan atılımı Suriye’de devam ettirdiler. Türkiye’de güçlüklere rağmen devam eden Barış ve Çözüm Süreci de dikkate alındığında, Ortadoğu’da Kürtleri hesaba katmayan hiçbir politika ve projenin başarı şansının olmayacağını ileri sürmek abartı olmayacaktır.
+
+**Filistin barışı ve bağımsız devleti ne zaman görecek?**
+ 
+Aslında BM’ye gözlemci üye olarak kabulü önemli bir adım oldu. Ancak, İsrail’in ırkçı ve Siyonist politikaları sürecin uzamasına neden oluyor. Çok kan dökülen ve acıların bir türlü dinmediği bu topraklar aslında barışı ve dostluk içinde bir arada yaşamayı çoktan hak ediyor. Ancak hem başta ABD olmak üzere büyük devletlerin çelişkili politikaları, hem de İsrail’in gücü bu sürecin tıkanmasına yol açıyor. Halkların eşit ve ortak geleceğini hazırlayacak politikaların temel alınması sorunun anahtarıdır. Yeşiller ve Sol Gelecek olara,  tarihi çok eskilere dayanan Filistin halkının haklı ve meşru mücadelesi ve taleplerinin yanında yer alıyoruz.
+
+**Barış ve Türkiye size neyi anlatıyor?**
+ 
+Ülkede de, dünyada da barışçı bir politikamız olmalı ve ısrarla bunu sürdürmeliyiz. Türkiye çatışmalı sorunları barışçı yaklaşımıyla ele almalıdır. Kendi topraklarındaki askeri üslere, çok uluslu güçlere ve anlaşmalara karşı mücadele yürütmelidir. 
+
+

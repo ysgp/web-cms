@@ -1,0 +1,125 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+###**1) DEMOKRASİ VE ÖZGÜRLÜK**
+
+**Demokrasi dediğiniz nedir?**
+
+Seçimlerden, oy kullanmaktan ve partilerin rekabetinden ibaret bir şey değil. İçinde yaşadığımız topluma dair her sorunu, eşit ve özgür bireyler olarak birlikte tartışıp, ortak görüş ve irade oluşturmak, yani ortak çözümleri bu şekilde elde etmek üzere gösterdiğimiz çabaları bir sistem içinde sürekli kılan anlayış ve yaşam tarzıdır. Hiç şüphesiz demokrasi aynı zamanda bir ahlaktır. 
+
+**Demokrasinin ahlaki çerçevesi nedir?**
+
+Demokrasiye inanan bir insan gerçeğin apaçık olacağını, insanların eşit yaratıldıklarını kabul eder. Doğuştan gelen yaşam, özgürlük, mülkiyet vb. hakları olduğunu, devletin insanlar için olduğunu, devletin tepeden verebileceği kendisine özgü bir hak olmadığını görür. İnsanların onurlu yaşam hakkına saygı duyar. Bütün bunları kuşatan çerçeveyi demokrasi ahlakı diye tanımlayabiliriz. Elbette, demokrasinin var olduğu ileri sürülen her siyasal sistemin böyle bir ahlaki çerçeveye sahip olduğunu söyleyemeyiz.
+
+**İyi de demokrasi bizde yok mu?**
+ 
+Türkiye ciddi olarak bir demokrasi krizi yaşıyor ve hemen bütün problemlerin altında bu var. Demokrasinin kalbi olması gereken TBMM’nin komisyon ve Genel Kurul çalışmalarına bakarsak, daha çok yol almamız gerektiği belli değil mi? Kavgasız, gürültüsüz günü yok. Herkes birbirine bağırıyor, herkes birbirini susturma ve sindirme peşinde. Sorunlar bir türlü sükûnetle ve barışçı bir ortamda tartışarak çözülmüyor, çözülemiyor. Aslında yaşadığımız bu ciddi demokrasi krizini, bir yönüyle demokrasi ahlakını içselleştirerek, derinleştirerek adım atılabilir. Bunun nasıl yaşama geçeceği henüz belirsiz. Anlayacağınız daha gidecek çok yolumuz var. 
+
+**Demokrasi seçmekten ibaret değil mi diyorsunuz?**
+
+Demokrasi bizde seçimler yoluyla iktidarları değiştirme imkânı olarak görülüyor. Halbuki en önemli boyutu karar verme hususudur. Bizde demokrasi kararı kimin vereceğini seçmek olarak görülüyor. Mesele fikir özgürlüğünün sağlanması ve karar verme süreçlerinin demokratikleştirilmesidir. Bu konuda demokrasimiz halen kaplumbağa adımlarıyla ilerliyor. Hatta, Türkiye’nin çok önemli sosyal değişim sürecinden geçtiğini, fakat devlet yapılanması, kurumları ve sistemi itibariyle büyük ölçüde 1930’larda inşa edilenin devam ettiğini söyleyebiliriz.
+ 
+**Bizdeki demokrasi epey arızalı diyorsunuz?**
+ 
+Özellikle son yıllarda, AB sürecinde bazı önemli adımlar atıldı ama antidemokratik temel yapılanmanın ve buna bağlı iktidar uygulamalarının temel özelliği halen değişemedi. Bu tablo iktidarların bol popülizmiyle gizlenmeye çalışılıyor. Devleti yönetenler, örneğin AKP, iktidara geldiği günden itibaren büyük ölçüde sanki devlete karşıymış gibi bir söylem tutturuyor. Aslında devleti ve kurumlarını pekâlâ kendi temsil ettiği çevrelerin iktisadi ve siyasi konumunu güçlendirme yönünde yönetiyor ve bunu sürdürmek için oldukça popülist politika ve söylemlerle seçmenden iktidarına rıza istiyor. Hatta bu bakımdan sandıktan çıkmayı ve kitlesel oy desteğini demokrasinin tek ve yegâne hali olarak görüyor ve topluma böyle sunuyor.
+ 
+**Seçimi kazananların bazı düzenlemeler yapması demokrasiye aykırı mı?**
+
+Seçimi kazanmış olmak, her şeyi yapabilirim anlamına gelemez. Seçimden alınan meşruiyeti böyle yorumlamak, demokrasiyi seçimle sınırlı görmek anlamına gelir. Aynı yaklaşımla, kuralları istediği zaman değiştirmeyi de demokrasinin gereği olarak takdim ederek toplumdan aldığı rızayla uyumlu olduğunu ileri süren durumlarla sık rastlaşıyoruz. Böylece kapalı devlet ilişkilerinde kurallarla oynaması, yolsuzluklara gerekçe bulunması, bunları iktidar çekirdeği ve yakın çevresi arasında sık ve yaygın bir uygulama haline getirilmesi mümkün olabiliyor. Bütün bunlar, demokrasinin sandıktan ibaret olmadığını; halkın kendine ait kararları özgürce tartıştığı ve doğrudan katılımıyla aldığı, uygulamasına dahil olduğu bütün süreçlerin açık, denetlenebilir ve şeffaf olması gerektiğini; tüm bunları dinamik ve gelişebilen bir süreç olarak görmenin, bu doğrultuda hareket etmenin önemini gösteriyor. 
+
+**Peki, demokratikleşme dediğiniz ne?**
+
+Hedef demokrasi ise, hedefe giden yol ve yöntem demokratikleşmedir. Önümüze çıkan her toplumsal sorunun çözümünde, her düzeyde ve bütün ortak yaşam alanlarında, sistemli açık ve özgür bir tartışma ortamının oluşturulmasına demokratikleşme diyebiliriz. Yani mesele kararın verilmesi sürecinin demokratikleştirilmesidir. Yani, karar verme yetkisiyle donatılmış olan kişinin seçilme biçimiyle ve seçilme çoğunluğuyla değil, toplumu ilgilendiren kararların üretilme süreciyle ilgili bir şeydir demokratikleşme. Özetle demokrasiyi sürekli olarak yenilenen, gelişen, derinleşen ve oldukça dinamik bir toplumsal süreç olarak ele almak doğru olur. 
+
+**Ortak görüş ile demokratikleşme arasında bağ var mı?**
+
+Elbette var. Kamusal özne olma, kendi sorunlarına sahip çıkma ve karar verebilme yolunun toplumu oluşturan bireylere açık olması gerekir. Baskının, zorbalığın, tehdidin, manipülasyonun hâkim olduğu bir ortamda oluşan karar, ortak fikrin ürünü sayılamaz. Çünkü, o kararın oluştuğu süreçte açık ve özgür katılım gerçekleşmemiştir. Katılım adaleti zedelenmiştir. Söz konusu karar, ortak değil, baskı ve zorbalığı uygulayıp demokratik ortamı yok edenlerin dayatması sonucu ortaya çıkmış ve onlarını çıkarını ifade eden bir fikirdir.
+
+**Çoğunluğun fikriyle demokratikleşme arasındaki ilişkiye nasıl bakıyorsunuz?**
+ 
+Sayısal fazlalık bir fikrin doğruluğunun da, demokratik bir süreçte ortaya çıktığının da doğrudan kanıtı sayılmaz. Baskıyla, zorbalıkla ve başka yollarla bir fikir, yasa, proje, politika çoğunluğun oyuna ve  desteğine dayandırılabilir. Ama demokrasinin böyle işlediği, bu sürecin sonunda ortaya çıkanların demokratik bir meşruiyete sahip olduğu ileri sürülemez. Örneğin, evrensel ilkeler ve değerler referandum konusu yapılamaz. Yapıldığı takdirde ortaya çıkacak muhtelif hak ihlalleri, karar çoğunluğa dayanıyor denilerek savunulamaz. Demokrasinin bu darlıkta ifade edilmesi doğru olmaz. Kararın çoğunluğa dayanması karar, karar sürecinin demokratik olarak işletilip işletilmediği de aynı derecede önem taşır. 
+
+**Seçilmiş, bilgili ve yetenekli insanların karar alması niye kötü olsun?**
+
+Mesele yetenekle filan ilgili değil. Demokrasi aynı zamanda kararın verilme süreciyle ilgili bir şeydir. Karar verme yetkisiyle donatılmış olan kişinin seçilme biçimiyle ve seçilme çoğunluğuyla ilgili değildir. Toplumu ilgilendiren kararların üretilme süreciyle ilgili bir şeydir. Bu da şeffaf, kamu alanında müzakereye açık bir karar verme biçiminin, bütün katılım kanallarının açık olmasının ve bunların bütünsel ve eksiksiz varlığının bir arada olduğu sürecinin bizatihi kendisidir.
+
+**Katılım adaleti, demokratikleşme ve ortak fikir nasıl bir araya geliyor?**
+
+Açık, özgür, akılcı, eşit, ekonomik ve siyasal baskılardan uzak, şiddetten arınmış, manipülasyonun işlemediği, her düzeyde katılım adaletinin sağlandığı tartışma süreçleriyle sağlanabilir. Ve bu şekilde ortaya çıkan fikir güçlü bir meşruiyete ve geniş bir toplumsal iradeye dayanır.
+
+**Devlet mi toplumu yönetmeli, toplum mu devleti?**
+
+Sorusu bile saçma. Elbette normal bir demokraside toplumun muhtelif kurum ve katılım mekanizmalarıyla devleti yönetmesi beklenir. Ancak, devlet sisteminin çıkar, inanç ve ideolojik toplulukların güç elde etmek için oluşturdukları otorite ve sermaye biriktirme aracı olduğu da gerçeğin diğer önemli yüzüdür. Oysa devlet, bütün toplumun kendi kendini yönetmesinin bir ifadesi olmalıdır. Ama ne yazık ki, Türkiye’de devlet toplumun büyük bir kesimini kendine yabancılaştıran, dışlayan, baskılayan ve sindiren bir yapılanma sergilemiş, vatandaş değil kul konumuna sokmak istemiş ve vesayet yanlısı güçler ve bürokrasi aracılığıyla onu yönetmiştir. Birçok dünya ülkesinde de kimi farklılıklar olsa bile devlet yapılanmalarının temel özellikleri büyük benzerlik taşımaktadır. Bununla beraber, günümüzde toplum çok değişti, ama devletin kurumları ciddi değişim geçirmiş olsa bile, uygulamaları ve idari zihniyet değişimi çok yavaş gelişiyor. 
+
+**Kamu devlet midir, yoksa toplum mu?**
+
+Kamu toplumdur, hatta yeryüzünü paylaştığımız tüm varlıklardır. Dolayısıyla kamu yararı da insanların ve diğer varlıkların oluşturduğu ekolojik bütünün yararını temsil eder. Kamuoyu, toplumun mevcut durumu ve tercihlerinin ifadesi olan yönelimidir. Bu yönelimi anlatır. Devlet bu topluma muhtelif hizmetleri vermek üzere oluşturulmuş mekanizmalar, kurumlar ve kuralları ifade eder. Bunların toplumu yönetmesi değil, toplumun bunlar aracılığıyla kendi hizmet ihtiyaçlarını karşılaması beklenir.
+
+**Kamu yöneticisi ile seçilmiş arasında ne fark var?**
+
+Toplum, yani kamu belli aralıklarla vekillerini seçerek onların oluşturacağı hükümet aracılığıyla devlet kurumlarının yönetilmesini ister. Hükümet ise bu kurumları yönetecek kişileri belirleyerek atar. Kamunun kurumlarındaki idareciler adil, açık ve özgür seçimlerle belirlenen siyasetçilere karşı sorumludur. Siyasetçiler de açık, saydam yollarla ve hesap verilebilir usullerle kendilerini seçen bütün topluma sorumludur. Aynı coğrafyayı paylaşan, eşit ve özgür insanlar arasında açık ve demokratik bir ortamda oluşan görüş ve irade temel yön gösterici olarak kabul edilir.
+
+**Şeffaflık ve hesap verme nasıl sağlanır?**
+ 
+Bir kere vatandaşın karar süreçlerinde yer alması için katılım adaleti sağlanmalıdır. Özgür ve açık bir tartışma ortamı sağlanmalıdır. Bunlar yetmez, sözünü söyleyecek ve tercihini belirtecek insanlara evrensel insan hak ve özgürlüklerine dayanan bir hukuk güvencesi ve sistemi vermek gerekir. Ayrıca, medyanın ve gazetecilerin bağımsızlığının garanti altına alınması bu bakımdan özellikle önemlidir. Bunların olmadığı yerde, şiddet, zor, baskı, adam kayırma, istismar, yanlış ve eksik bilgi verme, özgürlüklere ipotek koyma yaşanacaktır. Şimdiye kadar hep böyle oldu.
+
+**Kontrolsüz ve denetimsiz devlet gücü bir tehdit midir?**
+
+Bu gücü suiistimal edenler hem birey, hem grup, hem de top yekûn bir iktidar olarak karşımıza çıkabilir. Devletin araç ve olanaklarını topluma, bir toplum kesimine veya bir bölgeye yönelik olarak kural dışı olarak bazen veya sürekli kullanabilirler. Tarihimiz ve günümüz bunun örnekleriyle doludur. Bu yöndeki toplumsal ve bireysel kaygılar haklıdır. Bu tür gelişmeler konusunda susmamak da hem bireysel, grupsal ve toplumsal haktır. Sormak, eleştirmek, örgütlenmek, mücadele yürütmek bir bu bakımdan vazgeçilmez haklar arasında yer alır.
+ 
+**Devlete pek güvenmiyorsunuz galiba?**
+
+Sorun güven değildir. Güçlüyü değil zayıfı, devleti değil insanı ve yeryüzü topluluklarını, yeryüzünü paylaştığımız bütün varlıkları, hayvanları, nehirleri, denizleri, ormanları, dağları, vadileri ve diğer varlıkları öne alıyoruz. Devlet karşısında toplumu güçlendiren, örgütleyen ve tüm varlıkları özgürleştiren bir anlayışa sahibiz. İnsan ve doğadaki diğer varlıkların hak ve özgürlüklerinin anayasa ve yasalarla hukuki güvenceye kavuşması için uğraşıyoruz. Polis uygulamaları ve mahkeme kararlarının bunlara uygun olmasını istiyoruz. Devleti değil, bireyi ve toplumu, doğanın haklarını kollayan bir hukuk düzenini savunuyoruz. “Gezi” sürecinde muktedir ve istediğini yapma gücüyle donatılmış olanların neler yaptığını gördük.
+
+**Katılım adaleti diyorsunuz da engelleyen mi var?**
+ 
+Olmaz mı! Hem yasalar, hem uygulamalar kadınların, gençlerin, engellilerin, LGBTİ bireylerin, azınlıkların, aykırı ve muhalif olanların, kimlik ve inançları farklı olanların ortak yaşamı ilgilendiren konulara görüş ve tercihleriyle katılmalarını engelliyor. Akıl dışı emrivakiler yapılıyor. Cezaevleri buna itiraz eden insanlarla dolu. Seçim ve siyasi partiler yasalarında eşit katılım ve rekabet söz konusu değil. Düzenin bildik partileri bundan çok hoşnut. Bunları baştan aşağı değiştirmek istiyoruz. Katılım adaletini gerçekleştirmek toplumsal bir erdemdir.
+
+
+

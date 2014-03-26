@@ -1,0 +1,81 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+##**31) HANGİ TURİZM?**
+
+**Türkiye’de nasıl bir turizm modeli uygulanıyor?**
+ 
+Türkiye turizminin ana omurgasını kitle turizmi oluşturuyor. Kitle turizmi yoluyla rakamlar büyüse de kârlar az sayıda uçak şirketinin ve otel grubunun elinde toplanmakta, faturayı ise doğa ve çalışanlar ödemekte. Küresel rekabet içindeki dünya turizm piyasasında kitle turizmi ancak kıyasıya bir fiyat rekabetiyle mümkün. Kıyasıya fiyat rekabeti sonucu işletmelerde sunulan hizmetler giderek standartlaşmakta, bu da niteliksiz, düşük ücretli eleman çalıştırılması sonucunu doğurmakta.
+
+**Dünyada turizmin gelişmesi nasıl?**
+
+Uluslararası turizm son 30 yılda 4 kat büyüdü. 2012 itibariyle küresel GSH’nın % 9’unu turizm sağlıyor ve doğrudan/dolaylı 260 milyon kişi istihdam ediliyor. Bu rakamların 10 yıl içinde % 10’a ve 350 milyon kişiye ulaşacağı öngörülüyor.
+
+**Turizmin Türkiye ekonomisi içindeki yeri nedir?**
+
+Dünyadaki genel trende paralel olarak turizm Türkiye ekonomisinin en önemli kalemlerinden biri haline geldi. Her sene turizm gelirleri milyar dolarlarla, ülkemize gelen turist sayısı on milyonlarla ifade edilen rakamlarla rekorlar kırıyor. Turizmin bu parlak yüzü öte yandaki karanlık yüzünü gizleyemiyor ve Türkiye’de turizmin bu haliyle sürdürülmesi mümkün değil.
+
+**Türkiye’de uygulanan kitle turizminin doğa ve çevre üzerindeki etkileri nedir?**
+
+Kitle turizmine yönelik birbiri ardına açılan turistik tesisler doğayı ve çevreyi tehdit ediyor. Sahiller ve orman arazileri yasalar gereği halka ait olması gerekirken çeşitli ayrıcalıklarla turistik tesislere veriliyor. Üstelik bunun yaratacağı olumsuz çevresel etkiler elde edilecek gelir uğruna göz ardı ediliyor.
+
+**Turizmin dünyada yarattığı sorunlar neler?**
+
+Dünyada sera gazı salımlarının % 5’i turizm kaynaklı. Bu tempoda devam edersek bu rakamın 20 yılda % 130 artacağı hesaplanıyor. Akdeniz havzasında turizm demek sayıca dünya turizminin % 33’ü; yatak kapasitesi ve gelir olarak % 25’i demek. Bu da kirletmeye bugüne kadarki tempoda devam edersek 90 yılda Akdeniz havzası tamamen kirlenmiş olacak demek. Kirlenmenin yanı sıra doğanın tüketilmesi de var. En basit örnekle, Türkiye’de kişi başı su tüketimi ortalama 217 litre/gün iken bir lüks otel müşterisinde bu miktar günde 750-1000 litreye kadar çıkıyor. Varın hesabını siz yapın…
+
+**Türkiye turizminin fiyat politikası nasıl?**
+
+Türkiye’de otellerde konaklayan turistlerin % 68’i orta gelir grubundan geldiği halde bu otellerin % 30’u 5 yıldızlı, yani olması gerekenin çok altında fiyatlarla hizmet veriyorlar. Bu düşük fiyatı verebilmek için en başta kısıntı yapılan kalem çalışan ücretleri. Yani, otelinden otobüsüne çoğunluğu kitle turizmine yönelmiş olan turizm sektörünün “ucuz ülke” imajı Batı ülkelerindeki meslektaşlarının çok altında ücretlerle hizmet veren çalışanların omuzlarında ayakta durabiliyor. 
+
+**Turizmdeki sorunlar için hangi çözümleri öneriyorsunuz?**
+
+Çözüm turistik ürünümüzün fiyatını düşürmek değil, turizm çeşitliliğini artırmak, turizmi birtakım gettolardan kurtararak ülke çapında yaygınlaştırmak ve kalitesini yükseltmekle sağlanır. Bu durumda gelen turist sayısında bir miktar düşüş olsa bile hem hizmet alan turist, hem de hizmet veren turizm çalışanı insan yerine konulacak ve daha mutlu olacak. Üstelik bu sayı azalması aynı zamanda karbon salımında, denize bırakılan kanalizasyon suyunda da azalma anlamına geleceği için başka hayırlı sonuçları da olacak. Bu değişimin gerçekleşebilmesi için de hem sektör çalışanlarının mesleki örgütlenmelerinin, sendikalarının etkinleşmesi; hem de turistlerin aldıkları hizmetin kalitesine ilişkin haklarını koruyacak ve geliştirecek kurumların geliştirilmesi, desteklenmesi gerekir. 
+
+
+
+

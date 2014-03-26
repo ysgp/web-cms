@@ -1,0 +1,142 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**8) ANAYASA, YASALAR VE YARGI**
+
+**Türkiye’nin en temel sorunu nedir?**
+
+Türkiye’de sistem köhnemiştir ve her cephesinde tıkanmıştır. Köklü bir demokratikleşmeye ihtiyacı bulunmaktadır. Yapılan sayısız değişikliğe rağmen, 12 Eylül 1980 Askeri Darbesi’nin yasakçı, baskıcı ve otoriter Anayasası halen varlığını sürdürüyor. Sayısız yasa, yönetmelik ve kurum tarafından toplumu kıskaca alan bu düzen devam ediyor. Özgürlükçü, eşitlikçi, ekolojik, sosyal ve demokratik bir anayasa ve düzene ihtiyaç var. 2011 Milletvekili Genel Seçimlerinde AKP dahil düzen partileri yeni bir anayasa yapma sözünü seçmenlere vermiş olmalarına rağmen, geleneksel rejimi ayakta tutan ve demokrasinin önündeki başta gelen engellerden olan anayasa maddelerini muhafaza etmek istedikleri için bu gerçekleşmemiştir. 
+
+**Sivil bir anayasa fırsatı heba mı edildi?**
+
+Türkiye’de sivil anayasalar döneminin başlaması, demokrasinin sağlam, tutarlı ve kalıcı bir zemin üzerinde gerçekleşmesi TBMM’nin bu döneminde mümkün olabilirdi. Toplum yeni bir anayasanın toplumsal katılımlarla gerçekleşmesi yönünde bu dönem parlamentosuna önemli bir kredi tanımıştı. Bu fırsat şimdilik değerlendirilemedi. İktidar partisi ve geleneksel iki muhalefet partisi, çok sayıda maddede uzlaşma sağlanmasına karşın, rejime demokratik niteliğini kazandıracak kritik maddelerde anlaşmaya varamayınca görüşmeler tıkandı. Bu partiler topluma verdikleri sözü tutmadılar. 12 Eylül Darbe Anayasası’nın ve düzeninin ömrünün uzamasına seyirci kaldılar. Partimiz bu konuyu çok önemli görmekte, eşitlikçi ve özgürlükçü yeni bir anayasa yapılması için çaba göstermektedir.   
+
+**Anayasa yapımında toplumun katılımı nasıl olmalı?**
+ 
+Anayasanın hangi  maddelerden oluşacağından çok nasıl yapılacağı önemli. Demokratik, şeffaf ve sürekli katılıma açık bir yöntemle yazılmayan, bu doğrultuda herkes için ifade özgürlüğünü güvence altına alacak yasal düzenlemeleri yapmadan hazırlanacak bir anayasa toplumda ihtiyaç duyulan katılımcılığa yine cevap vermiş olmayacaktır. TBMM çatısı altında kurulan Anayasa Uzlaşma Komisyonu’nun çalışmalarına bu bağlamda çok sayıda sivil girişim anayasa raporları, önerileri, toplantıları, anketleri ve somut madde önerileriyle toplumsal katılımı gerçekleştirmeye çalıştılar. Bunun daha geniş kapsamlı olarak meclis ve diğer kamu kurumlarının desteğiyle yapılması, yurttaş katılımının gerçekleşmesi bakımından zorunludur. Yeşiller ve Sol Gelecek Partisi olarak, TBMM’nin bu dönemi sona erinceye kadar yeni bir anayasanın katılımcı bir mantıkla gerçekleşebileceği fikrinde ısrar ediyoruz. Özellikle İktidar partisi AKP ile muhalefet partisi CHP’nin toplumu kutuplaştırma ve uzlaşma iklimini yok etme politikalarından vazgeçmeleri gerektiğini söylüyoruz. 
+
+**Yeni anayasanın temeli ne olmalıdır?**
+
+Yeni anayasanın temeli eşitlik, özgürlük ve doğayla uyum olmalıdır. Toplumun tüm kesimlerinin ve bireylerin temel hak ve özgürlükleri tanınmalı, bireyler ve topluluklar arasında eşitlik sağlanmalıdır. Hak ve özgürlükler “genel ahlak, milli güvenlik ve milli değerler” gibi muğlak ve müphem kavramlarla sınırlanmamalıdır. Ülkenin siyasal sorunlarının çözümü, Kürt sorununun demokratik ve barışçı yollardan,  eşitlik ve özgürlük temelinde sonuca bağlanması, Sünni-Alevi, Hıristiyan, Musevi, ateist tüm yurttaşların kendilerinin özgürce ifade edebilecekleri ve güven içinde hissedecekleri bir demokratik rejimin anayasal ve yasal düzlemde tesisi için gerekli bütün unsurları içermelidir. 12 Eylül Darbe rejiminden, yasalarında, kurum ve uygulamalarından kurtulmak için yeni ve sivil bir anayasa gerekir. 
+
+**Yeni anayasa hangi uluslararası hukuk temeline sahip olmalı?**
+
+Yeni anayasa, evrensel olarak kabul edilmiş insan haklarını ve uluslararası anlaşmalarla teminat altına alınmış bireysel hakları ve emeğin haklarını çekincesiz içermelidir. Yasalar ve anayasa ile ilgili bütün düzenlemeler sırasında Paris Şartı, AGİT ilke ve kararları, CEDAW, Pekin Dördüncü Kadın Konferansı Sonuç Bildirgesi ve Birleşmiş Milletler Çocuk Hakları Sözleşmesi, Helsinki Nihai Senedi, AİHS, ILO standartları, Aarhus Konvansiyonu ve Avrupa Konseyi ilke ve kararları ile elde edilmiş olan demokratik ve sosyal kazanımlar asgari standart kabul edilmelidir.
+
+**Yeni anayasada doğa nasıl yer almalı?**
+
+Yeni anayasada doğa bir hak öznesi olarak yer almalıdır. İnsanın doğanın efendisi değil, onun uyumlu bir parçası olduğu anlayışıyla dünya üzerindeki yaşamın bir bütün olarak algılandığı belirtilmeli, doğanın bir hammadde kaynağı olarak görülmesine son verilmeli ve hayvan hakları tam olarak tanınmalıdır. Bu bağlamda ekolojik yıkım yaratan endüstriyel faaliyetin engellenmesi için gerekli tedbirler yeni anayasaya yerleştirilmeli, ekonomik kararlar doğanın dengesi gözetilerek ve insanın gelecek kuşakların emanetçisi olduğu anlayışı çerçevesinde ele alınmalıdır. 
+
+**Ademi merkeziyeti savunuyor musunuz?**
+
+Türkiye’de idari yapı olağanüstü merkezi bir karakterdedir. Yerel yönetimler onun şubesi gibi tasarlanmıştır. Yurttaşın kendi yaşam alanında kendi kaderiyle ilgili kararlara katılım hakkı ise neredeyse hiç yoktur. Bu yapılanma artık sonuna gelmiştir. Türkiye bununla bir adım daha atamaz. Merkezin yetkileri yerel yönetimlere önemli ölçüde kaydırılmalıdır. Yurttaşın katılımı için mekanizmalar oluşturulmalıdır. Yaşam alanlarıyla ilgili olarak halkın, yerel karar alma mekanizmalarına katılımının güçlendirilmesi için yeni anayasa ademi merkeziyetçi bir yönetim anlayışını benimsemeli ve anayasada yurttaşların karar alma mekanizmalarına doğrudan ve etkin katılımını sağlayacak yöntemler/kurumlar geliştirilmelidir.
+
+**Mevcut siyasi partiler ve seçim yasalarıyla çoğulcu bir demokrasi mümkün mü?**
+
+Mevcut haliyle Siyasi Partiler Kanunu ve Seçim Kanunu da Türkiye’de demokrasinin önündeki ciddi engellerdendir. Politik sistemin sağlıklı bir şekilde işlemesini imkânsız kılan hukuksal düzenlemelerdir. Halkın iradesinin ortaya çıkmasını yıllardır bu yasalar engellemiştir. Geleneksel düzen partileri, iktidarlarını bu yasaların ortaya çıkardığı adaletsiz ve eşitsiz zemin üzerine oturtmuşlar ve asla değiştirmeye yanaşmamışlardır. Bu bakımdan Siyasal Partiler Yasası ve Seçim Yasası değiştirilmeli, demokratik siyasal faaliyetleri kısıtlayan, siyasal partileri tek tipleştiren ve bürokratlaştıran yasak ve kısıtlamalar kaldırılmalıdır. 
+
+**Yüzde 10 barajı uygulayan ülke var mı?**
+
+Ne yazık ki Türkiye dışında böyle bir ülke yok. Kendi iktidarlarına yaradığı müddetçe geleneksel düzen partileri bu barajdan şikâyetçi olmadılar. AKP ise kendi iktidarından önce barajın getirildiğini söyleyerek, mecliste başkalarının oyları üzerinden oluşturduğu çoğunluğu savunmaya çalışıyor. Parlamentonun gerçekten bütün seçmenlerin iradelerinin yansıdığı, siyasal meşruiyetin tartışmasız asli mekânı ve yürütmeyi denetleme olanağına gerçekten sahip olabilmesi için yüzde 10 barajının kaldırılması elzemdir. Böyle bir barajın varlığına dayanan bir seçim sistemine Türkiye milletvekilliği vb. biçimlerde yamalar yapmak yasak savmaktan öte bir anlam taşımayacaktır. TBMM’nin gerçekten halkın egemenliğini temsil etmesinin sağlanması, seçim sisteminin yönetimde istikrar adına temsilde adaleti yok etmesine son verilmesi şartına bağlıdır. Yasada partilerin seçim öncesi siyasi ittifak yapmalarına imkân tanınmalı, Hazine yardımı esasları “adil yararlanma” ilkesi ile düzenlenmelidir.
+
+**Anayasa’da ırkçı, milliyetçi ve ayrımcı hükümler var mı?**
+
+12 Eylül Darbesi’nin bütün ideolojik ve siyasi zihniyeti anayasaya yansımıştır. Bundan hareketle hazırlanan yasalar, yönetmelikler, kurumlar ve ortaya konulan uygulamalar Türkiye’yi bu demokrasi ve insanlık dışı zihniyet ve politikaların boğucu atmosferine mahkûm etmiştir. Binlerce insan bu maddelerin ve onlardan kaynaklanan şiddetin mağduru olmuştur. Türkiye’de demokrasi ve çoğulculuk içinde yaşama imkânı ortadan kaldırılmıştır. Yeni anayasa yapımında ortaya çıkan tıkanmanın çok önemli ve esas nedeni, iktidarı ve muhalefetiyle geleneksel düzen partilerinin bu maddelerin devamı yönündeki üstü örtülü ya da açık ısrarlarıdır. Bunların mutlaka değişmesi ve tamamen terk edilmesi gerekir. Anayasa değişikliğinin yanında kanun, kararname ve yönetmeliklerden milliyetçi, ırkçı ve ayrımcı düzenlemeler hızla ayıklanmalıdır. Türkiye toplumunu kuşatan güvenlik devleti ideolojisinin etkisiz kılınması demokratikleşmenin olmazsa olmaz koşuludur.
+
+**Kamu çalışanlarına siyaset hakkı için ne düşünüyorsunuz?**
+
+Yeşiller ve Sol Gelecek Partisi olarak, siyasete getirilen kısıtlamalara karşıyız. Parti olarak anayasa ve yasalardan dolayı siyasete katılımı engellenen bütün yurttaşlara bu hakların tanınması gerektiği fikrindeyiz. Bunun başta gelen temel hak ve özgürlüklerden olduğunu biliyoruz. Partimiz uyguladığı fahri üyelik sistemiyle bugüne kadar, hakları kısıtlanmış seçmen yurttaşların siyasete bir biçimde katkılarını sunabilmeleri için özel bir model geliştirmiştir. Ancak, birçok ülkede bu sorun aşılmış ve bu haklar tanınmıştır. Bu balkımdan, toplumsal her alanda, örgütlenmenin önündeki tüm yasal ve bürokratik engeller kaldırılmalı, uygulamada standartlaşma sağlanmalıdır. Kamu çalışanlarına siyasal yaşama aktif katılım hakkı tanınmalıdır. 
+
+**Kadınların yaşadığı eşitsizlik anayasal ve yasal düzeyde nasıl giderilir?**
+
+Toplumsal ve siyasal eşitsizliği en derin ve sarsıcı biçimde yaşayanlar kadınlardır. Toplumsal ve siyasal yapılanma bu eşitsizliği hem kalıcı kılmakta, hem de her alanda yeniden üretmektedir. Siyaset alanı da bunların en önemli olanıdır. Bu bakımdan, kadınlar lehine pozitif ayrımcılık ilkesi Anayasa, Siyasi Partiler Yasası ve ilgili tüm yasalarda yer almalıdır. Siyasi partilerde yüzde 50 kota zorunluluğu olmalı, yasalardaki cinsiyetçi bakış açısı ve cezalandırma mantığı değiştirilmeli, değişen yasaların uygulanmasını denetleyecek bağımsız mekanizmalar kurulmalıdır. Partimizin tüzüğünde seçimli bütün kurullar için % 50 kadın kotası uygulanmaktadır.
+
+**Cumhuriyetin birlik harcı ne olmalı?**
+
+Ne olamayacağını cumhuriyetin 90 yılı göstermiştir. Çok dilli, çok inançlı, çok kültürlü ve çok etnisiteli Türkiye, ulus devlet zihniyetinin tek kimlik ve tek inanç zorlaması, baskısı ve şiddetiyle yıllar geçirmiş, savaşlar yaşamış, katliamlar, sürgünler, asimilasyon ve kıyımlar derin yaralar açmıştır. Farklı olanlar, yani Türk, Sünni ve Hanefi olmayanlar her alandan dışlanmış ve ötekileştirilmiştir. Son otuz yılımıza Kürtlere karşı yapılan savaş damgasını vurmuştur. Bir arada yaşamanın, devletin, siyasal rejimin birliğinin, toplumsal beraberliğin harcının böyle olamayacağı ortaya çıkmıştır. Bu nedenle, Türkiye Cumhuriyeti yurttaşlarının siyasal birliği ve toplumsal beraberliğinin harcı etnik veya bölgesel kimliğe, dile veya dine indirgenmemelidir. 
+
+**Vesayetçi yapılanma nasıl sona erer?**
+ 
+Askeri ve bürokratik vesayetin Türkiye’deki tarihi ve kurumlaşması epey eskiye dayanıyor. Bununla beraber, darbeler bu yapılanmayı pekiştirmiştir. Özellikle 12 Eylül 1980 Darbesi bu doğrultuda getirdiği anayasal, yasal ve kurumsal dayatmalarıyla vesayet sistemini toplumun ve siyasal sistemin bütün alanlarına derinlemesine yaymış, kökleştirmiştir. Aradan geçen onca zamana ve anayasal, yasal ve fiili sayısız değişikliğe rağmen halen kuvvetli bir şekilde etkisi görülmektedir. Bunun için, Milli Güvenlik Kurulu gibi vesayet rejimi kalıntısı kuruluşlar lağvedilmeli, Genel Kurmay Başkanlığı Milli Savunma Bakanlığı’na bağlanmalıdır. Orduya iç güvenlikle ilgili herhangi bir görev verilmesi yasal ve idari düzenlemelerle önlenmelidir. Askerlik hizmetlerinin yerine getirilmesinde ahlaki ve vicdani normlar gözetilmeli, “vicdani red”de hukuksal statü kazandırılmalıdır. 
+
+**Askeri harcamaların denetlenmesi hakkında ne diyorsunuz?**
+
+Askeri vesayetin sarsılmadığı yıllarda askeri harcamalar TBMM’de incelenemezdi. Milletvekilleri harcamaların üzerine gidemezdi. Şeffaflık ve hesap verme söz konusu değildi. Şimdi de çok fazla şeyin değiştiği söylenemez. Bütçeden çok önemli miktarda pay o alana ayrılıyor. Denetlenmesi yönünde, bilgisinin kamuoyuna açıklandığı demokratik bir sistem oluşturulmamıştır. Militarist politikalara kaynaklık eden bu alanın kapalı devre bir sistemle sürdürülmesi hem kamusal kaynakların yerinde ve yararlı kullanımı konusunda kuşkulara yol açıyor, hem de vesayetçi zihniyetin kendini yeniden üretmesine zemin sunuyor. Bu yüzden, askeri harcamalar başta olmak üzere tüm kamu harcamaları üzerinde Sayıştay denetiminin etkin biçimde gerçekleşmesi şarttır. Kamu alanında şeffaflık ve hesap verebilirlik ilkesini gerçekten ve etkin biçimde hayata geçirecek, sivil toplum kuruluşlarının parlamento denetimi güçlendirilerek, denetimde toplumsal katılımın gerçekleştirilmesi için gerekli önlemler alınmalıdır. 
+
+**Askeri harcamaların azaltılmasından yana mısınız?**
+
+Türkiye çok büyük bir orduya sahip ve 12 Eylül Darbe Rejimi dönemi kadar olmasa bile, halen bütçesinden çok büyük bir payı askeri harcamalara ayıran bir ülke. Silahlanma konusunda dünyanın ilk dört-beş ülkesi arasında. Partimiz bu kadar büyük bir askeri gücün bulundurulmasını ve böylesi silahlanmayı, siyasi ve iktisadi olarak doğru bulmamaktadır. Asker sayısı süratle azaltılmalı ve savunma ölçeğinin dışına taşan silahlanmaya son verilmelidir. Yapılan çalışmalara göre, 12,5 milyon vatandaşın GSS priminin devlet tarafından ödenmesi ve 1 milyon yoksul haneye ayda 295 TL düzenli gelir verilmesi durumunda ortaya çıkan ek kaynak ihtiyacı 1,3 milyar TL civarında olup, askeri harcamalardan % 5 azaltılmasıyla bu kaynak yaratılabilecektir. 
+
+**Türkiye’nin hukuk sistemi böyle gider mi?**
+
+Zor gider. Hukuk ve yargı sistemi her tarafından arıza işareti veriyor. 12 Eylül 2010’da yapılan Kısmi Anayasa Değişikliği Referandumu’yla getirilen bazı değişikliklerin ortaya çıkardığı fiili sonuçların 17 Aralık Rüşvet ve Yolsuzluk Operasyonu sonrasında, Hükümet kanadında yeni bir değerlendirme ve davranışa yol açtığı görülüyor. Özellikle yargının ve polisin, uzun süredir hükümeti destekleyen Nurcu Hizmet Cemaati’ne bağlı bir yapılanmanın kontrolüne girdiğini ileri süren iktidarın Milli Görüş kanadı, yaptıkları inanılmaz uygulamalarla ve getirdikleri yasa değişiklikleriyle, özellikle de HSYK’yı hedef alan önerileriyle, yargıyı yürütmeye bağlayacak ve dolayısıyla rejimin kökten değişikliği anlamına gelecek adımlar attı. Ciddi ve köklü bir hukuk ve yargı reformuna ihtiyaç varken, iktidarın bugüne kadar kendini destekleyen Cemaat’le girdiği savaştan galip(!) ayrılmak için ters yönde ve kabulü mümkün olmayan önerileri siyaset alanına sürdüğü görülüyor. Eski düzen zor giderdi, AKP’nin öne sürdüğü düzen hiç gitmez. 
+
+**Hukuk ve yargı reformu mu öneriyorsunuz?**
+
+Evet. Hukuk sisteminde köklü bir reform yapılmalı, yargı bağımsızlığı sağlanmalıdır. Yargı bağımsızlığı kendi başına bir amaç değil, yargının tarafsızlığını sağlamaya yönelik bir araçtır. Bağımsızlık tek başına tarafsızlığın yeter şartı olmadığı gibi, tarafsızlığı da kendiliğinden sağlamaz. Yargının kamusal denetimini mümkün kılacak, böylece yargıyı topluma hesap verebilir hale getirecek demokratik yöntem ve mekanizmalar oluşturulmalıdır. Askeri ve sivil yargı ikiliği ortadan kaldırılmalı, disiplin suçları dışında asker kişiler de yerel ve tabii mahkemelerde yargılanabilmelidir. Askeri mahkemelerin disiplin suçlarına ilişkin kararlarının temyiz mercii Yargıtay, Danıştay olmalıdır.
+
+**MİT ve diğer istihbarat birimleri nasıl ele alınmalı?**
+ 
+Türkiye’nin istihbarat birimlerinin faaliyetleri her zaman sorunlu olmuştur. Dış dünyaya dönük istihbari faaliyet yapması yasayla hüküm altına alınanlar bile işi gücü bırakıp muhalif yurttaşların peşinden koşmuş, onların hayatını karartmış ve olmadık karanlık olaylarda rol almışlardır. Hatta Türkiye’nin tarihi, istihbarat örgütlerinin karanlık faaliyetlerinin tarihi gibidir. Halen aydınlatılamamış onlarca, yüzlerce fiilleri bulunmaktadır. Önemli cinayetler, kanlı büyük provokasyonlar, rotasından çıkarılan kitle eylemleri, darbe maşalığı, sabotajlar, etnik kıyım hazırlayıcılığı, vb. hafızalarda yer etmiştir. Hatta ülkenin politik yönlendirmesini çoğu zaman iktidarların elinden almayı hedefleyen girişimleri olmuş veya bu girişimlerin parçası haline gelmişlerdir. Türkiye’nin demokratikleşmesinin gerçekleşmesi bu alanın denetiminin TBMM’ye açılmasından geçeceği aşikârdır. Son yıllarda istihbarat örgütlerinin farklı siyasal projelerin parçası haline gelmelerinin yarattığı tartışmalar şimdilerde daha fazla gün yüzüne çıkmaktadır. Bu alanın baştan sona demokratikleşme ve saydamlaşmaya ihtiyacı varken, AKP iktidarının, başka konularda olduğu gibi, bu alanı da kendi ihtiyacına göre dizayn etmeye çalışması, kendi kontrolüne sokması ve denetimden kaçırması, önceki çizginin devamıdır. Kendi iktidarını güçlendirme hamlesidir ve çıkış yolu değildir. Yeşiller ve Sol Gelecek olarak mevcut yapılanmanın sonlandırılması gerektiğini ama yenisinin iktidarın arka bahçesi olarak düzenlenmesinin doğru olmadığını düşünüyoruz.
+
+**İstihbarat ve güvenlik yapılanması hakkında köklü değişiklik öneriniz mi var?**
+
+Köklü değişiklik öneriyoruz. Devlet içindeki örtülü, yasama denetimi dışına kaydırılmış olan tüm birimler lağvedilmeli, MİT ve benzeri istihbarat birimlerinin faaliyetleri Meclis denetimine açılmalıdır. Bunların iktidarların arka bahçesi haline getirilmelerine karşı çıkılmalıdır. Örtülü ödenek kaldırılmalıdır. Demokratik parlamenter rejimi lağvetmeye veya askıya almaya yönelik tüm darbeci teşebbüsler, sorumluları kim olursa olsun cezalandırılmalıdır. Çeşitli davalarda gözlemlenen ve hukuk sistemine hâkim olan hukuksuzluğun bir parçası olan hukuk ihlallerini teşhir etmek ve eleştirmek, bu davalara konu olan son derece ağır suçların üzerini örtmenin bahanesi olamaz. Bu çerçevede adil yargılama ilkelerine ve evrensel demokratik hukuk ilkelerine titizlikle riayet edilmelidir. 
+
+**Vatandaşlık anlayışınız nedir?**
+
+Türkiye Cumhuriyeti yasalarına göre, her Türkiye Cumhuriyeti vatandaşı eşit siyasal ve toplumsal haklara sahiptir. Ancak her Türkiye Cumhuriyeti vatandaşının kâğıt üzerinde sahip olduğu yurttaşlık haklarından cinsel yönelim, cinsiyet kimliği, cinsiyet, din, etnisite, ırk ve sınıf bağlamında eşit ölçüde ve fiilen yararlanabildiğini söylemek mümkün değildir. Özellikle Türk, Sünni, erkek, heteroseksüel kimliğin kendisini diğer kimlikler karşısında ayrıcalıklı ve üstün konumlandırma çabası ve bu çabanın milliyetçi militarist yasalar ve fiili uygulamalarla desteklenmesi Türkiye Cumhuriyeti yurttaşları arasında büyük bir eşitsizliğe ve adaletsizliğe yol açıyor. Yeni yurttaşlık yaklaşımımızın temelinde yatan anlayışa göre siyasal toplum, ortak bir zamanda, ortak bir mekânda, ortak bir yaşamı paylaşan eşit ve özgür insanların gönüllü birlikteliğidir. Siyasal toplumun her bir üyesi bu ortak yaşamın düzenlenmesinde cinsel yönelim, cinsiyet kimliği, cinsiyet, din, etnisite, ırk ve sınıf ayrımı gözetilmeksizin eşit söz ve sorumluluk sahibi olmalıdır. Bu ilke ancak, tüm vatandaşlar ekonomik, kültürel, politik ve sosyal haklardan fiilen ve eşit olarak yararlanabildikleri ölçüde ve sürece geçerlilik kazanabilir. 
+
+**Yurttaşların ortak görüş ve irade oluşturması nasıl sağlanacak?**
+
+Yurttaşlık, ortak görüş ve irade oluşturmaya yönelik siyasal süreçlere katılımla kurulan ve bu süreçlerde bizzat katılımcılar tarafından şekillendirilecek yaşayan bir pratiktir. Farklılıkların birbirleriyle konuşması için gerekli ortak siyasal dili eşit ve özgür yurttaşlar birlikte kurar. Dolayısıyla, yurttaşların eşit siyasal haklardan yararlanabilmesi için ekonomik, sosyal ve kültürel haklardan yararlanabilmesi; ekonomik, sosyal ve kültürel haklardan yararlanabilmesi için de eşit siyasal haklardan yararlanabilmesi esastır. 
+
+**12 Eylül 1980 Darbecilerinin yargılanması hakkında ne düşünüyorsunuz?**
+
+12 Eylül 2010 tarihinde yapılan Anayasa Değişikliği Referandumu’nda Geçici 15. Maddenin kaldırılması, darbeci generallerin üzerindeki koruma zırhını kaldırdı ve yargılanarak hukuken mahkum edilme imkanı doğdu. Hayatta kalan generallerden Kenan evren ve Tahsin Şahinkaya’nın ömür boyu hapis ve rütbelerinin geri alınması yönünde ceza isteniyor. Ayrıca, darbenin diğer iştirakçileri hakkında ve darbe döneminde işlenen insanlığa karşı suçlara dair soruşturmalarda devam ediyor.  Bu davayı 12 Eylül düzeninden kurtulmanın önemli bir adımı olarak görmemize karşın, darbeciler ve rejimleri Türkiye halklarının vicdanında çoktan mahkum oldular. Hukuken mahkumiyetleri  ise hukuki ve siyasi tarihimiz bakımından önemli bir dönüm noktası olacaktır. O dönemin haksız ve hukuksuz  yargılamaların yenilenmesi, mağduriyetlerin kısmen de olsa giderilmesi imkanı doğabilecektir. Yeşiller ve Sol Gelecek Partisi davanın baştan itibaren takipçisi olmuş ve halen de bunu sürdürmektedir. 

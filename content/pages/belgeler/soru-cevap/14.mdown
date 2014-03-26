@@ -1,0 +1,142 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**14) ENERJİ SORUNU**
+
+**İklim değişikliği ve ekolojik yıkımın arkasında nasıl bir ilişki var?**
+
+Her gün daha ağırlaşan bu sorunun arkasında enerji politikaları var. Fosil yakıtlara, nükleer enerjiye, barajlara ve ekolojik olmayan tercihlere dayanan enerji politikaları son 100-150 yılımıza damga vurdu ve dünyayı bu krize taşıdı. Ekonomi ve sanayi sistemi tercihleri ve kullanılan teknoloji bu durumu yarattı ve enerji oburu topluluklar ortaya çıkardı. 
+
+**Başka türlüsü mümkün müydü?**
+
+İlk dönemlerde iklim değişikliğini yaratan ve ekolojik yıkımı hazırlayan etkenler pek bilinmiyordu. Ama epey zamandır bilim bu nedenleri ortaya çıkardı. Ama temel güdüsü kâr olan sermaye ve onun destekçisi iktidarlar, bu gerçekliği görmezden gelerek aynı ekonomi ve sanayi sistemini sürdürmeyi, yıkımı besleyen teknolojiyi kullanmayı çıkarlarına uygun buluyorlar. Dünyanın ve bütün canlıların geleceğini koruyacak farklı politikalar ve tercihler şimdi mümkündür. Ertelemek her gün riski büyütüyor ve yıkıma biraz daha yaklaştırıyor.
+
+**Ne yapılmalıydı bu noktaya gelmemek için?**
+ 
+Elbette petrol, doğalgaz, kaya gazı, kömür gibi fosil yakıtlar, nükleer enerji, yapıldıkları yerin ekosistemini altüst eden barajlar ve diğer ekolojik olmayan enerji modellerinden hızla uzaklaşmak gerekirdi. Ulaşımda bireysel motorlu taşıtlara dayalı sistemin yarattığı bağımlılığa son verilmeliydi. Enerjiyi verimli kullanma, daha az ve yerinde tüketme anlayışı hâkim kılınmalıydı. Güneş, rüzgâr gibi temiz ve yenilenebilir enerji kaynaklarına dayanan bir ekonomi oluşturulmalıydı. Petrole olan talep azaltılmalı ve kömürlü termik santraller kademeli olarak kapatılmalıydı. Bunlara teşvik verilmesi sonlandırılmalıydı. Sera gazı, hava kirliliği, asit yağmuru ve çevre tahribatı böylece önlenebilirdi. Dünya ve bütün canlılar çok zarar gördü, ama yine de hemen ve süratle yapılacaklarla bir umut var.
+
+**Elinizde yetki olsa ne yapardınız?**
+
+Karbon vergisi uygular ve bunu giderek artırırdık. Böylece fosil yakıtlara yönelik caydırıcılık sağlardık. Ayrıca bunların yarattığı çevre tahribatının maliyetini de fiyatlara ilave ederdik. Petrol ve kömüre dayalı teşvikleri gecikmeden kaldırırdık. Petrol, kömür, doğal gaz ve diğer yeni nesil fosil yakıt aramalarını noktalardık. Bu alanda çalışanlara yeni eğitim ve çalışma alanları sağlardık. Nükleer enerjiden ve santrallerden tamamen uzak dururduk. Çünkü bunların yarattığı risk ve radyoaktif kirlenmenin muazzam maliyetleri kabul edilemez.
+
+**Türkiye’deki enerji politikalarını nasıl değerlendiriyorsunuz?**
+
+Türkiye’nin enerji politikası baştan sona değiştirilmelidir. Durumumuz, kırık camları değiştirmeden ısınmak için kombiyi daha da açan bir ev sahibin aymazlığı ile aynı. İnşaata dayalı ekonomik büyüme yoğun bir enerji ithalatını gerektirmekte. Bu da ülkenin cari açığına en büyük katkıyı yapmakta. Oysa daha yeşil bir büyüme modeline geçilse, ne bu kadar enerji ithal etmek, ne de bu kadar termik, nükleer ve hidroelektrik santrali yapmak zorunda kalmayacağız. 
+
+**Hükümet enerji alanında nasıl davranıyor?**
+
+Hükümet aynı anda hem fosil yakıtlardan, hem de yenilenebilir enerji kaynaklarından yararlanmayı hedefliyor. Toplam enerji kaynakları içinde şu anda yenilenebilir enerjinin payı neredeyse sıfır. Bunu yüzde 10’a çıkarabildiklerinde iyi bir sonuç elde edeceklerini düşünüyorlar. Halbuki bu yüzde 90 oranında kömürü, petrolü ve nükleeri sürdürmek ve desteklemek demektir. Termik santraller ABD’de yaklaşık 5 milyon insanın kansere yakalanmasına yol açtı. Bu dünya gerçekleri ortadayken yüzde onlarla oyalanmak çıkış yolu olmayacak.
+
+**Nükleer enerji santralleri temiz enerji üretmiyor mu?**
+
+Bu santrallerin dünyadaki payı azalmaya başladı. Çünkü riskleri görüldü. Oysa çevre, ekoloji, demokrasi, güvenlik ve gelecek nesiller için kaygı taşımayan ülkeler kendi bildiğini okuyor. Türkiye de bunlardan biri. Bu anlayış artık eskidi. Mersin, Sinop ve İğneada’da yaşayanlar nükleer santrali reddediyorlar. Bunun temiz enerji üretmek bir yana etkisi yüzyıllarca sürecek, bütün canlı yaşamını ve çevreyi ağır bir tehlikenin içine atacak bir tercih olduğunu biliyorlar. Daha ucuza geldiği iddiası da ortaya atılan yalanların en büyüklerinden! İktidarın merkezinde olduğu nükleer sektörünü elinde tutan uluslararası odaklar, halkın devre dışı bırakıldığı şeffaflıktan uzak bir süreçle bu miadını doldurmuş modeli Türkiye’ye dayatılıyor.
+
+**Nükleer enerji bakımından dünyada durum nedir?**
+
+ABD 1978 yılından beri yeni bir santral yapmadı. Almanya 2050 yılında yüzde 100 yenilenebilir enerjiye geçmeyi hedefliyor. Şimdiki enerji tüketimini de yüzde 45 azaltmayı planlıyor. İngiltere 19 nükleer santralini kapatmak için kaynak peşinde. Bu örnekler yeter herhalde…
+
+**Nükleer enerji yasası kabul edildi, görüşünüz nedir?**
+
+Nükleer santraller tüm dünyada 1978 yılından itibaren pahalı, atıkları depolanamaz, denetlenemez ve insanlarla birlikte var olamaz olarak değerlendirilmesine rağmen bu yasanın çıkarılması aymazlıkken üstüne bir de santrali kurana 15 yıllığına alım garantisi verilmesi inanılmaz bir olay. Üstelik santralin kapatılmasına dair yükümlülükler de kamunun sırtına bindiriliyor. Bu teknolojiyi pazarlayan ülkeler, artık yüklerini açıkça diğer ülkelere aktarıyorlar. 
+
+**Peki barajlara neden itiraz ediyorsunuz, hiç mi faydası yok?**
+ 
+Yapıldığı bölgelerdeki sonuçlara bakınca, götürdüğü getirdiğinden daha fazla. Büyük araziler, topraklar, köyler, ilçeler ve hatta bazen kentler tamamen su altında kalıyor. Yüzyıllar içinde oluşmuş bir doku siliniyor. Bir süre sonra topraklar tuzlanıyor ve çoraklaşıyor. İnsanlar yerini yurdunu terk etmek zorunda kalıyor. Ne kadar aksi söylenirse söylensin, tarihi ve kültürel miras yok oluyor. Çoruh, Munzur ve Ilısu bunun göze çarpan örnekleri oldu. Toplumsal tepki nedeniyle bazılarından geri adım atılsa bile, bu politikadan köklü bir şekilde vazgeçilmesini istemeye devam edilmelidir. Çünkü, büyük barajların ekolojik ve adil bir enerji politikasında anlamlı bir yeri yoktur.
+
+**HES’lerle ne alıp vermediğiniz var?**
+ 
+Karadeniz ahalisine bu soruyu yöneltsek, emin olun inanılmaz etkili yanıt verirler. HES’lerin ülke için büyük bir ekolojik sorun haline geldiği artık herkesin görmek zorunda olduğu bir gerçek. Küçük barajlı veya barajsız HES’lerin doğada ağır yıkıma yol açtığı, halkın suyla ilişkisini kestiği, bölgesel yaşamı ve kültürü olumsuz etkilediği biliniyor. Yarattıkları yıkım nedeniyle bunları yenilenebilir enerji sınıfında saymak mümkün değil. 
+
+**Sular boşuna mı aksın?**
+
+Sular boşuna akmıyor, onların yerine getirdiği büyük işlevleri var. Geçtikleri, her yere hayat veriyorlar. Ekolojik dengenin hayat damarı sudur. İklim değişikliğinin hızlandığı, kuraklığın gelip kapıya dayandığı ve su krizinin bütün ürkütücülüğüyle kendini gösterdiği bu zamanda su kaynaklarını sonsuz zannetmek büyük bir yanılgı. Her su kaynağının önüne bir set çekmek, suya ulaşmaya çalışan her canlının ve ortak yaşam alanı dünyanın dengesini yok eden girişimlere destek anlamına gelecektir. 
+
+**Parayla su olur mu?**
+
+Türkiye’de su özelleştirildi. Yerüstü ve yeraltı suları şirketlere devredildi. Canlıların yaşamsal ihtiyaçları ellerinden alındı. Köyler ve köylüler çaresiz kaldı. Akarsu yatakları kurudu. Bütün bitki ve hayvan türleri zarar görüyor. İnşaatlar nedeniyle ağaçlar, ormanlar, sulak alanlar tahrip oldu. Bunların geri dönüşümünün gerçekleşmesi neredeyse imkânsız oldu. Gündelik su ihtiyacı bile temel güdüsü kâr olan sermayenin insafına terk edildi. Tartışmasız bir hak olan yaşama hakkının ön şartı su, paraya endekslendi. Bunun hiçbir ticari, ekonomik, siyasi ve ahlaki değer içinde yeri olamaz.
+
+**Bu durum böyle sürer mi?**
+
+Mevcut üretim biçimi ve tüketim zihniyeti sürdürülebilir değil. Enerjinin az ve verimli kullanıldığı bir üretim sistemine geçilmesi gerekiyor. Yeşil enerji politikalarına yönelmek en uygun olan. Türkiye’nin enerji verimliliği Avrupa ortalamasının yarısı kadar bile değil. Halbuki enerji verimliliği yüksek teknolojiler kullanılabilir ve bunlar teşvik edilebilir. Bu yolla daha az enerji tüketilir. Sanayi, ulaşım, yapı sektörü ve konut ısınmasında enerji tasarrufu sağlayan yöntem ve teknolojiler teşvik edilebilir. Bunlar yasalara bağlanabilir.
+
+**Bizim yenilenebilir enerji kaynağımız var mı?**
+
+Türkiye isterse mevcut elektrik tüketiminin iki katından fazlasını güneş ve rüzgârdan elde edebilir. Ayrıca, jeotermal enerji, biyogaz ve diğer yenilenebilir kaynaklar da fosil yakıtların terk edilmesi için ilave imkânlar. Yani, bizim için altyapısı temiz, % 100 yenilenebilir, nükleersiz, karbonsuz enerji kaynakları mevcut. Bunları demokratik yerinden yönetim anlayışıyla, refahı paylaştıran enerji kullanımını demokratikleştiren modellerle sağlayabiliriz. 
+
+**Yenilenebilir enerji kaynaklarının genel özellikleri nedir?**
+
+Yenilenebilir enerji kaynakları dünyada sınırsız ve ücretsiz olarak bulunmaktadır. Bu kaynaklar herkesin eşit olarak ulaşabileceği kaynaklardır. Herkesin bulunduğu yere gelen ve enerjisini sunan özelliklere sahiptir. Yararlanmak için sert rekabete ve savaşlara yol açmamaktadır. Bu özellikleriyle eşitlikçi, özgürlükçü ve barışçı bir toplumsal yönelimin gelecek tasavvuruna uyum gösteren ve çeşitliliği olan enerji kaynağı, yenilenebilir enerji kaynaklarıdır. 
+
+**Yenilenebilir enerjinin seçenek haline gelme ihtimali nedir?**
+
+ABD Enerji Bakanlığı bile 17 Eylül 2013’te yayınladığı raporda rüzgârdan enerji üretimi, güneş pillerinden enerji üretimi, yeni teknoloji ampulleri öneriyor. ABD Çin’den sonra rüzgârdan enerji üretiminde dünyada ikinci sırada. Otomobillerde petrolden elektriğe geçiş başladı. İklim değişikliği ve çevre kirliliğinin başka türlü önlenemeyeceği ortaya çıktıkça, iktidarlara başka seçenek kalmayacak. Enerjide çözüm % 100 yenilenebilir enerjiyi hedeflemekle başlar. 
+
+**Enerji alanında hangi adımların atılmasını öneriyorsunuz?**
+
+TBMM’nin bu konuyu etraflıca görüşmesi, dünyadaki deney ve bilgileri gözden geçirmesi gerekir. Konu pek görüşülmediği gibi iktidarın tercihi de fosil yakıtlar ve nükleerden yana. Bilim insanlarının öneri ve uyarılarını dikkate almıyor, onların görüşlerine başvurmuyorlar. Kaynağı güneş ve rüzgâr olan, yerel ihtiyaçlara göre tasarlanmış ve akıllı şebekelerle dağıtımı yapılan enerjiye dayalı, ölçeği küçük ve özerk üretim birimleri yönünde adım atılabilir. Üretim sürecinde AB’nin ve Birleşmiş Milletler’in vardığı standartlar geleceğin planlamasından göz önüne alınabilir. Teşvik, kredi ve vergi muafiyeti sağlayarak, küçük tesis ve hanelerin kendi elektriklerini üretmeleri ve çift taraflı sayaçlarla fazlasını şebekeye satmaları gerçekleştirilebilir. Bu amaçla bürokratik engeller kaldırılır, alım garantili fiyatlar belirlenir, şeffaflık sağlanır ve tekelleşme önlenebilir.
+
+**Malzemeler hep ithal, pahalıya gelmez mi?**
+
+Doğru. Bunun için gerekli malzeme ve teknoloji, üniversitelerle işbirliği içinde, Türkiye’de üretilmeli ve geliştirilmeli. Bu yeni istihdam imkânları da yaratır. Bunun için teşvik verilmesi de yasa kapsamına alınmalı. Bu nedenle, özel sektör yatırımlarında lisans alınması da kriterlerin arasında bulunmalı. Yerel halkın katılımı ve onayı aranmalı ve doğaya, yerel ekonomiye ve ekolojik dengeye zarar vermeyecek yatırımlara izin verilmeli. Oysa hükümetin vizyonu, rekabetin yüksek olduğu, piyasanın zaten çoktan doygunluğa ulaştığı otomobilin yerlisini üretmekten öteye gidemiyor.
+
+**Şu anda elektrik üretim ve dağıtım düzeni nasıl?**
+
+Karaborsa hâkim. Kayıp ve kaçaklar had safhada ve bunun faturası ödemesini düzenli yapanlara kesiliyor. Dağıtım eskiyen hatlar ve iletim sistemi nedeniyle sık sık arızalanıyor. Piyasa ise kontrol edilemez ve denetlenemez durumda. Bunun nedeni her şeyin, yani üretim, iletim ve dağıtımın merkezi yönetime bağlanmış olması. Bunun değişmesi için akıllı şebekelere geçiş ve bazı konularda yerel yönetimlere yetki devri gerekiyor. Elektrik enerjisinin üretimi, iletimi ve dağıtımı yerel yönetimlerce yapıldığı takdirde kontrol ve denetim ile yenilenebilir enerji kaynaklarına uyum sağlanabilir.
+
+**Enerjinin etkin kullanımı etkili ve sonuç veren bir tercih olabilir mi?**
+
+Bu önemli bir tercih elbette. Yeni teknolojilerin devreye girmesiyle anlamlı bir sonuç alınabilir. Ampul modelinin değişmesi bile ciddi bir enerji tasarrufu sağlayabilir. Bu tür ampullerin tüketicilere bedelsiz verilmesi yoluyla tüketim yarı yarıya azaltılabilir. Önemli olan az enerji sarfıyla enerji ihtiyacını karşılayabilmektir. Bir zamanların kişi başına enerji sarfiyatını gelişmişlik ölçütü olarak alan kalkınmacı, büyümeci kapitalist zihniyet aslında kanser hastalarının sayısını artırmaya hizmet etmiştir.
+
+**Enerji politikaları bakımından yerel yönetimlerin durumu nedir?**
+
+Yerel yönetimler kentin uzun vadeli yararını gözeten adımlar planlamalı. Enerji ihtiyacı belirlenirken çevre dostu kent anlayışıyla gerekli düzenlemeleri yapmalılar. Henüz bu yaklaşım Türkiye’de pek görülmüyor. Partimiz bunu önem ve ısrarla savunuyor. Dünyada 300 kentin yüzde 100 yenilenebilir enerjiyle beslendiği dikkate alınırsa, çevre dostu kent hedefinin ulaşılabilir olduğu görülecektir.
+
+**Çok enerji tüketmek aslında dünyayı tüketmek mi diyorsunuz?**
+
+Tüketim ideolojisi toplumlara kapitalizmin dayattığı bir şey. Bu enerji için de geçerli. İhtiyaçların sınırsız olduğu fikri, efsanesi bir yanılsama. Tasarrufun bir kusur olarak görülmesi de bir koşullanma. Kapitalizm kendi devamını garanti altına almak amacıyla tüketimi, hem de sınırsız tüketimi bir yaşam modeli olarak empoze ediyor ve ekonomi, sanayi, teknoloji, bütün toplumsal süreçlere iktidarlar ve onun muhtelif araçları vasıtasıyla böyle dizayn ediliyor. Halbuki bilinçli bir tercih olarak tüketim ideolojisi ve davranışından uzak durmak, tasarruf etmek, sınırsız enerji kullanımının sonuçlarını sorgulamak, yavaş ve düşük enerji kullanımına göre bir üretim ve yaşam tarzının mümkün kılınabileceğini görmek ve bunu gösterecek politikaları geliştirmek mümkündür.

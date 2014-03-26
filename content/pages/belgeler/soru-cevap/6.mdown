@@ -1,0 +1,77 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**6) AZINLIKLAR**
+
+**Türk ve Müslüman olmanın bu ülkeye ne zararı var?**
+
+Elbette bir zararı yok. Sorun, insanların çeşitli biçimlerde Türk ve Müslüman olmaya zorlanmasından kaynaklandı. Zira, bu ülkede yaşayanların hepsi Türk ve Sünni Müslüman değil. Osmanlıda da böyle değildi, daha önce de... Bu sonradan icat edildi. Türkiye Cumhuriyeti’nin kuruluşunu takiben Türk ve Sünni olan tek tip nüfus yaratılmak istendi. Böyle olmayanların başına gelmeyen kalmadı. Ya asimile edildiler, ya çeşitli şekillerde tasfiye edildiler. Bunu yapanların kafalarında bir toplum modeli vardı: Tek tip, yani Türk ve Sünni Müslüman bir Türkiye toplumu. Bunu gerçekleştirmek için her şeyi göze aldılar ve yaptılar. Sonuç meydanda.
+
+**Türk ve Müslümanlar çoğunluk değil mi?**
+
+Bir inancın ve etnik kimliğin çoğunlukta olması, toplumda her şeyin efendisi olmasını mı getirmeli? Böyle bir arada ve kardeşçe yaşama kültürü olur mu? Türkiye’de 39 dil konuşuluyor. Çok sayıda farklı etnik kimlik ve inanç grubu var. Bunları biz tarihten miras olarak aldık. Bu topraklar onlara vatan olmuş. Yaşadığımız topluma her yönüyle değer katmışlar. Herkesin kendi rengiyle dahil olduğu bir toplumsal zenginlik çıkmış ortaya. İnsan olmanın azı çoğu olur mu? Onların hepsini devlet şiddeti yoluyla Türk ve Sünni olmaya zorlamanın insanlığa ve bize ne faydası var? Neysek oyuz, zoraki kimliklerle bir ortak gelecek kuramayız.
+
+**Türkiye Cumhuriyeti bir ulus devlet mi?**
+
+Evet, Osmanlı İmparatorluğu’nun çöküşü üzerine, onun bir bakiyesi olarak 20. Yüzyılın başlarında kurulan ulus devletlerden biri. Kapitalizmin belli bir gelişme evresinde, ağırlıkla da 19. Ve 20. Yüzyıllarda yaygın olarak ortaya çıkan devlet modeli, ulus devlet olmuştur. Belli bir coğrafi ve siyasi bütünlük içinde, ortak dil kullanabilenlerin kendi pazarını yaratma ve koruma ihtiyacı temel itici etkenlerden biriydi. Şimdi küreselleşme dönemi yaşanmasına, sınırların epey geçirgen bir hal almasına,  ulus üstü modellerin giderek etkili olmaya başlamasına rağmen, ulus devletlerin döneminin kolayca kapanmayacağı, gelişmelere ve dönemlere göre kimi yapısal değişikliklere uğrayarak ömrünü uzatacağı da görülüyor. 
+
+**Yeşiller ve Sol Gelecek galiba  ulus devlete karşı?**
+
+Hepsi aynı olmamakla beraber, ulus devletlerin kuruluşu genellikle sorunlu, çatışmalı ve çok kanlı olmuştur. Yine her ulus devlette öyle olmamasına karşın, Türkiye Cumhuriyeti kurulduğu andan başlayan politikalarla, tarihten devraldığı çoğulcu toplum yapısını tek kimlik altında, yani Türk ve Sünni kimliği altında toplamaya zorlamıştır. Nüfusun önemli bir bölümünü, farklı inanç, etnisite, dil ve kültür gruplarını oluşturan kesimler olağanüstü baskılar ve yıkıcı uygulamalarla karşılaştılar. Sorunların ana kaynağı burasıdır.   Asıl sorun zaten, parçalanan ve dağılan Osmanlı İmparatorluğu sonrası ve onun topraklarının bir bölümü üzerinde kurulan, yani Türkiye’deki ulus devlet modelinin sistematik hale gelmiş bu uygulama ve anlayışındadır.    Osmanlı’nın son yönetimi olan İttihat Terakki’nin ve Cumhuriyet’in ilk yıllarından başlayarak Kemalizm kavramında içeriğine kavuşan ideolojiyi benimseyen ilk kurucu iktidarların tercihi ve takip edenlerin uygulamaları Türkiye’yi bu modele mahkum etmiştir.
+
+**Farklı bir model mümkün müydü?**
+
+Çağdaş örneklerine bakıldığında, en yakınımızdaki Avrupa ülkelerinden bazıları gibi, daha çoğulcu ve demokratik tercihlerin yaşama geçirilmesi ve sürdürülmesi de pekala mümkündü. Buna karşılık, çoğulcu ve demokratik bir yapılanmaya kapılar kapatılarak, milyonlarca insanı Türk ve Sünni olarak yaşamaya zorlayan türden bir ulus devlet politikası toplumumuzu kronik hale gelen ve bu günümüzü de ipotek alan büyük kaosa sürüklemiştir. YSGP olarak, tek kimlik dayatması üzerinde yükselen bu anlayışın, artık  yürüyemeyeceğini  ve terk edilmesi gerektiğini düşünüyor ve her konuda çok köklü bir demokratikleşme öneriyoruz. Bırakalım herkes kendi kimliğini, inancını, kültürünü, dilini demokratik bir siyasal yapılanma içinde, eşir ve özgürce yaşasın.  Bugüne kadar yaşanan ağır tahribat ancak böyle giderilebilir. Buna uygun bütün anayasal ve yasal adımlar atılarak barış ve demokrasi içinde kardeşçe yaşanabilecek bir toplumsal ve siyasal düzen böyle inşa edilebilir.
+
+**Ulus devlet zihniyetinden kurtuluş için reçeteniz nedir?**
+Biz doktor değiliz. Reçeteyi toplumla beraber bulacağız. Bir kere AKP’nin üç dönemdir izlediği politikalarla bazı adımlar atmış olsa da, esasen ulus devlet zihniyetinin dışına çıkmadığı ve benzeri uygulamaları sürdürdüğü görülüyor. Ulus devlet anlayışı 19. yüzyılın anlayışı olup ve genel olarak dönemi geçmiş gibi görünmesine karşın, henüz bu devlet tipinin sonunu geldiğini söylemek için erkendir. Ancak, çağımızda kimliklerin, kültürlerin, inançların ve etnisitelerin baskılardan ve bağımlılık ilişkilerinden kurtulduğu ve özgürleştiği bir döneminde başladığı ve geliştiği aşikar. Bunları görmezden gelmek, çıkış yolu değildir. 
+
+**Azınlıklar ne bekliyor?**
+
+Eşit ve özgür vatandaş olmanın karşılığını bekliyorlar. Bu nedenle “ev sahipliği”, “asli unsur olma”, “hepimiz Müslümanız”, “bu memleketin % 99,9’u Müslümandır”, “Türklük üst kimliktir, biz herkesin alt kimliğine saygılıyız” türünden tek tipleştirici söylemleri hemen terk etmek gerekir. Azınlıkların inkâr edilen bütün hakları yasal olarak kabul edilmelidir. Ademi merkeziyetçilik bu alanlarda, her düzeyde ve demokratik katılım süreçlerinin her aşamasında kullanılabilmelidir. Özcü yaklaşımlardan, cemaatçi anlayışlardan uzak durarak, birey ve bireysel haklar teminat altına alınmalıdır. Azınlık hakları her şeyden önce insan ve vatandaşlık haklarıdır. Bireyleri toplumsal ve yasal olarak özgürleşmiş etnik, inançsal ve cinsel grupların barış ve dayanışma içinde bir arada yaşayabilen bir siyasal sistemin gerçekleşmesi Yeşiller ve Sol Gelecek’in hedefidir. Çünkü biz, azınlıkları mutsuz olan bir ülkede çoğunlukların da mutlu olamayacağını biliyoruz. 

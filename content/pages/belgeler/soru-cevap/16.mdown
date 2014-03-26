@@ -1,0 +1,87 @@
+Title: Soru ve Cevaplarla YSGP
+Link text: Soru ve Cevaplarla YSGP
+Categories: belgeler, soru-cevap
+ContentMenu: [
+  {link: "/belgeler/soru-cevap/index", title: "Önsöz"},
+  {link: "/iletisim", title: "Adres ve İletişim Bilgilerimiz"},
+  {link: "/yapilar/pm", title: "Parti Meclisi Üyelerimiz"},
+  {link: "/belgeler/soru-cevap/sunus", title: "Sunuş"},
+  {link: "/belgeler/soru-cevap/biz-kimiz", title: "Biz Kimiz?"},
+  {link: "/belgeler/soru-cevap/nasil-bir-parti", title: "Nasil Bir Partiyiz?"},
+  {link: "/belgeler/soru-cevap/1", title: "Politikalarımız"},
+  {link: "/belgeler/soru-cevap/1", title: "1) Demokrasi ve Özgürlük"},
+  {link: "/belgeler/soru-cevap/2", title: "2) Yaşanılabilir Bir Dünya"},
+  {link: "/belgeler/soru-cevap/3", title: "3) Eşitlik ve Adalet"},
+  {link: "/belgeler/soru-cevap/4", title: "4) Kürt Sorunu ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/5", title: "5) Tarihle Yüzleşme"},
+  {link: "/belgeler/soru-cevap/6", title: "6) Azınlıklar"},
+  {link: "/belgeler/soru-cevap/7", title: "7) İnanç ve Vicdan Özgürlüğü"},
+  {link: "/belgeler/soru-cevap/8", title: "8) Anayasa, Yasalar ve Yargı"},
+  {link: "/belgeler/soru-cevap/9", title: "9) Yerinden Yönetim ve Yerel Özerklik"},
+  {link: "/belgeler/soru-cevap/10", title: "10) Uluslararası Politika"},
+  {link: "/belgeler/soru-cevap/11", title: "11) Cinsiyet Eşitliği"},
+  {link: "/belgeler/soru-cevap/12", title: "12) LGBTİ"},
+  {link: "/belgeler/soru-cevap/13", title: "13) İklim Değişikliği"},
+  {link: "/belgeler/soru-cevap/14", title: "14) Enerji Sorunu"},
+  {link: "/belgeler/soru-cevap/15", title: "15) Kent Politikaları"},
+  {link: "/belgeler/soru-cevap/16", title: "16) Tarım, Gıda ve su Politikaları"},
+  {link: "/belgeler/soru-cevap/17", title: "17) Doğanın Korunması ve Ekoloji"},
+  {link: "/belgeler/soru-cevap/18", title: "18) Kırsal Yaşam"},
+  {link: "/belgeler/soru-cevap/19", title: "19) Ekonomi"},
+  {link: "/belgeler/soru-cevap/20", title: "20) Emek, Hakları ve Örgütlenmesi
+"},
+  {link: "/belgeler/soru-cevap/21", title: "21) Sosyal Politikalar"},
+  {link: "/belgeler/soru-cevap/22", title: "22) Gençlik"},
+  {link: "/belgeler/soru-cevap/23", title: "23) Çocuklar, Hakları ve Gelecekleri"},
+  {link: "/belgeler/soru-cevap/24", title: "24) Engelliler, Sorunları ve Hakları"},
+  {link: "/belgeler/soru-cevap/25", title: "25) Emekliler, Yaşlılar ve Hakları"},
+  {link: "/belgeler/soru-cevap/26", title: "26) Hayvan Hakları ve Toplumsal Sorumluluk"},
+  {link: "/belgeler/soru-cevap/27", title: "27) Eğitim, Sorunlar ve Öneriler"},
+  {link: "/belgeler/soru-cevap/28", title: "28) Sağlık, Sorunlar ve Çözümler"},
+  {link: "/belgeler/soru-cevap/29", title: "29) Kültür, Sanat, İktidar ve Toplum"},
+  {link: "/belgeler/soru-cevap/30", title: "30) Korsan Politikaları"},
+  {link: "/belgeler/soru-cevap/31", title: "31) Hangi Turizm?"},
+  {link: "/belgeler/soru-cevap/32", title: "32) Spor ve Toplum"},
+  {link: "/belgeler/soru-cevap/33", title: "33) Göçmenler, Sorunları ve Çözüm Yolları"},
+  {link: "/belgeler/soru-cevap/bir-onerimiz-var", title: "Bir Önerimiz Var"},
+  ]
+
+
+##**16) TARIM, GIDA VE SU POLİTİKALARI**
+
+**Dünyada açlık ve yoksulluk artışı ile gıda krizi baş başa mı gidiyor?**
+
+Evet, üçü bir arada yaşanıyor. Bu durumun temel sebebi adil olmayan dünya ekonomik sistemi ve mevcut kaynakların küresel ve toplumsal ölçekte eşit dağıtılmamasıdır. Gıda paylaşımında dünya çapında adaletsizlik hâkim. Ancak, yaşanan gıda krizinin tek nedeni bu değil. Araştırma sonuçları üretimin yetersizliğini değil, ama adil olmayan dağılım, yerel üretim zayıflığı, israf gibi nedenlerin de krizi besleyen diğer etkenler olduğunu gösteriyor. Yani, nedenlerin başında doğa yasalarına aykırı üretim ve hastalıklı tüketim toplumunun fakirleştirici alışkanlıkları geliyor. Dünyada obezlerin sayısı açlık çekenlerin sayısını geçti. Böyle sürdürülemez.
+
+**Endüstriyel tarım ve hayvancılık şimdi sorun mu oldu?**
+ 
+Bu konuda önemli bilimsel tespitler var. Endüstriyel bitkisel ve hayvansal üretimin iklim değişikliğine yol açtığı, toprakları verimsizleştirdiği ve ormansızlaşmaya yol açtığı görülüyor. Doğal yaşam alanları tahrip oluyor, zararlı kimyasallar ve GDO’lar insan sağlığı üzerinde tehdit oluşturuyor. Bu tarım ve hayvancılığın yerine daha az enerji kullanan, sera gazı salımına yol açmayan, besin kaynaklarının her birini kendi başına ele alan, bölgelere özgü gıda üretme, türetme ve tüketme anlayışını hâkim kılan politikalara yönelmek gerekiyor. Ayrıca, ekolojik ve yerel üretim biçimlerine, geleneksel/atalık tohumlara, doğal su yollarına tarımda yer veren tercihler öne çıkarılmalı. Küçük çiftçilik esas model alınmalı ve aile tarım birimleri geleceğin gıda üretiminin biçimi olarak görülmeli. Ancak bu şekilde gıda tekellerinin değil, bizzat gıdanın kendisinin egemenliği sağlanabilir.
+
+**Tarım toprakları daralıyor mu?**
+
+Birçok ülkede tarım toprakları başka amaçlar için kullanılıyor. Sanayi, otoyollar, kentsel alanların oluşumu ve biyoyakıt üretimi bunun önde gelen nedenleri. Halbuki gıda krizine karşı öncelik o topraklarda gıda üretimi yapılmasıdır. Bu çerçevede sosyal, ekolojik ve ekonomik dengeler gözetilmeli. Atılacak her adımda hem gelecek nesiller, hem de dünyayı bizimle paylaşan tüm canlılar hesaba katılmalı. Dünyada ekolojik tarımı savunan bazı grup ve kişiler çok küçük alanlarda oldukça fazla kişiyi besleyebilecek üretimler yapıyor ve ihtiyaçtan çok daha fazla tarım alanı olduğunu söylüyorlar. Ancak, sermaye güdümünde yürütülen tarımsal faaliyetler bunların yeterli faydayı sağlamasını önlüyor.
+
+**Gıda hakkı ve tüketim toplumu ilişkisi nedir?**
+
+Gıda hakkı tüm canlıların en temel haklarındandır. Her bireyin ve canlının yeterli ve sağlıklı gıdaya ulaşma hakkı vardır ve bu arz-talep ilişkisine, piyasa şartlarına teslim edilmemelidir. Toplum bunu sağlayacak örgütlenmeyi gerçekleştirebilir. Bu bakımdan gıda üretiminde tüm toplumun bir yerden katılımı sağlanmalı. Kentlerde yaşıyor olmak insanları bilinçsiz bir tüketici ve tüketim ideolojisinin tahakkümüne teslim olmuş bireyler haline getirmemeli. İnsanlarla gıda arasındaki organik ilişki yeniden, etik ve ekolojik değerlere göre kurulmalı. Ekonomik gereklilikler bahanesiyle bu bağın koparılmasına izin verilmemeli. Tohumlar büyük şirketlerin mülkiyetinde olacak şekilde patentlenememeli ve küresel gıda şirketlerinin müdahalesiyle ortaya çıkan GDO’ya ve tohum tekellerine karşı yeryüzü ölçeğinde mücadele sürdürülmeli. Bunun için yerel üretim ve tüketimin desteklenmesi, yerli tohumların yaygınlaştırılması gerekiyor.
+
+**Yediğimiz gıdalar sağlıklı mı?**
+
+Sorun yalnızca gıdaya ulaşmak değil, aynı zamanda temiz, adil ve sağlıklı gıdayı bulabilmek. Tarım ilaçları ve kimyasal gübreler ürünleri kirletiyor. Genetiği değişmiş gıdalar geleceğimizi ve gelecek nesilleri tehdit ediyor. Tüketimi özendiren kâr odaklı gıda üretimi dizginlenemiyor. Kentlerde milyonlar sağlıksız gıdaları tüketiyor. Bu hem bir yaşam biçimi, hem de zorunluluk haline geldi. Bunun önüne geçilmesi lazım. Hastalıklara ve farklı hava şartlarına dayanaklı hale gelmiş, kimyasal gübre ve ilaçlara ihtiyaç duymayan yerel tohumlarla üretim yapılması gerekiyor. Şirketlerin bu alana çeşitli yollarla müdahale etmelerinin önüne geçilmelidir. Bunun için yerel inisiyatifler ve kooperatifler kurulabilir, yasal düzenlemeler için mücadele edilebilir, birlikler, sendikalar, tüketici ve üretici örgütleri kurulabilir. Böylece hem doğanın, hem de toplumun korunması ve sağlıklı gelişimi sağlanabilir. Ayrıca böyle bir adım sağlık giderlerinin daha da azalmasına hizmet eder.
+
+**Artan nüfusu doyurmanın yolu endüstriyel tarım değil mi?**
+ 
+Endüstriyel tarım doğası gereği kırlardaki emek gücünün büyük bölümünü işsizlik ve çaresizlik nedeniyle kente göçmeye zorluyor. Ama bu yoğun göç artık kentlerin kaldıracağı ölçüleri çoktan aştı. Kente gelen bu üreticiler de bağımlı tüketiciye dönüştüler. Oluşan ağır ekonomik, sosyal ve ekolojik baskıyı kentlerin taşıması mümkün görünmüyor. Büyük ölçekli ve endüstriyel entegre tarımsal modeller aşırı enerji tüketimi bakımından da uygun değil. İklim değişikliğini besleyen nedenler arasında yer alıyor. Küresel iklim değişikliği ve meydana gelen küresel ısınma, tarımsal üretimde daha fazla insan gücüne ihtiyaç doğmasına neden olacak. Bu nedenle mevcut kırsal nüfusu bölgelerinde korumak ve sürdürülebilir üretim yapmalarını sağlamak çok önemli. Hatta kentten kıra dönüş için teşvikler uygulanmalı. 
+
+**Korunması gereken sadece tarım toprakları mı?**
+
+Tarım topraklarını korumak yetmez. Sulak alanlar, ormanlar, yerüstü ve yeraltı suları, denizler gıda üretiminde katkısı olan ve olmayan canlı ve bitkilerin yaşamı için büyük bir öneme sahip. Onların yaşam hakkı da tartışmasız korunmalıdır. İnsanların faaliyeti bunların hayat alanlarını daraltmamalı ve yok etmemelidir.
+
+**Su ile gıdanın ilişkisi nedir?**
+
+Su kaynaklarının % 70’i tarımsal üretimde kullanılıyor. Bu bakımdan gıda üretiminin en temel girdisi su. İnsanlar için hayati bir öneme sahip. Gelecek kuşaklar için de korunması gerektiği çok açık. Ama yalnız insanlar açısından değil, bütün canlılar için vazgeçilmez bir hak. Bu nedenle su konusunda titiz ve sürekliliği olan tedbirler alınması gerekiyor. Tarımda su kullanılırken doğal döngüsü bozulmamalı, kimyasal gübre ve ilaçlarla kirletilmemeli. Öncelik, su bölgesindeki yerel toplulukların kullanımına verilmeli. 
+Suya erişim hakkı konusunda ne düşünüyorsunuz?
+Suya engelsiz ve bedelsiz erişim herkes için bir haktır ve bunun eşit olması ve yasal garanti altına alınması gerekiyor. Su bir ticari meta olmamalı. Suyun kullanımı üzerinde yerel topluluklar söz sahibi olmalı. Küresel ısınma ve iklim değişikliği nedeniyle her geçen gün önemi artan su, yaşam hakkından ayrı düşünülemez. Suya ulaşımı engelleyecek, onu kapitalist piyasanın hükümlerine tabi kılacak ve meta haline getirecek uygulama ve dayatmalar bu temel hakkın ihlalidir.
+
+
+
