@@ -3,7 +3,7 @@ YSGP websitesi
 
 ## Yayın
 
-[![Build Status](https://snap-ci.com/Zk9sqfhIOYgptruJSit-4N0Z1qZW-311A3GlnEBooEQ/build_image)](https://snap-ci.com/projects/ysgp/website/build_history)
+[![Build Status](https://snap-ci.com/projects/ysgp/website/build_image)](https://snap-ci.com/projects/ysgp/website/build_history)
 
 ## Gereksinimler
 
