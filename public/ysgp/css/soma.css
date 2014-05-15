@@ -4,6 +4,7 @@ body {
   text-align:center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
+  font-color: #fff;
 
   leftmargin="0"
   topmargin="45"
@@ -12,13 +13,13 @@ body {
   marginwidth="0"
   marginheight="45"
 }
+
 #txt {
-  color: #FF0000;
+  color: #fff;
   text-decoration:none;
   padding:10px;
 }
 #txt:hover {
-  background:#c00;
-  color:#fff;
+  color:#dedede;
 }
 sub{ clear:both; font-size:8px; }
