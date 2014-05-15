@@ -43,6 +43,12 @@ module Nesta
       slim :message_sent
     end
 
+    get '/' do
+      pass if request.referrer.to_s.include?(request.host)
+      redirect '/soma'
+    end
+
+
     get '*' do
       set_common_variables
       parts = params[:splat].map { |p| p.sub(/\/$/, '') }
@@ -63,7 +69,6 @@ module Nesta
       slim(:error)
     end unless Nesta::App.development?
   end
-
 
   module Overrides
     module Renderers
