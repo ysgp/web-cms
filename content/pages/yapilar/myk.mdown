@@ -10,7 +10,6 @@ Categories: yapilar
  AHMET ATIL AŞICI         | MYK |                     |
  ATİLLA AYTEMUR           | MYK |                     |
  AYLA ŞEŞAN               | MYK | @AylaSesan          |
- AYŞE ERDEM               | MYK | @ayseerdembodrum    |
  CİHAN ERDAL              | MYK | @_cihanerdal        |
  CİHAT DEMİRTAŞ           | MYK | @_cdemirtas         |
  DENİZ ÖZKOR              | MYK |                     |
@@ -19,12 +18,11 @@ Categories: yapilar
  İBRAHİM AKIN             | MYK | @ibrahimAkn35       |
  İKBAL POLAT              | MYK | @polatikal          |
  KEMAL TUNCAELLİ          | MYK |                     |
- MAHMUT ŞEVKET BOYNUDELİK | MYK | @mboynudelik        |
+ MAHMUT BOYNUDELİK        | MYK | @mboynudelik        |
  MÜGE KARALOM             | MYK | @MugeKaralom        |
  NACİ SÖNMEZ              | MYK | @sonmeznaci         |
  NESRİN ASLAN             | MYK |                     |
  SENNUR BAYBUĞA           | MYK | @sennurbaybua       |
- SERKAN ZİHLİ             | MYK | @serkanzihli        |
  SEVİL TURAN              | MYK | @sevilturan_        |
  YASEMİN GÜNEY AĞIRDIR    | MYK | @yasemin_agirdir    |
  ALAADDİN DİNÇER          | MYK |                     |
