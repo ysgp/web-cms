@@ -24,7 +24,6 @@ Ayşe Akdeniz              | K - G
 Ayşe Erdem                | K
 Ayşe Öktem                | K
 Bahar Topçu               | K - G
-Bercan Aktaş              | G
 Celal Ay                  |
 Celal Deniz               |
 Ceyda Can                 |
@@ -64,7 +63,6 @@ Mehmet Nazım Öztürk       |
 Murat Paker               |
 Murat Özbank              |
 Müge Karalom              | K
-Nadire Gül                | K
 Necla Türemen             | K
 Neriman Birgül Hakan      | K
 Nesrin Arslan             | K
@@ -72,7 +70,6 @@ Nil Mutluer               | K
 Pelin Cengiz              | K
 Recep Demirci             |
 Sennur Baybuğa            | K
-Serkan Zihli              | L
 Sevay Açıcı               | K
 Simin Gürdal              | K
 Sinan Tutal               | 
@@ -110,7 +107,7 @@ Sami Evren                |
 Saruhan Oluç              |
 Sultan Özcan              | K
 Türkan Okyaz              | K
-Vezzan Karabulut          | K
+Vezan Karabulut          | K
 Zeynel Özgün              |
 
 
@@ -132,7 +129,6 @@ Nevin Aytekin             | K
 Onur Özgür Eser           |
 Osman Doğan               |
 Ozan Hasret İş            | G
-Vahit Koray Kozacıoğlu    | G
 
 KOTALAR
 Kadın: K
