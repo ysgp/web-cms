@@ -28,7 +28,7 @@ Celal Ay                  |
 Celal Deniz               |
 Ceyda Can                 |
 Cihan Erdal               | G - L
-Cihat Demirtaş            | G
+Cihat Demirtaş            |
 Çağdaş Küpeli             |
 Deniz Özkor               | K - G
 Derya Nazan Ünverir       | G
@@ -107,7 +107,7 @@ Sami Evren                |
 Saruhan Oluç              |
 Sultan Özcan              | K
 Türkan Okyaz              | K
-Vezan Karabulut          | K
+Vezan Karabulut           | K
 Zeynel Özgün              |
 
 
