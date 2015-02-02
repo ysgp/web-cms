@@ -1,9 +1,6 @@
-Layout: :modal-form
+Layout: :modal-form2
 Template: 'forms/mobil-aidat'
-Title: Mobil Aidat Kayıt Formu
+Title: Mobil Aidat
 
-** Aşağıdaki formu doldurarak aidatınızı cep telefonunuzdan ödeyebilirsiniz. **
 
-* Bu form ile sadece sizlere ulaşmamızı sağlayacak iletişim bilgilerini toplamayı amaçlamaktayız.
-* Bu form aracılığıyla topladığımız verileri kimseyle paylaşmayacağımıza ve hiç bir ticari amaçla kullanmayacağımıza söz veririz.
-* Eğer bu formu doldurmak istemiyorsanız size en yakındaki temsilcimize iletişim sayfamızdaki haritadan ulaşabilirsiniz.
+![mobil aidat](https://lh3.googleusercontent.com/-vct-sKrHtTU/VM8zuWhDD6I/AAAAAAAACWs/MkoV04X_Yhs/w1177-h833-no/MOBIL.jpg)
