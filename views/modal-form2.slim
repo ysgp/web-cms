@@ -1,0 +1,10 @@
+form.form-horizontal method="POST" role="form" tabindex="-1" action="#{request.path}"
+  .modal-dialog.modal-lg
+    .modal-content
+      .modal-header
+        button.close type="button" data-dismiss="modal" aria-hidden="true" &times;
+        h4.modal-title = @page.metadata('Title')
+      .modal-body
+        == yield
+
+
